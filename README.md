@@ -35,21 +35,23 @@
 
 ## Video Trailers
 
+*Animated from custom book covers using AI image-to-video*
+
 <div align="center">
 
 **Trilogy Hero**
 
-https://github.com/user-attachments/assets/placeholder-video
+https://github.com/Sheshiyer/somatic-canticles-v3-book-trilogy/raw/main/ASSETS/trilogy-hero--video.mp4
 
 </div>
 
 | Book | Trailer |
 |:----:|---------|
-| **Book I: The Anamnesis Engine** | https://github.com/user-attachments/assets/placeholder-video |
-| **Book II: The Myocardial Chorus** | https://github.com/user-attachments/assets/placeholder-video |
-| **Book III: The Ripening** | https://github.com/user-attachments/assets/placeholder-video |
+| **Book I: The Anamnesis Engine** | https://github.com/Sheshiyer/somatic-canticles-v3-book-trilogy/raw/main/ASSETS/book1-anamnesis--video.mp4 |
+| **Book II: The Myocardial Chorus** | https://github.com/Sheshiyer/somatic-canticles-v3-book-trilogy/raw/main/ASSETS/book2-myocardial--video.mp4 |
+| **Book III: The Ripening** | https://github.com/Sheshiyer/somatic-canticles-v3-book-trilogy/raw/main/ASSETS/book3-ripening--video.mp4 |
 
-*Videos available in [ASSETS](./ASSETS/) directory.*
+*Videos also available in [ASSETS](./ASSETS/) directory.*
 
 ---
 
