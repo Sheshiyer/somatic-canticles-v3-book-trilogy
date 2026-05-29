@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Trilogy Series Cover -->
-<img src="ASSETS/trilogy-cover.png" alt="Somatic Canticles Trilogy" width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);" />
+# SOMATIC CANTICLES
+*A Trilogy in Three Movements*
 
 </div>
 
@@ -66,11 +66,6 @@ This trilogy moves through three linked burdens:
 
 ```
 Somatic-Canticles-v2/
-├── ASSETS/                    # Book covers (all formats: iPhone, iPad, Mac, Watch)
-│   ├── book1-anamnesis--*.png
-│   ├── book2-myocardial--*.png
-│   ├── book3-ripening--*.png
-│   └── series-somatic-canticles--*.png
 ├── FRONTMATTER/
 │   ├── Frontmatter.md
 │   └── Preface.md           # "A Reader's Note"
