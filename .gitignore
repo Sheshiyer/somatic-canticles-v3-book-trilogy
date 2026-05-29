@@ -1,0 +1,8 @@
+# Large media assets - managed externally
+ASSETS/*.png
+ASSETS/*.mp4
+ASSETS/*.mov
+
+# Keep these small assets
+!ASSETS/trilogy-cover.png
+!ASSETS/trilogy-intro.mp4

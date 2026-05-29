@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,6,11&height=200&text=Somatic%20Canticles&fontSize=50&fontAlignY=35&desc=What%20if%20the%20body%20was%20the%20last%20frontier%E2%80%94and%20freedom%20was%20learning%20to%20author%20it?&descAlignY=55&fontColor=ffffff" width="100%" />
+<!-- Trilogy Series Cover -->
+<img src="ASSETS/series-somatic-canticles--typo-mask--macos.png" alt="Somatic Canticles Trilogy" width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);" />
 
 </div>
 
@@ -33,6 +34,42 @@
 
 ---
 
+## Book Covers
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**Book I: The Anamnesis Engine**
+
+<img src="ASSETS/book1-anamnesis--typo-mask--macos.png" alt="Book 1 Cover" width="100%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="33%" align="center">
+
+**Book II: The Myocardial Chorus**
+
+<img src="ASSETS/book2-myocardial--typo-mask--macos.png" alt="Book 2 Cover" width="100%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="33%" align="center">
+
+**Book III: The Ripening**
+
+<img src="ASSETS/book3-ripening--typo-mask--macos.png" alt="Book 3 Cover" width="100%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+*Also available in iPhone, iPad, and Watch formats in the [ASSETS](./ASSETS/) directory.*
+
+---
+
 ## The World
 
 In the year 2026, humanity has mapped the final frontier—the human body itself. Thirteen systems. Thirteen engines. Thirteen keys to a consciousness that was never meant to be unlocked.
@@ -61,6 +98,11 @@ This trilogy moves through three linked burdens:
 
 ```
 Somatic-Canticles-v2/
+├── ASSETS/                    # Book covers (all formats: iPhone, iPad, Mac, Watch)
+│   ├── book1-anamnesis--*.png
+│   ├── book2-myocardial--*.png
+│   ├── book3-ripening--*.png
+│   └── series-somatic-canticles--*.png
 ├── FRONTMATTER/
 │   ├── Frontmatter.md
 │   └── Preface.md           # "A Reader's Note"
