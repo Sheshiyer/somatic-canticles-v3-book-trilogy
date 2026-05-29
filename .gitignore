@@ -1,8 +1,8 @@
-# Large media assets - managed externally
+# Large media assets - managed via Git LFS or external storage
 ASSETS/*.png
 ASSETS/*.mp4
 ASSETS/*.mov
 
-# Keep these small assets
+# Keep these small assets in git
 !ASSETS/trilogy-cover.png
 !ASSETS/trilogy-intro.mp4
