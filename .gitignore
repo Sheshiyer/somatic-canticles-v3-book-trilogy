@@ -1,8 +1,3 @@
-# Large media assets - managed externally, EXCEPT AI-generated assets
-ASSETS/*.png
-ASSETS/*.mp4
-ASSETS/*.mov
-
-# Re-include AI-generated assets
-!ASSETS/trilogy-cover.png
-!ASSETS/trilogy-intro.mp4
+# Large media assets - managed externally, EXCEPT custom book covers
+ASSETS/trilogy-cover.png
+ASSETS/trilogy-intro.mp4
