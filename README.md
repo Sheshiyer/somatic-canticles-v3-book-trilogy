@@ -33,6 +33,26 @@
 
 ---
 
+## Video Trailers
+
+<div align="center">
+
+**Trilogy Hero**
+
+https://github.com/user-attachments/assets/placeholder-video
+
+</div>
+
+| Book | Trailer |
+|:----:|---------|
+| **Book I: The Anamnesis Engine** | https://github.com/user-attachments/assets/placeholder-video |
+| **Book II: The Myocardial Chorus** | https://github.com/user-attachments/assets/placeholder-video |
+| **Book III: The Ripening** | https://github.com/user-attachments/assets/placeholder-video |
+
+*Videos available in [ASSETS](./ASSETS/) directory.*
+
+---
+
 ## Book Covers
 
 <div align="center">
