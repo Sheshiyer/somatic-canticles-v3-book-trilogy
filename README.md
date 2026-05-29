@@ -1,7 +1,6 @@
 <div align="center">
 
-# SOMATIC CANTICLES
-*A Trilogy in Three Movements*
+<img src="ASSETS/series-somatic-canticles--typo-mask--macos.png" alt="Somatic Canticles Trilogy" width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);" />
 
 </div>
 
@@ -36,7 +35,39 @@
 
 ## Book Covers
 
-*Full asset library (700MB) with covers for all formats coming soon.*
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**Book I: The Anamnesis Engine**
+
+<img src="ASSETS/book1-anamnesis--typo-mask--macos.png" alt="Book 1 Cover" width="100%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="33%" align="center">
+
+**Book II: The Myocardial Chorus**
+
+<img src="ASSETS/book2-myocardial--typo-mask--macos.png" alt="Book 2 Cover" width="100%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="33%" align="center">
+
+**Book III: The Ripening**
+
+<img src="ASSETS/book3-ripening--typo-mask--macos.png" alt="Book 3 Cover" width="100%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+*Also available in iPhone, iPad, and Watch formats in the [ASSETS](./ASSETS/) directory.*
+
+---
 
 ## The World
 
@@ -66,6 +97,7 @@ This trilogy moves through three linked burdens:
 
 ```
 Somatic-Canticles-v2/
+├── ASSETS/                    # Book covers (all formats: iPhone, iPad, Mac, Watch)
 ├── FRONTMATTER/
 │   ├── Frontmatter.md
 │   └── Preface.md           # "A Reader's Note"
