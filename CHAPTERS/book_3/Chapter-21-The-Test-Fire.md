@@ -1248,10 +1248,12 @@ The moment stretched, each second a thin thread of anticipation. The pressure at
 
 At the same time, Gideon felt a subtle shift in the surrounding currents, a soft shudder that rippled through the floor panels. He released a micro‑pulse, a gentle wave that met the incoming surge and diffused it just enough to keep the field from snapping. The result was a faint, synthetic chime—a sound that marked the exact moment the test window held for a single heartbeat.
 
-The chamber fell into an abrupt quiet, the hum dropping to a lower, steadier tone. The metallic taste lingered, a reminder that the pressure had brushed close to the edge of collapse but had not breached it. Sona’s violet dimmed to a soft ember, her shoulders relaxing as if she had steadied a frightened child’s pulse with a single, steady press.
+The chamber fell into an abrupt quiet. The hum dropped to a lower, steadier tone. The metallic taste stayed on Corv’s tongue; he swallowed once and it did not leave.
 
-Jian let out a short, humor‑laden bark, “Well, that’s one way to get a taste of the unknown without swallowing it whole.” The comment cut through the lingering tension, drawing a faint smile from Gideon, who allowed himself a brief nod of approval.
+Sona’s violet dimmed to a soft ember. Her shoulders stayed tight for another breath, then loosened only when she felt the thread’s recoil had truly stopped.
 
-Corv felt the pressure at the base of his throat ease, the choking sensation receding like a tide pulling back from the shore. He swallowed, the metallic after‑taste still clinging to his mouth, and let a quiet laugh escape, half relief, half disbelief at how close they had come to the brink. The team stood together in the sudden stillness, each aware that the test had proven the field could endure a single pulse, but also that the next surge would demand even tighter coordination.
+Gideon kept his grip on the edge‑stabilizer until the alloy plates under his palm had warmed from the contact. He did not release it until the faint line of sweat on his temple had cooled.
 
-It was also not nearly enough.
+Jian looked at the read‑outs. The single pulse had been recorded. The numbers were no longer jittering, but they were not clean either. One small anomaly remained at the edge of the window.
+
+Corv wiped his mouth with the back of his glove. The taste was still there. He said nothing about the next surge. The team stood in the same positions they had taken when the test began. The field had held for one second. The containment had not collapsed. The after‑taste remained.

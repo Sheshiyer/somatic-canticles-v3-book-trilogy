@@ -1367,5 +1367,12 @@ The silence that followed wasn’t empty. It was full of the unspoken agreement 
 
 The red glow of the warning flickered once, then steadied, no longer a threat but a record. The amber light in the room deepened, casting long, sharp shadows that stretched toward the center of the floor, where the four of them stood, holding the shape of the wound without trying to close it. The air was still, heavy with the scent of ozone and the faint, metallic taste of a decision made in the dark.
 
-They had made the convergence point real.  
-Now they would have to discover whether reality would let it stay that way.
+Corv let the thread slip from his grip. The phantom heat on his thumb remained for a few seconds after the fiber was gone. He rubbed the pad against his palm once; the heat did not return.
+
+Sona kept the sphere in her hand. It still expanded and contracted with the erratic thud of her own heart. She did not try to slow it.
+
+Gideon measured the millimeter of displacement between his shadow and the console shadow. The light bent around both. He left the error where it was.
+
+Jian kept the jagged negative vertex on the holo-grid. He did not push the data to smooth the slope. The cut stayed visible on the display.
+
+The red glow of the warning continued to pulse against the gray wall. The report could wait. The sphere in Sona’s palm continued to breathe. The four of them stood in the same places, holding the edges of the moment the system could not quantify. The convergence point remained open in the room. No one moved to close it yet.

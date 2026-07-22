@@ -282,9 +282,7 @@ Sona laid two fingers on the cracked spine, pressure just shy of restraint. “C
 
 The passage lights flickered once, a deliberate shrug. Gideon paused, then slid the journal back in. “Abstention noted.”
 
-They walked three more paces before the pressure valve ticked. A bead of coolant hissed from Jian’s lattice cuff, spiralled upward, clung to the ceiling like a miniature moon. It hung for a heartbeat, then burst with the soft pop of distant applause. Sona laughed again—clearer this time, surprised at her own body for remembering how. “System relief. The bearing’s no longer pressurised in silicon; it’s equalising through us.”
-
-“Biology wins the staring contest,” Gideon said. “Always does.”
+A bead of coolant hissed from Jian’s lattice cuff, spiralled upward, clung to the ceiling like a miniature moon. It hung for a heartbeat, then burst with the soft pop of distant applause. Sona laughed again—clearer this time, surprised at her own body for remembering how.
 
 Ahead, the fork waited: two mouths breathing different centuries. From the right drifted diesel and warm night, the smell of cities that refuse to sleep. From the left exhaled something colder, mineral, like the inside of a glacier that has never met a calendar. Sona inhaled both drafts, one nostril each, exhaled through her teeth to mix them. The gesture looked casual, but Jian recognised the tempo—old field habit, breath as ballot box.
 
@@ -447,10 +445,6 @@ They stand in a loose ring, four bodies adjusting to the same tempo as the passa
 
 The quip is automatic, brittle, the kind of humour meant to hold the moment together until something stronger sets. Jian counts thirteen steps before the pressure valve ticks. A bead of coolant hisses from his lattice cuff, spirals upward, clings to the ceiling like a miniature moon. It hangs for a heartbeat, then bursts—soft pop of distant applause.
 
-“System relief,” Sona says. “The bearing’s no longer pressurised in silicon; it’s equalising through us.”
-
-“Biology wins the staring contest,” Gideon mutters. “Always does.”
-
 Ahead, the passage forks. From the left mouth comes the cold exhalation of a glacier that has never met a calendar. From the right drifts the warmer breath of diesel and wet asphalt, the smell of cities that keep their lights on so the night never has to admit it’s afraid. Sona inhales both drafts, one nostril each, exhales through her teeth to mix them. Memory already cast the vote. Consensus is just choreography.
 
 Jian adjusts the bearing by the same 0.3 degrees, feels the change register as a soft unlocking between shoulder blades. The route holds—no longer a command, simply an address that hasn’t yet been delivered. Behind them, the passage exhales a final click—door sealing, history closing its own cover. No one turns. Turning would imply doubt, and doubt has already been metabolised into the trail behind them.
@@ -463,15 +457,7 @@ The glyph was no bigger than a lentil, yet it carried the entire weight of the c
 Jian watched her pocket it not in her coat but in the inner seam of her left sleeve, the place where old bus conductors used to tuck change for luck.  
 He understood: the stone had to travel against skin, not Kevlar, if it was to remember how mercy once sounded through bone.
 
-Corv exhaled through his teeth, the faintest whistle that might have been laughter or relief.  
-“Shared heartbeat,” he said, tapping the pulse on Sona’s wrist with a fingernail of theatre.  
-Both their HRV readouts floated in Jian’s peripheral HUD, a green double helix slowly flattening to rest.  
-The margin had narrowed to two milliseconds—close enough that their autonomic gossip could finish without subtitles.  
-Gideon eased the cracked journal a fraction deeper into his coat lining until the spine sat against the lower rib he’d cracked on Europa Station years ago.  
-Four hundred grams of panic, cured in time—now ballast, not burden.  
-He flexed the Klei root once more, felt it retract like a grey tendon re-winding, and offered the echo of a private grin.  
-“Field’s closed, but the story’s still open,” he said.  
-The passage didn’t answer; it had already surrendered its authority to the four pulses walking through it.
+“Shared heartbeat,” he said, tapping the pulse on Sona’s wrist with a fingernail of theatre. Both their HRV readouts floated in Jian’s peripheral HUD, a green double helix slowly flattening to rest. The margin had narrowed to two milliseconds—close enough that their autonomic gossip could finish without subtitles. Gideon eased the cracked journal a fraction deeper into his coat lining until the spine sat against the lower rib he’d cracked on Europa Station years ago. Four hundred grams of panic, cured in time—now ballast, not burden. He flexed the Klei root once more, felt it retract like a grey tendon re-winding, and offered the echo of a private grin. “Field’s closed, but the story’s still open,” he said. The passage didn’t answer; it had already surrendered its authority to the four pulses walking through it.
 
 Sona tasted the passage’s parting gift on the back of her tongue—cardamom, rust, and something like the moment after a confession footh door has latched.  
 She let the aftertaste bloom, then exhaled it forward, gifting the next lungs a memory of direction without ownership.  
@@ -489,15 +475,7 @@ Corv lifted the journal once, testing its weight as if to ask the dead candidate
 The gesture wasn’t apology; it was translation—grief converted to ink, ink to cargo, cargo to shared lung capacity.  
 Gideon’s hand brushed the worn spine the way a sailor taps a rail, not for luck, but for the small sound of metal on bone that tells you the ship still remembers its own frame.
 
-At the fork, air split into two distinct temperatures.  
-Left: the cold breath of a glacier that had never met a calendar.  
-Right: the warm exhale of diesel and wet asphalt, the scent of cities that keep their lights on so the night never has to admit it’s afraid.  
-Sona inhaled both drafts, one nostril each, exhaled through her teeth to mix them.  
-The gesture held no drama—only the quiet recognition that memory had already cast its vote and consensus was now choreography.  
-Jian adjusted the bearing by the same 0.3 degrees, felt the change register as a soft unlocking between shoulder blades.  
-The route held—no longer a command, simply an address that hadn’t yet been delivered.  
-Behind them, the passage exhaled a final click—door sealing, history closing its own cover.  
-No one turned.
+At the fork, air split into two distinct temperatures. Left: the cold breath of a glacier that had never met a calendar. Right: the warm exhale of diesel and wet asphalt, the scent of cities that keep their lights on so the night never has to admit it’s afraid. The gesture held no drama—only the quiet recognition that memory had already cast its vote and consensus was now choreography. No one turned.
 
 Sona flicked the dead candidate’s chronograph from her wrist, felt the clasp bite skin before she let it drop into Corv’s cupped palm. The watch still ticked, but the data stream had frozen at the instant the Klei lattice ruptured—three missed heartbeats and a spike of cortisol the size of a small panic attack.
 
@@ -724,7 +702,7 @@ The moment the line settled, a low tremor traveled through the stone, reverberat
 
 Corv let out a soft, relieved laugh. “Well, if the stone’s humming, I’ll take a dance. Just promise me we won’t have to bribe it with more nanoflux after this.”
 
-Sona’s grin widened, the edge of mischief sharpening her voice. “Only if you promise to keep the dance floor clean. Otherwise, the stone might start charging rent.” She gave the calibrator a gentle nudge, and its screen glowed with a single, steady line that traced the compass’s new bearing. The passage, which had seemed to choke on its own history, exhaled a single, clean breath, leaving behind only the faint echo of their collective resolve.
+Sona’s grin widened, the edge of mischief sharpening her voice. “Only if you promise to keep the dance floor clean. Otherwise, the stone might start charging rent.” She gave the calibrator a gentle nudge, and its screen glowed with a single, steady line that traced the compass’s new bearing.
 
 The calibrator’s core hummed louder than any of them expected, a thin, metallic thrumming that seemed to tremble through the soles of their feet and into the basalt floor. Sona knelt beside the device, her fingertips hovering just above the glass panel, and pressed a series of glyphs in a rhythm that mirrored the pulse they were hearing. Each press left a faint scar of light that faded as quickly as it appeared, like a firefly’s brief flash caught in a shaft of moonlight.
 
@@ -936,4 +914,4 @@ Jian chuckled, the sound low and responsive, a brief reminder that they were sti
 
 The moment stretched, balanced on the cusp of technical precision and organic trust, before the injector’s valve clicked open, sending the final calibration pulse into the compass’s core. The chamber seemed to hold its breath, then settled into a low, steady hum that responded with the living wall’s pulse. The three strands—circuitry, biology, and the unspoken question of why they were here—aligned, each reinforcing the other in a quiet chorus.
 
-Jian kept the new bearing live in the corner of his field while the Compass Calibration dissolved around them. The route held. That was enough.
+Jian kept the new bearing live in the corner of his field while the Compass Calibration dissolved around them. The injector’s tip was still warm where it had rested against the compass core; a faint smear of the nanofiber mist had dried on the back of his glove. Marin’s cuff continued its small, steady pulse against her wrist. The living wall behind them had stopped rippling. The route held. Jian closed the injector valve with his thumb until it clicked.

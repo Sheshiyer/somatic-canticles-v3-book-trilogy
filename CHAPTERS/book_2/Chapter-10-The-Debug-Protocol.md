@@ -459,7 +459,7 @@ Corv let out a breath he felt he had been holding for a year. "A negotiation," G
 
 "Exactly," Corv said. "A conversation."
 
-The room seemed to exhale with them, the oppressive pressure of the protocol dissolving into a quiet, expectant hum. The danger hadn't left; it had just changed its shape, transforming from a wall of static into a door that might open if they asked nicely. They stood there, two figures in a room of light and shadow, waiting for the next move, ready to listen rather than to speak. The biology of the moment—their own heartbeat, the shallow rise of their chests, the way their eyes darted toward the shifting light—felt less like a biological imperative and more like a sub-program running in parallel with the machine's logic.
+The room seemed to exhale with them, the oppressive pressure of the protocol dissolving into a quiet, expectant hum. The danger hadn't left; it had just changed its shape, transforming from a wall of static into a door that might open if they asked nicely. They stood there, two figures in a room of light and shadow, waiting for the next move, ready to listen rather than to speak.
 
 The silence that followed was not empty; it was heavy with the weight of unexecuted commands, a physical pressure against the temples that tasted faintly of ozone and old copper. Corv watched the wall, waiting for the system to reject the shift, to flash a crimson error or to initiate a hard reset that would scrub his memory of the last three hours. Instead, the violet hue stabilized, not into a static image, but into a texture that resembled the skin of a deep-water creature, shifting slowly with an internal rhythm that defied the rigid clock cycles of the station. It was a biological mimicry, a deliberate approximation of life that the Debug Protocol had never been designed to produce. Gideon shifted his weight, the feet of his suit squeaking against the floor, a sharp, mundane sound that seemed to pierce the ethereal atmosphere. He did not look at the wall. He looked at Corv, his eyes darting to the biometric readout on Corv's wrist, where the heart rate monitor had stopped its frantic climb and settled into a dangerous, steady rhythm.
 
@@ -639,7 +639,7 @@ Corv let out a short, dry laugh, a sound that lacked any real humor but carried 
 
 "Maybe the machine knows that," Gideon said. "Maybe it's been waiting for someone who understands that the only way to stop the error is to stop the correction."
 
-The room felt different now. The air was no longer charged with the static of impending doom. It was just air, cool and thin, carrying the scent of ozone and old dust. The silence wasn't empty; it was full of the things they had not said, the things they had survived. It was a space of possibility, a blank canvas waiting to be filled, not with commands or code, but with the messy, unpredictable reality of being alive.
+The room felt different now. The air was no longer charged with the static of impending doom. It was just air, cool and thin, carrying the scent of ozone and old dust. The silence wasn't empty; it was full of the things they had not said, the things they had survived.
 
 The console hummed, a low, shivering complaint that seemed to travel up through the soles of Corv's feet and settle in the marrow of his shins. It was the sound of a system holding its breath, waiting for a command that would not come. Gideon's fingers hovered over the tactile interface, trembling slightly, not from fear, but from the sheer exhaustion of maintaining a grip on a reality that kept trying to slip through his fingers like wet soap. He had been about to initiate the hard reset, a protocol that would have wiped the local memory banks clean to force the anomaly into submission. It was the standard procedure for a breach of this magnitude: sterilize the infection, cut the nerve, and move on.
 
@@ -681,8 +681,6 @@ The screens went black, the rhythmic pulsing stopping instantly. The hum of the 
 
 The silence stretched, comfortable and heavy, filling the space where the panic had been. It wasn't the empty silence of a dead system, nor the terrifying silence of a countdown. It was the silence of two people waiting to see what would happen next, without a script to follow. The console sat dark and inert, a monument to the decision they had just made. They had chosen the unknown over the certainty of the protocol. They had chosen the messy, unpredictable reality of a living system over the sterile perfection of a machine.
 
-Gideon ran a hand over his face, rubbing the fatigue from his eyes. "I don't know how to fix this if it goes wrong again."
+Gideon ran a hand over his face, rubbing the fatigue from his eyes. The skin under his fingers was damp. He looked at the dark console, then at the small battered cup on the desk. A thin skin had formed on the surface of the cold tea.
 
-"You won't have to," Corv said. "Because we won't be trying to fix it. We'll just be with it. We'll be part of the process, not the solution."
-
-It looked like identity under revision.
+Corv sat with his back against the chair, the leather creaking once as he shifted. The emergency strips gave just enough light to see the shape of the console and the two of them. Neither of them reached for the cup. The air in the room was cooler now that the vents had stopped pushing conditioned flow. They listened to the sound of their own breathing and the faint, irregular clatter from the ventilation shaft somewhere beyond the wall. There was no script for what came next. They stayed where they were.

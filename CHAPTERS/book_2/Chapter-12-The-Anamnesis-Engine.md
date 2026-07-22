@@ -246,6 +246,8 @@ A low whine rose from the Engine, the sound of magnetic fields aligning, and the
 
 Gideon’s chuckle returned, softer now, threaded with a hint of wonder. “So we’re basically babysitting a god with a pacifier.” He glanced at Corv, who gave a tight nod. “Let’s not drop it.”
 
-The hum settled into a steadier cadence, the cascade of light that had once raced like a comet now slowed to a measured glide. The filament of amber that traced the node’s edge seemed to pulse in time with their collective breath, each beat a promise that the mind, though bruised, was still willing to listen.
+The hum settled into a steadier cadence. The filament of amber that traced the node’s edge pulsed once, twice, then held its own rhythm without needing the sine wave to guide it.
 
-The Anamnesis Engine dissolved, leaving one discipline behind: if you wanted to help a life return to coherence, you could not confuse precision with cruelty or renewal with forgetting. You had to hold the baseline long enough for it to hold itself.
+Jian left his fingers on the secondary control. The temperature in the chamber had dropped one degree and stayed there. Sona’s cuff still showed the faint tremor of the Engine’s internal rhythm, but the variance line on the panel had stopped climbing.
+
+They did not step back. The crystal continued its slow, deliberate breathing. The team stayed exactly where they were, watching the baseline hold itself.

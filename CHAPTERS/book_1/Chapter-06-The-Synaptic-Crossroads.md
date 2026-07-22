@@ -583,11 +583,11 @@ Jara placed a hand on the warm stone, feeling the micro‑currents flow beneath 
 
 “We’ve bought ourselves a moment,” she said, the words carrying the weight of the decision they had just made. “Use it. Align, calibrate, and then step forward together. No one moves until the whole system is ready.”
 
-The crew fell into a quiet efficiency, each member fine‑tuning their implants, each breath counted like a metronome. The lattice’s hum settled into a low, comforting tremor that seemed to echo through the very marrow of the stone, reminding them that they were not intruders but participants in an ancient dialogue.
+The crew fell into a quiet efficiency, each member fine‑tuning their implants, each breath counted like a metronome. Jara kept her palm flat on the warm stone; the micro‑currents under it had steadied to a low thrum that matched the cadence in her own wrist.
 
-As the last of the residual tremor faded, a thin strand of ash drifted down from the ceiling, settling on the floor like a faint veil of memory. It brushed against Jara’s feet, a tactile reminder of the fires that had once forged this place. She inhaled, the scent of ash mingling with the sterile ozone of the implants, a paradox of old and new that defined every step they took.
+As the last of the residual tremor faded, a thin strand of ash drifted down from the ceiling and settled on the floor. It brushed the top of Jara’s boot, a dry, weightless thing that left a pale smear when she shifted her weight. She inhaled; the scent of ash cut through the sterile ozone still clinging to the implants. Kade’s exo‑frame servos gave one last soft hiss as they settled. Amri’s gauntlet display had stopped blinking.
 
-In that suspended breath, the team felt the lattice’s invitation—a quiet, patient promise that the path ahead was theirs to claim, provided they moved as one, respecting the rhythm that had survived millennia. The moment stretched, a delicate balance of anticipation and restraint, before the arch finally gave way to their collective will.
+The arch was open. They moved through it one at a time, boots disturbing the thin layer of ash on the threshold. No one spoke until the last of them had crossed.
 
 The pulse from Jara’s neural link spikes in short, bright bursts, each one a data packet that rides the thin thread of the lattice and returns as a tactile throb at the base of her skull. She watches the readouts on the palm‑sized holo‑tablet blinking in her left hand, the green bars climbing and falling in a rhythm that matches her breathing. “Signal integrity at ninety‑seven percent,” she says, her voice low enough that the echo of the cavern does not carry it farther than the team’s immediate circle. “We’re still in the sweet spot; any drift beyond three centimeters and the feedback loop will destabilize.”
 
@@ -643,4 +643,4 @@ The whine faded, replaced by a low, responsive thrum that settled into the stone
 
 Amri’s visor flickered, then steadied, the blue overlay smoothing into a steady line. “Synchronization achieved,” he reported, his voice steady. “All channels locked, no drift beyond the safety margin.”
 
-The team fell into a rhythm of quiet efficiency, each movement measured, each breath counted, as the lattice’s residual tremor faded into a gentle, almost comforting hum. The air grew still, the scent of ash lingering just enough to remind them they were still breathing, still alive, and still on the brink of stepping through the final threshold.
+The team fell into a rhythm of quiet efficiency, each movement measured, each breath counted, as the lattice’s residual tremor faded into a gentle, almost comforting hum.

@@ -544,4 +544,12 @@ Jian adjusted his grip on the map, the constellation of Mira’s data shifting u
 
 The three of them moved in a silent choreography, hands brushing the consoles, eyes flicking between readouts, bodies tuned to the minute shifts of the machine’s breath. The Anamnesis Engine’s core thrummed louder, as if aware that the next few seconds would decide whether the lattice would hold or fracture. The air grew denser, each inhalation a conscious act of defiance against the encroaching chaos, and the room settled into a fragile equilibrium, poised on the edge of a breakthrough that was still very much a work in progress.
 
-The Three-Point Problem had stopped being theory.
+The Catalyst Clarity module clicked once under Corv’s hand. The coolant mist from the burst pipe had left a thin film on the console surface. He wiped it with the side of his thumb; the film streaked but did not clear.
+
+Sona’s fingers stayed on the Joy regulator. The bioluminescent threads had settled to a steady low glow that matched the rhythm of her own breathing. The prism spray from the coolant had left tiny colored spots on the floor plates near her boots.
+
+Gideon kept the Coherence glyphs in view. The stray anomaly had nudged one line; it had not snapped back into place. He did not force it.
+
+Jian’s grip on the map interface had left a faint damp print on the edge of the console. The residual echo at node-7 was still visible as a small irregular flicker.
+
+The Anamnesis Engine’s core thrummed. The three vectors held their alignment by the width of the film on Corv’s thumb. No one called it complete. The next adjustment would have to be made with the film still there.

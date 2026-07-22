@@ -10,7 +10,7 @@ But when the protocol fails, when the Wilt begins to spread through the infrastr
 
 They call it the Anamnesis Engine.
 
-To激活 it, they must trace consciousness back through its own evolution: from the choroid plexus that first dreamed of selfhood, through the blood-brain barrier that drew the line between inside and outside, into the myocardial chorus of the heart that beats before the brain wakes.
+To activate it, they must trace consciousness back through its own evolution: from the choroid plexus that first dreamed of selfhood, through the blood-brain barrier that drew the line between inside and outside, into the myocardial chorus of the heart that beats before the brain wakes.
 
 **Somatic Canticles** is a trilogy in three movements:
 - **Book One: The Anamnesis Engine** — The search begins.

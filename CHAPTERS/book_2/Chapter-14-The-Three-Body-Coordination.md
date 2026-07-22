@@ -312,7 +312,7 @@ Sona let out a soft, contented laugh, the sound reverberating off the stone arch
 
 Jian nodded, his visor’s display dimming to a soft amber as the diagnostic cycle completed. “Phase‑lock held for the full window,” he confirmed, “and the thread’s thermal profile is within nominal parameters. No further bleed spikes detected.”
 
-Gideon’s eyes lingered on the steady glow of the field, his mind turning the moment over like a melody he’d heard a thousand times but never quite mastered. He felt the rhythm of their combined effort settle into something almost musical, a beat that responded deeper than any instrument could capture. He let the moment stretch, savoring the quiet before the final crescendo, the chamber’s pulse syncing with theirs, waiting for the next instruction.
+Gideon’s eyes lingered on the steady glow of the field, his mind turning the moment over like a melody he’d heard a thousand times but never quite mastered. He felt the rhythm of their combined effort settle into something almost musical, a beat that responded deeper than any instrument could capture.
 
 The field's response still trembled against their skin, a low hum that seemed to pulse in time with the faint thrum of the chamber’s core. Corv’s trial flickered as the last cascade of data streamed into his neural lattice, a cascade that would have been incomprehensible to anyone outside the Seter line. He glanced at the holo‑display hovering above the central console, where the three‑body lattice now held a perfect tetrahedral symmetry—a geometry that, in theory, should have collapsed under the slightest misalignment.
 
@@ -446,7 +446,7 @@ Gideon, who had been the quiet architect of the whole operation, finally moved f
 
 “Let’s give the field a story it can carry,” he said, his tone half‑joking, half‑serious, the way he always balanced the weight of responsibility with a pinch of levity. “A narrative that isn’t about domination but about partnership. If we can frame it that way, the veil will respond in kind.”
 
-The room seemed to inhale once more, the teal veil brightening just enough to cast a soft glow on their faces. The data streams, which moments before had churned like a storm‑tossed sea, now flowed in smooth, parallel ribbons, each line of code a quiet hymn to the newfound harmony. The pressure that had once pressed against their chests receded, not because the field had softened magically, but because their internal calibration had shifted from frantic correction to graceful adaptation. Their bodies, minds, and the technology they wielded were no longer fighting for dominance; they were learning to listen.
+The room seemed to inhale once more, the teal veil brightening just enough to cast a soft glow on their faces. The data streams, which moments before had churned like a storm‑tossed sea, now flowed in smooth, parallel ribbons, each line of code a quiet hymn to the newfound harmony. The pressure that had once pressed against their chests receded, not because the field had softened magically, but because their internal calibration had shifted from frantic correction to graceful adaptation.
 
 The silence between the three operators stretched, not as an empty void, but as a thick, pressurized medium where the weight of the last correction settled into the marrow of their bones. Corv leaned back, the rigid spine of his suit creaking softly, a sound that seemed too loud in the sudden stillness. He watched the interface where the chaotic static had dissolved into a rhythmic, breathing pattern. It was not a machine settling down; it was a collective holding its breath. The air in the chamber felt heavier, charged with the aftermath of a decision that had shifted the entire axis of their operation from defense to invitation.
 
@@ -480,7 +480,7 @@ Corv looked at his own hands, flexing his fingers as if testing a new muscle. "W
 
 The conversation hung in the air, simple and profound. There was no grand epiphany, no sudden explosion of light or sound. Instead, there was a quiet, mutual understanding that passed between them, a silent agreement that the old way of doing things—the way of constant correction and forced compliance—was over. They had found a rhythm that worked for all three of them, a cadence that allowed for individual variation without breaking the whole.
 
-Corv stepped away from the console, his movement fluid and unhurried. He looked at Sona, then at Jian, and finally at Gideon. "Then we stop correcting," he said, the words feeling like a new dialect. "We start contributing. No more micro-adjustments to force compliance. We offer our own rhythm and see if the field matches it."
+Corv stepped away from the console, his movement fluid and unhurried. He looked at Sona, then at Jian, and finally at Gideon. "Then we stop correcting," he said, the words feeling like a new dialect. "We start contributing. No more micro-adjustments to force compliance.
 
 Sona's fingers hovered over the console, no longer gripping the edges as if holding back a tide, but resting lightly on the interface. The silence in the room was not empty; it was heavy with the weight of the decision they had just made. For the first time since the synchronization began, the air felt breathable, stripped of the metallic tang of panic that had clung to their throats for cycles. Gideon leaned back in his chair, the leather creaking softly, a sound that seemed to echo the release of tension in his own shoulders. He watched Sona, his gaze steady and devoid of the sharp, analytical edge he usually wore like cover.
 
@@ -548,6 +548,8 @@ Sona reached for her datapad, not to input commands, but to open a simple log en
 
 Jian chuckled, a low, genuine sound that broke the final thread of the stalemate. "Record it as 'Guest Mode.' That sounds more dignified."
 
-"Guest Mode it is," Gideon agreed, settling into his seat with a deliberate relaxation. He looked at Corv, and for the first time in days, the gaze was not one of demand, but of partnership. The three of them sat in the quiet hum of the ship, a ship that was no longer an adversary to be defeated, but a complex entity to be understood. They were not steering the storm; they were holding hands in the eye of it, trusting the eye to keep them safe until the winds changed.
+"Guest Mode it is," Gideon agreed. He settled into his seat. The leather gave under him in the same place it always did. He looked at Corv, then at Sona. No one reached for the console.
 
-They carried it out in their bodies: instinct, feeling, and thought were never meant to become enemies competing for permanent rule. They were meant to witness one another's labor closely enough that the self could act whole, even while pressure remained.
+Sona left the datapad open on the log entry. The cursor blinked at the end of the words “Awaiting a Nap.” Jian’s arms stayed stretched across the back of his chair, shoulders still popped from the earlier tension. The ship’s hum continued, unchanged in pitch, but now it was the only sound in the room.
+
+They sat that way. The vessel kept its own time. No one tried to steer it.

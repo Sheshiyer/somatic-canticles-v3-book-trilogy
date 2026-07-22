@@ -235,7 +235,7 @@ One metre. The passage’s walls brushed their shoulders—no pressure, just rec
 
 The threshold itself was a line no scanner could resolve, only the sudden absence of smell. One step forward and the vinegar vanished, replaced by a sterile neutrality reminiscent of freshly quarried limestone. They crossed in single file: Corv, Gideon, Jian, with Sona a half‑breath behind. No sound marked the transit, yet each felt the subtle pop of inner‑ear equalising—as though memory itself had changed altitude.
 
-They emerged into the same passage, but reversed: the iridescence now on the inside, reflecting them back at themselves in triplicate, quadruple, quintuple, the images nesting smaller until they became a single bright point. The point blinked once, then collapsed into the amber warning Jian still carried. He checked the readout: `Consensus restored at 99.7 %`. The migraine loosened another notch. Not his, not Corv’s, not Sona’s. The room had synchronised to the deleted owner’s phantom rate.
+They emerged into the same passage, but reversed: the iridescence now on the inside, reflecting them back at themselves in triplicate, quadruple, quintuple, the images nesting smaller until they became a single bright point. The point blinked once, then collapsed into the amber warning Jian still carried. He checked the readout: `Consensus restored at 99.7 %`. The migraine loosened another notch. Not his, not Corv’s, not Sona’s.
 
 Corv opened his fist. The copper coin was gone, replaced by a perfect circle of warmth the size of a fingerprint on his palm. He pressed the warmth against the inner wall—a temporary signature, one that would fade in seven minutes and forty‑two seconds by his internal count. The passage acknowledged the mark by dimming a fraction, conceding passage.
 
@@ -432,8 +432,8 @@ Jian felt a sudden tug at his wrist—an involuntary reflex as the recorder’s 
 
 A brief chuckle escaped Sona’s lips, surprising even herself. “Looks like the conduit finally decided to behave. Maybe it was just waiting for us to stop arguing with it and start listening.” The humor was thin, but it cut through the lingering tension, offering a momentary release that let them both reset their focus.
 
-She reached out, her gloved hand finding the hollow of Jian’s elbow, the familiar pressure point they had used in countless calibrations. “Ready for the next stretch?” she asked, the question more a promise than a query.
+She reached out, her gloved hand finding the hollow of Jian’s elbow, the familiar pressure point they had used in countless calibrations. The touch was brief, just enough to confirm he was still there. “Ready for the next stretch?” she asked.
 
-He nodded, feeling the recorder settle against his skin like a trusted companion. “Let’s keep the current clean,” he replied, and together they turned toward the passage that stretched ahead, the hum of the conduit now a steady bass that matched the rhythm of their synchronized steps.
+He nodded. The recorder’s weight had shifted; the strap now pressed a cold line across the inside of his forearm where the skin was still damp from the earlier surge. “Let’s keep the current clean,” he said.
 
-Sona’s turn: she angled her body, shoulder slotting under his upper arm so their torsos formed
+They turned toward the passage. The conduit’s hum had dropped to a low, uneven thrum that no longer tried to match anyone’s breathing. Sona’s shoulder brushed his as they moved, not in sync. The brush left a small smear of nanofiber residue on his sleeve that would have to be cleaned later. The recorder’s red light stayed steady against his forearm, counting the beats between one foot and the next.

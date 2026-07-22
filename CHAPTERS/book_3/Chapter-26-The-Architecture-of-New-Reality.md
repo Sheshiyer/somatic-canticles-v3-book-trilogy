@@ -514,7 +514,7 @@ Sona lifted her hand, the scar catching a stray beam, and let the light run over
 Jian glanced at the faint line that Gideon had drawn, the edge of the light curving gently around the space.  
 “We have a direction,” he said, “not a map. One foot at a time, we’ll let the ground teach us where we can go and where we should pause.”
 
-The group stood in that shared silence, each sensation—a subtle shift of the floor, a soft glow at the edge, a breath of filtered air—reinforcing the provisional framework they had begun to shape. The moment stretched, a pause thick with possibility, before the group began to move, each footfall a gentle negotiation with the ground, each glance a quiet check against the line, each breath a shared acknowledgment of the tentative joy that held them together.
+The group stood in that shared silence, each sensation—a subtle shift of the floor, a soft glow at the edge, a breath of filtered air—reinforcing the provisional framework they had begun to shape.
 
 The soft hum of the central channel faded behind them, leaving only the faint sigh of the chamber’s own breath. Corv knelt beside the newly laid tesserae, his fingertips tracing the edge where the material met the void‑filled floor. The surface resisted just enough to feel his weight, then yielded, leaving a shallow groove that filled with a pale, almost liquid light. He pressed his palm to the groove, feeling the subtle shift of pressure as the floor recorded his presence and then released it, a quiet acknowledgment that the ground was listening.
 
@@ -545,7 +545,7 @@ Gideon stepped forward, his movements deliberate, creating a small circle of war
 
 Corv felt the weight of the moment settle into his chest, not as a burden, but as an anchor. He looked at the three of them, the way their bodies were arranged in the new space, not as a hierarchy, but as a constellation of mutual support. "If we leave now," he said, his voice low, "the space dissolves. It's not a trap; it's a mirror. It only reflects the attention we give it." He took a step back, then forward, testing the stability of the floor. It held, firm and responsive. "We aren't the architects of a static place," he realized, the concept clicking into place with the finality of a lock turning. "We are the gardeners of a temporary state. We water it with our focus, and if we stop, the grass withers. It's that simple. And that hard."
 
-The silence that followed was not empty; it was full of the hum of their own biology interacting with the nascent reality. Sona's laugh faded into a soft smile, Jian's hands stopped fidgeting with his pockets, and Gideon's stance relaxed just enough to show he was listening. The air grew cooler, the glow steadier, and the sense of provisional structure tightened, a living promise that could be reshaped with every step.
+The silence that followed was not empty; it was full of the hum of their own biology interacting with the nascent reality. Sona's laugh faded into a soft smile, Jian's hands stopped fidgeting with his pockets, and Gideon's stance relaxed just enough to show he was listening.
 
 Sona shifted her weight, the soles of her feet finding purchase not on stone, but on a surface that remembered the shape of a footstep a fraction of a second after it landed. It was a tactile lie that felt like truth, a feedback loop where the ground anticipated her balance and offered it a hand. "It's like walking on a trampoline made of memory," she said, her voice light, scraping the heavy air. "If I stop moving, I might sink into the echo of where I was just a moment ago." She kicked a loose pebble that didn't exist, watching it vanish before it could hit the floor, leaving only a faint ripple in the light. "Or maybe the floor is just polite. It doesn't want to tell me I'm standing on nothing."
 
@@ -561,12 +561,8 @@ Sona laughed again, a genuine sound that seemed to make the grey air shiver, not
 
 "Careful," Corv warned, a ghost of a smile touching his lips. "It might be made of old code. It could give you a stomach ache that lasts for a century."
 
-The group stood in a loose triangle, the silence between them no longer heavy with the threat of dissolution, but filled with the quiet hum of a shared, unspoken agreement. The light didn't flare; it settled. The ground didn't solidify; it simply agreed to be there. It was a provisional truce, a moment where the biology of their bodies, the philosophy of their intent, and the technology of the space around them stopped fighting and began to breathe in the same rhythm.
+The group stood in a loose triangle. The silence between them was no longer heavy. Jian’s hand still tapped the dark screen once, a nervous tic that made no command. Corv measured the space between his feet and the others by the shared weight of having decided to stay. Sona took one step, then another; the ground accepted the weight without comment. Gideon’s circle remained visible as the line he had traced earlier.
 
-Jian pocketed the pad, the screen fading to a soft, pulsing grey that matched the horizon. "I'm done asking for permission," he said, the words final, like a stone dropped into a still pond. "I'm just going to walk."
+Jian pocketed the pad. The screen faded to the same grey as the horizon. “I’m done asking for permission,” he said. He began to walk.
 
-"Then let's walk," Sona said, her voice bright, carrying the weight of a decision that felt lighter than air. "But if we find a door, let's not open it. Let's just lean on it for a while."
-
-Gideon nodded, the circle around them tightening, not with force, but with the simple, undeniable fact of their presence. The grey void stretched out, infinite and waiting, but they were no longer staring into it. They were standing on it, and for the first time, the ground did not feel like a question. It felt like an answer they were writing together, one step at a time.
-
-Only ground, edge, direction, joy, and responsibility, held together long enough to prove they could be practiced again.
+Sona followed. The ground gave slightly under her boot, then held. She did not look for a door. Gideon stayed at the edge of the circle they had drawn with their feet. The grey void stretched. It was no longer a question. It was the surface they were standing on. The first step left a faint mark in the dust. The second step did not. They kept walking. The ground continued to be there.

@@ -90,8 +90,6 @@ These in-repo documents supplied the trilogy's canonical language and story-gove
 ## VII. Meditation, Breath, and Embodied Practice
 
 - Kabat-Zinn, Jon. “Mindfulness-Based Interventions in Context.”
-- Austin, James H. *Zen and the Brain.*
-- Goleman, Daniel, and Richard Davidson. *Altered Traits.*
 - Davidson, Richard J. meditation and affect research.
 
 ---

@@ -1133,4 +1133,4 @@ Gideon’s voice was steady, almost amused. “Let it try. We’ve already seen 
 
 The air seemed to hold its breath as the team prepared to rewrite the hidden clause, the moment poised between the safety of silence and the chaos of unfiltered truth.
 
-He took a breath, deep and ragged, filling his lungs with the unfiltered, unapproved air. "No," he said, the word simple and absolute. "Less life is not protection. It's just a quieter cage."
+He took a breath. The air was unfiltered. It tasted of the same metal that had been in the console for cycles. "No," he said. The word was short. It did not echo. The cursor on the prompt continued to blink. No one moved to accept the manageability protocol. The leash line stayed on the screen, visible, not accepted.

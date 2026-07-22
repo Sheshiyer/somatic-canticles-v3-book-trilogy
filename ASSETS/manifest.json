@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "last_updated": "2026-06-01",
+  "root_file_count": 3,
+  "structure": "Phase 3 complete - core visual system moved into covers/",
+  "categories": {
+    "covers": {
+      "count": 144
+    },
+    "merch": {
+      "count": 11
+    },
+    "marketing/ads": {
+      "count": 12
+    },
+    "quotes": {
+      "count": 12
+    },
+    "bookmarks": {
+      "count": 3
+    },
+    "heroes": {
+      "count": 9
+    },
+    "videos": {
+      "count": 9
+    },
+    "archive": {
+      "count": 39
+    }
+  }
+}

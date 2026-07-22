@@ -572,7 +572,7 @@ He let his fingers linger on the edge of the console, feeling the faint tremor t
 
 A sudden, soft chime broke the quiet—a notification from the system that the auxiliary vent had engaged. The readouts shifted, the line of voltage spikes flattening further, the bloom’s signature dimming to a barely perceptible ripple. For a heartbeat, the lab seemed to exhale, the oppressive weight lifting just enough to allow a moment of relief.
 
-Jian let out a breath he hadn’t realized he’d been holding. “That’s… that’s enough,” he said, the words barely more than a murmur, but they carried the weight of a promise. He let a small, humor‑tinged chuckle escape, the sound surprisingly bright against the low hum. “Looks like we’re buying time with a little bit of sabotage. Nice.”
+Jian let out a breath he hadn’t realized he’d been holding. “That’s… that’s enough,” he said, the words barely more than a murmur, but they carried the weight of a promise. He let a small, humor‑tinged chuckle escape, the sound surprisingly bright against the low hum.
 
 Corv’s eyes softened for a heartbeat, the hardened mask she wore slipping just enough to reveal the flicker of relief she tried to keep hidden. The tension in her shoulders eased, though the muscles around her jaw remained taut, as if bracing for the next wave.
 
@@ -586,7 +586,7 @@ Corv’s gaze snapped to the peripheral monitors, where a faint halo of phosphor
 
 A soft click echoed from the far side of the lab, the sound of a latch disengaging. The team’s peripheral sensors, usually dormant, flickered to life, casting a thin lattice of green light across the concrete floor. Gideon’s hand moved instinctively, fingers brushing the control panel as if feeling for a pulse. He pressed a sequence that rerouted a fraction of the lab’s core output into a stabilizing subfield, a temporary scaffold that would hold the barrier’s edge while they made their choice.
 
-The subtle pressure of the moment eased as a low, almost imperceptible tone responded from the vent’s venturi—a tone that reminded Jian of the first time he’d heard a child’s laugh in the middle of a storm. He let a small, humor‑tinged chuckle escape, the sound surprisingly bright against the low hum. “Looks like we’re buying time with a little bit of sabotage. Nice,” he muttered, half‑to himself, half‑to the empty space that had just held the weight of their collective dread.
+The subtle pressure of the moment eased as a low, almost imperceptible tone responded from the vent’s venturi—a tone that reminded Jian of the first time he’d heard a child’s laugh in the middle of a storm.
 
 Corv’s shoulders, which had been clenched like a coiled spring, relaxed just enough for the muscles around her jaw to loosen. A flicker of relief crossed her eyes, quickly masked by the discipline she wore like cover. She exhaled, a breath that seemed to carry the scent of ozone and the faint perfume of the lab’s recycled air. “We need a plan,” she said, the words firm but not unkind. “We have the field open; we have the vent. Now we decide whether to walk through it or seal it and wait for the next tide.”
 
@@ -630,6 +630,6 @@ A sudden spike in the bio‑feedback strip made Gideon’s hand twitch. He snapp
 
 Corv’s lips twitched into a grin. “If this works, we’ll have a new definition for ‘cross‑border.’ If it doesn’t, we’ll have another lesson in humility. Either way, the universe will have a good story to tell about us.”
 
-The room fell into a brief, charged silence, the kind that sits between a question and its answer. The coil’s edge flickered, then steadied, a thin veil of light half‑opened like a reluctant eye. In that moment, the weight of their decision settled on each shoulder, a mixture of dread and fierce hope, and the hum of the field settled into a quiet, patient beat, waiting for the next command.
+The room fell into a brief, charged silence. The coil’s edge flickered, then steadied, a thin veil of light half‑opened. The air on the near side of the bridge was warmer than the air on the far side; Gideon could feel the difference on the skin of his face.
 
-For the first time since entering the barrier, Gideon did not mistake the difference between safety and freedom.
+He kept his hand on the coil until the vibration in the bones of his legs matched the coil’s low steady tone. The bridge was narrow enough that only one of them could cross at a time. The far side was still dark. He did not lift his hand until the light stopped wavering. When he did, the coil’s surface had left a faint warm print on his palm that the glove did not immediately erase.

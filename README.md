@@ -51,7 +51,9 @@ https://github.com/Sheshiyer/somatic-canticles-v3-book-trilogy/raw/main/ASSETS/t
 | **Book II: The Myocardial Chorus** | https://github.com/Sheshiyer/somatic-canticles-v3-book-trilogy/raw/main/ASSETS/book2-myocardial--video.mp4 |
 | **Book III: The Ripening** | https://github.com/Sheshiyer/somatic-canticles-v3-book-trilogy/raw/main/ASSETS/book3-ripening--video.mp4 |
 
-*Videos also available in [ASSETS](./ASSETS/) directory.*
+*Videos also available in [ASSETS/videos/](./ASSETS/videos/) directory (curated clips) and archive for raw generations.*
+
+A full **Phase 4 proposal** (next priorities and remaining gaps) has been created at [ASSETS/PHASE4_PROPOSAL.md](./ASSETS/PHASE4_PROPOSAL.md).
 
 ---
 
@@ -65,21 +67,21 @@ https://github.com/Sheshiyer/somatic-canticles-v3-book-trilogy/raw/main/ASSETS/t
 
 **Book I: The Anamnesis Engine**
 
-<img src="ASSETS/book1-anamnesis--typo-mask--macos.png" alt="Book 1 Cover" width="100%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
+<img src="ASSETS/book-1-anamnesis--typo-mask--macos.png" alt="Book 1 Cover" width="100%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="33%" align="center">
 
 **Book II: The Myocardial Chorus**
 
-<img src="ASSETS/book2-myocardial--typo-mask--macos.png" alt="Book 2 Cover" width="100%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
+<img src="ASSETS/book-2-myocardial--typo-mask--macos.png" alt="Book 2 Cover" width="100%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="33%" align="center">
 
 **Book III: The Ripening**
 
-<img src="ASSETS/book3-ripening--typo-mask--macos.png" alt="Book 3 Cover" width="100%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
+<img src="ASSETS/book-3-ripening--typo-mask--macos.png" alt="Book 3 Cover" width="100%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
 
 </td>
 </tr>
@@ -119,7 +121,24 @@ This trilogy moves through three linked burdens:
 
 ```
 Somatic-Canticles-v2/
-├── ASSETS/                    # Book covers (all formats: iPhone, iPad, Mac, Watch)
+├── ASSETS/
+│   ├── covers/                # Core book visuals (typo-mask, editorial, modular) — fully nested by book + style
+│   │   ├── book-1-anamnesis/
+│   │   ├── book-2-myocardial/
+│   │   ├── book-3-ripening/
+│   │   └── series/
+│   ├── merch/                 # Product mockups (nested)
+│   ├── marketing/ads/         # Social ads (nested)
+│   ├── quotes/                # Quote cards (nested)
+│   ├── heroes/                # Product/campaign/window heroes
+│   ├── bookmarks/
+│   ├── videos/                # Curated clips (merch videos standardized)
+│   ├── archive/
+│   │   ├── raw-videos/        # 30 unnamed generations
+│   │   └── iterations/        # v1 designs + old sources
+│   ├── pipeline/              # Scripts + living plans
+│   ├── press-kit/, world/venues/, tarot/, trilogy/  # Supporting categories
+│   └── MANIFEST.md + manifest.json + README.md   # Documentation at root (only 3 files)
 ├── FRONTMATTER/
 │   ├── Frontmatter.md
 │   └── Preface.md           # "A Reader's Note"
@@ -147,10 +166,10 @@ Somatic-Canticles-v2/
 
 | Book | Words |
 |------|------:|
-| Book One: The Anamnesis Engine | 116,012 |
-| Book Two: The Myocardial Chorus | 106,526 |
-| Book Three: The Ripening | 139,285 |
-| **Total** | **363,077** |
+| Book One: The Anamnesis Engine | 120,133 |
+| Book Two: The Myocardial Chorus | 108,975 |
+| Book Three: The Ripening | 140,216 |
+| **Total** | **369,324** |
 
 ---
 

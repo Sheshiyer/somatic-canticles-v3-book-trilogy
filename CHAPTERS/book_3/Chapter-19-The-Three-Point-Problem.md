@@ -1141,6 +1141,14 @@ Sona's stillness was not a passive waiting; it was an active resistance against 
 
 Gideon felt the seduction of the synthesis, the alluring promise of merging their individual signals into a single, seamless stream where no one failed and no one was alone. It would be so easy to let go of the boundaries, to dissolve the distinctness that made them capable of this work and become a unified entity that could weather the storm. But he knew the price of that unity: it was a silence that could never be broken, a loss of the very friction that allowed them to think, to feel, to act as separate witnesses. He adjusted his stance, feeling the cold floor against his soles, and forced himself to remain singular. He was not a component of a machine; he was a witness, and his witness was separate, separate, separate. The temptation to merge was a lie that offered comfort at the cost of truth, and he held his ground, breathing in the sharp, metallic air of his own isolation.
 
-A sudden shift in the pressure, a subtle drop that made the hair on their arms rise, broke the stalemate. The readout flickered, the erratic lines stabilizing for a fraction of a second before surging again, a spike that threatened to breach the upper limit. Jian exhaled, a sharp, controlled sound, and stepped back from the console, his hand hovering over the manual override but not engaging it. He had not solved the equation; he had simply refused to break it. The pressure did not vanish, but it changed shape, becoming a tangible weight that they could all feel pressing against their shoulders. It was a demand for discipline, a reminder that the work was not about making things easy, but about enduring the difficulty without losing themselves. The silence stretched, thick and heavy, before Corv finally broke it, his voice low and steady, cutting through the static of their anxiety.
+The readout flickered again. The erratic lines stabilized for less than a second, then surged. The spike pushed the red line higher.
 
-The next movement of the work had already begun.
+Jian’s hand hovered over the manual override. He did not engage it. The pressure in the room had become a tangible weight across his shoulders; he felt it when he breathed in.
+
+Corv stopped pacing. The floor under his boots no longer felt treacherous. It simply felt like floor. He kept his hands at his sides.
+
+Sona remained on the edge of the bench, palms open on her knees. Her breath moved in its own rhythm, not matching the spike or the silence between spikes.
+
+Gideon adjusted his stance on the cold floor. His witness stayed separate. The friction of that separation was still in his feet against the concrete.
+
+The 13.7-second window continued to shrink. No one reached for the override. The pressure stayed on their shoulders. The next movement would have to begin inside that pressure, not after it.

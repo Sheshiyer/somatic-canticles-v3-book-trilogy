@@ -1231,14 +1231,8 @@ Jian tucked the slate away. “People have also made terrible decisions after mi
 
 The officer touched the empty pocket where the toothpick had been and found only fabric. “Then we should make this one count.”
 
-No one answered with ceremony. They simply resumed walking, and the brass lamps ahead brightened by one small, practical degree.
+No one answered with ceremony. They simply resumed walking. The brass lamps ahead brightened by one small, practical degree—the kind of change you notice only because the light on the floor tiles shifted enough to show the scuff marks that had been there all along.
 
-Behind them, the old floor accepted the weight without asking anyone to become less afraid.
+The officer’s hand stayed near the empty pocket where the toothpick had been. Sona listened to the sound of their four sets of footsteps on the old floor; none of them matched. The floor took the weight without comment.
 
-Support must know when to withdraw.
-
-Witness must know when to step forward.
-
-And breath, if it was still breath, had to remain capable of surprising the room.
-
-Sona followed him into the service gallery. Behind them, the debrief suite sealed itself without drama. Ahead, the calibration ring waited in the dark, and the small amber needle in Jian’s hand pointed steadily forward.
+Sona followed him into the service gallery. Behind them, the debrief suite sealed itself without drama. Ahead, the calibration ring waited in the dark, and the small amber needle in Jian’s hand pointed steadily forward. The corridor air was cooler here, and it carried a faint metallic taste that had not been present in the room they had left.

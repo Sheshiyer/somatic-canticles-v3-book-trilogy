@@ -8,7 +8,7 @@ The room around him was dim, lit only by amber readouts and the faint biolumines
 
 Across the field, coherent signals broke apart before they could cross the membrane. Jian locked his jaw. “This is not random noise,” he said. “The subject’s Khalorēē field is rejecting an event it cannot metabolize. System coherence is below eighty percent. If the collapse reaches the ventricular floor, we lose the map.”
 
-Data slammed into him, too much, too fast. Then something in him stepped back—not another voice, not revelation—just training resurfacing under pressure. *You are not the stream. You are the instrument reading the stream.* His **Manas Interface** manifested at the edge of perception: not a mystic ornament, but a structured lattice of gold geometry slotting chaos into traversable relationships. The scream did not lessen, but his ability to remain inside it without being consumed did.
+Data slammed into him, too much, too fast. Then something in him stepped back—not another voice, not revelation—just training resurfacing under pressure. He was not the stream. He was the instrument reading the stream. His Manas Interface manifested at the edge of perception: not a mystic ornament, but a structured lattice of gold geometry slotting chaos into traversable relationships. The scream did not lessen, but his ability to remain inside it without being consumed did.
 
 He felt the lattice settle, a sensation like bones finding their sockets. The interface was not a shield—it was a translation layer, turning the field’s native chaos into something the human nervous system could parse without shattering. Around the edges of his vision, the gold lines wavered, threatening to dissolve back into static. He steadied them with an effort that left a metallic taste in his mouth.
 
@@ -24,7 +24,7 @@ Gideon answered first. “Threat response climbing,” he said, his words landin
 
 Gideon’s presence arrived like a shift in barometric pressure. His avatar—broad‑shouldered, armored in layers of containment protocols—materialized beside Jian’s lighter frame. Where Jian’s interface was clean lines and mathematical precision, Gideon’s was dense, layered, built for impact. He moved like someone who had spent years learning to be the heaviest object in any room.
 
-“This is an autoimmune event,” Gideon said. “Not metaphorically. The field is attacking the tissue keeping it alive.” His three‑brain system kicked hard toward violence: reptilian retreat, limbic alarm, neocortical force projection. He let all three register, then brought them under a single command. His **Klei Toda'ah** rose around him as a lucid foundation of branching light—roots descending, crown widening, a living geometry of containment.
+“This is an autoimmune event,” Gideon said. “Not metaphorically. The field is attacking the tissue keeping it alive.” His three‑brain system kicked hard toward violence: reptilian retreat, limbic alarm, neocortical force projection. He let all three register, then brought them under a single command. His Klei Toda'ah rose around him as a lucid foundation of branching light—roots descending, crown widening, a living geometry of containment.
 
 He could feel the subject’s immune system responding to the breach the way a body reacts to infection—fever, swelling, the desperate architecture of inflammation. The cytokine storm was visible as a haze of red and orange particles drifting through the fluid like smoke from a distant fire. Each particle carried its own signature, its own small violence. He tasted metal in the back of his throat, the familiar flavor of a body turning on itself.
 
@@ -32,9 +32,9 @@ He could feel the subject’s immune system responding to the breach the way a b
 
 Sona arrived next, her presence subtle as the shift of tide. Where Jian met the crisis as contradiction and Gideon as attack, Sona entered through tone. Her eyes softened, her breathing slowed. The chamber’s agony struck her not as error but as a chorus ruined by one wrong note held too long. Beneath the shriek she searched for a carrier frequency, for the one surviving truth the body had not yet buried.
 
-Her **Adawat al‑Wa'i** spiraled open in slow, radiant turns, each layer revealing another depth of listening. Her avatar was almost translucent, edges soft, as though she had learned to be permeable without being fragile. The chamber’s light passed through her, refracting into gentle spectrum shifts.
+Her Adawat al‑Wa'i spiraled open in slow, radiant turns, each layer revealing another depth of listening. Her avatar was almost translucent, edges soft, as though she had learned to be permeable without being fragile. The chamber’s light passed through her, refracting into gentle spectrum shifts.
 
-The field answered her with grief— not abstract, not poetic, but a physiological lament. She felt it as a knot below her sternum while her interface spiraled open. The vessel did not “solve” the distress; it made it legible. Harmonics separated, distortion peeled away from signal. Beneath the screaming wash, a low recurring tone emerged, frail but persistent.
+The field answered her with grief—not abstract, not poetic, but a physiological lament. She felt it as a knot below her sternum while her interface spiraled open. The vessel did not “solve” the distress; it made it legible. Harmonics separated, distortion peeled away from signal. Beneath the screaming wash, a low recurring tone emerged, frail but persistent.
 
 “There,” Sona whispered. “Under the static.” She touched the tone as though it were a living thing, her fingers making careful movements. The grief had texture—rough, abraded, like the inside of a throat after too much screaming. It tasted of salt, iron, and something older, like wet earth after a long‑forgotten storm.
 
@@ -54,7 +54,7 @@ Sona swallowed dread and held the tone steady. “This is not a local injury,”
 
 The words hung like smoke. Each of them felt the shift—the recognition that they were no longer dealing with a contained event but with something systemic, something that had been waiting for the right conditions to manifest. The subject’s body was simply the most recent host, the closest surface for something ancient to speak through.
 
-Corv had said almost nothing until then. He did his best work on the edge where everyone else’s skill stopped feeling sufficient. He watched before he interpreted, letting pattern acquire moral weight before naming it. In the chamber’s blanching light his **Yìshí Qìxiè** moved through the wreckage with quiet, riverine precision, not imposing order so much as finding where order had once been faithful.
+Corv had said almost nothing until then. He did his best work on the edge where everyone else’s skill stopped feeling sufficient. He watched before he interpreted, letting pattern acquire moral weight before naming it. In the chamber’s blanching light his Yìshí Qìxiè moved through the wreckage with quiet, riverine precision, not imposing order so much as finding where order had once been faithful.
 
 His arrival turned the chaos into something simply waiting to be noticed. Corv’s interface was the least visible of all, a barely perceptible shimmer existing in the spaces between the others. He moved like water, flowing around obstacles rather than confronting them, finding the path of least resistance while never quite yielding.
 
@@ -595,4 +595,6 @@ Gideon stepped first only far enough to test load. His boot met amber light and 
 
 Jian marked the price in the log, not as cost but as orientation. First door: grief accepted as data without being reduced to data. It was an ugly sentence. Useful things often were, especially under pressure, in darkness, and before living witnesses.
 
-They had not solved anything. But they had reached the first honest doorway.
+He closed the log. The amber node still glowed, small and steady, its light catching on the salt dried along Sona’s lower lip. She kept the grief-tone low in her chest, a weight that shifted when she breathed. Gideon’s perimeter stayed low, one boot already on the threshold, testing how the light gave under weight. Jian felt the lattice around the blank space hold. The cost was still in their bodies: the taste of iron, the knot that had not loosened, the recorder’s red light steady against a forearm that had not yet stopped trembling.
+
+They stepped through. The doorway remained only the first one they had found.

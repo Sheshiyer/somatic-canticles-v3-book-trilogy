@@ -1216,6 +1216,6 @@ Jian nodded, his eyes still fixed on the idle screen. “We’ll start by not me
 
 Gideon exhaled, feeling the warmth of his breath mingle with the coolness of the metal around him. “And we’ll stay,” he said, his voice steady, “until the silence tells us it’s ready for something else.” The statement was simple, but the intention behind it was a deliberate act of staying put, of refusing the urge to fill the void with noise or haste.
 
-The chamber held them a moment longer, a breath of stillness that seemed to stretch beyond the physical walls. No alarms rang, no lights flickered, no external forces intruded. The only movement was the subtle shift of their own bodies, the soft rustle of clothing, the faint sound of a heartbeat against the quiet. In that suspended interval, the void was less an absence and more a presence—a quiet that amplified the fact that they were together, that they existed, that they could choose to wait.
+The chamber held them a moment longer. No alarms. No lights. The only movement was the small shift of Corv’s palm against the console edge, the faint rustle when Sona adjusted her stance, the sound of Jian’s knee brushing the diagnostic panel as he stayed kneeling. Gideon’s hand remained raised near the console, one stray thread of dust still caught on the back of his glove.
 
-Sona’s
+The void did not speak. The sensors stayed at flat line. The four of them remained exactly where they had been when the last external input ceased. The silence was the space between their bodies and the metal. It did not amplify anything. It simply remained. Sona’s fingers stayed on the console’s edge. No one moved to fill it.

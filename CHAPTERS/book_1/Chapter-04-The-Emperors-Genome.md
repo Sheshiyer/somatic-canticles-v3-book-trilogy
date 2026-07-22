@@ -691,7 +691,7 @@ A soft chime sounded again, this time a higher pitch, a note that responded thro
 
 The courtiers began to disperse, their steps lighter than before, their conversations turning from whispered speculation to quiet, hopeful murmurs. The garden’s bio‑engineered flora, sensing the change, sent a cascade of microscopic spores upward, each one catching the amber light and carrying with it a faint, green glow. The spores drifted like fireflies, alighting on the crystal arches and the mossy walls, adding a living sparkle to the palace’s already luminescent interior.
 
-Corv felt the knot behind his ribs loosen further, the lingering static of the insertion giving way to a warm, steady current that matched the palace’s own heartbeat. He stood for a moment longer, eyes drifting over the interplay of stone, crystal, and living moss, the soft chorus of the palace’s own systems humming in a low, reassuring tone. The moment stretched, a bridge between the precise, clinical insertion and the organic, living response of the empire itself. It was a pause filled with promise, a space where the weight of protocol met the softness of a living system ready to grow.
+Corv felt the knot behind his ribs loosen further, the lingering static of the insertion giving way to a warm, steady current that matched the palace’s own heartbeat. He stood for a moment longer, eyes drifting over the interplay of stone, crystal, and living moss, the soft chorus of the palace’s own systems humming in a low, reassuring tone.
 
 The crystal lattice hummed a low, steady thrum as the last strand of the Emperor’s genome settled into the central conduit. Light filtered through the vaulted arches, catching the damp moss that clung to the stone like veins, and the air grew thick with the scent of mineral-rich steam and faint ozone. In the centre of the chamber, the Gardener’s gloved hands hovered just above the glowing thread, each finger trembling with the weight of a decision that had been rehearsed in the silent halls of the Imperial Senate and now demanded a physical pulse.
 
@@ -723,7 +723,7 @@ Corv stepped back, feeling the knot behind his ribs loosen as the static from th
 
 The courtiers, sensing the shift from tension to equilibrium, began to move with a softer step, their conversations turning from cautious speculation to tentative optimism. Their eyes lingered on the moss, now glowing faintly, a living testament to the Empire’s willingness to evolve without losing its core. The atmosphere, once charged with the electric anticipation of an untested insertion, now breathed a calmer, more hopeful cadence, as if the palace itself had taken a slow, deliberate inhale.
 
-In the quiet that followed, the Gardener’s hand rested lightly on the crystal arch, feeling the faint tremor of the palace’s internal systems aligning. The moment stretched, a bridge between the precise, clinical insertion and the organic, living response of the empire itself. It was a pause filled with promise, a space where the weight of protocol met the softness of a living system ready to grow.
+In the quiet that followed, the Gardener’s hand rested lightly on the crystal arch, feeling the faint tremor of the palace’s internal systems aligning.
 
 The Gardener’s wristpad flickered, a cascade of glyphs scrolling across the translucent surface as the live feed from the insertion node steadied. “Baseline vitals hold at ninety‑two percent,” he said, eyes never leaving the pulse‑graph that traced the palace’s circulatory lattice. “Corv, keep your own hemoflux at a level that won’t trigger the auto‑shut. Any spike above three point one will force a rollback.”
 
@@ -761,6 +761,6 @@ The Gardener’s hand slipped onto a secondary key, and a soft chime cut through
 
 Then, as if a valve had been turned, a gentle rush surged forward. The marble walls glowed faintly where the threads touched, and a cascade of light rippled along the conduit’s length, painting the ceiling with fleeting patterns of amber and violet. The pressure in the passage steadied, the faint hiss of the climate regulators smoothing into a consistent sigh.
 
-Corv felt the knot behind his ribs loosen, the static of the insertion receding like a tide pulling back from the shore. He let his shoulders drop, the tension releasing in a soft exhale that seemed to echo the palace’s own. The Gardener glanced up from his console, his eyes meeting Corv’s with a brief, approving nod—an unspoken acknowledgment that the delicate dance between flesh and stone had found its cadence, if only for a moment.
+Corv felt the knot behind his ribs loosen. The static of the insertion receded. He let his shoulders drop. The Gardener glanced up from his console. Their eyes met. Neither man looked away first.
 
-That was enough.
+The conduit’s throat stayed open. The new threads continued their slow braid. Corv kept his palm against the stone. The tremor under it had changed; it was no longer a warning but a steady low pull, like the stone itself was now drawing a slightly different current through the new splice. The Gardener did not speak. Neither did he. The change was small enough that only the skin of Corv’s palm registered it. It was not enough to call a victory. It was enough to keep the next thread from snapping under the next load.

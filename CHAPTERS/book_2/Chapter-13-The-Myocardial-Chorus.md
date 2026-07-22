@@ -280,7 +280,7 @@ The air in the chamber seemed to thicken, not with the oppressive static of befo
 
 Sona lowered her hand, her shoulders dropping an inch as the phantom coat of static seemed to dissolve. "Okay," she said, the word soft, almost apologetic. "Okay. No more conducting." She sat back against the wall, closing her eyes, listening to the slow, deliberate beat of the chamber. "Just the rhythm. Just the wait."
 
-Gideon nodded, a single, sharp motion. "That's it. The gap is the bridge." He leaned back, his eyes closing as he let the rhythm of the room wash over him, a silent agreement passing between them that required no words. The danger was not gone, but it had changed shape, becoming a manageable, rhythmic tension rather than a chaotic storm. They stood together in the space between the signals, four distinct points of light holding the same dark, waiting for the heart to speak again. The air felt lighter, stripped of the frantic static that had choked them before, replaced by a clear, thin atmosphere where every thought felt audible, and every silence felt heavy with potential.
+Gideon nodded, a single, sharp motion. "That's it. The gap is the bridge." He leaned back, his eyes closing as he let the rhythm of the room wash over him, a silent agreement passing between them that required no words. The danger was not gone, but it had changed shape, becoming a manageable, rhythmic tension rather than a chaotic storm.
 
 Corv’s wristband flashes amber, the pulse‑tracker spitting out a tidy stream of numbers that hover just above the safe threshold. “Heart rate’s still riding the edge of the surge,” he says, tapping the holo‑display. “If we let the stabilizer lock in now, we’ll shave two seconds off the decay curve.” His voice carries the faint rasp of the chamber’s lingering static, a reminder that the Myocardial Chorus is still humming somewhere beneath the skin.
 
@@ -336,7 +336,7 @@ Gideon took a step closer, closing the gap until his shoulder brushed against So
 
 Corv closed his eyes, listening to the sound of his own heart, and then the sound of the three others, and then the space between them where the rhythm became something new. It was a fragile thing, this harmony, built on the edge of a knife, but it was theirs. He didn't try to control it. He didn't try to direct it. He simply let it flow through him, a current of warm, heavy water, and waited for the next beat.
 
-The clock on the wall, a physical relic in a room that had transcended the need for such things, clicked forward. The sound was sharp, distinct, and final. It marked the beginning of the count, the start of the only countdown that mattered. The static was gone, replaced by a living cadence that demanded no more of them than their own continued existence. The field generator hummed, a low, steady note that seemed to tremble in the marrow of their bones, a promise that as long as they kept breathing together, the door would not slam shut. The pressure in the room was no longer a cage, but a vessel, holding them safe in the center of a vast, beating heart.
+The clock on the wall, a physical relic in a room that had transcended the need for such things, clicked forward. The sound was sharp, distinct, and final. It marked the beginning of the count, the start of the only countdown that mattered.
 
 Corv wiped a smear of conductive gel from his cheek, the substance cold and slick like a dead jellyfish. He looked at the readout he'd been wrestling with, then at the machine's new, steady pulse. "Well," he said, his voice cracking slightly on the last syllable. "That was either a miracle or a catastrophic failure of the safety protocols. I'm leaning toward the former because my blood pressure just dropped from 'apocalyptic' to 'mildly annoyed'."
 
@@ -522,6 +522,8 @@ Jian lifted his gaze, meeting Corv’s. “One more thing,” he added, his fing
 
 Gideon nodded, his expression softening for the first time since the operation began. “Consider it done,” he replied, and with a swift motion rerouted the auxiliary conduits, sealing the breach.
 
-The chamber’s ambient light dimmed just enough to make the shadows recede, and the hum of the machine settled into a contented purr. The Myocardial Chorus, now a thin, steady thread, wove through the room, binding the four of them together in a shared, quiet rhythm.
+The chamber’s ambient light dimmed just enough to make the shadows recede. The hum of the machine settled into a lower, less even sound. The thin thread of the Myocardial Chorus still ran through the floor plates, but it no longer tried to pull the four of them into one line.
 
-The Myocardial Chorus thinned, but its discipline stayed behind. The heart was not the opposite of witness. Properly ordered, it was the field that let witness travel between people without requiring any of them to disappear.
+Gideon’s palm stayed on the central panel until the last auxiliary conduit clicked into the new route. The surface under his hand was warm and slightly damp from the earlier surge. Corv’s breath had evened out; the weight that had pressed on his ribs was gone, but the memory of it remained as a dull ache in the same place.
+
+Jian kept the green line on his wrist console visible. It was no longer perfectly straight. The four of them stood in the same positions they had taken when the chorus was loudest. No one moved to speak first. The thread continued, quieter now, but still present in the metal under their feet.

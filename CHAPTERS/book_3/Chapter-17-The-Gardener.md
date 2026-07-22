@@ -412,14 +412,12 @@ Sona added a final caution. “Our witnesses will still be separate, but the pro
 
 Jian’s fingers hovered over the console, trembling now not from fear but from the mathematics of what the encounter had ruled out. He felt the pressure of the Variable Buffer, the open space where certainty had been denied, and recognized that the only path forward lay beyond the jurisdiction’s grasp. The field‑lock tightened just enough to hold their resolve, a silent pact that the protocol they had forged would be the instrument by which they stepped out of the pruning’s reach.
 
-No one pretended the clauses were complete. That restraint mattered. A complete protocol would have sounded too much like the promise they had just refused: no remainder, no ache, no disputed edge. Corv left one field blank in the header and named it `unresolved witness`. Sona insisted the blank stay visible to anyone reading the file. Jian objected on formatting grounds, which meant he had accepted it on scientific grounds. Gideon looked at the empty field and gave a single nod. A gap, properly guarded, could be a gate. It also gave them a test: any later method that tried to erase the blank had already chosen the Gardener's side of the argument, however humane its vocabulary sounded. The blank would make the next chapter harder to write and harder to misuse, which was precisely why they kept it.
+No one pretended the clauses were complete. Corv left one field blank in the header and named it `unresolved witness`. Sona insisted the blank stay visible. Jian objected on formatting grounds and then stopped objecting. Gideon looked at the empty field and gave a single nod.
 
-"If that's true," he said, finding steadiness by narrowing to procedure, "there's only one winning move available."
+The console showed the three pillars saved. Observation, Protection, Adaptation. The Variable Buffer line was still open at the bottom.
 
-Sona looked up, still pale.
+Corv closed the file without filling the blank. The cursor sat at the end of the unresolved line for a moment, then the screen went to the directory view.
 
-"You don't fight a law," she said.
+Sona kept her hand on the console edge. The metal was still warm from the last save. Jian’s fingers rested on the keyboard without typing. Gideon’s palm was flat on the table beside the small smooth stone he had taken from the garden earlier. The stone had a faint line of dirt along one side where his thumb had pressed it.
 
-Corv finished the line because none of the other language would do.
-
-"You exit the jurisdiction."
+They did not speak the jurisdiction’s name again. The file sat in the directory with the blank still showing. The next step would have to be written around it.
