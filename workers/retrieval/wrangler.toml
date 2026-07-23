@@ -1,0 +1,23 @@
+name = "somatic-canticles-retrieval"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+
+[vars]
+ENVIRONMENT = "development"
+EMBEDDING_WORKER_URL = "https://synchronocities-ai.sheshnarayan-iyer.workers.dev"
+EMBEDDING_MODEL = "nvidia/nv-embedqa-e5-v5"
+EMBEDDING_DIMS = "1024"
+
+[[vectorize]]
+binding = "CORPUS_INDEX"
+index_name = "somatic-canticles-corpus"
+
+[env.production]
+name = "somatic-canticles-retrieval-prod"
+[env.production.vars]
+ENVIRONMENT = "production"
+
+[env.staging]
+name = "somatic-canticles-retrieval-staging"
+[env.staging.vars]
+ENVIRONMENT = "staging"
