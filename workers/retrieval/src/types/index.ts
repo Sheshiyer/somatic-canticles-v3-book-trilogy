@@ -1,7 +1,8 @@
 export interface Env {
   CORPUS_INDEX: VectorizeIndex;
   ENVIRONMENT: string;
-  EMBEDDING_WORKER_URL: string;
+  NIM_BASE_URL: string;
+  NVIDIA_API_KEY: string;
   EMBEDDING_MODEL: string;
   EMBEDDING_DIMS: string;
   [key: string]: unknown;

@@ -1,7 +1,7 @@
 import type { Chunk, ChunkMetadata } from '../types';
 
-const CHUNK_WORDS = 500;
-const OVERLAP_WORDS = 50;
+const CHUNK_WORDS = 200;
+const OVERLAP_WORDS = 30;
 
 function stripFrontmatter(text: string): string {
   const lines = text.split('\n');

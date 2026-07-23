@@ -4,7 +4,7 @@ compatibility_date = "2024-01-01"
 
 [vars]
 ENVIRONMENT = "development"
-EMBEDDING_WORKER_URL = "https://synchronocities-ai.sheshnarayan-iyer.workers.dev"
+NIM_BASE_URL = "https://integrate.api.nvidia.com/v1"
 EMBEDDING_MODEL = "nvidia/nv-embedqa-e5-v5"
 EMBEDDING_DIMS = "1024"
 
