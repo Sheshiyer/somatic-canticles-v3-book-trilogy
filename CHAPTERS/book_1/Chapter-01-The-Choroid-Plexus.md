@@ -42,6 +42,8 @@ She patched the frequency into team comms. It sounded like a filament stretched 
 
 “It isn’t just a signal,” Sona said. “It’s mourning.”
 
+“She has a name,” Sona said. “Mira. I can hear it in the mourning.”
+
 The admission tightened the chamber. The tone carried the weight of something unspeakable, a grief stored in the body’s tissues for so long it had become part of the architecture. It settled into her bones, a familiar ache that wasn’t hers but could have been. The subject’s body was trying to tell them something, but the message was too large for words; it had to come through chemistry, rhythm, precise frequency of breaking.
 
 A peripheral alert flashed across her field: an encrypted packet from an old Vireth warning channel. She opened it.
@@ -92,6 +94,7 @@ The chamber folded—not gradually, not theatrically. Reality gave up one arrang
 > TRYAMBAKAM PROTOCOL ONLINE
 > TARGET: CORE BELIEF MODULES
 > READING KHALORĒĒ SOURCE
+> SUBJECT: VERATH LINEAGE — SESSION 01
 > WARNING: CATASTROPHIC ONTOLOGICAL FAILURE DETECTED
 > REDACTED MODULES PRESENT
 > RENDERING SAFE‑MODE MEMORY PALACE

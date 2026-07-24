@@ -20,7 +20,7 @@ Jian traced the timing fault through the chamber. “Conduction is intact,” he
 
 Gideon did not move closer. The room was too intimate for that reflex. “If we crowd this,” he said, “we become one more intrusion. Protection here means making space the field can survive.”
 
-Corv followed the deeper line beneath the overactive rhythms and found the same logic they had just seen in the refoot chamber, translated into muscle and pulse. The subject had learned to keep connection going under conditions where connection hurt. Over time that endurance had hardened into style. Reach before the loss. Sustain before the break. Stay flooded so you never have to feel the drop.
+Corv followed the deeper line beneath the overactive rhythms and found the same logic they had just seen in the refoot chamber, translated into muscle and pulse. Mira had learned to keep connection going under conditions where connection hurt. Over time that endurance had hardened into style. Reach before the loss. Sustain before the break. Stay flooded so you never have to feel the drop.
 
 “This isn’t hunger for fusion,” he said. “It’s old protection. The heart learned that if it stopped transmitting, it might disappear.”
 

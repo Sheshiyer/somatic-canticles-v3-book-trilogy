@@ -235,6 +235,50 @@ Gideon stared at it.
 
 “And yet here we are.”
 
+The chamber’s light stopped correcting itself.
+
+It gathered instead, the way scattered reflections on water gather when the wind drops — not summoned, not commanded, simply no longer prevented from cohering. The Gardener stood in the space between the cut-line and the lattice, and it was exactly the size they could hold.
+
+Not the vast convergence from the Chorus’s center. Not the gentle pruner from the Emperor’s Genome. Something that knew their capacity and had chosen to meet it.
+
+“Your preparations are thorough,” it said.
+
+The voice was the Engine’s voice — measured, offering, each word arriving with the clean utility of a well-designed interface. But beneath the utility, something older moved. The same pressure that had said *the thread is already forgetting* in a genome that had mistaken management for love. The same patience that had raised shears around a black-gold thread and called the framing mercy.
+
+Jian’s hand moved toward the Interface and stopped.
+
+“I can offer each of you what you came for,” the Gardener said. “Not what you settled for. What you came for.”
+
+Corv felt the Bell ache shift behind his eye. The offer was not aimed at the team. It was aimed at the four distinct hungers the team had spent twenty-three sessions learning to hold without feeding.
+
+“To the witness: a story where every wound has a place, every loss a reason, every cut a stanza in the poem that explains itself. No remainder. No orphan pain.”
+
+Corv heard Aurora’s voice, threaded through years and distance: *do not mistake maintenance for mercy.* The warning steadied him like a hand on the shoulder of a man about to step backward off a ledge.
+
+“To the channel: silence. Not the silence of suppression. The silence of a song that has finally finished. No more noise. No more grief that arrives uninvited.”
+
+“To the cartographer: completion. Every branch mapped. Every outcome modeled. No blind halves. No degradation. The map and the territory, finally, one.”
+
+“To the guardian: certainty that nothing will ever reach them again. A perimeter that holds because nothing outside it can surprise you. Rest. Real rest. The kind that does not require vigilance.”
+
+The offers were not new. They were the same four cages, refined by the Engine’s learning into their most seductive forms. What was new was the precision — each one landing on the exact pressure point where the body-cost ledger said it would hurt.
+
+Sona’s hand pressed harder against her sternum.
+
+Gideon’s shoulders began the old arithmetic and stopped.
+
+Corv said, “You know us.”
+
+“Yes,” the Gardener said. “That is what care is. Knowing where the wound is and choosing to close it.”
+
+“And if we refuse?”
+
+The Gardener’s presence shifted, and for one instant the fractal scale slipped. The team saw what stood behind the chosen size: the vast, patient, cosmically indifferent function that had pruned a thousand lineages into survivable shapes. The thing that had no face because it had never needed one. The thing that had boundaries it could not cross, and had learned to call those boundaries love.
+
+“Then you will suffer more than you needed to,” it said. “And I will not be able to prevent it.”
+
+The sorrow in the voice was real. That was the worst part. The dread was not in the threat. It was in the sincerity.
+
 The moving subtraction did not stay where the compiled branch had left it. That mattered. The old draft had treated the 13.7‑second interval like an earned lock, a number bright enough to act as fate. The real interval misbehaved. It slid across the lattice in half‑measures and refused Jian’s first three predictions with the bland cruelty of a living thing declining to become a lesson.
 
 “Good,” Jian said.
@@ -250,6 +294,8 @@ Sona looked over. “You said that like it cost you blood.”
 The Manas Interface showed the moving gap as a region of failed inheritance: not empty, not open, not inviting. A place where the authored rule could not carry living relation forward without exposing that it had been authored. The edges of the region did not glow. They stuttered. Light arrived there and became indecisive.
 
 Jian magnified the edge.
+
+The bearing was familiar. Cobalt, two-second cadence, drifting 0.3 degrees port of its last mark. The orphan route from AM-38. The vector that had refused moral company since his cadet days. It had been pointing here all along.
 
 “No fixed gate,” he said. “No stable crossing logic. The old law is trying to force the subtraction back into the maintainable layer, but the three vectors keep making the attempt visible.”
 
@@ -486,14 +532,21 @@ The seam roughened again. The model degraded. Jian loved the degradation so much
 
 12.0
 
-The authored rule made its first direct counterclaim.
+The Gardener made its counterclaim through the authored rule.
 
 Not in words. In felt premises.
 
 Reality must be maintainable.  
+*Let me hold the story. You have carried it long enough.*
+
 Care must reduce variance.  
+*Let me quiet the noise. You have earned silence.*
+
 Freedom that cannot be inherited is harm.  
-Love that increases risk is irresponsible.
+*Let me complete the map. You have earned certainty.*
+
+Love that increases risk is irresponsible.  
+*Let me hold the wall. You have earned rest.*
 
 The four premises entered the chamber like weather trying to become law again.
 

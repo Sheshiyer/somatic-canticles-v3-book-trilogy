@@ -459,6 +459,12 @@ The place was not safe in any childish sense. It was too unfinished for that, to
 
 Sona closed her eyes. Jian stopped measuring. Gideon let his hands fall from the perimeter. Corv did not narrate the silence.
 
+Corv reached into his coat and withdrew a sliver of obsidian no longer than a finger joint, its surface etched with a single ninefold glyph. He had memorized the coordinates once, the way sailors once memorised reefs: `9.3.4N | 12.7.2E | -0.47 depth`. The old coordinates meant nothing here. The faith they represented meant everything.
+
+He set the seed on the ground that had just learned to hold them. The plane accepted it the way the lattice had accepted it in the Emperor's Genome — not devouring, only noting the address. An act of faith in future calibration, not present control.
+
+He thought of the shard he had left in the sphere's hollow, a black stone in place of a heart. Two black stones. Two acts of faith. One planted before the wound, one after. The first had witnessed what was broken. The second would witness what grew.
+
 That restraint became the chapter’s final architecture.
 
 Not a finished world.  

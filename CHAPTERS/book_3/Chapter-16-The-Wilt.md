@@ -10,6 +10,8 @@ Six weeks earlier the team had left their last descent with no artifact, no coro
 
 Jian stood at his station in the Anamnesis Engine chamber, his Manas Interface, the Vedic witness vessel, painting the air before him with luminous threads of data. The harmonics that had once been jagged with inherited fear, those serrated waveforms that had cut through three generations of the Verath lineage, now held a sustained, breathable coherence. The healed passages glowed with the soft iridescence of Coherence Cultivation: stabilized belief systems, integrated trauma residue, liberated emotional pathways.
 
+The earliest wound on record belonged to Anvel Verath, the first of the line to make law out of injury. Three generations later, the law still ran beneath every healed passage like old plumbing under new tile. Jian had mapped it. He had not been able to remove it.
+
 The numbers held a stark, architectural beauty. The mathematics of healing had resolved into elegant symmetry.
 
 And yet.
