@@ -1,0 +1,49 @@
+== Chapter-09-The-Sigil-Smith.md (book 2, 14647w) ==
+  red_flag: PASS (total 0.14/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): PASS (0 hits)
+  voice register: PASS (expected-book share 61.1%)
+  VERDICT: PASS
+== Chapter-10-The-Debug-Protocol.md (book 2, 18211w) ==
+  red_flag: PASS (total 0.0/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): PASS (0 hits)
+  voice register: PASS (expected-book share 42.2%)
+  VERDICT: PASS
+== Chapter-11-The-Avatar-Mutation.md (book 2, 13215w) ==
+  red_flag: PASS (total 0.0/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): PASS (0 hits)
+  voice register: PASS (expected-book share 48.3%)
+  VERDICT: PASS
+== Chapter-12-The-Anamnesis-Engine.md (book 2, 8332w) ==
+  red_flag: PASS (total 1.92/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): PASS (0 hits)
+  voice register: PASS (expected-book share 55.8%)
+  VERDICT: PASS
+== Chapter-13-The-Myocardial-Chorus.md (book 2, 16447w) ==
+  red_flag: PASS (total 0.0/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): PASS (0 hits)
+  voice register: PASS (expected-book share 69.6%)
+  VERDICT: PASS
+== Chapter-14-The-Three-Body-Coordination.md (book 2, 14818w) ==
+  red_flag: PASS (total 0.34/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): WARN (1 hits)
+  voice register: PASS (expected-book share 47.9%)
+  VERDICT: WARN
+== Chapter-15-The-Witness-Integration.md (book 2, 22884w) ==
+  red_flag: PASS (total 0.04/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): WARN (2 hits)
+  voice register: WARN (expected-book share 40.1%)
+  VERDICT: WARN

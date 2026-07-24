@@ -1,0 +1,57 @@
+{
+  "chapter": "CHAPTERS/book_2/Chapter-15-The-Witness-Integration.md",
+  "started": "2026-07-24T14:54:06.288188+00:00",
+  "mode": "dry-run",
+  "cycles": [
+    {
+      "cycle": 1,
+      "transform": "dedupe",
+      "before": {
+        "total_per_1000": 0.04,
+        "verbatim_duplicate_paragraphs": 0,
+        "empirical_syntax_adjacent": 0,
+        "explanatory_aside_hits": 2
+      },
+      "after": {
+        "total_per_1000": 0.04,
+        "verbatim_duplicate_paragraphs": 0,
+        "empirical_syntax_adjacent": 0,
+        "explanatory_aside_hits": 2
+      },
+      "status": "discard",
+      "candidate": "/private/tmp/sc-v3/WORKBENCH/STORYOPS/runs/Chapter-15-The-Witness-Integration/cycle-01-dedupe.candidate.md"
+    },
+    {
+      "cycle": 2,
+      "transform": "opacity-strip",
+      "before": {
+        "total_per_1000": 0.04,
+        "verbatim_duplicate_paragraphs": 0,
+        "empirical_syntax_adjacent": 0,
+        "explanatory_aside_hits": 2
+      },
+      "after": {
+        "total_per_1000": 0.04,
+        "verbatim_duplicate_paragraphs": 0,
+        "empirical_syntax_adjacent": 0,
+        "explanatory_aside_hits": 0
+      },
+      "status": "keep",
+      "candidate": "/private/tmp/sc-v3/WORKBENCH/STORYOPS/runs/Chapter-15-The-Witness-Integration/cycle-02-opacity-strip.candidate.md"
+    }
+  ],
+  "baseline_metrics": {
+    "total_per_1000": 0.04,
+    "verbatim_duplicate_paragraphs": 0,
+    "empirical_syntax_adjacent": 0,
+    "explanatory_aside_hits": 2
+  },
+  "final_candidate": "/private/tmp/sc-v3/WORKBENCH/STORYOPS/runs/Chapter-15-The-Witness-Integration/final.candidate.md",
+  "final_metrics": {
+    "total_per_1000": 0.04,
+    "verbatim_duplicate_paragraphs": 0,
+    "empirical_syntax_adjacent": 0,
+    "explanatory_aside_hits": 0
+  },
+  "final_verdict": "PASS"
+}
