@@ -34,6 +34,8 @@ Branches angled toward a single region the way roots angle toward water. The pat
 
 "The topology is changing," Jian said, his voice tight with controlled alarm. "This isn't what we mapped."
 
+Corv remembered the Gardener in the Emperor's Genome — a figure with shears, tending one family's lattice. Local. Bounded. A function with a face. What the map was showing now had no face. It had a center, and the center had always been there, disguised as absence.
+
 Gideon slowed their pace at once. His protective field, the kinetic membrane he maintained around the team, registered the environmental shift before he could parse it consciously. Reptilian alert, limbic warning, neocortical assessment. All three levels returned the same conclusion.
 
 "We're being directed," he said.
@@ -79,6 +81,8 @@ The Gardener’s response was a soft, field-borne murmur that seemed to tremble 
 Sona’s ribs thinned at the contact, a sensation that was both a loss and a relief. She could feel a thread of feeling being clipped, a nuance of grief that had lingered in her marrow for weeks. “If this is correction,” she whispered, “why does it feel like you are pulling the breath out of my chest?” Her words trembled, not from fear but from the acute awareness that the Gardener’s touch was not an attack but a subtraction of potential.
 
 The Gardener’s attention lingered on a branch that had sprouted from the central trunk of the Vine, a branch that bore the faint glow of Mira’s breakthrough—an offshoot that had once allowed Mira to observe shame without it becoming self‑condemnation. The Gardener’s “hand” brushed the branch, and the glow dimmed, not extinguished. The branch’s shape shifted, its angles tightening, its growth direction aligning with the rest of the lattice.
+
+The branch had grown from Anvel’s wound—his refusal to forgive himself, passed down as family doctrine until it became architecture. Mira had been the first to grow around it instead of through it. The Gardener was correcting the deviation.
 
 “The pruning you offer,” Sona said, “is a kind of anesthesia. It smooths the edges so we no longer feel the sharpness of what hurts. I cannot accept that as peace.”
 

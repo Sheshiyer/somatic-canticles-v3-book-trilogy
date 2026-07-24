@@ -1,0 +1,56 @@
+== Chapter-01-The-Choroid-Plexus.md (book 1, 10801w) ==
+  red_flag: PASS (total 0.37/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): PASS (0 hits)
+  voice register: WARN (expected-book share 36.5%)
+  VERDICT: WARN
+== Chapter-02-Signal-Transduction.md (book 1, 10308w) ==
+  red_flag: PASS (total 0.0/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): PASS (0 hits)
+  voice register: WARN (expected-book share 27.3%)
+  VERDICT: WARN
+== Chapter-03-The-Blood-Brain-Barrier.md (book 1, 13595w) ==
+  red_flag: PASS (total 0.07/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): WARN (1 hits)
+  voice register: WARN (expected-book share 23.2%)
+  VERDICT: WARN
+== Chapter-04-The-Emperors-Genome.md (book 1, 16475w) ==
+  red_flag: PASS (total 0.0/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): PASS (0 hits)
+  voice register: WARN (expected-book share 25.3%)
+  VERDICT: WARN
+== Chapter-05-The-Endocrine-Dogma.md (book 1, 16383w) ==
+  red_flag: PASS (total 0.0/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): PASS (0 hits)
+  voice register: WARN (expected-book share 30.3%)
+  VERDICT: WARN
+== Chapter-06-The-Synaptic-Crossroads.md (book 1, 15974w) ==
+  red_flag: PASS (total 0.0/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): PASS (0 hits)
+  voice register: WARN (expected-book share 24.9%)
+  VERDICT: WARN
+== Chapter-07-The-Breathfield-Weaver.md (book 1, 15000w) ==
+  red_flag: PASS (total 0.07/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): PASS (0 hits)
+  voice register: WARN (expected-book share 25.1%)
+  VERDICT: WARN
+== Chapter-08-The-Compass-Calibration.md (book 1, 21130w) ==
+  red_flag: PASS (total 0.19/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): PASS (0 hits)
+  voice register: WARN (expected-book share 31.7%)
+  VERDICT: WARN

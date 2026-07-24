@@ -20,7 +20,7 @@ Here there were no defaults.
 Sona felt the fact first as both terror and relief.  
 “Nothing is choosing for us,” she said, her voice a thin thread of breath.
 
-Jian answered before he meant to. “Which means we have to.”
+Jian answered before he meant to. “[OPACITY-REVIEW:Which means] we have to.”
 
 Gideon’s boundary tightened around the team in the smallest honest shape it could hold.  
 “Then we choose carefully,” he said.
@@ -84,7 +84,7 @@ Sona took the next step. Not because she was the most mystical, but because tone
 
 She extended pure permission into the receptive field. Not the joy of success. Not the joy of relief after danger. Not the sentimental brightness the old world kept trying to substitute for actual aliveness.
 
-She offered the hardest‑won version of it: life that does not need prior suffering to justify its own permission to exist.
+She offered the chapter’s hardest‑won version of it: life that does not need prior suffering to justify its own permission to exist.
 
 The field brightened.
 
@@ -145,7 +145,7 @@ He almost took offense. Instead he nodded.
 
 Corv waited until the others were done because narrative given too early becomes coercion. That was one of the hard lessons of the whole trilogy. People could survive pain. They could survive uncertainty. They could survive even the loss of inherited reality. What they often could not survive cleanly was a story laid over those things before they had the right to speak in their own language. So he waited.
 
-Only when tone, boundary, and direction held together without distortion did he offer the last condition. Purpose. Not teleology. Not the perfect ending he had already refused. Not a cosmic justification for what had been suffered. Direction of meaning.
+Only when tone, boundary, and direction held together without distortion did he offer the chapter’s last condition. Purpose. Not teleology. Not the perfect ending he had already refused. Not a cosmic justification for what had been suffered. Direction of meaning.
 
 “We are not escaping,” he said. The sentence landed in the field and held.
 
@@ -459,15 +459,114 @@ The place was not safe in any childish sense. It was too unfinished for that, to
 
 Sona closed her eyes. Jian stopped measuring. Gideon let his hands fall from the perimeter. Corv did not narrate the silence.
 
-Corv reached into his coat and withdrew a sliver of obsidian no longer than a finger joint, its surface etched with a single ninefold glyph. He had memorized the coordinates once, the way sailors once memorised reefs: `9.3.4N | 12.7.2E | -0.47 depth`. The old coordinates meant nothing here. The faith they represented meant everything.
-
-He set the seed on the ground that had just learned to hold them. The plane accepted it the way the lattice had accepted it in the Emperor's Genome — not devouring, only noting the address. An act of faith in future calibration, not present control.
-
-He thought of the shard he had left in the sphere's hollow, a black stone in place of a heart. Two black stones. Two acts of faith. One planted before the wound, one after. The first had witnessed what was broken. The second would witness what grew.
-
-That restraint became the field’s final architecture.
+That restraint became the chapter’s final architecture.
 
 Not a finished world.  
 Not a final home.  
 Not a bridge yet.
 
+The air in the chamber had settled to a thin, amber hush after the last pulse of the calibrators faded. Light from the peripheral panels fell in uneven strips, catching the dust that clung to the concrete like a reluctant memory. Corv stood at the center, his hands clasped behind his back, eyes flicking between the four of them as if measuring the weight of the silence itself.
+
+Sona lifted her palms, not to summon any grand display, but simply to feel the texture of the floor beneath her fingertips. The surface, still warm from the recent charge surge, yielded a gentle give—enough to support without demanding. She let a soft smile spread, not the forced cheer the protocols once required, but a quiet acknowledgment that the ground could hold a person without insisting on a particular mood.  
+“It’s… okay,” she whispered, the words more a feeling than a statement, and the faint tremor in her voice dissolved into the ambient stillness.
+
+Jian stepped forward, his feet leaving shallow impressions that filled instantly with the same yielding material. He traced an invisible line from the edge of the panel to the opposite wall, pausing at each point as if marking a waypoint. Instead of a full map, he offered a simple orientation: “If we move forward, the next support is there; if we turn, the edge runs along that line.” His gestures were minimal, each motion a suggestion rather than a command, and the others sensed the freedom in that restraint.
+
+Gideon lowered his arms, the kinetic gloves that had once projected hard barriers now relaxed, the charge fields they generated dimming to a faint aura. Where a wall might have risen, there was now a defined perimeter—a line of light that bent around the space, delineating a boundary without sealing it off. He let the light ripple, watching it pulse in sync with the slow breath of the room, then let it settle.  
+“We can see where we end, not where we block,” he said, his tone carrying the weight of someone who had spent too long building impenetrable defenses.
+
+The four stood in the middle of this provisional framework, each element a promise rather than a finished structure. Corv’s gaze lingered on the faint outline of the boundary, then shifted to the space between the edge and the support. He felt the responsibility settle like a gentle pressure on his shoulders—not the crushing load of an authorial decree, but the quiet duty of a steward.  
+“If we keep this,” he said, voice low, “the space will keep answering to us, not the other way around.”
+
+A soft hiss rose from the paneling as a residual charge released, the sound more like a sigh than an alarm. The hiss faded, leaving behind a subtle cooling of the air that seemed to affirm the tentative arrangement. Sona’s eyes opened, catching the faint glow of the boundary line as it brushed the floor. She let out a quiet laugh, the kind that startled her own chest, and the room seemed to lean in, listening.
+
+Jian shifted his weight, feeling the give of the floor under his foot, and gave a small nod toward the direction he had indicated.  
+“We can walk it,” he said, half‑joking, half‑serious, “one step at a time.”
+
+Gideon’s hands rested lightly on the edge of the light, his fingers tracing the curve without breaking it.  
+“And if we step too far,” he added, “the line will remind us where we are.”
+
+Corv exhaled, the sound barely audible over the lingering hum of the chamber’s life‑support systems. He turned his head toward the narrow opening that led back to the main hub, aware that the path ahead was still uncharted, but feeling the first, fragile certainty of a place that could be entered and left without being forced to stay.
+
+The moment stretched, a pause thick with possibility, before the group began to move, each footfall a gentle negotiation with the ground, each glance a quiet check against the line, each breath a shared acknowledgment of the tentative joy that held them together.
+
+The air in the chamber had settled into a thin, amber hush, the kind that pressed against the skin and made every inhale feel like a small pact. Sona stood at the center of the cleared space, her palms open, the faint scar on the back of her left hand catching the low light. She breathed in slowly, feeling the coolness of the filtered atmosphere fill her lungs, and then exhaled with a soft smile that was not forced but genuine—a quiet invitation rather than a command.  
+“If we let this place notice us,” she said, voice low enough that only the closest ears could catch it, “it can answer with something as simple as a touch of light.” Her words were a gentle nudge, a permission to let the environment respond on its own terms, not a demand that it conform to any preconceived happiness.
+
+Corv moved a step closer, his feet making a muted thud against the polymeric floor. He watched the way the light bent around the edge of a nearby support column, creating a thin line that seemed to pulse with the rhythm of the chamber’s climate regulators.  
+“Responsibility isn’t about holding the whole picture,” he murmured, more to himself than to anyone else. “It’s about keeping the edges clear so the rest can breathe.” He reached out, not to adjust any panel, but simply to trace the faint seam where the floor met the wall, feeling the subtle shift in temperature that marked the boundary between the engineered interior and the undefined exterior. The gesture was small, almost imperceptible, yet it anchored the surrounding space with a sense of defined limit without erecting a barrier.
+
+Jian, who had been studying the floor’s micro‑grooves with a practiced eye, tilted his head toward a faint discoloration near the far corner. “The ground here gives just enough,” he observed, tapping the spot lightly. “It’s not a solid slab, it’s a support that yields when weight is applied, then settles back. We can use that give to guide our steps, not to trap us.” He knelt, pressing his fingers into the softening material, feeling the slight give as his palm sank a few millimeters before the surface rebounded. The sensation was akin to walking on a spring‑tuned mat, responsive yet restrained.  
+“If we mark a path with our pressure, the floor will remember it without demanding we stay,” he added, a half‑smile playing at the corner of his mouth.
+
+Gideon, who had been monitoring the ambient readings on a handheld console, lifted his eyes from the display. The numbers flickered in a calm, unhurried pattern, showing that the environmental systems were holding steady but still responsive to minute changes. He placed both hands on the light itself, feeling the smooth curve of the luminous field as if it were a piece of glass.  
+“A boundary can be a reminder,” he said, his tone thoughtful. “Not a wall that blocks, but a line that tells us where we are stepping from and where we might step next.” He drew a slow, deliberate arc with his fingertips, and the light traced a faint, glowing line that traced the perimeter of the cleared zone. The line was thin enough to be almost invisible, yet it held a presence that made the space feel contained without feeling confined.
+
+A soft hiss rose from a vent in the far wall, the sound of filtered air being redirected. The hiss was brief, then ceased, leaving a moment of quiet that seemed to swell in the chamber. Sona’s eyes flicked to the vent, and she let out a quiet chuckle.  
+“Even the system wants a break,” she said, her tone light. “It’s giving us a pause, a chance to listen to what the floor, the light, the air are saying without us shouting over them.” The comment broke the concentration, and a ripple of relaxed laughter passed through the group, easing the tension that had built up like a taut string.
+
+Corv turned his gaze toward the narrow opening that led back to the hub, its outline barely visible against the dimming periphery. He inhaled deeply, feeling the slight pressure shift in his chest as the air settled around him.  
+“We’ve set the first conditions,” he said, voice steady, “but they’re only as good as the care we give them each time we walk through.” He stepped forward, his foot landing on the responsive floor with a soft, controlled press. The floor yielded just enough to register his weight, then settled, marking the spot with a faint imprint that would fade only as the next step arrived.
+
+Sona lifted her hand, the scar catching a stray beam, and let the light run over it, as if acknowledging the small imperfection as part of the whole.  
+“Joy isn’t a switch,” she whispered, “it’s a permission we grant each other, moment by moment.” Her words hung in the air, a promise that the space would not demand happiness but would welcome it when it chose to appear.
+
+Jian glanced at the faint line that Gideon had drawn, the edge of the light curving gently around the space.  
+“We have a direction,” he said, “not a map. One foot at a time, we’ll let the ground teach us where we can go and where we should pause.”
+
+The group stood in that shared silence, each sensation—a subtle shift of the floor, a soft glow at the edge, a breath of filtered air—reinforcing the provisional framework they had begun to shape. The moment stretched, a pause thick with possibility, before the group began to move, each footfall a gentle negotiation with the ground, each glance a quiet check against the line, each breath a shared acknowledgment of the tentative joy that held them together.
+
+The soft hum of the central channel faded behind them, leaving only the faint sigh of the chamber’s own breath. Corv knelt beside the newly laid tesserae, his fingertips tracing the edge where the material met the void‑filled floor. The surface resisted just enough to feel his weight, then yielded, leaving a shallow groove that filled with a pale, almost liquid light. He pressed his palm to the groove, feeling the subtle shift of pressure as the floor recorded his presence and then released it, a quiet acknowledgment that the ground was listening.
+
+“Looks like the floor’s finally learned to take a hint,” Sona murmured, her voice cracking a smile as she nudged a stray thread of light away from the scar on her forearm. She tilted her head, letting the glow dance across the mark, and then turned to the others with a glint in her eye.  
+“I was half‑expecting it to demand a chorus of laughter. Turns out it’s happy with a single, honest grin.” She let a small chuckle escape, the sound echoing off the stone walls like a stone skipping across a still pond.
+
+Jian stepped forward, his feet leaving a thin line of phosphorescent dust that curled around the edge Gideon had outlined earlier. He paused, squinting at the curve as it slipped away into the dimness.  
+“We’ve got a hint of a path,” he said, tapping the line with a practiced flick of his wrist. “Not a full‑blown map, but enough to keep us from stepping into the blind spot.” He lifted one foot, then the other, testing the ground’s response. Each step was met with a gentle, almost imperceptible give, as if the floor were asking, “Are you sure?” and then granting passage.
+
+Gideon stood a little distance away, his hands clasped behind his back. He watched the line expand, the light thickening where it brushed against the edge he had set.  
+“A boundary isn’t a wall,” he reminded them, his tone low but firm. “It’s a reminder that we choose where to press and where to hold back.” He reached out, his fingers brushing the luminous border, and the light rippled outward, a soft halo that marked the limit without sealing it off.  
+“If we forget, the ground will remind us,” he added, a faint grin breaking his usual reserve.
+
+Corv rose, his shoulders squared, and looked at each of his companions in turn.  
+“We’ve taken the first step toward a place that can hold us, but it only exists while we keep paying attention,” he said, his voice steady, the weight of responsibility evident in the set of his jaw. “If we walk away, the floor will forget we were ever here. If we linger, it will keep learning how to support us.” He glanced toward the narrow opening that led back to the hub, the silhouette of the passage a dark promise beyond the glow.  
+“Let’s make sure the next footfall is as deliberate as this one.”
+
+A faint chuckle rose from the group as Jian slipped a loose piece of equipment—a small, battered data‑pad—into his pocket, its screen flashing a single, blinking heart icon.  
+“Looks like even the tech wants a break,” he said, and the levity cut through the tension like a blade of light through water.
+
+The chamber settled into a rhythm of careful movement, each member testing the floor, the edge, the light, and each other. The air grew cooler, the glow steadier, and the sense of provisional structure tightened, a living promise that could be reshaped with every step.
+
+Sona knelt, her palms pressing flat against the newly formed floor. It did not feel like stone or polished metal, but rather like the tense, warm surface of a drumhead waiting for a strike. She flexed her fingers, feeling the subtle give beneath her skin, a biological feedback loop that suggested the surface was listening to her weight. "It's not holding me because I am heavy," she murmured, testing the hypothesis. "It's holding me because I am willing to be there." The distinction mattered; the ground did not demand her mass, it requested her presence. When she shifted her weight to one hip, the surface rippled, not with a mechanical whir, but with a fluid adjustment, like a muscle accommodating a change in posture. She laughed, a sharp, bright sound that seemed to startle the silence into a more comfortable shape. "I think I just negotiated a rent agreement with the dirt," she said, looking up at the others. "And I believe I'm the first tenant to pay in curiosity."
+
+Jian crouched near the edge where the light thinned into the grey void. He held his battered data-pad, but the screen was dark, the usual stream of diagnostic codes replaced by a single, pulsing cursor. He tapped the glass, and the cursor blinked back, a rhythm that matched his own breathing. "It's not mapping the empty space anymore," he observed, his voice stripped of its usual frantic urgency. "It's just waiting for us to decide what 'here' means." He turned the device over in his hands, the plastic casing warm from his grip. "I tried to run a scan for structural integrity, but the readout just kept asking, 'Why?' It's not calculating safety margins; it's calculating intent." He pocketed the pad, the blinking heart icon a quiet reminder that the technology was no longer a tool to be wielded, but a partner in the negotiation of space. "So, I'm going to walk. If the floor has a question, I'll answer it with my feet."
+
+Gideon stepped forward, his movements deliberate, creating a small circle of warmth around the group. He did not raise his voice to command, but his posture shifted the air, creating a zone of clear definition. "The boundary isn't a fence to keep the chaos out," he said, gesturing to the soft, glowing line that separated their small circle from the infinite grey. "It's a question we ask ourselves every time we step near it. 'Do I need to go further?'" He looked at Corv, then at Sona, his gaze steady. "If I try to define the whole world in one breath, the air gets thin. If I only define where I stand, the ground holds." He reached out, not to push the light away, but to trace its edge, acknowledging the limit as a form of care. "We are not building a fortress. We are practicing the art of staying."
+
+Corv felt the weight of the moment settle into his chest, not as a burden, but as an anchor. He looked at the three of them, the way their bodies were arranged in the new space, not as a hierarchy, but as a constellation of mutual support. "If we leave now," he said, his voice low, "the space dissolves. It's not a trap; it's a mirror. It only reflects the attention we give it." He took a step back, then forward, testing the stability of the floor. It held, firm and responsive. "We aren't the architects of a static place," he realized, the concept clicking into place with the finality of a lock turning. "We are the gardeners of a temporary state. We water it with our focus, and if we stop, the grass withers. It's that simple. And that hard."
+
+The silence that followed was not empty; it was full of the hum of their own biology interacting with the nascent reality. Sona's laugh faded into a soft smile, Jian's hands stopped fidgeting with his pockets, and Gideon's stance relaxed just enough to show he was listening. The air grew cooler, the glow steadier, and the sense of provisional structure tightened, a living promise that could be reshaped with every step.
+
+Sona shifted her weight, the soles of her feet finding purchase not on stone, but on a surface that remembered the shape of a footstep a fraction of a second after it landed. It was a tactile lie that felt like truth, a feedback loop where the ground anticipated her balance and offered it a hand. "It's like walking on a trampoline made of memory," she said, her voice light, scraping the heavy air. "If I stop moving, I might sink into the echo of where I was just a moment ago." She kicked a loose pebble that didn't exist, watching it vanish before it could hit the floor, leaving only a faint ripple in the light. "Or maybe the floor is just polite. It doesn't want to tell me I'm standing on nothing."
+
+Gideon watched her, the tension in his shoulders unspooling into a weary, practical grin. "Polite is good. Polite means it listens." He extended a hand, palm open, not to block the void, but to mark the space he occupied. "But if it listens too well, we'll never get anywhere. We'll just be walking in circles, apologizing to the dust." He turned to Jian, who was staring at his own hands as if they were foreign objects. "The readout is still asking 'Why?' isn't it? That's the worst kind of bureaucracy. Asking for a permit to exist."
+
+Jian looked up, the habitual panic in his eyes softened by a strange, cognitive fatigue. "It's not asking for a permit. It's asking for a reason to hold the shape." He tapped the dark screen again, a nervous tic that felt less like a command and more like a greeting. "I tried to force a coordinate system, but the logic just... dissolved. It's like trying to map a dream with a ruler. The numbers keep turning into metaphors." He let out a short, sharp bark of laughter, the sound startlingly human in the vast, silent grey. "I think the device is offended. It thinks I'm insulting its intelligence by asking it to be a wall."
+
+Corv stepped between them, the space between his feet and the others feeling measured, not by distance, but by the shared weight of the decision to stay. "Don't insult it," he said, his tone dry, cutting through the philosophical drift. "Just don't make it a cage. That's the difference between a home and a prison. One holds you; the other keeps you in." He looked at the glowing line Gideon had traced, the boundary that felt less like a barrier and more like a breath held and released. "We aren't building a fortress out of fear. We're drawing a circle to see if we can hold our own weight inside it."
+
+Sona laughed again, a genuine sound that seemed to make the grey air shiver, not with tremor, but with a sudden, sharp clarity. "So, no walls. Just a really good conversation with the floor." She took a step, then another, testing the ground's patience. "If the floor says 'no,' do we sit down? Or do we sit on the floor and ask it why?"
+
+"If the floor says no," Gideon replied, the corner of his mouth twitching, "we sit. And we wait until it changes its mind. Or until we get hungry enough to eat the floor."
+
+"Careful," Corv warned, a ghost of a smile touching his lips. "It might be made of old code. It could give you a stomach ache that lasts for a century."
+
+The group stood in a loose triangle, the silence between them no longer heavy with the threat of dissolution, but filled with the quiet hum of a shared, unspoken agreement. The light didn't flare; it settled. The ground didn't solidify; it simply agreed to be there. It was a provisional truce, a moment where the biology of their bodies, the philosophy of their intent, and the technology of the space around them stopped fighting and began to breathe in the same rhythm.
+
+Jian pocketed the pad, the screen fading to a soft, pulsing grey that matched the horizon. "I'm done asking for permission," he said, the words final, like a stone dropped into a still pond. "I'm just going to walk."
+
+"Then let's walk," Sona said, her voice bright, carrying the weight of a decision that felt lighter than air. "But if we find a door, let's not open it. Let's just lean on it for a while."
+
+Gideon nodded, the circle around them tightening, not with force, but with the simple, undeniable fact of their presence. The grey void stretched out, infinite and waiting, but they were no longer staring into it. They were standing on it, and for the first time, the ground did not feel like a question. It felt like an answer they were writing together, one step at a time.
+
+Only ground, edge, direction, joy, and responsibility, held together long enough to prove they could be practiced again.

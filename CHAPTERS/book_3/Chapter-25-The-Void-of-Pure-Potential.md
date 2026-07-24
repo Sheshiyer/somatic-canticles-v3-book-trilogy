@@ -551,7 +551,7 @@ Jian looked pained.
 
 “I hate when an argument has handles.”
 
-Sona wiped at her face though there were no tears in the old physical sense. The gesture still helped. “There. Handles again. Chapter 24 warned us.”
+Sona wiped at her face though there were no tears in the old physical sense. The gesture still helped. “There. Handles again. The final procedure warned us.”
 
 Gideon said, “A handle can pull or serve.”
 
@@ -839,7 +839,7 @@ Make one rule. Choose one leader. Let one person decide what this place is. Give
 
 The pressure did not come from an enemy. It came from being alive without supports. That made it more intimate and more dangerous.
 
-Sona felt it first as the wish to make the Note pleasant again. Jian felt it as the wish to accept any stable term. Corv felt it as the wish to speak the chapter’s meaning and be done. Gideon felt it as the wish to gather them into a tighter relation and call the tightening mercy.
+Sona felt it first as the wish to make the Note pleasant again. Jian felt it as the wish to accept any stable term. Corv felt it as the wish to speak the void’s meaning and be done. Gideon felt it as the wish to gather them into a tighter relation and call the tightening mercy.
 
 They named the wishes one by one.
 
@@ -1167,55 +1167,3 @@ Gideon closed his eyes again. “Do not give suffering anatomy.”
 “Too late,” Jian said. “It has cheekbones.”
 
 Corv looked betrayed by everyone and, therefore, more alive.
-
-The emptiness after the pulse was not an abyss so much as a sudden removal of expectation. Light that had once been defined by the algorithm’s bleed‑through was gone, and with it the familiar hum of the field that had given the team a sense of direction. The silence settled like a thin sheet of frost on a lake, and the four of them found themselves standing in a space that refused to be measured.
-
-Sona was the first to move, her hands drifting forward as if to feel the air that no longer existed. She pressed her palms against the invisible boundary that had once been a wall of data, and the sensation that returned was a faint pressure, more akin to the feeling of a deep breath held at the back of the throat than any tactile feedback. She inhaled, letting the lack of a pressure differential fill her lungs, and the emptiness seemed to echo back a simple truth: there was nothing to push against, only the fact that her body occupied space. “It’s strange,” she said, voice low, “to be aware of myself without the world trying to tell me where I am.”
-
-Corv’s eyes flicked over the void, his mind already cataloguing the loss of the narrative scaffolding the system had supplied. He clenched his fists, feeling the muscles tighten in his forearms, a reminder that the body still obeyed its own laws even when the external script had been stripped away. “We can’t start writing a story where there’s no page,” he murmured, the words more to himself than to the others. “If we try to force meaning now, we’ll just be stitching together a lie.”
-
-Jian stood slightly apart, his posture relaxed but his gaze fixed on the point where the field had dissolved. He let his thoughts settle on the idea of invalidity, allowing the absence of a coordinate grid to dissolve the need for any immediate classification. “Sometimes the best answer is to admit we have no answer,” he said, his tone gentle but firm. “We can sit with that uncertainty. We don’t have to label it, we just have to acknowledge it.”
-
-Gideon, who had been silently monitoring the residual readouts on his wrist‑screen, finally looked up. The display showed only a flat line, a quiet that was almost comforting. He placed his palm flat against the nearest surface of the void—a place that offered no resistance—and felt a faint heat radiating from his own skin, the only source of temperature now. “Keptness isn’t about walls,” he said, his voice steady. “It’s about the decision to stay present, even when the world doesn’t give us a border to lean on.”
-
-A soft rustle of breath passed among them, the only sound in the space. The team’s shared awareness grew, not through a shared external cue but through the simple fact that each was aware of the others’ presence. Sona’s eyes met Corv’s for a heartbeat, and an unspoken question lingered: could they find a common ground without the scaffolding? Corv’s jaw relaxed a fraction, and he gave a small, almost imperceptible nod.
-
-“Let’s not pretend we’ve solved anything,” Corv said, his voice carrying the edge of his usual sarcasm but softened by the stillness. “We’ve just cleared the board. The pieces are still there, waiting for a hand that knows which way to move.”
-
-Jian chuckled, a short sound that seemed to fill the void with a hint of levity. “A hand that knows nothing is still a hand. It can feel the weight of the empty space and decide whether to press down or lift up.”
-
-Sona smiled, a quiet curve that seemed to widen the space between them just a fraction. “I think I can feel the relation now,” she said, her tone more curious than triumphant. “Not the chorus of the field, but the simple fact that we exist together in this… nothing. It’s a kind of music, isn’t it? One without notes, just the space between them.”
-
-Gideon’s fingers brushed the edge of his own sleeve, a small, grounding motion. “If we stay here long enough, we’ll learn the shape of that space,” he replied. “Not by mapping it, but by learning how it feels to be held by it.”
-
-For a moment, the four of them stood in that quiet, each breathing in the same thin air, each feeling the other’s pulse, each aware that the void was not a void at all but a blank that could be filled simply by being. The pressure that had built up in the earlier phases of the mission eased, replaced by a soft, shared resolve.
-
-“Okay,” Corv said, his smile returning, now edged with a hint of genuine curiosity. “Let’s see what we can do with an empty field when we’re not trying to force a story onto it.”
-
-Jian inclined his head, his eyes reflecting the faint glow of the wrist‑screen that now displayed only the word “idle.” “We’ll start by not measuring,” he replied.
-
-Sona’s hand found the small, cool curve of the console that still hovered in the periphery, her fingers tracing its outline as if to confirm its existence. “And we’ll keep listening,” she added, “to the silence itself.”
-
-Gideon took a slow breath, feeling the faint heat of his own skin radiate outward, a tiny beacon in the absence of any external source. “And we’ll stay,” he said, “until the silence tells us it’s ready for something else.”
-
-The air—if it could be called that—held them a little longer, as if the void itself were granting a pause before the next phase could begin. The team's collective focus settled not on the absence of a field, but on the presence of each other, the simple fact that they were still there, still feeling, still willing to wait.
-
-The void pressed against the hull like an unspoken question, its interior a perfect null that refused to be mapped. Sensors flickered uselessly, each readout cycling through zeros before settling on a flat line. Corv stared at the blackness beyond the viewport, his jaw set, and let the silence settle into his bones. He could feel the urge to spin a story, to stitch a purpose from the emptiness, but the impulse was a thin thread he chose not to pull. Instead, he placed a palm flat against the console’s edge, feeling the faint hum of circuitry underneath his skin, and let the quiet dictate the shape of his thoughts.
-
-Sona moved closer to the central array, her eyes narrowing as she tried to hear anything beyond the static hush. The usual chorus of ambient data—thermal signatures, electromagnetic whispers, the soft susurrus of distant engines—was gone. In its place there was only the pure gap between breaths. She closed her eyes, inhaled, and let the act of listening become a tactile thing, as if each inhalation pressed a small hand against the void’s skin. The lack of external input forced her to attend to the rhythm of her own heartbeat, the subtle rise and fall of her chest, the faint throb of blood in her ears. It was a strange kind of music, one that required no amplification, and she found herself smiling at the absurdity of finding melody in nothing.
-
-Jian knelt beside the diagnostic panel, his fingers hovering over the input fields that now displayed only the word “idle.” He could have forced a measurement, could have forced a calculation, could have declared a failure and moved on. Yet the void offered no parameters to satisfy, no coordinates to anchor a vector. He let his hand rest on the cold metal, feeling the slight temperature gradient that came not from the environment but from his own body heat leaking into the frame. In that moment he accepted the possibility that some questions were meant to remain unanswered, that the act of waiting could be an answer in itself. He let his mind drift, not toward solutions but toward the space between them, allowing the emptiness to become a container for his own unmeasured presence.
-
-Gideon stood at the far side of the chamber, his posture relaxed but alert. The lack of external pressure meant his own weight pressed down on the floor plates, a subtle reminder that he was still grounded. He lifted a hand and brushed a stray thread of dust from the console, the motion slow and deliberate, as if the gesture itself might coax the void into revealing a hint. He thought of the concept of “keptness” that the briefings had described—a state of being held without being altered. He let that idea settle like a stone in a still pond, watching the ripples it might cause. The void offered no resistance, no pushback, and that lack of opposition felt like a promise: the space would not force him to become something he was not.
-
-A soft, involuntary chuckle escaped Corv as he watched the others settle into their own quiet rituals. “If we’re all just sitting in a dark room waiting for a punchline that never comes,” he said, his voice low, “maybe the joke’s that there isn’t one.” He let the words hang, then added, “Or maybe the punchline is that we stop looking for one altogether.” The humor was thin, but it cut through the tension like a blade through paper, and the brief levity rippled across the team, each of them feeling the release of a pressure that had built up in the moments before the void’s arrival.
-
-Sona’s fingers lingered on the console’s edge, and she let a tiny spark of curiosity flare. “What if the silence is a kind of question?” she mused, more to herself than to anyone else. “Not a question that asks for an answer, but a question that asks us to stay, to notice that we’re still here.” She glanced at the others, their faces calm, their breathing steady, and felt a quiet certainty settle in her chest. The answer, she realized, was not in the data streams or the projected schematics, but in the shared steadiness of their own presence.
-
-Jian nodded, his eyes still fixed on the idle screen. “We’ll start by not measuring,” he repeated, the phrase now a mantra rather than a directive. “Just be. Let the void be a mirror for what we bring into it, not a canvas for what we try to paint on it.” He allowed the words to settle, feeling the weight of them settle like a stone in his gut, grounding him further.
-
-Gideon exhaled, feeling the warmth of his breath mingle with the coolness of the metal around him. “And we’ll stay,” he said, his voice steady, “until the silence tells us it’s ready for something else.” The statement was simple, but the intention behind it was a deliberate act of staying put, of refusing the urge to fill the void with noise or haste.
-
-The chamber held them a moment longer, a breath of stillness that seemed to stretch beyond the physical walls. No alarms rang, no lights flickered, no external forces intruded. The only movement was the subtle shift of their own bodies, the soft rustle of clothing, the faint sound of a heartbeat against the quiet. In that suspended interval, the void was less an absence and more a presence—a quiet that amplified the fact that they were together, that they existed, that they could choose to wait.
-
-Sona’s

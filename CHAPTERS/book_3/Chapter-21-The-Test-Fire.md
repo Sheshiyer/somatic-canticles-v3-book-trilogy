@@ -75,6 +75,8 @@ The sentence sat in the chamber like a locked cabinet. Useful because it would n
 
 "Review pressure is already moving," Jian said. "The safety queue is pulling passive telemetry from the last alignment. If this exposure spikes the wrong channels, the Houses will have enough to argue containment before we finish naming what happened."
 
+He recognized the queue's signature. Node Quoril's market logic, dressed in safety language. Decision-matrix prediction, still hunting the routing logic years after the Luminth filings should have closed.
+
 "They do not need enough," Corv said. "They need a shape that can be made to look like enough."
 
 "Then we give them less shape," Gideon said.
@@ -122,6 +124,8 @@ Corv's gaze sharpened. "And if we worship the signal, we let panic write policy.
 "Also true. Annoyingly complete."
 
 The Anamnesis Engine had never been a neutral room. It had been built by people who wanted machinery to remember what institutions preferred to bury, and then it had been inherited by people who wanted remembered wounds to behave like controlled assets. Every surface carried that compromise. The threshold rail bore no ornament. The vessel housings were smooth enough to look humane from a distance and cold enough to betray the thought at hand. The floor had been polished so often that it did not reflect them. It rejected resemblance.
+
+Jian stared at the threshold rail, at the polish that had long since stopped reflecting anything. "We built this to carry us into the wound," he said, not to anyone in particular. "Somewhere between then and now it stopped asking our permission to hold the door."
 
 Sona shifted her weight and listened beneath the hum.
 

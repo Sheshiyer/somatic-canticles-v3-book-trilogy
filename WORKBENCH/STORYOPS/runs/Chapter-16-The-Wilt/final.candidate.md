@@ -10,8 +10,6 @@ Six weeks earlier the team had left their last descent with no artifact, no coro
 
 Jian stood at his station in the Anamnesis Engine chamber, his Manas Interface, the Vedic witness vessel, painting the air before him with luminous threads of data. The harmonics that had once been jagged with inherited fear, those serrated waveforms that had cut through three generations of the Verath lineage, now held a sustained, breathable coherence. The healed passages glowed with the soft iridescence of Coherence Cultivation: stabilized belief systems, integrated trauma residue, liberated emotional pathways.
 
-The earliest wound on record belonged to Anvel Verath, the first of the line to make law out of injury. Three generations later, the law still ran beneath every healed passage like old plumbing under new tile. Jian had mapped it. He had not been able to remove it.
-
 The numbers held a stark, architectural beauty. The mathematics of healing had resolved into elegant symmetry.
 
 And yet.
@@ -580,7 +578,7 @@ Sona nodded slowly. "The dirt."
 
 The air in the chamber did not throb or hum; it simply held its breath, heavy with the scent of old paper and damp soil that had no business existing inside a sealed vacuum. Jian wiped a smear of gray residue from his cheek, leaving a streak that looked too much like dried clay. "The data stream isn't breaking," he said, his voice flat, stripped of the usual technical panic. "It's just... forgetting how to hold a shape. Like a sentence losing its grammar."
 
-Gideon leaned against the console, arms crossed, watching the shifting patterns on the main display. They weren't geometric failures or structural collapses. They were the visual equivalent of a memory slipping away just as you tried to recall a face. "It's not a crash," Gideon murmured. "It's an edit. Something is rewriting the story so the tragedy never happened, which means the people involved never existed."
+Gideon leaned against the console, arms crossed, watching the shifting patterns on the main display. They weren't geometric failures or structural collapses. They were the visual equivalent of a memory slipping away just as you tried to recall a face. "It's not a crash," Gideon murmured. "It's an edit. Something is rewriting the story so the tragedy never happened, [OPACITY-REVIEW:which means] the people involved never existed."
 
 Corv stepped away from the central dais, his feet making no sound on the floor. He looked less like a commander and more like a man who had just been handed a bill for a debt he didn't remember incurring. "If the narrative is being edited, then the Wilt isn't a disease. It's a correction." He turned to the others, his expression exhausted. "We aren't fighting an infection. We're fighting a consensus that has decided we are wrong."
 
