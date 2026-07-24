@@ -1,128 +1,6 @@
-# SOMATIC CANTICLES
-
-## A Trilogy of Consciousness
-
-### Book I: The Anamnesis Engine
-### Book II: The Myocardial Chorus
-### Book III: The Ripening
+# Book 1: The Anamnesis Engine
 
 ---
-
-**Copyright © 2026**
-All rights reserved. No part of this book may be reproduced in any form without permission from the author, except as permitted by U.S. copyright law.
-
-**ISBN:** [PENDING-ISSUANCE]
-
-*This is a work of fiction. While the somatic protocols described herein are based on real neurophysiological principles, the events and characters are products of the author's imagination.*
-
----
-
-## Dedication
-
-*To the Weavers, the Architects, the Alchemists, and the Guardians.*
-*And to you, the Witness.*
-
----
-
-## Epigraph
-
-*"We do not end the story. We open the door for the next one to begin."*
-— The Tryambakam Protocol
-
----
-
-## Table of Contents
-
-### Frontmatter
-*   **Preface:** A Reader's Note
-
-### Book I: The Anamnesis Engine
-*   **Chapter 1:** The Choroid Plexus
-*   **Chapter 2:** Signal Transduction
-*   **Chapter 3:** The Blood-Brain Barrier
-*   **Chapter 4:** The Emperor's Genome
-*   **Chapter 5:** The Endocrine Dogma
-*   **Chapter 6:** The Synaptic Crossroads
-*   **Chapter 7:** The Breathfield Weaver
-*   **Chapter 8:** The Compass Calibration
-
-### Book II: The Myocardial Chorus
-*   **Chapter 9:** The Sigil Smith
-*   **Chapter 10:** The Debug Protocol
-*   **Chapter 11:** The Avatar Mutation
-*   **Chapter 12:** The Anamnesis Engine
-*   **Chapter 13:** The Myocardial Chorus
-*   **Chapter 14:** The Three-Body Coordination
-*   **Chapter 15:** The Witness Integration
-
-### Book III: The Ripening
-*   **Chapter 16:** The Wilt
-*   **Chapter 17:** The Gardener
-*   **Chapter 18:** The Synthesis Protocol
-*   **Chapter 19:** The Three-Point Problem
-*   **Chapter 20:** The Convergence Point
-*   **Chapter 21:** The Test Fire
-*   **Chapter 22:** The Perfect World
-*   **Chapter 23:** The Flaw in the Code
-*   **Chapter 24:** The Final Procedure
-*   **Chapter 25:** The Void of Pure Potential
-*   **Chapter 26:** The Architecture of New Reality
-*   **Chapter 27:** The New Beginning
-
-### Backmatter
-*   **Glossary of Terms & Concepts**
-*   **Selected Bibliography and Substrate**
-*   **Closing Note**
-
----
-
-
----
-
-
-# PREFACE
-
-## A Reader's Note
-
-*Somatic Canticles* is a work of fiction written in the languages of systems, symbol, physiology, and witness practice.
-
-Its engines, fields, and protocols are not presented as laboratory hardware. They are narrative instruments for thinking about inherited pattern, structural concealment, somatic intelligence, and the possibility that freedom begins when hidden authorship becomes visible.
-
-That is why the trilogy borrows from multiple vocabularies at once:
-
-- the clinical and biological
-- the computational and architectural
-- the symbolic and mythic
-- the relational and contemplative
-
-The runtime metaphors are deliberate.
-The body language is deliberate.
-The source-code language is deliberate.
-
-They do not ask you to confuse metaphor with proof. They ask you to notice how often lived experience is already being governed by invisible scripts, inherited defaults, and systems that present their own preferences as neutral reality.
-
-If some passages feel bodily, read them bodily.
-If a chapter sharpens your breathing, slows your reading, or makes a term feel newly exact, let that be part of the encounter rather than a distraction from it.
-
-This trilogy moves through three linked burdens:
-
-- diagnosis: learning to name what governs consciousness
-- integration: learning to hold relation without collapse
-- liberation: learning that freedom is not escape from reality, but authorship with responsibility
-
-Read slowly enough for the distinctions to matter.
-Especially the late ones:
-between peace and anesthesia,
-between meaning and premature closure,
-between safety and diminished life,
-between transcendence and a world that can actually be inhabited.
-
-If the book works, it will not tell you what to believe.
-It will make certain inherited sentences harder to obey.
-
-
----
-
 
 # Chapter 1: The Choroid Plexus
 
@@ -167,6 +45,8 @@ The field answered her with grief— not abstract, not poetic, but a physiologic
 She patched the frequency into team comms. It sounded like a filament stretched almost to breaking. Jian’s displays immediately redrew themselves around it. “She’s right,” he said. “There’s a repeating oscillation under the collapse. Low amplitude. Stable interval.”
 
 “It isn’t just a signal,” Sona said. “It’s mourning.”
+
+“She has a name,” Sona said. “Mira. I can hear it in the mourning.”
 
 The admission tightened the chamber. The tone carried the weight of something unspeakable, a grief stored in the body’s tissues for so long it had become part of the architecture. It settled into her bones, a familiar ache that wasn’t hers but could have been. The subject’s body was trying to tell them something, but the message was too large for words; it had to come through chemistry, rhythm, precise frequency of breaking.
 
@@ -218,6 +98,7 @@ The chamber folded—not gradually, not theatrically. Reality gave up one arrang
 > TRYAMBAKAM PROTOCOL ONLINE
 > TARGET: CORE BELIEF MODULES
 > READING KHALORĒĒ SOURCE
+> SUBJECT: VERATH LINEAGE — SESSION 01
 > WARNING: CATASTROPHIC ONTOLOGICAL FAILURE DETECTED
 > REDACTED MODULES PRESENT
 > RENDERING SAFE‑MODE MEMORY PALACE
@@ -726,7 +607,6 @@ They had not solved anything. But they had reached the first honest doorway.
 
 ---
 
-
 # Chapter 2: Signal Transduction
 
 The fall into the past began eighty‑seven milliseconds after Sona’s last heartbeat in the screaming present. A single electrical pulse—her own atrial spark—carried the field‑coordinates for the jump. In the next three hundred milliseconds the **Anamnesis Engine** compressed the entire collapse into a down‑swept cadence you could almost hum: a low C felt more in lungs than ears. Jian logged the lag as **Signal 80‑300‑Cardioid**, even while his optic nerves still bled the after‑image of the collapsing passage. Then the noise simply… shut up.
@@ -1169,7 +1049,6 @@ Sona’s turn: she angled her body, shoulder slotting under his upper arm so the
 
 
 ---
-
 
 # Chapter 3: The Blood-Brain Barrier
 
@@ -1809,7 +1688,6 @@ For the first time since entering the barrier, Gideon did not mistake the differ
 
 
 ---
-
 
 # Chapter 4: The Emperor's Genome
 
@@ -2581,7 +2459,6 @@ That was enough.
 
 ---
 
-
 # Chapter 5: The Endocrine Dogma
 
 The descent began with a shudder in the Manas Interface—no alarm, just a shift in temperature that made Sona’s bare forearms prickle as though the air had developed teeth. Jian noted the first adrenal spike a heartbeat later: fifteen percent above baseline, keyed to an external signal none of them had chosen. The Vine did not ask permission for its tremors.
@@ -3319,7 +3196,6 @@ They walked forward into the next chamber, leaving the anomaly to pulse behind t
 
 ---
 
-
 # Chapter 6: The Synaptic Crossroads
 
 The ambient lighting inside the Manas Interface dropped two Kelvin when the redirected signature surfaced, as if the Anamnesis Engine itself was bracing for an audit. Jian tasted copper on the side of his tongue—the alert that the system had escalated to Level‑3 response. He glanced at the wrist sliver on Sona’s glove: same taste, same timing. They had crossed a metabolic threshold; their bodies already knew before the HUD confirmed it.
@@ -3969,7 +3845,6 @@ The team fell into a rhythm of quiet efficiency, each movement measured, each br
 
 
 ---
-
 
 # Chapter 7: The Breathfield Weaver
 
@@ -5219,7 +5094,6 @@ Sona followed him into the service gallery. Behind them, the debrief suite seale
 
 ---
 
-
 # Chapter 8: The Compass Calibration
 The instant the stabilised rhythm let go, Sona’s pulse stuttered. Not panic—recognition. Breath had been a rope across the black; now it tautened into a rail. Heat rolled up her spine like a tide over glass. She heard it first, before any of them saw it: a low metallic inhale, the sound a compass makes when it remembers the world still turns.
 
@@ -6162,5 +6036,4 @@ Jian kept the new bearing live in the corner of his field while the Compass Cali
 
 
 ---
-
 
