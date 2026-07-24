@@ -1,0 +1,84 @@
+== Chapter-16-The-Wilt.md (book 3, 24873w) ==
+  red_flag: PASS (total 0.16/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): WARN (1 hits)
+  voice register: WARN (expected-book share 30.8%)
+  VERDICT: WARN
+== Chapter-17-The-Gardener.md (book 3, 11283w) ==
+  red_flag: PASS (total 0.0/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): PASS (0 hits)
+  voice register: PASS (expected-book share 38.5%)
+  VERDICT: PASS
+== Chapter-18-The-Synthesis-Protocol.md (book 3, 10534w) ==
+  red_flag: PASS (total 0.0/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): PASS (0 hits)
+  voice register: WARN (expected-book share 16.2%)
+  VERDICT: WARN
+== Chapter-19-The-Three-Point-Problem.md (book 3, 9897w) ==
+  red_flag: PASS (total 0.0/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): PASS (0 hits)
+  voice register: WARN (expected-book share 27.8%)
+  VERDICT: WARN
+== Chapter-20-The-Convergence-Point.md (book 3, 10376w) ==
+  red_flag: PASS (total 0.1/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): WARN (1 hits)
+  voice register: WARN (expected-book share 25.0%)
+  VERDICT: WARN
+== Chapter-21-The-Test-Fire.md (book 3, 9684w) ==
+  red_flag: PASS (total 0.0/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): PASS (0 hits)
+  voice register: PASS (expected-book share 38.2%)
+  VERDICT: PASS
+== Chapter-22-The-Perfect-World.md (book 3, 9407w) ==
+  red_flag: PASS (total 0.0/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): PASS (0 hits)
+  voice register: PASS (expected-book share 42.9%)
+  VERDICT: PASS
+== Chapter-23-The-Flaw-in-the-Code.md (book 3, 9352w) ==
+  red_flag: PASS (total 0.0/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): WARN (1 hits)
+  voice register: PASS (expected-book share 54.8%)
+  VERDICT: WARN
+== Chapter-24-The-Final-Procedure.md (book 3, 10970w) ==
+  red_flag: PASS (total 0.0/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): PASS (0 hits)
+  voice register: PASS (expected-book share 47.8%)
+  VERDICT: PASS
+== Chapter-25-The-Void-of-Pure-Potential.md (book 3, 11054w) ==
+  red_flag: PASS (total 0.0/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): PASS (0 hits)
+  voice register: PASS (expected-book share 33.9%)
+  VERDICT: PASS
+== Chapter-26-The-Architecture-of-New-Reality.md (book 3, 11968w) ==
+  red_flag: PASS (total 0.0/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): WARN (1 hits)
+  voice register: WARN (expected-book share 32.7%)
+  VERDICT: WARN
+== Chapter-27-The-New-Beginning.md (book 3, 10801w) ==
+  red_flag: PASS (total 0.0/1000; dense: none)
+  duplication: PASS (0 verbatim repeats)
+  epistemic: PASS (markers 0, empirical-adjacent 0)
+  opacity(asides): PASS (0 hits)
+  voice register: WARN (expected-book share 38.2%)
+  VERDICT: WARN
