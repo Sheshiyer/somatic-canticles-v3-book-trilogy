@@ -5828,6 +5828,8 @@ That was the blade.
 
 Because some acts are alive only before enough information arrives.
 
+Lens 13 was not a diagnostic filter. It was the writing surface—the place where the subject stopped being read and started writing. Lenses 1 through 12 diagnosed; Lens 13 authored. The probability threads it laid bare were not fate. They were available trajectories, and the subject who reached for one was not predicting the future. They were inscribing it.
+
 The body moves. The story follows. The leap begins before the justification has learned to speak.
 
 Jian pulled his hand away from the console.
@@ -8398,6 +8400,8 @@ There.
 That was the real procedure. Not the timer. Not the power curve. Not even the lock.
 
 The discipline of refusing any success that required them to become easier for the system to digest.
+
+But the lock was real. Three vectors—Locative Frame stabilized, Identity Signature discovered, Authorship Protocol activated—held simultaneously for 13.7 seconds. During the phase-shift, the pattern became presence. The Khalorēē, previously a signature *of* the subject, became the subject *as* signature: self-aware, self-inscribing, self-sustaining. The Gardener pruned by finding edges—the places where coherence thinned, where pattern had not yet become presence. A fully ripened subject had no edges. There was nothing to prune because there was nothing that was not already the subject's own inscription.
 
 Jian initiated the activation on an exhale.
 

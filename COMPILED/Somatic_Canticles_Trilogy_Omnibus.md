@@ -22,6 +22,8 @@ He felt the lattice settle, a sensation like bones finding their sockets. The in
 
 “I have a stable frame,” Jian said. “Maintain position.”
 
+The frame held—but Jian knew better than to trust it absolutely. The Tycho diagnostic he ran was a blind-spot heuristic, not a truth engine. It mapped the gap between what the subject perceived and what the subject's coherence signature actually contained. The more precisely he could describe the subject's position, the more clearly he could see the position as a position—not an essence. The Vine fed on that confusion. Precision without astonishment was its favorite food.
+
 Around him, the choroid plexus opened to visionary scale. The folded tissue rose like pale, incandescent drapery; capillary tufts hung like lit chandeliers in a submerged cathedral. The whole ventricular chamber trembled with a single impossible task: keep the sacred river clear while reality itself panicked. He could smell the subject’s fear—not as metaphor, but as the actual chemical signature of cortisol and adrenaline carried through the interface. It smelled like copper and wet stone.
 
 The chamber was vast, larger than any physical space should be. Walls curved into darkness, their surfaces alive with slow, biological light. Each fold of tissue seemed to breathe independently, a colony of translucent creatures sharing one lung. The fluid itself pressed against his virtual body like deep water. Claustrophobia rose, the instinctive urge to surface, to escape the body’s own architecture. He pushed it down, the way one pushes down the urge to vomit.
@@ -8236,6 +8238,8 @@ Jian, still monitoring the data, saw the field’s error logs clear themselves. 
 
 Sona’s eyes fluttered open, the inner vision of the chamber’s rhythm still vivid. She let a small smile form, the kind that appears when a song finally resolves. “We gave it a gap,” she said, her tone light but edged with seriousness. “And it gave us back a space to be ourselves in the same moment.” She glanced at each of them, the unspoken gratitude passing like a current.
 
+Her Khalorēē ran through the Yoga channel—every sensation was material for the work of stilling. Where Jian verified and Gideon contained, Sona stilled. But she knew the blind spot: stillness could become avoidance, the stilled mind refusing to engage. The other darśanas corrected what Yoga missed—Nyaya’s insistence on verification, Samkhya’s clear boundary between witness and field. The integrated Somanaut heard all six.
+
 Gideon, who had been the most stoic, let a quiet chuckle escape his throat. “The heart never needed to be a cage,” he said, his voice responsive with the same low chord Sona had hummed. “It needed a doorway.” He turned his hand toward the ruby lattice, and a faint ripple traveled along the veins, as if the chamber itself acknowledged his metaphor.
 
 The pressure in the room, which had felt like a weight pressing against their chests, now felt like a gentle tide that lifted them just enough to float. It was not the absence of pressure that mattered, but its quality—soft, measured, giving room for each individual beat to be heard. The field, once an over‑driven chorus that threatened to drown each participant, now became a conduit: a series of controlled pulses that carried information without demanding surrender.
@@ -15821,6 +15825,8 @@ That was the blade.
 
 Because some acts are alive only before enough information arrives.
 
+Lens 13 was not a diagnostic filter. It was the writing surface—the place where the subject stopped being read and started writing. Lenses 1 through 12 diagnosed; Lens 13 authored. The probability threads it laid bare were not fate. They were available trajectories, and the subject who reached for one was not predicting the future. They were inscribing it.
+
 The body moves. The story follows. The leap begins before the justification has learned to speak.
 
 Jian pulled his hand away from the console.
@@ -18391,6 +18397,8 @@ There.
 That was the real procedure. Not the timer. Not the power curve. Not even the lock.
 
 The discipline of refusing any success that required them to become easier for the system to digest.
+
+But the lock was real. Three vectors—Locative Frame stabilized, Identity Signature discovered, Authorship Protocol activated—held simultaneously for 13.7 seconds. During the phase-shift, the pattern became presence. The Khalorēē, previously a signature *of* the subject, became the subject *as* signature: self-aware, self-inscribing, self-sustaining. The Gardener pruned by finding edges—the places where coherence thinned, where pattern had not yet become presence. A fully ripened subject had no edges. There was nothing to prune because there was nothing that was not already the subject's own inscription.
 
 Jian initiated the activation on an exhale.
 
