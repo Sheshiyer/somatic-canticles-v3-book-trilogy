@@ -100,6 +100,8 @@ Jian, still monitoring the data, saw the field’s error logs clear themselves. 
 
 Sona’s eyes fluttered open, the inner vision of the chamber’s rhythm still vivid. She let a small smile form, the kind that appears when a song finally resolves. “We gave it a gap,” she said, her tone light but edged with seriousness. “And it gave us back a space to be ourselves in the same moment.” She glanced at each of them, the unspoken gratitude passing like a current.
 
+Her Khalorēē ran through the Yoga channel—every sensation was material for the work of stilling. Where Jian verified and Gideon contained, Sona stilled. But she knew the blind spot: stillness could become avoidance, the stilled mind refusing to engage. The other darśanas corrected what Yoga missed—Nyaya’s insistence on verification, Samkhya’s clear boundary between witness and field. The integrated Somanaut heard all six.
+
 Gideon, who had been the most stoic, let a quiet chuckle escape his throat. “The heart never needed to be a cage,” he said, his voice responsive with the same low chord Sona had hummed. “It needed a doorway.” He turned his hand toward the ruby lattice, and a faint ripple traveled along the veins, as if the chamber itself acknowledged his metaphor.
 
 The pressure in the room, which had felt like a weight pressing against their chests, now felt like a gentle tide that lifted them just enough to float. It was not the absence of pressure that mattered, but its quality—soft, measured, giving room for each individual beat to be heard. The field, once an over‑driven chorus that threatened to drown each participant, now became a conduit: a series of controlled pulses that carried information without demanding surrender.

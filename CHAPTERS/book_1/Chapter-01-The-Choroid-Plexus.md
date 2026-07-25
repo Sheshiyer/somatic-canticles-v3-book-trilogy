@@ -14,6 +14,8 @@ He felt the lattice settle, a sensation like bones finding their sockets. The in
 
 “I have a stable frame,” Jian said. “Maintain position.”
 
+The frame held—but Jian knew better than to trust it absolutely. The Tycho diagnostic he ran was a blind-spot heuristic, not a truth engine. It mapped the gap between what the subject perceived and what the subject's coherence signature actually contained. The more precisely he could describe the subject's position, the more clearly he could see the position as a position—not an essence. The Vine fed on that confusion. Precision without astonishment was its favorite food.
+
 Around him, the choroid plexus opened to visionary scale. The folded tissue rose like pale, incandescent drapery; capillary tufts hung like lit chandeliers in a submerged cathedral. The whole ventricular chamber trembled with a single impossible task: keep the sacred river clear while reality itself panicked. He could smell the subject’s fear—not as metaphor, but as the actual chemical signature of cortisol and adrenaline carried through the interface. It smelled like copper and wet stone.
 
 The chamber was vast, larger than any physical space should be. Walls curved into darkness, their surfaces alive with slow, biological light. Each fold of tissue seemed to breathe independently, a colony of translucent creatures sharing one lung. The fluid itself pressed against his virtual body like deep water. Claustrophobia rose, the instinctive urge to surface, to escape the body’s own architecture. He pushed it down, the way one pushes down the urge to vomit.

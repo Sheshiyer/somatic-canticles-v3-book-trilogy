@@ -111,6 +111,8 @@ That was the blade.
 
 Because some acts are alive only before enough information arrives.
 
+Lens 13 was not a diagnostic filter. It was the writing surface—the place where the subject stopped being read and started writing. Lenses 1 through 12 diagnosed; Lens 13 authored. The probability threads it laid bare were not fate. They were available trajectories, and the subject who reached for one was not predicting the future. They were inscribing it.
+
 The body moves. The story follows. The leap begins before the justification has learned to speak.
 
 Jian pulled his hand away from the console.
