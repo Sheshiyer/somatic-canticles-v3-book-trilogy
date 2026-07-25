@@ -471,6 +471,8 @@ That was the real procedure. Not the timer. Not the power curve. Not even the lo
 
 The discipline of refusing any success that required them to become easier for the system to digest.
 
+But the lock was real. Three vectors—Locative Frame stabilized, Identity Signature discovered, Authorship Protocol activated—held simultaneously for 13.7 seconds. During the phase-shift, the pattern became presence. The Khalorēē, previously a signature *of* the subject, became the subject *as* signature: self-aware, self-inscribing, self-sustaining. The Gardener pruned by finding edges—the places where coherence thinned, where pattern had not yet become presence. A fully ripened subject had no edges. There was nothing to prune because there was nothing that was not already the subject's own inscription.
+
 Jian initiated the activation on an exhale.
 
 Not because exhale had ritual value. Because inhale would have made him look like he was about to dive, and the procedure was not a plunge. It was a refusal carried through a moving seam by four people who still had bodies and therefore still had ways to fail.
