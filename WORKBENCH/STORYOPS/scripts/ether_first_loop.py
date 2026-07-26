@@ -5,9 +5,9 @@ Dry-run-first CLI. Walks the alchemical phases in strict order
 (ETHER_AXIOM -> NIGREDO -> ALBEDO -> CITRINITAS -> RUBEDO). NIGREDO and
 ALBEDO run real detection/extraction when their sibling modules
 (ether_first/nigredo.py, ether_first/albedo.py) are present, and fall back
-to stub packets otherwise. CITRINITAS and RUBEDO remain Phase 3 stubs that
-will consume the ALBEDO candidate ledger. The loop always defers: no
-candidates are accepted until RUBEDO lands.
+to stub packets otherwise. CITRINITAS and RUBEDO likewise run real
+synthesis/evaluation when ether_first/citrinitas.py and
+ether_first/rubedo.py are present, and fall back to stub packets otherwise.
 
 CANON SAFETY: this controller NEVER mutates canon. There is intentionally no
 --canon-write (or similar) flag; --apply only flips a recorded flag in the
@@ -17,7 +17,8 @@ lives in the run directory and canon promotion is a separate gated process
 
 Usage:
   python3 WORKBENCH/STORYOPS/scripts/ether_first_loop.py \
-      --manifest manifest.json [--cycles N] [--apply] [--base DIR]
+      --manifest manifest.json [--cycles N] [--apply] [--base DIR] \
+      [--isa-criteria "criterion"]...
 """
 from __future__ import annotations
 
@@ -45,6 +46,13 @@ try:
 except ImportError:
     nigredo = albedo = None
 
+# Phase 3 sibling phase modules (citrinitas.py, rubedo.py) are being written
+# concurrently. When absent, each phase falls back to stub behavior.
+try:
+    from ether_first import citrinitas, rubedo
+except ImportError:
+    citrinitas = rubedo = None
+
 ROOT = Path(__file__).resolve().parents[3]
 
 MIN_CYCLES, MAX_CYCLES = 3, 9
@@ -56,8 +64,8 @@ PHASE_INTENT = {
     "ETHER_AXIOM": "Fix the ether-first axiom set: source-of-truth ordering (field before matter) that every later phase's claims and findings are checked against.",
     "NIGREDO": "Detect contradictions, categorical leaks, and matter-first artifacts across the manifested sources; emit findings, never silently repair.",
     "ALBEDO": "Cleanse and normalize evidence: canonicalize claims, strip preamble residue, enforce epistemic grammar (HOUSE-MODEL never wears empirical syntax).",
-    "CITRINITAS": "Synthesize field-grounded candidates from normalized evidence; one variable per candidate, each traceable to hashed sources. Phase 3 stub: will consume the ALBEDO candidate ledger.",
-    "RUBEDO": "Accept/reject/defer candidates against the rubric and write the convergence report; skeleton always defers. Phase 3 stub: will consume the ALBEDO candidate ledger.",
+    "CITRINITAS": "Synthesize field-grounded candidates from normalized evidence; one variable per candidate, each traceable to hashed sources.",
+    "RUBEDO": "Accept/reject/defer candidates against the rubric (plus field-grounding and ISA probes) and write the convergence report.",
 }
 
 ETHER_FIRST_VOCAB = {
@@ -205,6 +213,88 @@ def run_albedo_phase(manifest: dict, manifest_terms: set, run_dir: Path) -> dict
     return packet
 
 
+def run_citrinitas_phase(claims: list, findings: list, run_dir: Path) -> dict:
+    """Real CITRINITAS packet: synthesize candidates from the in-memory
+    ALBEDO claims and NIGREDO findings already collected this run.
+
+    Every synthesis candidate is appended to the candidate ledger with
+    phase='CITRINITAS'. Exclusions and consequence_reports (which feed
+    RUBEDO) are stashed in the packet.
+    """
+    result = citrinitas.run_citrinitas(claims, findings)
+    candidates = result.get("candidates", [])
+    exclusions = result.get("exclusions", [])
+    consequence_reports = result.get("consequence_reports", {})
+    for candidate in candidates:
+        artifacts.append_candidate(run_dir, {
+            "phase": "CITRINITAS",
+            "statement": candidate.get("statement"),
+            "tag": candidate.get("tag"),
+            "provenance": candidate.get("provenance", []),
+            "member_count": candidate.get("member_count"),
+        })
+    return {
+        "phase": "CITRINITAS",
+        "stub": False,
+        "description": PHASE_INTENT["CITRINITAS"],
+        "claims": [],
+        "findings": [],
+        "candidates": candidates,
+        "exclusions": exclusions,
+        "consequence_reports": consequence_reports,
+    }
+
+
+def run_rubedo_phase(candidates: list, consequence_reports: dict,
+                     isa_criteria: list, run_dir: Path) -> dict:
+    """Real RUBEDO packet: evaluate CITRINITAS candidates and annotate each
+    with the field-grounding and ISA probes.
+
+    Every per-candidate evaluation (decision + rationale + probes) is
+    appended to the evaluator ledger. The packet carries the full
+    evaluations dict.
+    """
+    # citrinitas returns consequence_reports keyed by candidate statement;
+    # rubedo.evaluate_candidates expects an index-aligned list — adapt here.
+    if isinstance(consequence_reports, dict):
+        reports_list = [consequence_reports.get(c.get("statement"), {}) for c in candidates]
+    else:
+        reports_list = list(consequence_reports)
+    evaluations = rubedo.evaluate_candidates(candidates, reports_list)
+    for key in ("accepted", "rejected", "deferred"):
+        for evaluation in evaluations.get(key, []):
+            candidate = {
+                "statement": evaluation.get("statement"),
+                "tag": evaluation.get("tag"),
+                "provenance": evaluation.get("provenance", []),
+                "member_count": evaluation.get("member_count"),
+            }
+            record = {
+                "phase": "RUBEDO",
+                "decision": evaluation.get("decision", key.rstrip("ed")),
+                "rationale": evaluation.get("rationale"),
+                "statement": evaluation.get("statement"),
+            }
+            if key == "accepted":
+                record["field_grounding_probe"] = rubedo.field_grounding_probe(candidate)
+                record["isa_probe"] = rubedo.isa_probe(candidate, isa_criteria)
+                evaluation["field_grounding_probe"] = record["field_grounding_probe"]
+                evaluation["isa_probe"] = record["isa_probe"]
+            artifacts.append_eval(run_dir, record)
+    return {
+        "phase": "RUBEDO",
+        "stub": False,
+        "description": PHASE_INTENT["RUBEDO"],
+        "claims": [],
+        "findings": [],
+        "candidates": [],
+        "evaluations": evaluations,
+        "accepted": evaluations.get("accepted", []),
+        "rejected": evaluations.get("rejected", []),
+        "deferred": evaluations.get("deferred", []),
+    }
+
+
 def _ledger_line_count(run_dir: Path, name: str) -> int:
     path = Path(run_dir) / name
     if not path.exists():
@@ -228,26 +318,45 @@ def cycle_scorecard(cycle: int, dry_run: bool, candidates: int,
     }
 
 
-def run(manifest: dict, cycles: int, apply: bool, base: str) -> Path:
+def run(manifest: dict, cycles: int, apply: bool, base: str,
+        isa_criteria: list | None = None) -> Path:
     """Execute the skeleton loop; return the run directory path."""
+    isa_criteria = isa_criteria or []
     run_dir = artifacts.new_run_dir(base, manifest)
     artifacts.write_source_manifest(run_dir, manifest)
 
     manifest_terms = derive_manifest_terms(manifest)
 
     names = phase_names()
-    nigredo_findings = 0
-    albedo_candidates = 0
+    nigredo_findings: list = []
+    albedo_claims: list = []
+    citrinitas_packet: dict | None = None
+    rubedo_packet: dict | None = None
     for phase in names:
         if phase == "NIGREDO" and nigredo is not None:
             packet = run_nigredo_phase(manifest, manifest_terms, run_dir)
-            nigredo_findings = len(packet["findings"])
+            nigredo_findings = packet["findings"]
         elif phase == "ALBEDO" and albedo is not None:
             packet = run_albedo_phase(manifest, manifest_terms, run_dir)
-            albedo_candidates = len(packet["claims"])
+            albedo_claims = packet["claims"]
+        elif phase == "CITRINITAS" and citrinitas is not None:
+            packet = run_citrinitas_phase(albedo_claims, nigredo_findings, run_dir)
+            citrinitas_packet = packet
+        elif phase == "RUBEDO" and rubedo is not None and citrinitas_packet is not None:
+            packet = run_rubedo_phase(citrinitas_packet["candidates"],
+                                      citrinitas_packet["consequence_reports"],
+                                      isa_criteria, run_dir)
+            rubedo_packet = packet
         else:
             packet = stub_packet(phase)
         artifacts.write_phase_packet(run_dir, phase, packet)
+
+    citrinitas_candidates = (
+        len(citrinitas_packet["candidates"]) if citrinitas_packet else 0
+    )
+    rubedo_accepted = len(rubedo_packet["accepted"]) if rubedo_packet else 0
+    rubedo_rejected = len(rubedo_packet["rejected"]) if rubedo_packet else 0
+    rubedo_deferred = len(rubedo_packet["deferred"]) if rubedo_packet else 0
 
     stagnant = 0
     cycles_run = 0
@@ -256,11 +365,11 @@ def run(manifest: dict, cycles: int, apply: bool, base: str) -> Path:
 
     for cycle in range(1, cycles + 1):
         candidates = _ledger_line_count(run_dir, "candidate-ledger.jsonl")
-        findings = _ledger_line_count(run_dir, "evaluator-ledger.jsonl")
-        activity = candidates + findings
+        evaluations = _ledger_line_count(run_dir, "evaluator-ledger.jsonl")
+        activity = candidates + evaluations
         improvement = activity > prev_activity
         scorecard = cycle_scorecard(cycle, dry_run=not apply,
-                                    candidates=candidates, findings=findings,
+                                    candidates=candidates, findings=evaluations,
                                     improvement=improvement)
         artifacts.write_scorecard(run_dir, cycle, scorecard)
         cycles_run = cycle
@@ -270,27 +379,47 @@ def run(manifest: dict, cycles: int, apply: bool, base: str) -> Path:
             stop_reason = f"stagnation: {STAGNATION_STOP} consecutive cycles without improvement"
             break
 
-    report = {
-        "run_id": run_dir.name,
-        "outcome": "deferred",
-        "stop_reason": stop_reason,
-        "cycles_run": cycles_run,
-        "dry_run": not apply,
+    modules_loaded = {
+        "nigredo": nigredo is not None,
+        "albedo": albedo is not None,
+        "citrinitas": citrinitas is not None,
+        "rubedo": rubedo is not None,
+    }
+    extra = {
         "phases": names,
         "manifest_version": manifest.get("version"),
         "manifest_entries": len(manifest.get("entries", [])),
-        "nigredo_findings": nigredo_findings,
-        "albedo_candidates": albedo_candidates,
-        "modules_loaded": {
-            "nigredo": nigredo is not None,
-            "albedo": albedo is not None,
-        },
-        "notes": "Phase 2: NIGREDO/ALBEDO run real detection/extraction when "
-                 "their modules are present, else fall back to stubs. "
-                 "CITRINITAS/RUBEDO remain Phase 3 stubs and will consume the "
-                 "ALBEDO candidate ledger. Outcome is always deferred; "
-                 "--apply only records intent; the controller never mutates canon.",
+        "nigredo_findings": len(nigredo_findings),
+        "albedo_candidates": len(albedo_claims),
+        "citrinitas_candidates": citrinitas_candidates,
+        "rubedo_accepted": rubedo_accepted,
+        "rubedo_rejected": rubedo_rejected,
+        "rubedo_deferred": rubedo_deferred,
+        "modules_loaded": modules_loaded,
     }
+    if rubedo is not None and rubedo_packet is not None:
+        report = rubedo.build_convergence_report(
+            run_dir.name,
+            rubedo_packet["evaluations"],
+            cycles_run,
+            stop_reason,
+            not apply,
+        )
+        report.update(extra)
+    else:
+        report = {
+            "run_id": run_dir.name,
+            "outcome": "deferred",
+            "stop_reason": stop_reason,
+            "cycles_run": cycles_run,
+            "dry_run": not apply,
+        }
+        report.update(extra)
+        report["notes"] = ("Phases run real logic when their modules are present, "
+                           "else fall back to stubs. Outcome is always deferred; "
+                           "--apply only records intent; the controller never "
+                           "mutates canon.")
+    report["canon_mutated"] = False
     artifacts.write_convergence_report(run_dir, report)
     return run_dir
 
@@ -305,6 +434,9 @@ def main() -> None:
                              "never mutates canon by design)")
     parser.add_argument("--base", default=str(ROOT / "artifacts" / "ether-first-loop"),
                         help="artifact base directory")
+    parser.add_argument("--isa-criteria", action="append", default=[],
+                        metavar="CRITERION",
+                        help="ISA criterion for the RUBEDO isa_probe (repeatable)")
     args = parser.parse_args()
 
     cycles = clamp_cycles(args.cycles)
@@ -318,7 +450,7 @@ def main() -> None:
     except ValueError as e:
         parser.error(f"invalid manifest: {e}")
 
-    run_dir = run(m, cycles, args.apply, args.base)
+    run_dir = run(m, cycles, args.apply, args.base, isa_criteria=args.isa_criteria)
     report = manifest_mod.load_manifest(run_dir / "convergence-report.json")
     print(f"mode: {'apply' if args.apply else 'dry-run'}  "
           f"cycles_run: {report['cycles_run']}  outcome: {report['outcome']}")
