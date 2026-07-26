@@ -24,7 +24,7 @@ Gideon’s adrenal axis spiked—cold flare at the base of the skull, then a war
 
 He had trained half his life to walk borders exactly like this one: invisible, exquisite, relentless. Every boundary tells you what a system believes will kill it. The sentence had been spoken over Seter dinner tables since before he had the right to ask what “kill” meant. Tonight the axiom felt less like creed and more like confession.
 
-“Klei Toda’ah deploying,” he said aloud, voice steady as a milled edge.
+“Klei Toda'ah deploying,” he said aloud, voice steady as a milled edge.
 
 Roots of argent light descended from his sternum, branches rose from his scapulae, both knitting themselves into a radiant lattice that smelled faintly of ozone and rosemary. Around the team the architecture clarified edges rather than walling the world out. The field felt like the first honest breath after a long evacuation drill: now you can see the exits, now you know the exits might matter more than the shield.
 

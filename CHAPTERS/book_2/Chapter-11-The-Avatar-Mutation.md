@@ -200,7 +200,7 @@ Corv stepped closer to the nearly absent figure, the one that had flickered on t
 
 The nearly absent avatar responded not with words but with a subtle shift in its internal cadence. The ambient pressure around it lowered, and a faint luminescence spread outward, touching the edges of the covered and bright forms. It was as if the quiet one had whispered a secret to its louder counterparts, reminding them that the space they occupied was shared, not owned.
 
-Sona moved to the center of the carousel, where the transmission glyph of the **Light‑Response Alliance** still glowed faintly. She placed her palm on the glyph, feeling the residual data ripple through her **Adawat al‑Wa'i**. The glyph pulsed once, twice, and then steadied, as if acknowledging the new rhythm the team had coaxed into existence.
+Sona moved to the center of the carousel, where the transmission glyph of the **Light‑Response Alliance** still glowed faintly. She placed her palm on the glyph, feeling the residual data ripple through her **Adawat al-Wa'i**. The glyph pulsed once, twice, and then steadied, as if acknowledging the new rhythm the team had coaxed into existence.
 
 “The council’s message is still out there,” she said, “but we’ve given it a shape that won’t break when they try to read it. It’s a living document now, not a static report.”
 
@@ -256,7 +256,7 @@ Jian, eyes still fixed on the cascading matrices in his **Manas Interface**, not
 
 “Every time we give a configuration a breath, the field’s entropy drops,” he said, voice low enough that only the four of them could hear. “We’ve turned a cascade into a cascade of hand‑offs. The delta between hand‑off loss and hand‑off gain is now negative—meaning we’re net‑gaining stability with each transfer.”
 
-Gideon, his **Klei Todaʿah** now a shimmering halo that traced delicate bridges between the avatars, let out a breath he didn’t realize he’d been holding. The lattice of tendrils that had once resembled a defensive wall now resembled a spider’s web, each strand taut with purpose but yielding to the weight of a passing insect. He watched a tiny pulse travel from the bright avatar, across the web, into the covered one, and finally into the nearly‑absent figure, which responded with a faint, responsive sigh that seemed to tremble the very air.
+Gideon, his **Klei Toda'ah** now a shimmering halo that traced delicate bridges between the avatars, let out a breath he didn’t realize he’d been holding. The lattice of tendrils that had once resembled a defensive wall now resembled a spider’s web, each strand taut with purpose but yielding to the weight of a passing insect. He watched a tiny pulse travel from the bright avatar, across the web, into the covered one, and finally into the nearly‑absent figure, which responded with a faint, responsive sigh that seemed to tremble the very air.
 
 “Looks like the field finally learned the difference between guarding a door and guarding the hallway,” he said, the corners of his mouth lifting. “We’ve stopped being the bouncers and become the ushers.”
 

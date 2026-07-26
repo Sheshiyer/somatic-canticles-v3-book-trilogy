@@ -38,7 +38,7 @@ He could feel the subject’s immune system responding to the breach the way a b
 
 Sona arrived next, her presence subtle as the shift of tide. Where Jian met the crisis as contradiction and Gideon as attack, Sona entered through tone. Her eyes softened, her breathing slowed. The chamber’s agony struck her not as error but as a chorus ruined by one wrong note held too long. Beneath the shriek she searched for a carrier frequency, for the one surviving truth the body had not yet buried.
 
-Her **Adawat al‑Wa'i** spiraled open in slow, radiant turns, each layer revealing another depth of listening. Her avatar was almost translucent, edges soft, as though she had learned to be permeable without being fragile. The chamber’s light passed through her, refracting into gentle spectrum shifts.
+Her **Adawat al-Wa'i** spiraled open in slow, radiant turns, each layer revealing another depth of listening. Her avatar was almost translucent, edges soft, as though she had learned to be permeable without being fragile. The chamber’s light passed through her, refracting into gentle spectrum shifts.
 
 The field answered her with grief— not abstract, not poetic, but a physiological lament. She felt it as a knot below her sternum while her interface spiraled open. The vessel did not “solve” the distress; it made it legible. Harmonics separated, distortion peeled away from signal. Beneath the screaming wash, a low recurring tone emerged, frail but persistent.
 
@@ -647,7 +647,7 @@ She reached toward the smoke, reflex slowed by wonder, and her fingers passed th
 
 “Subject’s not here,” she said. “But the devotion is.”
 
-Her **Adawat al‑Wa'i** read the room like skin reads braille: a texture of absence, raised and definite. The absence had weight—twelve kilograms, give or take the mass of an adult heart. She said it aloud before she could stop herself. “Twelve kilos of missing person.”
+Her **Adawat al-Wa'i** read the room like skin reads braille: a texture of absence, raised and definite. The absence had weight—twelve kilograms, give or take the mass of an adult heart. She said it aloud before she could stop herself. “Twelve kilos of missing person.”
 
 Gideon snorted—half laugh, half bark. “That’s disturbingly specific.”
 
@@ -1068,7 +1068,7 @@ Gideon’s adrenal axis spiked—cold flare at the base of the skull, then a war
 
 He had trained half his life to walk borders exactly like this one: invisible, exquisite, relentless. Every boundary tells you what a system believes will kill it. The sentence had been spoken over Seter dinner tables since before he had the right to ask what “kill” meant. Tonight the axiom felt less like creed and more like confession.
 
-“Klei Toda’ah deploying,” he said aloud, voice steady as a milled edge.
+“Klei Toda'ah deploying,” he said aloud, voice steady as a milled edge.
 
 Roots of argent light descended from his sternum, branches rose from his scapulae, both knitting themselves into a radiant lattice that smelled faintly of ozone and rosemary. Around the team the architecture clarified edges rather than walling the world out. The field felt like the first honest breath after a long evacuation drill: now you can see the exits, now you know the exits might matter more than the shield.
 
@@ -3218,7 +3218,7 @@ Sona had already turned away from him. The red branch billowed against her face,
 
 Jian’s reply came clipped, almost polite. “And combustion without containment spreads until it starves itself. Structure is not betrayal.”
 
-Gideon widened his stance between them, feet magnetized to the floor grid. His Klei Toda’ah unfurled, micro‑threads of living mesh knitting a sphere just wide enough to keep their heartbeats from syncing. The gesture looked gentle, but the acoustics shifted; Sona’s pulse dropped eight beats per minute as soon as the field stabilized. Gideon did not glance at either of them. “Clock’s running,” he said. “Two minutes until the fork hardens and picks for us.”
+Gideon widened his stance between them, feet magnetized to the floor grid. His Klei Toda'ah unfurled, micro‑threads of living mesh knitting a sphere just wide enough to keep their heartbeats from syncing. The gesture looked gentle, but the acoustics shifted; Sona’s pulse dropped eight beats per minute as soon as the field stabilized. Gideon did not glance at either of them. “Clock’s running,” he said. “Two minutes until the fork hardens and picks for us.”
 
 Corv dragged a gloved finger across the air, sketching a tangent that avoided both branches. “Listen to the architecture,” he said. “The choice is a decoy. The system is defending the wound by giving us clean binary options. Choose either route and the source remains untouched.”
 

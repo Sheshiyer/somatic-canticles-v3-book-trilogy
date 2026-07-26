@@ -46,7 +46,7 @@ She reached toward the smoke, reflex slowed by wonder, and her fingers passed th
 
 “Subject’s not here,” she said. “But the devotion is.”
 
-Her **Adawat al‑Wa'i** read the room like skin reads braille: a texture of absence, raised and definite. The absence had weight—twelve kilograms, give or take the mass of an adult heart. She said it aloud before she could stop herself. “Twelve kilos of missing person.”
+Her **Adawat al-Wa'i** read the room like skin reads braille: a texture of absence, raised and definite. The absence had weight—twelve kilograms, give or take the mass of an adult heart. She said it aloud before she could stop herself. “Twelve kilos of missing person.”
 
 Gideon snorted—half laugh, half bark. “That’s disturbingly specific.”
 

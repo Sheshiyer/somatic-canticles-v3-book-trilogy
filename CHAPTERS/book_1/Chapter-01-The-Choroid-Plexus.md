@@ -44,7 +44,7 @@ He could feel the subject’s immune system responding to the breach the way a b
 
 Sona arrived next, her presence subtle as the shift of tide. Where Jian met the crisis as contradiction and Gideon as attack, Sona entered through tone. Her eyes softened, her breathing slowed. The chamber’s agony struck her not as error but as a chorus ruined by one wrong note held too long. Beneath the shriek she searched for a carrier frequency, for the one surviving truth the body had not yet buried.
 
-Her **Adawat al‑Wa'i** spiraled open in slow, radiant turns, each layer revealing another depth of listening. Her avatar was almost translucent, edges soft, as though she had learned to be permeable without being fragile. The chamber’s light passed through her, refracting into gentle spectrum shifts.
+Her **Adawat al-Wa'i** spiraled open in slow, radiant turns, each layer revealing another depth of listening. Her avatar was almost translucent, edges soft, as though she had learned to be permeable without being fragile. The chamber’s light passed through her, refracting into gentle spectrum shifts.
 
 The field answered her with grief— not abstract, not poetic, but a physiological lament. She felt it as a knot below her sternum while her interface spiraled open. The vessel did not “solve” the distress; it made it legible. Harmonics separated, distortion peeled away from signal. Beneath the screaming wash, a low recurring tone emerged, frail but persistent.
 

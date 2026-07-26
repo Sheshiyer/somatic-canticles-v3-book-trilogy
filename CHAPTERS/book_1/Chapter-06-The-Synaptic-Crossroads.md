@@ -28,7 +28,7 @@ Sona had already turned away from him. The red branch billowed against her face,
 
 Jian’s reply came clipped, almost polite. “And combustion without containment spreads until it starves itself. Structure is not betrayal.”
 
-Gideon widened his stance between them, feet magnetized to the floor grid. His Klei Toda’ah unfurled, micro‑threads of living mesh knitting a sphere just wide enough to keep their heartbeats from syncing. The gesture looked gentle, but the acoustics shifted; Sona’s pulse dropped eight beats per minute as soon as the field stabilized. Gideon did not glance at either of them. “Clock’s running,” he said. “Two minutes until the fork hardens and picks for us.”
+Gideon widened his stance between them, feet magnetized to the floor grid. His Klei Toda'ah unfurled, micro‑threads of living mesh knitting a sphere just wide enough to keep their heartbeats from syncing. The gesture looked gentle, but the acoustics shifted; Sona’s pulse dropped eight beats per minute as soon as the field stabilized. Gideon did not glance at either of them. “Clock’s running,” he said. “Two minutes until the fork hardens and picks for us.”
 
 Corv dragged a gloved finger across the air, sketching a tangent that avoided both branches. “Listen to the architecture,” he said. “The choice is a decoy. The system is defending the wound by giving us clean binary options. Choose either route and the source remains untouched.”
 

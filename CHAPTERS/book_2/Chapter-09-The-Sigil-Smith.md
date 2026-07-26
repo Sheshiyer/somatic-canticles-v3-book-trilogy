@@ -22,7 +22,7 @@ Sona turned once, head tilted, listening past the visible forms.
 
 “The chamber is holding on the sharp beat,” she said. “Not the true one. Every sigil here resolves too early, like it expects contact to become injury.”
 
-Her **Adawat al‑Wa'i** spiraled outward in a narrow, listening coil. She did not flood the room with harmony. She simply found the intervals where care had been replaced by preemptive tightening and let the team hear the cost of that substitution.
+Her **Adawat al-Wa'i** spiraled outward in a narrow, listening coil. She did not flood the room with harmony. She simply found the intervals where care had been replaced by preemptive tightening and let the team hear the cost of that substitution.
 
 Jian’s retinal grid populated with clean overlays.
 

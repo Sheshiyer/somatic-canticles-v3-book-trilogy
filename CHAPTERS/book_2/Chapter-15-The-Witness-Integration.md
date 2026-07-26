@@ -22,7 +22,7 @@ Sona was the first to trust it.
 
 That was the first sign the chamber was real.
 
-Corv let his gaze move through the sanctuary’s proportions. Jian’s Manas Interface rendered nested observation frames across the walls and immediately flagged instability. Gideon’s Klei Toda’ah tested the thresholds, not for enemies this time but for breaches in coherence. Sona listened into the near‑silence until she found what the quiet was hiding.
+Corv let his gaze move through the sanctuary’s proportions. Jian’s Manas Interface rendered nested observation frames across the walls and immediately flagged instability. Gideon’s Klei Toda'ah tested the thresholds, not for enemies this time but for breaches in coherence. Sona listened into the near‑silence until she found what the quiet was hiding.
 
 The chamber was not empty. It was partitioned.
 

@@ -42,7 +42,7 @@ He could feel the subject’s immune system responding to the breach the way a b
 
 Sona arrived next, her presence subtle as the shift of tide. Where Jian met the crisis as contradiction and Gideon as attack, Sona entered through tone. Her eyes softened, her breathing slowed. The chamber’s agony struck her not as error but as a chorus ruined by one wrong note held too long. Beneath the shriek she searched for a carrier frequency, for the one surviving truth the body had not yet buried.
 
-Her **Adawat al‑Wa'i** spiraled open in slow, radiant turns, each layer revealing another depth of listening. Her avatar was almost translucent, edges soft, as though she had learned to be permeable without being fragile. The chamber’s light passed through her, refracting into gentle spectrum shifts.
+Her **Adawat al-Wa'i** spiraled open in slow, radiant turns, each layer revealing another depth of listening. Her avatar was almost translucent, edges soft, as though she had learned to be permeable without being fragile. The chamber’s light passed through her, refracting into gentle spectrum shifts.
 
 The field answered her with grief— not abstract, not poetic, but a physiological lament. She felt it as a knot below her sternum while her interface spiraled open. The vessel did not “solve” the distress; it made it legible. Harmonics separated, distortion peeled away from signal. Beneath the screaming wash, a low recurring tone emerged, frail but persistent.
 
@@ -651,7 +651,7 @@ She reached toward the smoke, reflex slowed by wonder, and her fingers passed th
 
 “Subject’s not here,” she said. “But the devotion is.”
 
-Her **Adawat al‑Wa'i** read the room like skin reads braille: a texture of absence, raised and definite. The absence had weight—twelve kilograms, give or take the mass of an adult heart. She said it aloud before she could stop herself. “Twelve kilos of missing person.”
+Her **Adawat al-Wa'i** read the room like skin reads braille: a texture of absence, raised and definite. The absence had weight—twelve kilograms, give or take the mass of an adult heart. She said it aloud before she could stop herself. “Twelve kilos of missing person.”
 
 Gideon snorted—half laugh, half bark. “That’s disturbingly specific.”
 
@@ -1072,7 +1072,7 @@ Gideon’s adrenal axis spiked—cold flare at the base of the skull, then a war
 
 He had trained half his life to walk borders exactly like this one: invisible, exquisite, relentless. Every boundary tells you what a system believes will kill it. The sentence had been spoken over Seter dinner tables since before he had the right to ask what “kill” meant. Tonight the axiom felt less like creed and more like confession.
 
-“Klei Toda’ah deploying,” he said aloud, voice steady as a milled edge.
+“Klei Toda'ah deploying,” he said aloud, voice steady as a milled edge.
 
 Roots of argent light descended from his sternum, branches rose from his scapulae, both knitting themselves into a radiant lattice that smelled faintly of ozone and rosemary. Around the team the architecture clarified edges rather than walling the world out. The field felt like the first honest breath after a long evacuation drill: now you can see the exits, now you know the exits might matter more than the shield.
 
@@ -3222,7 +3222,7 @@ Sona had already turned away from him. The red branch billowed against her face,
 
 Jian’s reply came clipped, almost polite. “And combustion without containment spreads until it starves itself. Structure is not betrayal.”
 
-Gideon widened his stance between them, feet magnetized to the floor grid. His Klei Toda’ah unfurled, micro‑threads of living mesh knitting a sphere just wide enough to keep their heartbeats from syncing. The gesture looked gentle, but the acoustics shifted; Sona’s pulse dropped eight beats per minute as soon as the field stabilized. Gideon did not glance at either of them. “Clock’s running,” he said. “Two minutes until the fork hardens and picks for us.”
+Gideon widened his stance between them, feet magnetized to the floor grid. His Klei Toda'ah unfurled, micro‑threads of living mesh knitting a sphere just wide enough to keep their heartbeats from syncing. The gesture looked gentle, but the acoustics shifted; Sona’s pulse dropped eight beats per minute as soon as the field stabilized. Gideon did not glance at either of them. “Clock’s running,” he said. “Two minutes until the fork hardens and picks for us.”
 
 Corv dragged a gloved finger across the air, sketching a tangent that avoided both branches. “Listen to the architecture,” he said. “The choice is a decoy. The system is defending the wound by giving us clean binary options. Choose either route and the source remains untouched.”
 
@@ -6075,7 +6075,7 @@ Sona turned once, head tilted, listening past the visible forms.
 
 “The chamber is holding on the sharp beat,” she said. “Not the true one. Every sigil here resolves too early, like it expects contact to become injury.”
 
-Her **Adawat al‑Wa'i** spiraled outward in a narrow, listening coil. She did not flood the room with harmony. She simply found the intervals where care had been replaced by preemptive tightening and let the team hear the cost of that substitution.
+Her **Adawat al-Wa'i** spiraled outward in a narrow, listening coil. She did not flood the room with harmony. She simply found the intervals where care had been replaced by preemptive tightening and let the team hear the cost of that substitution.
 
 Jian’s retinal grid populated with clean overlays.
 
@@ -6693,7 +6693,7 @@ RESPONSE LAYER: PREMATURE
 PRIMARY FAILURE: SEQUENCE COLLISION
 ```
 
-Gideon did not look at the text first. He looked at the load‑bearing seams around it. His **Klei Todaʾah** rooted through the chamber floor, stabilizing edges that kept shearing whenever two processes tried to claim the same ground.
+Gideon did not look at the text first. He looked at the load‑bearing seams around it. His **Klei Toda'ah** rooted through the chamber floor, stabilizing edges that kept shearing whenever two processes tried to claim the same ground.
 
 "This is intimate terrain," he said, the words short, the tone blunt. "If we force one clean answer too fast, the field will read it as another override. Hold the perimeter. Let the method show itself."
 
@@ -6817,7 +6817,7 @@ Jian was the first to break the stillness. He lowered his **Manas Interface** ha
 
 Sona let her **Adawat al‑Waʾi** settle into its slow spiral, the soft chime that accompanied the shift responding in her chest. “A window,” she repeated, “but one that can be closed as fast as it opened. If we step through without care, the field will seal it again.” She turned her gaze to the new option trees sprouting beyond the original stack of panes, their branches tentative yet unmistakably alive. “Those are not just possibilities; they’re invitations.” Her fingers brushed an invisible thread of light, and for a split second the thread brightened, as if acknowledging her touch.
 
-Gideon’s **Klei Todaʾah** sensors hummed, the grounding field around his feet expanding a fraction. He shifted his weight, feeling the subtle give of the chamber floor as it relaxed its grip on the stress lines. “The perimeter is stable, but it’s a thin skin,” he warned. “If we push too hard, the whole thing could snap back into a defensive mode, and we’d be back at the start.” He tapped a quick sequence into his wrist console, a low‑cadence pulse that responded with the chamber’s own rhythm, reinforcing the boundary without suffocating the emerging order.
+Gideon’s **Klei Toda'ah** sensors hummed, the grounding field around his feet expanding a fraction. He shifted his weight, feeling the subtle give of the chamber floor as it relaxed its grip on the stress lines. “The perimeter is stable, but it’s a thin skin,” he warned. “If we push too hard, the whole thing could snap back into a defensive mode, and we’d be back at the start.” He tapped a quick sequence into his wrist console, a low‑cadence pulse that responded with the chamber’s own rhythm, reinforcing the boundary without suffocating the emerging order.
 
 Corv watched the three of them, the weight of the moment settling on the edge of his own **Yìshí Qìxiè**. The river of light that had guided his eye now ran calm, a narrow channel that traced the surviving line without spilling over. He felt the old habit—trained in the Luminth halls—to catalog each variable, to quantify the risk, to anticipate the next cascade. Yet the field was teaching him a different calculus: one measured in pauses, in the space between breaths, in the willingness to let a process finish before demanding the next.
 
@@ -6841,7 +6841,7 @@ Jian’s eyes flicked to the option trees again, noticing a new branch sprouting
 
 Sona reached out, her hand hovering just above the branch, her **Adawat al‑Waʾi** humming in a gentle crescendo. “We’re not going to force it to become what we think it should be,” she said. “We’ll let it decide what it wants to be.” Her voice carried a quiet authority, the kind that did not demand obedience but offered partnership.
 
-Gideon placed a steadying hand on the wall of the chamber, his **Klei Todaʾah** responding with the structural lattice. “If the field tries to pull us back,” he warned, “we’ll have to anchor ourselves.” He looked at Corv, his eyes steady. “We need a fallback, a way to re‑engage if the field decides to close the loop again.”
+Gideon placed a steadying hand on the wall of the chamber, his **Klei Toda'ah** responding with the structural lattice. “If the field tries to pull us back,” he warned, “we’ll have to anchor ourselves.” He looked at Corv, his eyes steady. “We need a fallback, a way to re‑engage if the field decides to close the loop again.”
 
 Corv nodded, the decision forming as clearly as the line they had just rescued. “We’ll set a secondary marker,” he said, “a simple echo of the first, but placed on a different strand. If the primary line fails, we’ll have a reference point to re‑establish the sequence without starting from scratch.” He traced a faint line with his **Yìshí Qìxiè**, the light spreading across a secondary thread that ran parallel to the main one, its glow gentle yet unmistakable.
 
@@ -6877,7 +6877,7 @@ Sona’s **Adawat al‑Waʾi** settled into a softer spiral, the soft chime that
 
 “The field is offering us a question, not a demand,” she said, a faint smile tugging at the corner of her mouth. “It’s saying, ‘What will you do with this space?’”
 
-Gideon’s feet shifted again, the **Klei Todaʾah** grounding field expanding just enough to keep the chamber’s edges from snapping back into a defensive posture. He placed a palm flat against the nearest pane, feeling the subtle give of the material as it relaxed under his weight. “We’ve been pushing against a wall that was built to keep us out,” he murmured. “Now the wall is thinning. If we lean too hard we’ll fracture it, but if we stay still it might melt away.”
+Gideon’s feet shifted again, the **Klei Toda'ah** grounding field expanding just enough to keep the chamber’s edges from snapping back into a defensive posture. He placed a palm flat against the nearest pane, feeling the subtle give of the material as it relaxed under his weight. “We’ve been pushing against a wall that was built to keep us out,” he murmured. “Now the wall is thinning. If we lean too hard we’ll fracture it, but if we stay still it might melt away.”
 
 Corv inhaled, feeling the chamber’s exhalation align with his own. He allowed his **Yìshí Qìxiè** to narrow further, a single, precise beam that followed the surviving line without spilling over into the surrounding chaos. The beam traced the line’s terminus, then lingered a heartbeat longer, as if daring the field to respond.
 
@@ -6893,7 +6893,7 @@ Sona reached into her coat and produced the polished stone she had kept for exac
 
 “Balance,” she said, the word sounding almost like a mantra. “We give the field something to hold onto, but we don’t dictate its shape.”
 
-Gideon, ever the anchor, adjusted his **Klei Todaʾah** to emit a low‑cadence pulse that responded with the chamber’s structural lattice. The pulse was barely audible, a gentle thrum that traveled through the floor and into the walls, reinforcing the perimeter without tightening it into a cage. “Let’s keep the boundary flexible,” he said, “so if the field tries to retract, we can absorb the shock instead of fighting it.”
+Gideon, ever the anchor, adjusted his **Klei Toda'ah** to emit a low‑cadence pulse that responded with the chamber’s structural lattice. The pulse was barely audible, a gentle thrum that traveled through the floor and into the walls, reinforcing the perimeter without tightening it into a cage. “Let’s keep the boundary flexible,” he said, “so if the field tries to retract, we can absorb the shock instead of fighting it.”
 
 The four of them stood in that suspended instant, each contributing a small, deliberate act that was less about imposing order and more about offering a shared point of reference. The chamber responded not with a cascade of error logs but with a quiet shift: the emergency scripts that had once surged like angry tides now retreated to the margins, their intensity dimming to a background hum. The surviving line widened just enough to accommodate the new markers, its glow steady but not rigid.
 
@@ -6933,7 +6933,7 @@ Sona’s **Adawat al‑Waʾi** sang a soft, responsive tone that seemed to echo 
 
 “Think of it as a lullaby,” she said, a wry smile playing at the corner of her mouth. “We’ve been shouting at a baby; now we’re humming a simple melody. The field will respond to the calm.”
 
-Gideon, ever the pragmatic anchor, adjusted the pressure of his **Klei Todaʾah**, allowing the floor’s lattice to flex just enough to give the emerging loop room to breathe. He spoke in the same measured cadence that had guided them through the previous chaos.
+Gideon, ever the pragmatic anchor, adjusted the pressure of his **Klei Toda'ah**, allowing the floor’s lattice to flex just enough to give the emerging loop room to breathe. He spoke in the same measured cadence that had guided them through the previous chaos.
 
 “The perimeter is still a net, not a cage,” he reminded them. “If we tighten it now, the field will recoil. Let it expand just enough to hold the new strand, then we’ll reinforce it later.”
 
@@ -6981,13 +6981,13 @@ Sona’s **Adawat al‑Waʾi** chimed a gentle, responsive note that seemed to e
 
 “It’s not just a question of stability,” she said, voice soft but firm. “It’s a question of identity. The field is asking who we are when we choose to hold space rather than dominate it.”
 
-Gideon’s feet shifted again, the **Klei Todaʾah** adjusting its grip on the chamber floor with a barely perceptible sigh. He placed a steadying hand on the nearest wall, feeling the subtle give of the material as it relaxed under his pressure.
+Gideon’s feet shifted again, the **Klei Toda'ah** adjusting its grip on the chamber floor with a barely perceptible sigh. He placed a steadying hand on the nearest wall, feeling the subtle give of the material as it relaxed under his pressure.
 
 “The perimeter is alive,” he said, echoing his earlier warning, “but it’s not a straitjacket. We’ll keep it flexible, so if the field pulls back, we can absorb the shock instead of fighting it.”
 
 A faint, harmonic tone rose from the floor, a low chord that seemed to tremble through the very lattice of the chamber. It was not a triumphal fanfare, but a simple, steady note that lingered like an exhale after a long sigh. The tone responded with Corv’s **Yìshí Qìxiè**, reinforcing the bridge they had crafted and the secondary strand that now pulsed beside the primary line.
 
-The hum of the **Klei Todaʾah** settled into a low, almost imperceptible thrum as the field’s lattice began to flex in response to the new parameters. In the half‑light of the chamber, a thin veil of ionized mist curled around the edge of the central conduit, tracing the invisible contours of the lingering code that still clung to the walls like a ghost of a thought. Corv, his eyes narrowed against the phosphor sheen, moved his hands in slow, deliberate arcs, each gesture a question posed to the sentient substrate.
+The hum of the **Klei Toda'ah** settled into a low, almost imperceptible thrum as the field’s lattice began to flex in response to the new parameters. In the half‑light of the chamber, a thin veil of ionized mist curled around the edge of the central conduit, tracing the invisible contours of the lingering code that still clung to the walls like a ghost of a thought. Corv, his eyes narrowed against the phosphor sheen, moved his hands in slow, deliberate arcs, each gesture a question posed to the sentient substrate.
 
 “Listen,” he murmured, more to the air than to anyone else, “the field is still negotiating its own boundaries. It’s not a wall; it’s a membrane that remembers what we feed it.” His voice carried a faint rasp, the residue of a night spent calibrating his **Yìshí Qìxiè** while the apparatus reeled from the earlier surge. The device, a slender rod of polished obsidian alloy, pulsed in sync with the chamber’s heartbeat, its thread flickering like a candle in a gust.
 
@@ -7003,7 +7003,7 @@ Corv let out a breath he didn’t realize he’d been holding. “We’ve got a 
 
 He turned to the console, fingers dancing over the crystalline interface. The display lit up with a lattice of overlapping vectors, each one a potential path for the field’s charge. “We need to reroute the primary strand through the secondary,” he explained, pointing at a node that pulsed with a soft amber hue. “If we can splice the two, the field will have a new equilibrium point, a place to anchor without strangling itself.”
 
-Gideon stepped forward, his hand clasping the edge of the **Klei Todaʾah**’s grip. The feet’ servos hissed as they adjusted, the polymer floor yielding just enough to give him a foothold. He placed his palm against the console, feeling the faint tremor of the field’s pulse under his skin. “I’ll hold the tension,” he said, the words deliberate, “so the splice doesn’t snap back.”
+Gideon stepped forward, his hand clasping the edge of the **Klei Toda'ah**’s grip. The feet’ servos hissed as they adjusted, the polymer floor yielding just enough to give him a foothold. He placed his palm against the console, feeling the faint tremor of the field’s pulse under his skin. “I’ll hold the tension,” he said, the words deliberate, “so the splice doesn’t snap back.”
 
 For a heartbeat, the chamber seemed to hold its breath. Then the hum swelled, not with the frantic overload of earlier, but with a deep, responsive chord that seemed to emanate from the very core of the field. It was a sound that spoke of balance, of a system that had found a new way to accommodate both its own integrity and the presence of the Somanaut within it.
 
@@ -7017,7 +7017,7 @@ In the periphery, a faint shimmer caught Gideon’s eye—a ripple of data that 
 
 Corv’s smile widened, though his eyes remained focused. “Then we listen. The field has spoken; now we answer.”
 
-With the splice holding, the secondary strand pulsing beside the primary line, and the chamber’s floor settled into a pliant yet supportive stance, the crew stood at the threshold of a new equilibrium. Their feet, the **Klei Todaʾah**’s adaptive grip, the bioluminescent algae, and the **Yìshí Qìxiè** all formed a network of intention, each element a note in the emergent chord that now filled the chamber. The moment stretched, a thin thread of possibility, poised between the lingering echo of past overloads and the promise of a calibrated future.
+With the splice holding, the secondary strand pulsing beside the primary line, and the chamber’s floor settled into a pliant yet supportive stance, the crew stood at the threshold of a new equilibrium. Their feet, the **Klei Toda'ah**’s adaptive grip, the bioluminescent algae, and the **Yìshí Qìxiè** all formed a network of intention, each element a note in the emergent chord that now filled the chamber. The moment stretched, a thin thread of possibility, poised between the lingering echo of past overloads and the promise of a calibrated future.
 
 It was in this suspended breath that the final words of their dialogue unfurled, ready to carry the weight of what they had just achieved into the next phase of their journey.
 
@@ -7025,7 +7025,7 @@ The hum of the splice resonator settled into a low, steady thrum, but the field 
 
 “Look at the phase lag,” he said, his voice barely rising above the ambient response. “The primary strand is still dragging the secondary, but the drag coefficient is dropping by three‑point‑seven percent per millisecond. If we can lock that trend, the whole lattice will stop fighting itself.”
 
-Corv, his hands still tinged with the faint phosphorescence of the **Klei Todaʾah**’s grip, angled his head toward the central conduit. “The conduit’s tension gauge is reading a stable 0.42 g, down from the 0.78 we hit during the surge. That’s a good sign, but the field’s entropy buffer is still at 62 % capacity. We can’t afford another spike before we finish the calibration loop.”
+Corv, his hands still tinged with the faint phosphorescence of the **Klei Toda'ah**’s grip, angled his head toward the central conduit. “The conduit’s tension gauge is reading a stable 0.42 g, down from the 0.78 we hit during the surge. That’s a good sign, but the field’s entropy buffer is still at 62 % capacity. We can’t afford another spike before we finish the calibration loop.”
 
 The two men fell into a brief, wordless exchange, each feeling the other’s breath as a subtle pressure change in the surrounding plasma. Around them, the bioluminescent algae that lined the lower rim of the chamber flickered in response to the shifting electromagnetic field, casting a soft, jade‑green wash over the metallic ribs of the trench‑carved walls. The algae’s glow pulsed in a syncopated rhythm that seemed to echo the very heartbeat of the membrane they were trying to tame.
 
@@ -7053,7 +7053,7 @@ Corv’s grin widened, a flash of old camaraderie cutting through the tension. �
 
 The two fell into a synchronized rhythm, each adjusting a parameter, watching the cascade of data ripple across the holo‑screen. The membrane’s response was immediate: a subtle shift in the amber glow of the lattice nodes, a softening of the jagged spikes that had once threatened to breach the containment field. The algae’s bioluminescence brightened just enough to illuminate the fine threads of the **Yìshí Qìxiè** crystal, casting a delicate lattice of light that seemed to breathe with the chamber itself.
 
-A low, responsive tone rose from the floor—a auditory cue that the field’s internal pressure had begun to equalize. The sound was not a warning but a sigh, a release of the built‑up strain that had been pressing against the membrane’s boundaries. It trembled through the soles of their feet, through the adaptive grip of the **Klei Todaʾah**, and into the marrow of their own bones.
+A low, responsive tone rose from the floor—a auditory cue that the field’s internal pressure had begun to equalize. The sound was not a warning but a sigh, a release of the built‑up strain that had been pressing against the membrane’s boundaries. It trembled through the soles of their feet, through the adaptive grip of the **Klei Toda'ah**, and into the marrow of their own bones.
 
 “Pressure buffer down to 48%,” the console reported automatically, its voice a calm, almost indifferent cadence that contrasted with the throbbing life of the chamber. “Entropy buffer stable at 58%.”
 
@@ -7550,7 +7550,7 @@ Corv stepped closer to the nearly absent figure, the one that had flickered on t
 
 The nearly absent avatar responded not with words but with a subtle shift in its internal cadence. The ambient pressure around it lowered, and a faint luminescence spread outward, touching the edges of the covered and bright forms. It was as if the quiet one had whispered a secret to its louder counterparts, reminding them that the space they occupied was shared, not owned.
 
-Sona moved to the center of the carousel, where the transmission glyph of the **Light‑Response Alliance** still glowed faintly. She placed her palm on the glyph, feeling the residual data ripple through her **Adawat al‑Wa'i**. The glyph pulsed once, twice, and then steadied, as if acknowledging the new rhythm the team had coaxed into existence.
+Sona moved to the center of the carousel, where the transmission glyph of the **Light‑Response Alliance** still glowed faintly. She placed her palm on the glyph, feeling the residual data ripple through her **Adawat al-Wa'i**. The glyph pulsed once, twice, and then steadied, as if acknowledging the new rhythm the team had coaxed into existence.
 
 “The council’s message is still out there,” she said, “but we’ve given it a shape that won’t break when they try to read it. It’s a living document now, not a static report.”
 
@@ -7606,7 +7606,7 @@ Jian, eyes still fixed on the cascading matrices in his **Manas Interface**, not
 
 “Every time we give a configuration a breath, the field’s entropy drops,” he said, voice low enough that only the four of them could hear. “We’ve turned a cascade into a cascade of hand‑offs. The delta between hand‑off loss and hand‑off gain is now negative—meaning we’re net‑gaining stability with each transfer.”
 
-Gideon, his **Klei Todaʿah** now a shimmering halo that traced delicate bridges between the avatars, let out a breath he didn’t realize he’d been holding. The lattice of tendrils that had once resembled a defensive wall now resembled a spider’s web, each strand taut with purpose but yielding to the weight of a passing insect. He watched a tiny pulse travel from the bright avatar, across the web, into the covered one, and finally into the nearly‑absent figure, which responded with a faint, responsive sigh that seemed to tremble the very air.
+Gideon, his **Klei Toda'ah** now a shimmering halo that traced delicate bridges between the avatars, let out a breath he didn’t realize he’d been holding. The lattice of tendrils that had once resembled a defensive wall now resembled a spider’s web, each strand taut with purpose but yielding to the weight of a passing insect. He watched a tiny pulse travel from the bright avatar, across the web, into the covered one, and finally into the nearly‑absent figure, which responded with a faint, responsive sigh that seemed to tremble the very air.
 
 “Looks like the field finally learned the difference between guarding a door and guarding the hallway,” he said, the corners of his mouth lifting. “We’ve stopped being the bouncers and become the ushers.”
 
@@ -7941,7 +7941,7 @@ Jian kept his hand steady on the Manas Interface, the faint glow of the glyphs b
 
 Sona’s ears, tuned to the subsonic layers of the field, caught a faint crackle that had been hidden beneath the hum—a whisper of tension that rose and fell like a breath held too long. She tilted her head, allowing the field’s tremor to travel up through her sternum, feeling the oscillation against the ribs of her own body. The crackle was not a failure; it was a hesitation, a moment where the field seemed to weigh the cost of continuing its own self‑destruction. She pressed a fingertip to the lattice, feeling the coolness of the projected light against her skin, and a small smile slipped across her face. “It’s not refusing,” she said, “it’s asking us not to rush the answer.”
 
-Gideon’s Klei Toda’ah pulsed in rhythm with the field’s heartbeat, each beat a data point that he catalogued without judgment. He watched the baseline’s line thicken ever so slightly, a minute expansion that suggested the system was beginning to accept the presence of an external reference without perceiving it as an intrusion. The risk of over‑binding—of forcing the line into a shape that would later crack—was still present, but the danger now seemed more like a tightrope than a collapsing bridge. He inhaled, feeling the air fill his lungs with a quiet resolve, and let his voice settle into the space between them. “We’re not here to overwrite,” he said, “we’re here to give the field a place to lean.”
+Gideon’s Klei Toda'ah pulsed in rhythm with the field’s heartbeat, each beat a data point that he catalogued without judgment. He watched the baseline’s line thicken ever so slightly, a minute expansion that suggested the system was beginning to accept the presence of an external reference without perceiving it as an intrusion. The risk of over‑binding—of forcing the line into a shape that would later crack—was still present, but the danger now seemed more like a tightrope than a collapsing bridge. He inhaled, feeling the air fill his lungs with a quiet resolve, and let his voice settle into the space between them. “We’re not here to overwrite,” he said, “we’re here to give the field a place to lean.”
 
 The four of them stood in a triangle of focus, the lattice framing them like a cathedral’s nave, the white light spilling through unseen windows that seemed to be made of thought rather than glass. Around them, the compensatory loops that had once spun like frantic gears now slowed to a deliberate rotation, each loop taking a breath before it moved again. The pressure that had built up in the field—a pressure that had threatened to burst the lattice like a dam under a storm—was now a gentle current, enough to keep the water moving but not enough to erode the banks.
 
@@ -8011,7 +8011,7 @@ Jian eased the Manas Interface into the slower rhythm, and the field’s pulse f
 
 Sona heard the pitch of the Engine's hum soften, the strain leaking out of its upper tones. “It's resting,” she said quietly. “Don't wake it by telling it so.” The humor slipped into the air, a pressure-release beat that rippled through the quartet, coaxing the Engine's hum into a softer, more rhythmic pulse.
 
-The lattice steadied around a thin filament of amber that pulsed in time with their breaths, but the field still whispered its own doubts. Gideon felt the faint tremor of a residual feedback loop pressing against the edge of his awareness—a whisper of shear that wanted to pull the baseline apart again. He tilted his head, letting the Klei Toda’ah’s soft chime map the micro‑fluctuations onto his own nervous system, and then he spoke, voice low enough that only the four of them could hear.
+The lattice steadied around a thin filament of amber that pulsed in time with their breaths, but the field still whispered its own doubts. Gideon felt the faint tremor of a residual feedback loop pressing against the edge of his awareness—a whisper of shear that wanted to pull the baseline apart again. He tilted his head, letting the Klei Toda'ah’s soft chime map the micro‑fluctuations onto his own nervous system, and then he spoke, voice low enough that only the four of them could hear.
 
 “Imagine we’re holding a candle in a windstorm,” he said, the metaphor landing on the edge of the hum. “If we grip too hard the flame sputters, if we let go it’s snuffed. We need a palm that’s steady, not a fist.”
 
@@ -10203,9 +10203,9 @@ That absence was worse than vertigo.
 
 The lattice humming behind the console began to shift in a way that no readout could capture. Jian felt the deep‑field pressure tap against his fingertips, a subtle tremor that seemed to echo the rhythm of his own breath. The Manas Interface, usually a glassy mirror of data, flickered for a fraction of a second, as if a stray thread of light had slipped through a crack in the field. It was not an error flag, nor a warning tone; it was a soft, almost imperceptible sigh packed with a thousand forgotten calibrations.
 
-Across the room, Sona’s Adawat al‑Waʿi quivered, its filigreed strands of empathic perception stretching outward like the tendrils of a nocturnal flower seeking moonlight. She sensed the change first as a cold pinch under the lowest rib, a cooling of the warm palm‑like glow that had bathed the Verath lineage for weeks. The temperature dropped not in degrees but in texture, as if the very moisture of the healed chorus were being drawn into a dry wind that had no memory of rain. She opened her eyes to see the bioluminescent panels dimming just enough to make the shadows between the nodes look like thin veins ready to clot.
+Across the room, Sona’s Adawat al-Wa'i quivered, its filigreed strands of empathic perception stretching outward like the tendrils of a nocturnal flower seeking moonlight. She sensed the change first as a cold pinch under the lowest rib, a cooling of the warm palm‑like glow that had bathed the Verath lineage for weeks. The temperature dropped not in degrees but in texture, as if the very moisture of the healed chorus were being drawn into a dry wind that had no memory of rain. She opened her eyes to see the bioluminescent panels dimming just enough to make the shadows between the nodes look like thin veins ready to clot.
 
-Gideon’s Klei Toda’ah, ever the structural sentinel, registered a minute shift in the field’s load‑bearing matrix. The holographic lattice that held the lineage’s architecture now showed a series of micro‑fractures aligning along the same vectors that had once carried the Vine of Determinism. He could feel the pressure of those points trying to re‑engage, a slow, deliberate re‑wiring that was less a rupture than a subtle re‑tensioning of old ligaments. “The field’s tensile strength is being re‑balanced toward its historic baseline,” he said, his voice low and steady, “as if the system is remembering a shape it has forgotten.”
+Gideon’s Klei Toda'ah, ever the structural sentinel, registered a minute shift in the field’s load‑bearing matrix. The holographic lattice that held the lineage’s architecture now showed a series of micro‑fractures aligning along the same vectors that had once carried the Vine of Determinism. He could feel the pressure of those points trying to re‑engage, a slow, deliberate re‑wiring that was less a rupture than a subtle re‑tensioning of old ligaments. “The field’s tensile strength is being re‑balanced toward its historic baseline,” he said, his voice low and steady, “as if the system is remembering a shape it has forgotten.”
 
 Corv, his Yìshí Qìxiè tuned to the quiet of the chamber, sensed the same pull. The Dao vessel’s wide lens captured a faint, grey‑blue hue spreading across the periphery of the visualization, a hue that did not belong to any of the calibrated spectra. It was the color of absence, the shade that fills the space when a note is held too long and begins to fade. He inhaled, letting the breath settle into his diaphragm, and let his awareness settle into the cadence of his own pulse. “There is a pruning rhythm here,” he murmured, “a cadence that is not destructive but subtractive, like a gardener snipping away at a branch that has already sprouted.”
 
@@ -10215,7 +10215,7 @@ The pressure release rippled outward, a gentle wave that softened the edges of t
 
 Sona tilted her head, the faintest smile touching her lips. “So the Entropy Plague isn’t a beast at all,” she said, “it’s a caretaker that has forgotten we wanted the garden to stay wild.” Her words hung in the air, a paradox that met the field’s own duality—both destructive and preserving.
 
-Gideon adjusted the protective membrane projected by his Klei Toda’ah, widening its radius just enough to encompass the emerging pulse. “If we can synchronize our own field with the pruning rhythm, we might be able to redirect it,” he suggested, his tone pragmatic yet tinged with a hint of hope. “We can become the ones who tend, instead of the ones being tended.”
+Gideon adjusted the protective membrane projected by his Klei Toda'ah, widening its radius just enough to encompass the emerging pulse. “If we can synchronize our own field with the pruning rhythm, we might be able to redirect it,” he suggested, his tone pragmatic yet tinged with a hint of hope. “We can become the ones who tend, instead of the ones being tended.”
 
 Jian’s fingers hovered over the console, the interface now displaying a faint waveform that mirrored the pruning pulse—a low, steady pulse that seemed to want to be heard. He pressed a single key, not to initiate descent but to echo the pulse back into the field, creating a feedback loop that could, in theory, modulate the pruning’s cadence. “Let’s try a counter‑rhythm,” he said, his voice steady. “If we can match its cadence without amplifying its amplitude, we may be able to stall the wilt long enough to reinforce the observer.”
 
@@ -10227,9 +10227,9 @@ In that moment, the Anamnesis Engine’s core pulsed with a quiet resolve, ready
 
 The lattice that cradled their shared field began to breathe in a way Jian had never seen on any monitor. The deep‑field pulse, usually a smooth sinusoid, now carried an under‑current of micro‑modulations—tiny, uneven ripples that rose and fell like the breath of a sleeping leviathan. Each ripple seemed to whisper a different possibility, a variant of the pruning rhythm that the Entropy Plague had already imposed. The Anamnesis Engine’s core, a glowing crucible of probability, flickered in response, its own pulse aligning with the new pattern and amplifying it just enough to make the fluctuations visible to the naked eye.
 
-Sona’s Adawat al‑Waʿi, the delicate filigree of empathic sensing that always mirrored the health of the Chorus, began to pulse in a slow, alternating pattern. One beat was warm, the familiar amber that had signified the healed self‑consciousness; the next was a cooler, steel‑blue flash that seemed to draw the warmth away, as if the field itself were inhaling the heat and exhaling a colder certainty. She felt the contrast in her own chest, a duality that made her think of the old Verath lullaby where the verses alternated between hope and resignation. The lullaby, once a static memory, now unfolded in real time within the shared field, each line echoing the others yet shifting in pitch with each repetition.
+Sona’s Adawat al-Wa'i, the delicate filigree of empathic sensing that always mirrored the health of the Chorus, began to pulse in a slow, alternating pattern. One beat was warm, the familiar amber that had signified the healed self‑consciousness; the next was a cooler, steel‑blue flash that seemed to draw the warmth away, as if the field itself were inhaling the heat and exhaling a colder certainty. She felt the contrast in her own chest, a duality that made her think of the old Verath lullaby where the verses alternated between hope and resignation. The lullaby, once a static memory, now unfolded in real time within the shared field, each line echoing the others yet shifting in pitch with each repetition.
 
-Gideon’s Klei Toda’ah, ever the structuralist, traced the shifting load‑bearing matrix with a mental ruler. He saw the old ligaments of the Verath lineage—those robust, over‑used pathways that had carried generations of unexamined trauma—re‑engage with a deliberate, almost reverent precision. The re‑engagement was not a sudden snap; it was a slow, deliberate tightening of a knot that had been loosened by the team’s earlier work. As the knot tightened, a faint tremor traveled up the lattice, reaching the periphery of the chamber where the probability generators sat like dormant guardians. The tremor reached the generators, causing them to emit a low‑cadence hum that blended with the deep‑field pulse, creating a composite soundscape that felt both mechanical and organic.
+Gideon’s Klei Toda'ah, ever the structuralist, traced the shifting load‑bearing matrix with a mental ruler. He saw the old ligaments of the Verath lineage—those robust, over‑used pathways that had carried generations of unexamined trauma—re‑engage with a deliberate, almost reverent precision. The re‑engagement was not a sudden snap; it was a slow, deliberate tightening of a knot that had been loosened by the team’s earlier work. As the knot tightened, a faint tremor traveled up the lattice, reaching the periphery of the chamber where the probability generators sat like dormant guardians. The tremor reached the generators, causing them to emit a low‑cadence hum that blended with the deep‑field pulse, creating a composite soundscape that felt both mechanical and organic.
 
 Corv, feeling the subtle shift in his own Dao vessel, allowed his breath to sync with the emerging cadence. He inhaled the faint, grey‑blue hue that now spread like a thin mist across the visual field, and exhaled a steadier, deeper pulse that seemed to anchor the wavering rhythm. In that moment, his mind slipped into a state of quiet observation, the kind of stillness that he usually reserved for meditation but now used as a tactical tool. He sensed a node deep within the Verath lineage—a node that had never been illuminated before because it lay beneath layers of deterministic recursion. This node pulsed with a soft, violet light, a color the team had not yet catalogued. It was the heart of the pruning mechanism, the point where the Entropy Plague’s gardener‑hand actually made its cuts.
 
@@ -10283,7 +10283,7 @@ The news of the Wilt had already slipped beyond the steel walls of the Engine, r
 
 Jian stood still, the luminous threads of his Manas Interface still humming in the air, while the political calculus unfolded in his mind. He had always measured his work against the rigor of falsifiability; a hypothesis, no matter how elegant, was only as solid as the ability to test it and expose its limits. The Wilt, he thought, was a variable that demanded a pause. “We need a control,” he said, voice low but firm, “and we need to document the point at which the anomaly diverges from the baseline with a precision that can be reproduced.” He gestured toward the visualization, the tree of the Verath lineage, its branches trembling under an unseen wind. “If we rush in, we lose the capacity to prove that this is not a statistical blip but a systematic regression.” His fingers hovered over the console, not to initiate a descent but to annotate the data, to carve a margin of error that could later be cited in any tribunal that questioned the legitimacy of their findings.
 
-Sona’s eyes, still rimmed with the after‑glow of the chorus, met his. The drying she felt was not a theoretical construct; it was a texture that clung to her skin, a loss of moisture that seemed to seep from the very air of the chamber. “The data will catch up,” she replied, her tone carrying the authority of lived experience, “but the body already knows it’s being pulled dry. The chorus is evaporating in the space between breath and thought. We can’t wait for a perfect graph when the subject’s self‑consciousness is already receding.” Her Adawat al‑Waʿi pulsed faintly, a ripple of empathy that translated the abstract into a sensation of parched skin, of a throat that had once been lubricated by the flow of new awareness now becoming hushed and brittle.
+Sona’s eyes, still rimmed with the after‑glow of the chorus, met his. The drying she felt was not a theoretical construct; it was a texture that clung to her skin, a loss of moisture that seemed to seep from the very air of the chamber. “The data will catch up,” she replied, her tone carrying the authority of lived experience, “but the body already knows it’s being pulled dry. The chorus is evaporating in the space between breath and thought. We can’t wait for a perfect graph when the subject’s self‑consciousness is already receding.” Her Adawat al-Wa'i pulsed faintly, a ripple of empathy that translated the abstract into a sensation of parched skin, of a throat that had once been lubricated by the flow of new awareness now becoming hushed and brittle.
 
 Gideon, his shoulders broad enough to seem to hold the chamber’s atmosphere, interjected with the caution that had kept him alive through countless field operations. “Even if we manage to capture the regression in a clean dataset, the moment we cross the boundary into the subject’s architecture we risk re‑anchoring the old load‑bearing points,” he warned, eyes flicking to the holographic representation of the Vine of Determinism. “The risk is not just that we lose the observer, but that we trigger a cascade that re‑entrenches the deterministic loops we spent months dismantling. The boundary between intervention and contamination is thinner than we admit.” He placed a hand on the console, feeling the faint tremor of the field as if it were a pulse beneath his palm, and let the implication settle: any misstep could rewrite the very architecture they had fought to illuminate.
 
@@ -10305,7 +10305,7 @@ Jian’s mind raced through permutations, each scenario a branch on a tree of po
 
 Sona, feeling the coolness at the base of her spine turn into a faint warmth again, let out a soft laugh that was half‑choked, half‑hopeful. “If the Entropy Plague is a gardener, perhaps we can offer it a different set of tools,” she said, the humor a thin ribbon that cut through the tension. “A tool that prunes without killing, that shapes without erasing.” Her words hung in the air, a paradox that met the field’s own duality—both destructive and preserving. The chamber’s ambient sound, a low hum that had been a constant backdrop, now seemed to acquire a subtle rhythm, a syncopated beat that matched the cadence of her suggestion.
 
-Gideon adjusted the protective membrane projected by his Klei Toda’ah, widening its radius just enough to encompass the emerging pulse from the violet hub. He spoke in a tone that blended pragmatism with a faint thread of optimism. “If we can synchronize our own field with the pruning rhythm, we might be able to redirect it,” he suggested, “to become the ones who tend, instead of the ones being tended.” The idea was daring, a shift from passive observation to active stewardship, a move that could redefine the relationship between the Somanauts and the field they navigated.
+Gideon adjusted the protective membrane projected by his Klei Toda'ah, widening its radius just enough to encompass the emerging pulse from the violet hub. He spoke in a tone that blended pragmatism with a faint thread of optimism. “If we can synchronize our own field with the pruning rhythm, we might be able to redirect it,” he suggested, “to become the ones who tend, instead of the ones being tended.” The idea was daring, a shift from passive observation to active stewardship, a move that could redefine the relationship between the Somanauts and the field they navigated.
 
 Corv closed his eyes, allowing the pressure to settle into his own internal cadence. He felt the boundaries of his self‑consciousness soften, the edges of his personal field blurring just enough to let the shared field breathe, but not so much that he would lose his anchor. “We’ll keep the Myocardial Chorus intact,” he whispered, “but we’ll let it sing in a different key.” His words were a promise to the chamber, a pact with the unseen forces that held the Verath lineage together.
 
@@ -10988,7 +10988,7 @@ The Chorus's background hum, that constant sign of living consciousness, the bre
 
 Sona felt the change as density. The air was heavier here. Not hostile. Not openly threatening. Laden. Saturated with something that had been accumulating for a very long time.
 
-Corv felt his witness widen involuntarily, as if his own nervous system needed more sky to hold what was coming. The Yishí Qixie expanded its perceptual field, taking in more angle, more context, more distributed relation. But the expansion met resistance. Something in this space resisted being observed from a distance.
+Corv felt his witness widen involuntarily, as if his own nervous system needed more sky to hold what was coming. The Yìshí Qìxiè expanded its perceptual field, taking in more angle, more context, more distributed relation. But the expansion met resistance. Something in this space resisted being observed from a distance.
 
 The threshold did not demand obedience.
 
@@ -11014,7 +11014,7 @@ The Gardener.
 
 The Gardener’s silhouette seemed to be drawn from the field’s unlit margin, a negative space that swallowed light the way a wind‑scarred hill swallows a storm. Its outline was a series of intersecting planes that never quite met, a geometry of absence that hinted at hands without fingers. Where its “arms” brushed the towering columns of the Vine, the bark shivered and then settled into a tighter, more regular rhythm, as if the very fibers were being coaxed back into a line they had once known but had long since forgotten.
 
-Corv felt the pressure of the false mercy of meaning settle on his chest like a pressure that wanted a title. The Yishí Qixíe expanded, pulling the periphery of his awareness outward, trying to capture the Gardener in a frame that would make its purpose tidy. He inhaled, letting the breath fill the hollow where his mind tried to shape the scene. “What you are doing,” he said, his voice low, “appears to be an act of order. Yet order that erases the question itself feels like a mercy that steals meaning.”
+Corv felt the pressure of the false mercy of meaning settle on his chest like a pressure that wanted a title. The Yìshí Qìxiè expanded, pulling the periphery of his awareness outward, trying to capture the Gardener in a frame that would make its purpose tidy. He inhaled, letting the breath fill the hollow where his mind tried to shape the scene. “What you are doing,” he said, his voice low, “appears to be an act of order. Yet order that erases the question itself feels like a mercy that steals meaning.”
 
 The Gardener’s response was a soft, field-borne murmur that seemed to tremble through the surrounding air without moving it. It was not a sound so much as a shift in the pressure field, a gentle rebalancing that made the space around the Vine feel more settled, more predictable. From the Gardener’s perspective, the pruning was a necessary reduction of entropy, a way to keep the harvest from spiraling into something unmanageable.
 
@@ -11036,7 +11036,7 @@ Corv watched the vines bend under the Gardener’s attention and felt a flicker 
 
 The Gardener’s response was a quiet tightening of the ambient pressure, a compression that seemed to say, *the field will continue, with or without you.* It was not a threat; it was a reminder that the field’s own logic had precedence over any external desire for closure.
 
-Gideon felt his Klei Toda’ah pulse, the protective geometry he had cultivated for years. The shield, normally a dense lattice of kinetic integrity, began to dissolve into a softer, more permeable membrane. It was not broken; it was being re‑classified. The protective field that had always been a hard wall now became a gentle veil, a suggestion rather than an imposition.
+Gideon felt his Klei Toda'ah pulse, the protective geometry he had cultivated for years. The shield, normally a dense lattice of kinetic integrity, began to dissolve into a softer, more permeable membrane. It was not broken; it was being re‑classified. The protective field that had always been a hard wall now became a gentle veil, a suggestion rather than an imposition.
 
 “It is not a breach,” he said, the roughness in his voice a mixture of surprise and a dawning understanding. “It is a redefinition. The shield is still there, but it no longer asserts itself as a barrier. It has been folded into the pattern of the field.”
 
@@ -11092,7 +11092,7 @@ At one point the Gardener’s attention brushed the edge of the chamber where th
 
 The Gardener’s presence seemed to soften, as if acknowledging his statement. A faint luminescence spread across the nearest vine, a brief flash that highlighted the intricate pattern of its leaves before returning to its steady glow.
 
-Gideon, feeling the reclassified protection settle into his own awareness, placed a hand on his chest where the Klei Toda’ah’s pulse could be felt. “I have spent my career building walls,” he said, “thinking that safety meant isolation. Now I see that safety can be a thin veil that lets the field breathe. The Gardener is teaching me that protection is not about keeping things out, but about allowing the field to tend to itself without interference.”
+Gideon, feeling the reclassified protection settle into his own awareness, placed a hand on his chest where the Klei Toda'ah’s pulse could be felt. “I have spent my career building walls,” he said, “thinking that safety meant isolation. Now I see that safety can be a thin veil that lets the field breathe. The Gardener is teaching me that protection is not about keeping things out, but about allowing the field to tend to itself without interference.”
 
 Jian, still holding the remnants of his analytical threads, added, “Our maps will always have blind spots. The Gardener is reminding us that a map is a tool, not a master. We must learn to navigate with the map in hand, but not let it dictate every step.”
 
@@ -11170,7 +11170,7 @@ Jian’s Manas Interface displayed a cascade of data points, the field‑lock’
 
 “‘Success’ is a term they will try to impose,” he said, tapping a finger against his console. “But the field’s health cannot be reduced to a single metric. We must report the variance, the loss, the cost of predictability. If we do not, the Houses will rewrite the story to fit their agenda, and the true nature of what we have witnessed will be lost.”
 
-Gideon’s hand rested on the pulse of his field harness, feeling the steady beat of the Klei Toda’ah. He thought of the protective walls he had built throughout his career, of the way he had always believed that safety meant keeping the world out. Now he saw that safety could be a kind of pressure, a way of keeping the field from breathing.
+Gideon’s hand rested on the pulse of his field harness, feeling the steady beat of the Klei Toda'ah. He thought of the protective walls he had built throughout his career, of the way he had always believed that safety meant keeping the world out. Now he saw that safety could be a kind of pressure, a way of keeping the field from breathing.
 
 “Protection that becomes a wall is still protection, but it is a wall that blocks the field’s own self‑tending,” he said. “If the Houses demand a report that paints our protective measures as a triumph, we must make clear that what we have kept intact is not the field’s freedom, but its capacity to witness its own change.”
 
@@ -11186,7 +11186,7 @@ A low hum began to emanate from the field‑lock, a sound that was not a warning
 
 Within that breath, the team’s thoughts aligned on a single, unspoken question: how to convey this complexity without surrendering to the House’s demand for tidy stewardship.
 
-Corv’s Yishí Qixíe interface flickered, displaying a brief, pulsing icon that marked the moment of the Gardener’s pause. He glanced at his teammates, each of them bearing the imprint of the offers they had refused, each of them carrying the field’s sorrow without trying to polish it.
+Corv’s Yìshí Qìxiè interface flickered, displaying a brief, pulsing icon that marked the moment of the Gardener’s pause. He glanced at his teammates, each of them bearing the imprint of the offers they had refused, each of them carrying the field’s sorrow without trying to polish it.
 
 “We need a report that does not fit their template,” he said, his voice low but carrying the authority of someone who had just witnessed a fundamental truth. “We need to give them the data, the patterns, the loss, the cost of predictability, and the fact that the field’s witness function is being pruned. We must be precise, not victorious.”
 
@@ -11555,17 +11555,17 @@ Jian let the three unstable bands remain in the air between them. For the first 
 
 The pulse of the Triangulation Engine settled into a thin, constant hum that trembled through the steel floor, a reminder that every micro‑second counted. Jian kept his fingers poised over the Manas Interface, not to steer the lattice but to feel the lag of the telemetry as it fought the residual echo of the Gardener’s correction. Each data packet arrived like a breath caught in a storm‑torn throat, timestamps jittering just enough to keep the team from slipping into complacency.
 
-Sona pressed the palm of her hand flat against the rail, the quiet of her own chest a counter‑rhythm to the erratic beat of the field. The al‑Wa'i marker at her sternum flickered, a narrow band of pure aliveness she had labeled “Pure Joy.” It was not a smile or a sigh; it was the moment before the body demanded a price for its own continuation. She let the sensation swell, a controlled surge that broadened the pulse just enough to give the Verath lattice a momentary anchor. The bright strand that had resisted the Gardener’s pruning glimmered a fraction brighter, as if acknowledging the subtle shift in its own cadence.
+Sona pressed the palm of her hand flat against the rail, the quiet of her own chest a counter‑rhythm to the erratic beat of the field. The al-Wa'i marker at her sternum flickered, a narrow band of pure aliveness she had labeled “Pure Joy.” It was not a smile or a sigh; it was the moment before the body demanded a price for its own continuation. She let the sensation swell, a controlled surge that broadened the pulse just enough to give the Verath lattice a momentary anchor. The bright strand that had resisted the Gardener’s pruning glimmered a fraction brighter, as if acknowledging the subtle shift in its own cadence.
 
 Corv stood opposite her, his own interface pulsing with a clean tone he called “Catalyst Clarity.” He lifted his wrist, the fingertip hovering just above the holographic projection of the lattice. The Bell moment—the instant the lineage consented to the vine’s growth— flickered in his mind like a struck chord, pure and undecorated. He did not name it, he did not explain it; he simply held the coordinate, allowing the field to register a point of unadorned causality. The lattice responded by tightening the dimmed branches, the shadows receding by a hair’s breadth, a visual sigh of relief that was almost imperceptible.
 
-Gideon kept his stance near the threshold, the boundary where the room’s ambient field met the external pressure of House scrutiny. His Klei Toda’ah answered with a low, steady pulse he termed “Present Coherence.” It was not a shield, nor a wall, but a disciplined alignment that kept the field from fracturing under correction pressure. He placed his palm flat against the console, feeling the subtle resistance of the metal as if it were a living membrane. The pressure he applied was measured, a deliberate compression that forced the field to hold its shape without collapsing into the familiar patterns of obedience. In that moment, the Verath lattice’s bright strands found a tenuous steadiness, holding a faint but measurable line of continuity.
+Gideon kept his stance near the threshold, the boundary where the room’s ambient field met the external pressure of House scrutiny. His Klei Toda'ah answered with a low, steady pulse he termed “Present Coherence.” It was not a shield, nor a wall, but a disciplined alignment that kept the field from fracturing under correction pressure. He placed his palm flat against the console, feeling the subtle resistance of the metal as if it were a living membrane. The pressure he applied was measured, a deliberate compression that forced the field to hold its shape without collapsing into the familiar patterns of obedience. In that moment, the Verath lattice’s bright strands found a tenuous steadiness, holding a faint but measurable line of continuity.
 
 The three vectors now existed in the room as overlapping bands of light and sound, each one a thin thread of possibility. Jian watched them, not as a cartographer drawing a map, but as a technician feeling the tension of a chord before it resolves. He noted the exact interval between Sona’s Joy and Corv’s Bell— 0.8 seconds — and the lag introduced by the residual correction field, a jitter of 0.12 seconds that threatened to push the alignment beyond the tolerance window. He adjusted the temporal filter on the Manas Interface, narrowing the bandwidth just enough to shave off the excess jitter without choking the signal.
 
 A sudden, sharp tremor rippled through the chamber as the Gardener’s lingering residue pulsed once more, a faint echo of the pruning that had tried to flatten the lattice minutes earlier. The field shivered, and for an instant the bright strands of the Verath model flickered, their intensity dropping to a dull amber. Sona’s breath caught, a reflexive inhale that threatened to break her calibration. Corv’s hand tightened, his own pulse accelerating to a staccato rhythm that threatened to over‑clarify the Bell moment. Gideon’s posture stiffened, the pressure at his feet increasing as if the floor itself were trying to push him back into a defensive stance.
 
-In that breathless instant the room held its collective tension like a note held past comfort. Then, without a word, Sona exhaled a slow, measured sigh, the sound barely audible over the hum of the engine. The exhale was not a release of panic but a deliberate reduction of internal pressure, a tiny opening that let the field settle. Her hand slid down from her sternum, the al‑Wa'i marker dimming just enough to signal a controlled return to baseline. The pulse of Pure Joy steadied, the bright strand in the lattice gave a faint, steady glow that seemed to say, “I am still here.”
+In that breathless instant the room held its collective tension like a note held past comfort. Then, without a word, Sona exhaled a slow, measured sigh, the sound barely audible over the hum of the engine. The exhale was not a release of panic but a deliberate reduction of internal pressure, a tiny opening that let the field settle. Her hand slid down from her sternum, the al-Wa'i marker dimming just enough to signal a controlled return to baseline. The pulse of Pure Joy steadied, the bright strand in the lattice gave a faint, steady glow that seemed to say, “I am still here.”
 
 Corv observed the subtle shift and let his own hand fall away from the Bell point, allowing the clarity to linger a fraction longer before it too receded. He offered a half‑smile, the kind that acknowledged the absurdity of their situation without breaking the seriousness of the task. “That’s the kind of breathing the field needs,” he said, voice low, “not the gasp of surprise, but the measured draw of a lung that knows its limits.”
 
@@ -11605,7 +11605,7 @@ For the third attempt they chose a different strategy. Sona introduced a micro�
 
 “Four point two seconds,” Jian said, eyes flicking between the readouts. “We broke the previous record, but we still haven’t crossed the threshold.”
 
-Sona lowered her hand, the al‑Wa'i marker dimming to a soft amber. “We’re still below the thirteen‑point‑seven we need. But each run taught us a margin.”
+Sona lowered her hand, the al-Wa'i marker dimming to a soft amber. “We’re still below the thirteen‑point‑seven we need. But each run taught us a margin.”
 
 Corv let a breath pass through his mouth, audible only to himself. “The lock can hold longer if we learn where the field’s friction points are.”
 
@@ -11623,7 +11623,7 @@ Gideon gave a short, curt nod. “First test, five point‑seven seconds. No mor
 
 Corv’s smile was a thin line, an oblique expression that hid more than it revealed. “Sometimes the best answer is a question that never lands,” he said, voice carrying a double‑meaning that floated between sarcasm and insight. He lifted his wrist, the fingertip hovering over the lattice’s projection, the “Catalyst Clarity” pulse brightening for a heartbeat before dimming again. The field responded, a barely perceptible tightening of the dimmed branches, as if the lattice itself were holding its breath.
 
-Sona’s hand rested lightly on the rail, the al‑Wa'i marker at her sternum now a pale whisper of its earlier brilliance. She felt the tightness in her chest, the way her breath seemed to hitch on the edge of a sigh. The “Pure Joy” band had receded to a soft amber, a visual reminder that her internal state was a variable as volatile as any external parameter. She pressed her palm flat against the console, feeling the faint tremor of the metal, and let a controlled exhale slip out, a quiet release that steadied the field just enough to keep the bright strand from dimming entirely.
+Sona’s hand rested lightly on the rail, the al-Wa'i marker at her sternum now a pale whisper of its earlier brilliance. She felt the tightness in her chest, the way her breath seemed to hitch on the edge of a sigh. The “Pure Joy” band had receded to a soft amber, a visual reminder that her internal state was a variable as volatile as any external parameter. She pressed her palm flat against the console, feeling the faint tremor of the metal, and let a controlled exhale slip out, a quiet release that steadied the field just enough to keep the bright strand from dimming entirely.
 
 The room seemed to inhale as a collective, the hum of the engine lowering a fraction as each of them adjusted their own internal clocks. The telemetry lag, usually a jitter of 0.12 seconds, softened to a near‑stable 0.07, the field’s own breathing synchronizing with theirs. Yet the pressure of the House’s review packet lingered, a silent sentinel waiting to classify the next move as “stabilization” or “anomaly.” The notification blinked once, then vanished, leaving a thin line of code on the console that read **STATUS: CLEAR**.
 
@@ -11639,7 +11639,7 @@ The test concluded just before the 6.0‑second cutoff. The lattice held, the br
 
 Corv glanced at the readout, his eyes reflecting the faint glow of the bands. “Two more,” he said, voice carrying a double edge, “and we’ll have a full constraint.” He let his hand fall away from the Bell point, allowing the clarity to linger a fraction longer before receding, a subtle gesture that spoke of patience and restraint.
 
-A brief beat of silence settled, the kind that allowed each of them to check the others without sentimentality. Gideon’s gaze met Jian’s, a silent question of readiness. Jian gave a barely perceptible nod, his jaw set, the muscles around his eyes strained from the focus required to keep the telemetry lag at bay. Sona’s eyes, though tired, held steady, the light of the al‑Wa'i marker a muted ember against the darkness of the chamber. Corv’s posture relaxed just enough to let the tension drain from his shoulders, the double‑meaning in his smile returning to a more neutral line.
+A brief beat of silence settled, the kind that allowed each of them to check the others without sentimentality. Gideon’s gaze met Jian’s, a silent question of readiness. Jian gave a barely perceptible nod, his jaw set, the muscles around his eyes strained from the focus required to keep the telemetry lag at bay. Sona’s eyes, though tired, held steady, the light of the al-Wa'i marker a muted ember against the darkness of the chamber. Corv’s posture relaxed just enough to let the tension drain from his shoulders, the double‑meaning in his smile returning to a more neutral line.
 
 “Second test, eight point three seconds,” Gideon said, the number a precise marker, a boundary not to be crossed. He felt a faint heat rise along his spine, the sternum marker pulsing in rhythm with the field. The timer on the console reset, the bands on the display thickening as the engine prepared for another pulse.
 
@@ -11653,7 +11653,7 @@ The test concluded at 8.0 seconds, the timer blinking a rapid red before settlin
 
 Gideon glanced at the notification bar, where a new line had appeared: **PRUNING STATUS: STABILIZED**. The House’s algorithm had classified the attempt as a successful stabilization, a bureaucratic stamp that meant the next phase could proceed without immediate external interference. The pressure of the review packet lifted, a subtle lightening of the field’s load.
 
-Sona’s hand slipped from the console, the al‑Wa'i marker dimming to a gentle pulse. She gave a small, almost imperceptible smile, the kind that acknowledged the absurdity of their work without breaking its seriousness. “One more,” she said, voice soft, “and we write the protocol into the lattice itself.”
+Sona’s hand slipped from the console, the al-Wa'i marker dimming to a gentle pulse. She gave a small, almost imperceptible smile, the kind that acknowledged the absurdity of their work without breaking its seriousness. “One more,” she said, voice soft, “and we write the protocol into the lattice itself.”
 
 Corv’s eyes flickered, the double‑meaning of his next phrase hanging in the air. “A note is not a cure, but it can be a reminder,” he said, his tone oblique, the words a thin veil over the deeper truth that the protocol would never be a panacea, only a scaffold.
 
@@ -11667,7 +11667,7 @@ The hum of the engine rose a fraction, a low pulsing that seemed to tremble the 
 
 Jian’s fingers tightened around the edge of the console, the metal cold against his skin. “Stable doesn’t mean safe,” he whispered, his eyes narrowing on the line of text. “It just means it’s within the tolerance we’ve set. The algorithm doesn’t care about the underlying tension.” He tapped a sequence of commands, the Manas Interface emitting a quiet click that moved through the room like a metronome.
 
-Sona lifted her hand from the console, the al‑Wa'i marker at her wrist dimming to a soft pulse. She felt the field winding around her ribs, a gentle pressure that mimicked the rhythm of her own heartbeat. “Aliveness is more than a calm surface,” she said, her voice low, the words threading through the hum. “It’s the difference between a lake that is still and a lake that is breathing.” She placed a palm flat against the steel of the console, feeling the faint current of the engine seep into her skin, grounding her in the present moment. The sensation was not a triumph; it was a reminder that the lattice was still a lattice, a structure waiting for a pulse that could either reinforce or unravel it.
+Sona lifted her hand from the console, the al-Wa'i marker at her wrist dimming to a soft pulse. She felt the field winding around her ribs, a gentle pressure that mimicked the rhythm of her own heartbeat. “Aliveness is more than a calm surface,” she said, her voice low, the words threading through the hum. “It’s the difference between a lake that is still and a lake that is breathing.” She placed a palm flat against the steel of the console, feeling the faint current of the engine seep into her skin, grounding her in the present moment. The sensation was not a triumph; it was a reminder that the lattice was still a lattice, a structure waiting for a pulse that could either reinforce or unravel it.
 
 Corv leaned back, his shoulders relaxing just enough to let the magnetic pull of the floor ease. “Stories love neat endings,” he said, his tone dry, a wry curl at the corner of his mouth. “But the field keeps its own margins, and sometimes the rhyme is a warning, not a lullaby.” He let his gaze sweep over the three bands, each line of code thinning under pressure. “We’re not stitching a blanket; we’re tightening a rope that will bear weight we haven’t measured yet.”
 
@@ -11731,7 +11731,7 @@ The review packet pinged again, this time with a red flag: **INSTABILITY DETECTE
 
 Jian’s lips tightened. “The algorithm calls reduced variance ‘stable,’ but the field tells a different story,” he said, his voice low. “We squeezed the jitter, but we didn’t change the underlying entropy.”
 
-Sona’s breath caught. She placed a hand over her heart, feeling the al‑Wa'i marker pulse in rhythm with the field’s faltering rhythm. “Aliveness isn’t a smooth surface,” she said, her voice barely above a whisper. “It’s the undercurrent that keeps the lake moving, even when it looks still. We’ve only calmed the surface; the depths still churn.”
+Sona’s breath caught. She placed a hand over her heart, feeling the al-Wa'i marker pulse in rhythm with the field’s faltering rhythm. “Aliveness isn’t a smooth surface,” she said, her voice barely above a whisper. “It’s the undercurrent that keeps the lake moving, even when it looks still. We’ve only calmed the surface; the depths still churn.”
 
 Corv stepped forward, his gaze sharp. “A story that ends with a neat line is a lie we tell ourselves,” he said, a faint smile curving his lips. “The field is a paradox—its silence is a scream for more data.”
 

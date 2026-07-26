@@ -48,7 +48,7 @@ The Chorus's background hum, that constant sign of living consciousness, the bre
 
 Sona felt the change as density. The air was heavier here. Not hostile. Not openly threatening. Laden. Saturated with something that had been accumulating for a very long time.
 
-Corv felt his witness widen involuntarily, as if his own nervous system needed more sky to hold what was coming. The Yishí Qixie expanded its perceptual field, taking in more angle, more context, more distributed relation. But the expansion met resistance. Something in this space resisted being observed from a distance.
+Corv felt his witness widen involuntarily, as if his own nervous system needed more sky to hold what was coming. The Yìshí Qìxiè expanded its perceptual field, taking in more angle, more context, more distributed relation. But the expansion met resistance. Something in this space resisted being observed from a distance.
 
 The threshold did not demand obedience.
 
@@ -74,7 +74,7 @@ The Gardener.
 
 The Gardener’s silhouette seemed to be drawn from the field’s unlit margin, a negative space that swallowed light the way a wind‑scarred hill swallows a storm. Its outline was a series of intersecting planes that never quite met, a geometry of absence that hinted at hands without fingers. Where its “arms” brushed the towering columns of the Vine, the bark shivered and then settled into a tighter, more regular rhythm, as if the very fibers were being coaxed back into a line they had once known but had long since forgotten.
 
-Corv felt the pressure of the false mercy of meaning settle on his chest like a pressure that wanted a title. The Yishí Qixíe expanded, pulling the periphery of his awareness outward, trying to capture the Gardener in a frame that would make its purpose tidy. He inhaled, letting the breath fill the hollow where his mind tried to shape the scene. “What you are doing,” he said, his voice low, “appears to be an act of order. Yet order that erases the question itself feels like a mercy that steals meaning.”
+Corv felt the pressure of the false mercy of meaning settle on his chest like a pressure that wanted a title. The Yìshí Qìxiè expanded, pulling the periphery of his awareness outward, trying to capture the Gardener in a frame that would make its purpose tidy. He inhaled, letting the breath fill the hollow where his mind tried to shape the scene. “What you are doing,” he said, his voice low, “appears to be an act of order. Yet order that erases the question itself feels like a mercy that steals meaning.”
 
 The Gardener’s response was a soft, field-borne murmur that seemed to tremble through the surrounding air without moving it. It was not a sound so much as a shift in the pressure field, a gentle rebalancing that made the space around the Vine feel more settled, more predictable. From the Gardener’s perspective, the pruning was a necessary reduction of entropy, a way to keep the harvest from spiraling into something unmanageable.
 
@@ -96,7 +96,7 @@ Corv watched the vines bend under the Gardener’s attention and felt a flicker 
 
 The Gardener’s response was a quiet tightening of the ambient pressure, a compression that seemed to say, *the field will continue, with or without you.* It was not a threat; it was a reminder that the field’s own logic had precedence over any external desire for closure.
 
-Gideon felt his Klei Toda’ah pulse, the protective geometry he had cultivated for years. The shield, normally a dense lattice of kinetic integrity, began to dissolve into a softer, more permeable membrane. It was not broken; it was being re‑classified. The protective field that had always been a hard wall now became a gentle veil, a suggestion rather than an imposition.
+Gideon felt his Klei Toda'ah pulse, the protective geometry he had cultivated for years. The shield, normally a dense lattice of kinetic integrity, began to dissolve into a softer, more permeable membrane. It was not broken; it was being re‑classified. The protective field that had always been a hard wall now became a gentle veil, a suggestion rather than an imposition.
 
 “It is not a breach,” he said, the roughness in his voice a mixture of surprise and a dawning understanding. “It is a redefinition. The shield is still there, but it no longer asserts itself as a barrier. It has been folded into the pattern of the field.”
 
@@ -152,7 +152,7 @@ At one point the Gardener’s attention brushed the edge of the chamber where th
 
 The Gardener’s presence seemed to soften, as if acknowledging his statement. A faint luminescence spread across the nearest vine, a brief flash that highlighted the intricate pattern of its leaves before returning to its steady glow.
 
-Gideon, feeling the reclassified protection settle into his own awareness, placed a hand on his chest where the Klei Toda’ah’s pulse could be felt. “I have spent my career building walls,” he said, “thinking that safety meant isolation. Now I see that safety can be a thin veil that lets the field breathe. The Gardener is teaching me that protection is not about keeping things out, but about allowing the field to tend to itself without interference.”
+Gideon, feeling the reclassified protection settle into his own awareness, placed a hand on his chest where the Klei Toda'ah’s pulse could be felt. “I have spent my career building walls,” he said, “thinking that safety meant isolation. Now I see that safety can be a thin veil that lets the field breathe. The Gardener is teaching me that protection is not about keeping things out, but about allowing the field to tend to itself without interference.”
 
 Jian, still holding the remnants of his analytical threads, added, “Our maps will always have blind spots. The Gardener is reminding us that a map is a tool, not a master. We must learn to navigate with the map in hand, but not let it dictate every step.”
 
@@ -230,7 +230,7 @@ Jian’s Manas Interface displayed a cascade of data points, the field‑lock’
 
 “‘Success’ is a term they will try to impose,” he said, tapping a finger against his console. “But the field’s health cannot be reduced to a single metric. We must report the variance, the loss, the cost of predictability. If we do not, the Houses will rewrite the story to fit their agenda, and the true nature of what we have witnessed will be lost.”
 
-Gideon’s hand rested on the pulse of his field harness, feeling the steady beat of the Klei Toda’ah. He thought of the protective walls he had built throughout his career, of the way he had always believed that safety meant keeping the world out. Now he saw that safety could be a kind of pressure, a way of keeping the field from breathing.
+Gideon’s hand rested on the pulse of his field harness, feeling the steady beat of the Klei Toda'ah. He thought of the protective walls he had built throughout his career, of the way he had always believed that safety meant keeping the world out. Now he saw that safety could be a kind of pressure, a way of keeping the field from breathing.
 
 “Protection that becomes a wall is still protection, but it is a wall that blocks the field’s own self‑tending,” he said. “If the Houses demand a report that paints our protective measures as a triumph, we must make clear that what we have kept intact is not the field’s freedom, but its capacity to witness its own change.”
 
@@ -246,7 +246,7 @@ A low hum began to emanate from the field‑lock, a sound that was not a warning
 
 Within that breath, the team’s thoughts aligned on a single, unspoken question: how to convey this complexity without surrendering to the House’s demand for tidy stewardship.
 
-Corv’s Yishí Qixíe interface flickered, displaying a brief, pulsing icon that marked the moment of the Gardener’s pause. He glanced at his teammates, each of them bearing the imprint of the offers they had refused, each of them carrying the field’s sorrow without trying to polish it.
+Corv’s Yìshí Qìxiè interface flickered, displaying a brief, pulsing icon that marked the moment of the Gardener’s pause. He glanced at his teammates, each of them bearing the imprint of the offers they had refused, each of them carrying the field’s sorrow without trying to polish it.
 
 “We need a report that does not fit their template,” he said, his voice low but carrying the authority of someone who had just witnessed a fundamental truth. “We need to give them the data, the patterns, the loss, the cost of predictability, and the fact that the field’s witness function is being pruned. We must be precise, not victorious.”
 
