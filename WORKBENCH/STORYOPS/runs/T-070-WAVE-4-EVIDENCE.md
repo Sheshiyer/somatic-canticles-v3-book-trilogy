@@ -20,10 +20,11 @@ Every WARN chapter = strong core + stitched AI re-passes retelling the same beat
 | 06 | 1 | 15,974 | 2,970 | -81.4% | WARN voice-only | Draft A (1–119) + ~330w salvage; name drift purged (Jara/Tamsin/Kade/Amri) |
 | 07 | 1 | 15,000 | 10,442 | -30.4% | WARN voice-only | Seams 312/465/718 merged; ends at calibration ring; 1 legitimate "frequency" |
 | 08 | 1 | 21,130 | 4,317 | -79.6% | **PASS** | 43.8% B1 register; 12 stitched passes cut; all 19 Ch24 dependencies preserved exactly once (soft amber 192, cobalt 40/208, 0.97 trust coherence, seed coords `9.3.4N \| 12.7.2E \| -0.47 depth`, `AM-38-orphan-routes`) |
+| 14 | 2 | 14,393 | 1,935 | -86.6% | WARN voice-only | Worst stitched case: 15 echo passes (153–551) after a complete core (1–152, 1,804w). All passes cut wholesale; true ending line 553 grafted after "released them carefully"; one salvage bridge (consent-of-the-receiver). Eliminated: starship-bridge setting drift, tense flip, three↔four count drift, verbatim dups at 281≡315/425≡439/459≡483, 2 opacity asides, invented artifacts (Seter lattice, antimatter infuser) |
 | 15 | 2 | 22,884 | 2,925 | -87.2% | WARN voice by design | Two-chapters-stitched at 168; tech-thriller cut; ~1,100w Wilt-bridge ending written to set up Book 3 (ends on dissonance: "The cost of witness is the willingness to remain answerable, even when the field offers to carry the answer for you."); canon file was truncated mid-sentence |
 
 **Book 1 total:** 127,762 → 52,683 words (-58.8%)
-**Ch15 (Book 2):** 22,884 → 2,925 (-87.2%)
+**Book 2 (Ch14+Ch15):** 37,277 → 4,860 words (-87.0%)
 
 ## Gate Results (all revised candidates)
 
@@ -60,4 +61,4 @@ Book 1 voice WARNs are the documented scanner-limitation pattern, not revision f
 
 ## Remaining
 
-- **Ch14** (Book 2, 14,818w, 47.9% voice, 5 flags, 1 opacity) — last unprocessed WARN chapter; existing runs/ candidate is a dry-run no-op (canon + opacity bracket only), needs full deeper-pass treatment.
+- **None.** Ch14 was the last unprocessed WARN chapter. The T-070 deeper-pass lane is complete across the trilogy: Book 1 (8 chapters), Book 2 (2 chapters), Book 3 (12 chapters across pilot + waves 2–3). All revised candidates live in `runs/Chapter-*/final-candidate.md` with scanner verdicts: every chapter passes red_flag, duplication, epistemic, and opacity gates; voice-register WARNs remain on Jian-heavy/technical chapters per the documented scanner-limitation pattern. Canon files in `CHAPTERS/` are unchanged — promotion of candidates to canon is a separate decision.

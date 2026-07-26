@@ -376,7 +376,7 @@ Jian’s visor flickered, projecting a faint holographic diagram of the three bo
 
 Sona leaned forward, her hand hovering over the response meter. “And the stone’s response tells us it’s willing. The acoustic envelope is widening just enough to accommodate our adjustments without snapping back.”
 
-Gideon’s eyes brightened. “[OPACITY-REVIEW:Which means] we can write the protocol to include a ‘listening window’—a period where the field’s feedback is weighted more heavily than our input. That should keep the coolant from over‑compensating and give the stone time to settle into each new phase.”
+Gideon’s eyes brightened. “Which means we can write the protocol to include a ‘listening window’—a period where the field’s feedback is weighted more heavily than our input. That should keep the coolant from over‑compensating and give the stone time to settle into each new phase.”
 
 A sudden, almost imperceptible tremor rippled through the floor, as if the chamber itself inhaled. The team froze for a heartbeat, then exchanged glances that held both relief and a quiet amusement.
 
