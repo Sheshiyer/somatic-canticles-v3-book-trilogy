@@ -162,7 +162,7 @@ He stepped sideways, placing his foot between two of the larger astrocytic roset
 
 Jian’s voice dropped to the register he used when reading aloud from texts he didn’t want to believe. “The converted seams are broadcasting a carrier wave. Low cadence, almost subliminal. If we let that cadence become the new baseline, the barrier itself becomes a speaker for Vine doctrine.” He glanced at Gideon. “We have to enter *counter-response*—not noise, not destruction—just the original signature, intact, unafraid.”
 
-Corv’s eyes narrowed, calculating. “[OPACITY-REVIEW:Which means] we carry the host’s unconverted tissue into the breach itself. Expose it to the Weavers *before* they finish the graft. Force them to negotiate with what they’re trying to erase.”
+Corv’s eyes narrowed, calculating. “Which means we carry the host’s unconverted tissue into the breach itself. Expose it to the Weavers *before* they finish the graft. Force them to negotiate with what they’re trying to erase.”
 
 Sona nodded, slow. “A conversation in the only language the body still trusts—its own breaking.”
 

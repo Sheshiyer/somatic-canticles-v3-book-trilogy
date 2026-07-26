@@ -1,6 +1,6 @@
 {
   "chapter": "CHAPTERS/book_1/Chapter-03-The-Blood-Brain-Barrier.md",
-  "started": "2026-07-24T14:54:05.841412+00:00",
+  "started": "2026-07-26T15:42:31.951462+00:00",
   "mode": "dry-run",
   "cycles": [
     {
@@ -19,25 +19,7 @@
         "explanatory_aside_hits": 1
       },
       "status": "discard",
-      "candidate": "/private/tmp/sc-v3/WORKBENCH/STORYOPS/runs/Chapter-03-The-Blood-Brain-Barrier/cycle-01-dedupe.candidate.md"
-    },
-    {
-      "cycle": 2,
-      "transform": "opacity-strip",
-      "before": {
-        "total_per_1000": 0.07,
-        "verbatim_duplicate_paragraphs": 0,
-        "empirical_syntax_adjacent": 0,
-        "explanatory_aside_hits": 1
-      },
-      "after": {
-        "total_per_1000": 0.07,
-        "verbatim_duplicate_paragraphs": 0,
-        "empirical_syntax_adjacent": 0,
-        "explanatory_aside_hits": 0
-      },
-      "status": "keep",
-      "candidate": "/private/tmp/sc-v3/WORKBENCH/STORYOPS/runs/Chapter-03-The-Blood-Brain-Barrier/cycle-02-opacity-strip.candidate.md"
+      "candidate": "/private/var/folders/zx/_wycnwwx3p1f_4gclpnhr8rm0000gn/T/opencode/somatic-canticles-v3/WORKBENCH/STORYOPS/runs/Chapter-03-The-Blood-Brain-Barrier/cycle-01-dedupe.candidate.md"
     }
   ],
   "baseline_metrics": {
@@ -46,12 +28,12 @@
     "empirical_syntax_adjacent": 0,
     "explanatory_aside_hits": 1
   },
-  "final_candidate": "/private/tmp/sc-v3/WORKBENCH/STORYOPS/runs/Chapter-03-The-Blood-Brain-Barrier/final.candidate.md",
+  "final_candidate": "/private/var/folders/zx/_wycnwwx3p1f_4gclpnhr8rm0000gn/T/opencode/somatic-canticles-v3/WORKBENCH/STORYOPS/runs/Chapter-03-The-Blood-Brain-Barrier/final.candidate.md",
   "final_metrics": {
     "total_per_1000": 0.07,
     "verbatim_duplicate_paragraphs": 0,
     "empirical_syntax_adjacent": 0,
-    "explanatory_aside_hits": 0
+    "explanatory_aside_hits": 1
   },
   "final_verdict": "WARN"
 }

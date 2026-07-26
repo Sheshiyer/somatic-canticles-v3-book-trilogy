@@ -1,0 +1,39 @@
+{
+  "chapter": "CHAPTERS/book_1/Chapter-02-Signal-Transduction.md",
+  "started": "2026-07-26T15:42:31.784405+00:00",
+  "mode": "dry-run",
+  "cycles": [
+    {
+      "cycle": 1,
+      "transform": "dedupe",
+      "before": {
+        "total_per_1000": 0.0,
+        "verbatim_duplicate_paragraphs": 0,
+        "empirical_syntax_adjacent": 0,
+        "explanatory_aside_hits": 0
+      },
+      "after": {
+        "total_per_1000": 0.0,
+        "verbatim_duplicate_paragraphs": 0,
+        "empirical_syntax_adjacent": 0,
+        "explanatory_aside_hits": 0
+      },
+      "status": "discard",
+      "candidate": "/private/var/folders/zx/_wycnwwx3p1f_4gclpnhr8rm0000gn/T/opencode/somatic-canticles-v3/WORKBENCH/STORYOPS/runs/Chapter-02-Signal-Transduction/cycle-01-dedupe.candidate.md"
+    }
+  ],
+  "baseline_metrics": {
+    "total_per_1000": 0.0,
+    "verbatim_duplicate_paragraphs": 0,
+    "empirical_syntax_adjacent": 0,
+    "explanatory_aside_hits": 0
+  },
+  "final_candidate": "/private/var/folders/zx/_wycnwwx3p1f_4gclpnhr8rm0000gn/T/opencode/somatic-canticles-v3/WORKBENCH/STORYOPS/runs/Chapter-02-Signal-Transduction/final.candidate.md",
+  "final_metrics": {
+    "total_per_1000": 0.0,
+    "verbatim_duplicate_paragraphs": 0,
+    "empirical_syntax_adjacent": 0,
+    "explanatory_aside_hits": 0
+  },
+  "final_verdict": "WARN"
+}
