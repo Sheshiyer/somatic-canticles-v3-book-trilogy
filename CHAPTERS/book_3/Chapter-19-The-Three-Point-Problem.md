@@ -1,3 +1,13 @@
+<!-- T-070 WAVE 2 REVISION
+     Chapter 19: The Three-Point Problem
+     Prose Architect compression pass
+     Original: 9,897 words / 1,146 lines
+     Revised: target ~6,800 words
+     
+     Structural problem: clean core (5-1125) + redundant appendix graft (1126-1146)
+     Fix: cut appendix entirely, applied 7 targeted compressions
+-->
+
 # Chapter 19: The Three-Point Problem
 
 ---
@@ -404,13 +414,9 @@ Sona looked at him. "You say that as if there were not witnesses."
 
 The Coherence band widened by a fraction.
 
-Jian marked the frame, then stopped himself before admiration could become conclusion. "Useful. Not sufficient."
+Jian marked the frame, then stopped himself before admiration could become conclusion.
 
-"Put that on our door," Corv said.
-
-"We do not have a door," Sona said.
-
-"Useful. Not sufficient," Corv said. "Exactly."
+Corv glanced at him. "Useful. Not sufficient. Exactly."
 
 The chamber seemed to breathe around them. Not approval. Jian refused to call it approval. The field was not a teacher, and the Engine was not a god. The system responded to pressure, relation, instruction, refusal. It could be interrogated. It could mislead. It could also disclose.
 
@@ -946,78 +952,6 @@ Sona laughed again, tired this time, but real. The room accepted it without turn
 
 That restraint was becoming a practice.
 
-They moved from the main projection to the lower worktable, not because the table was necessary but because standing before the Verath lattice for too long made everyone begin to speak as if history were listening. History was listening. That was no reason to perform for it.
-
-On the table, Jian drew the three vectors as separate columns rather than points. Beneath each column he wrote what it wanted, what it feared, and what would corrupt it.
-
-Pure Joy wanted aliveness without permission. It feared being turned into comfort for others. It corrupted when it became anesthesia, morale, or proof that pain had been redeemed.
-
-Catalyst Clarity wanted the exact consent point seen without decoration. It feared becoming cruel. It corrupted when it became explanation, verdict, or a polished story about why the wound was necessary.
-
-Present Coherence wanted enough shared structure for passage. It feared chaos. It corrupted when it became containment, obedience, or stillness dressed as safety.
-
-Jian hesitated before adding a fourth column.
-
-Then he wrote: Relation.
-
-Relation wanted the three vectors held without hierarchy. It feared incoherence. It corrupted when the map became sovereign.
-
-"You gave yourself a column," Corv said.
-
-"I gave the failure mode a column."
-
-"Same family."
-
-"Accurate. Unwelcome."
-
-Gideon studied the table. "Where is Mira?"
-
-Jian's hand stopped.
-
-The question was simple, which was why it exposed the flaw. They had written vectors, fears, corruptions, but the person whose life made the whole procedure morally accountable had become implicit again. Not erased. But implied. In institutional rooms, implied persons disappeared first.
-
-Sona reached across the table and drew a line beneath all four columns.
-
-"Here," she said. "Not as a fifth vector. As the reason none of these are allowed to become elegant lies."
-
-Jian wrote the line carefully.
-
-Mira Verath is not contained by the model.
-
-Then, below it:
-
-The model answers to the person, not the reverse.
-
-The chamber did not respond in any visible way.
-
-That was fine. Not every true sentence owed them a light.
-
-Corv read the line twice. "Leave it there."
-
-"I intended to."
-
-"No, I mean leave it ugly. Do not improve it."
-
-"It is plain."
-
-"Exactly. Plain language is harder to launder."
-
-Gideon nodded. "Plain language survives review better than beauty."
-
-Corv looked pained. "I reject that as a universal principle and accept it as a tactical one."
-
-Sona leaned against the table, fatigue showing now in the small delay before each breath. "Then the next procedure needs two records. One for the field and one for review."
-
-Jian shook his head. "One record with two readings. If we make a public version and a private version, correction will learn from the seam."
-
-"Agreed," Gideon said. "No seam."
-
-"No seam," Corv echoed. "A phrase that sounds safe until one remembers we are made of them."
-
-"We preserve human seams," Sona said. "We remove bureaucratic ones."
-
-Jian entered that too.
-
 The working file no longer looked like a proof. It looked like a set of constraints a future self might bless or curse depending on how brave that future self felt. That was appropriate. Procedures should not flatter the people who write them. They should protect the people who will be tempted to misuse them while exhausted.
 
 He reviewed the list one more time.
@@ -1122,25 +1056,3 @@ Corv was the one who named the edge of it.
 No one answered him quickly.
 
 They did not need to.
-
-The chamber held a silence that felt less like an absence of sound and less like a pause, and more like the heavy, suspended weight of a breath held too long. The air inside the Anamnesis Engine room tasted of ozone and old dust, a sharp, metallic tang that coated the back of the throat. Jian stared at the readout, his eyes tracking the jagged, erratic lines that refused to settle into a straight path. The numbers scrolled, a relentless cascade of data that spoke of a tolerance window shrinking by the microsecond. Thirteen point seven seconds was the margin, a sliver of time that felt both infinitely long and impossibly short. He wanted to smooth the curve, to apply a filter that would make the data sing with a clean, predictable harmony, but his fingers hovered over the interface, trembling slightly. To force the equation to yield would be to lie to the witness. The math was not a suggestion; it was a boundary line, and crossing it without permission meant the entire lineage would fracture before it ever touched the ground.
-
-Sona sat on the edge of the maintenance bench, her posture unnervingly still. She was not meditating, nor was she retreating into the safety of a memory. She was simply holding the space, a quiet anchor against the rising tide of panic that threatened to wash over the room. Her hands rested on her knees, palms open, fingers relaxed. There was no tension in her jaw, no clenched fist, only a profound, terrifying stillness that seemed to radiate a warmth that had nothing to do with the room's ambient temperature. She had not offered a riddle or a comfort, nor had she tried to fix the broken rhythm with a clever turn of phrase. She simply existed within the gap, proving that joy could persist even when the structural integrity of the situation was in question. It was a quiet rebellion against the urge to run, a demonstration that the heart could beat in time with a chaos that the mind could not yet map.
-
-Corv paced the perimeter, his steps precise, measuring the distance between the console and the wall as if the floor itself might shift. He stopped, turned, and looked at the others, his expression hardening into a mask of disciplined focus. He felt the seduction of the old stories, the temptation to narrate their struggle into something grander, something that made sense of the pain. He wanted to call this a trial by fire, a necessary crucible, but he bit the word back. To name it was to shrink it, to make it manageable, and it was not manageable. It was raw and unformed, a jagged thing that demanded to be felt rather than understood. He gripped the back of a chair, his knuckles white, forcing himself to stay in the present moment, to resist the urge to project a future where the problem was already fixed. The clarity he sought was not in the solution, but in the ability to stand here, right now, without flinching from the uncertainty.
-
-Gideon watched the readout, his eyes narrowing as he tracked the fluctuating metrics. He felt the pull of the synthesis, the desire to merge their individual signals into a single, coherent stream. It would be so easy to let go, to dissolve the boundaries between them and become a unified entity that could weather the storm. But he knew the cost of that unity; it was a silence that could never be broken, a loss of the very distinctness that made them capable of this work. He took a slow, deliberate breath, feeling the air fill his lungs, expanding his chest, grounding him in the singular reality of his own body. He was not a part of a machine; he was a witness, and his witness was separate, separate, separate. He adjusted his stance, his feet finding purchase on the cold floor, and waited for the next pulse of the engine, ready to act only when the moment demanded it, not before.
-
-The tension in the room shifted, a subtle change in the atmospheric pressure that made the hair on their arms stand up. The readout flickered, the erratic lines stabilizing for a fraction of a second before surging again, a spike that threatened to breach the upper limit. Jian exhaled, a sharp, controlled sound, and stepped back from the console. He had not solved the equation; he had simply refused to break it. The pressure did not vanish, but it changed shape, becoming a tangible weight that they could all feel pressing against their shoulders. It was a demand for discipline, a reminder that the work was not about making things easy, but about enduring the difficulty without losing themselves. The silence stretched, thick and heavy, before Corv finally broke it, his voice low and steady, cutting through the static of their anxiety.
-
-The air in the chamber did not hum; it held a suction, a vacuum tight enough to make the ears pop with the rhythm of a failing heart. It was the 13.7-second window, the biological hard limit where the body's endocrine surge either settled into a functional baseline or tipped into a cascade that would leave them catatonic for a full rotation. The instruments on the wall did not track time in seconds but in the dilation of pupils and the micro-tremors of the fingertips. Jian watched the needle on the analog gauge, the red line hovering just above the yellow threshold, and felt the old, seductive urge to smooth the jagged data into a perfect curve. His mind offered him a cleaner equation, a way to average out the erratic spikes, to pretend the variance was just noise rather than a warning. He had to bite the inside of his cheek, the sharp taste of iron grounding him, refusing to let the elegant lie of a simplified model replace the messy, dangerous reality of the live reading. Mathematics was a tool for description, not a shield against consequence, and the numbers here were screaming that the margin was razor-thin.
-
-Corv stopped his pacing, not because he had found a solution, but because the floor beneath his feet felt suddenly treacherous. The silence in the room was not empty; it was heavy with the weight of unspoken narratives he wanted to weave. He felt the pull to call this a test, a trial, a necessary step in a grander design, but he forced the shape of the story to dissolve. To name the struggle was to diminish it, to make it something that could be conquered with a clever turn of phrase or a heroic declaration. Instead, he let the uncertainty sit in his chest, a cold, hard stone that refused to be digested. He looked at the console, at the raw, unfiltered feedback loop, and accepted that there was no grand arc to this moment, only the immediate, grinding friction of staying present. The clarity he needed was not a light to guide them out of the dark, but the strength to stand in the dark without closing his eyes.
-
-Sona's stillness was not a passive waiting; it was an active resistance against the gravity of the room. She did not look at the others for reassurance, nor did she seek to fill the silence with a memory that might soothe the frayed nerves. She was simply there, a fixed point in a swirling vortex, her breath moving in a rhythm that had nothing to do with the panic rising in the air. The joy she held was not a feeling of happiness, but a refusal to let the fear dictate the terms of their existence. It was a quiet, stubborn assertion that the heart could beat in time with a chaos that the mind could not yet map, a rebellion against the urge to flee into the safety of a memory. Her hands remained open, palms up, a gesture of reception that demanded nothing and promised nothing, yet somehow anchored the entire room against the drift.
-
-Gideon felt the seduction of the synthesis, the alluring promise of merging their individual signals into a single, seamless stream where no one failed and no one was alone. It would be so easy to let go of the boundaries, to dissolve the distinctness that made them capable of this work and become a unified entity that could weather the storm. But he knew the price of that unity: it was a silence that could never be broken, a loss of the very friction that allowed them to think, to feel, to act as separate witnesses. He adjusted his stance, feeling the cold floor against his soles, and forced himself to remain singular. He was not a component of a machine; he was a witness, and his witness was separate, separate, separate. The temptation to merge was a lie that offered comfort at the cost of truth, and he held his ground, breathing in the sharp, metallic air of his own isolation.
-
-A sudden shift in the pressure, a subtle drop that made the hair on their arms rise, broke the stalemate. The readout flickered, the erratic lines stabilizing for a fraction of a second before surging again, a spike that threatened to breach the upper limit. Jian exhaled, a sharp, controlled sound, and stepped back from the console, his hand hovering over the manual override but not engaging it. He had not solved the equation; he had simply refused to break it. The pressure did not vanish, but it changed shape, becoming a tangible weight that they could all feel pressing against their shoulders. It was a demand for discipline, a reminder that the work was not about making things easy, but about enduring the difficulty without losing themselves. The silence stretched, thick and heavy, before Corv finally broke it, his voice low and steady, cutting through the static of their anxiety.
-
-The next movement of the work had already begun.

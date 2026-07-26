@@ -1,4 +1,14 @@
-# Chapter 7: The Breathfield Weaver
+<!-- T-070 WAVE 4 REVISION
+     Chapter 07: The Breathfield Weaver
+     Prose Architect compression pass
+     Original: 15,000 words / 1,244 lines
+     Revised: target ~9,500-10,500 words
+     
+     Structural problem: three seams at 312/465/718, duplicate climaxes
+     Fix: merged C+D into single confrontation, merged E+F into single debrief-gallery
+-->
+
+# Chapter 07: The Breathfield Weaver
 
 The next layer did not appear as an organ, archive, or doctrine. It appeared as breath.
 The team stood inside a vast lattice of living lines, each filament thickening on inhale and narrowing on exhale. The structure did not glow in steady light. It expanded, recoiled, stalled, resumed. Pressure moved through it in tidal shears. Low diaphragmatic pulls lifted whole corridors of the field; incomplete releases left other sections trembling half-collapsed, as if the body could not decide whether the next breath was rescue or exposure.
@@ -144,78 +154,6 @@ Jian snorted. “Somatic firmware update.”
 Gideon grinned, the expression startlingly boyish on his usually guarded face. “Log the patch notes, Vireth. Feature: improved CO₂ tolerance. Bug: tendency to flatten amplitude.”
 
 Sona exhaled a laugh that was half-relief, half-mockery of her own solemnity. “Patch still in beta,” she said. “Call me if it breaks again.”
-
-Sona’s diaphragm lifted once more—an involuntary reflex, a private echo of the host’s newly settled rhythm. She did not shush it. Instead she let the ghost of the pattern keep moving through her body the way a song lingers in the jaw after the music stops, half-remembered, half-owned. A less disciplined operative might have tried to overwrite the resonance with deliberate neutrality, but Sona had learned—years ago, in a House Vireth practice hall scented with vetiver and ozone—that after any deep entrainment the only honest choices were to carry the guest curve a little farther or to let it depart like a bruise in the pleura. She chose the slower exit.
-
-Jian raised his left eyebrow a single calibrated millimetre, the gesture he reserved for data that refuses to sit politely on the graph. “Residual sympathetic coupling at twelve per cent,” he said. “At this rate the lattice will follow you into REM sleep if you don’t sever.”
-
-“I’ll sever,” Sona promised. “But not by brute force. Give me thirty seconds of tidal walking.”
-
-Corv glanced at the corridor clock—faint red glyphs drifting above the lintel like cautious fireflies. “We have nineteen minutes before oversight re-asserts lockdown. Twenty-six if we invoke the medical exemption clause.”
-
-Gideon’s shoulders lifted in a fractional shrug. “Medical exemption lasts until someone upstairs decides curiosity is a threat vector. Take your thirty seconds, Vireth. Then we move.”
-
-Sona nodded once, already shifting weight from the outer edge of her right foot to the arch of the left, letting the motion translate upward through tibia, femur, pelvis, until the micro-adjustments reached the small muscles that pinned her scapulae to her ribs. She did not pace; she drifted, as if the corridor had become a narrow dock above dark water and the planks beneath her boots were deciding—in real time—whether buoyancy could coexist with memory. Each inhale she shortened by a silent count of two; each exhale she lengthened by three. The borrowed cadence thinned, not because she forced it out but because she offered it a gentler place to land than her own neuromuscular grid. By the fourth cycle the resonance had dropped from twelve per cent to six. By the seventh it was indistinguishable from background autonomic chatter. The host breath released her the way a kite string slips through numb fingers—without drama, without thanks, simply gone.
-
-She stopped walking. The corridor felt wider now, as though the lattice’s final pulse had nudged the geometry a single degree toward spaciousness. She tasted copper at the back of her throat, not the host’s ghost but her own electrolytes re-balancing after the long parley. She swallowed once, deliberate, and felt the vagus nerve respond with a soft, almost flirtatious flutter. Not victory. Just confirmation that the conversation was truly over.
-
-Corv lifted one hand—a small, courtly gesture he reserved for conclusions too nuanced to fit inside a report template. “Sympathetic index?” he asked Jian.
-
-“Four per cent and falling. We’re clear.”
-
-Gideon keyed the lift panel. The doors irised open with the polite sigh of an antique bellows. Inside, the air smelled of chilled graphite and the faint cedar note regulators used to mask sterility. Sona stepped through last. As the lift began its slow ascent, she noticed that the carriage walls were lined with the same lattice motif etched into the chamber floor—scaled down, simplified, almost decorative. For a heartbeat she felt the pattern tug at her peripheral vision, as if the host’s breathfield had followed them into this vertical artery and was shaping light the way lungs shape sound. Then the motif resolved into mere artifice: decorative plating, nothing more. She exhaled, amused at her own readiness to see omens in geometry.
-
-Jian leaned against the rail, scrolling data in the air with two fingers. “Field signature saved,” he said. “Compression ratio 0.87. We can attach the debrief appendix tonight.”
-
-“Append it to my personal queue,” Sona said. “I want first pass.”
-
-Gideon flicked a glance at her. “You’ll flag your own overreach?”
-
-“Before breakfast.” She meant it. A decade of House Vireth discipline had taught her that shame metabolized faster when labeled in daylight.
-
-Corv tilted his head, studying her with the same watchful quiet he had once turned on a failed candidate who had tried to coerce silence into transcendence. “You know regulation will ask if the host required additional sedation to maintain the new cadence.”
-
-“They won’t like the answer,” Sona said. “No sedation. Just the willingness to keep breathing while the story changed.”
-
-Gideon gave a soft, approving grunt. “Let them not like it. The metric holds.”
-
-The lift slowed. Through the transparent wall, the corridor outside resolved into administrative white: composite panels, recessed lighting, the faint lemon scent of bio-safe disinfectants. A junior officer, barely old enough to shave, waited with a clipboard and the expression of someone who has been told to look official but has forgotten what that means below the collarbones.
-
-He saluted with a tension that made his elbow click. “Orders from oversight,” he began. “Immediate quarantine of all raw lattice data pending security review.”
-
-Gideon raised an eyebrow. “Define ‘immediate.’”
-
-“Now, sir.” The officer swallowed. “They sent a portable scrubber array.”
-
-Jian’s lip curled. “Portable. Cute. They planning to vaporize the entire waveform?”
-
-“Only the unfiltered substrate,” the officer said, voice cracking. “Regulation states therapeutic improvisations must—”
-
-Sona stepped forward, calm, deliberate. “Let me see the order.” She took the clipboard, scanned the glyphic seal. The signature belonged to the oversight directorate, a House Vireth faction that had mistaken predictability for virtue and paperwork for conscience. She handed the board back. “We’ll comply,” she said. “After a thirty-second buffer flush to preserve integrity. Per medical protocol 9.4.”
-
-The officer hesitated. “But—”
-
-Corv lifted one finger in a gesture so gentle it felt like absolution. “Thirty seconds,” he echoed. “We’ll be done before the scrubber finishes boot diagnostics.”
-
-The officer nodded, uncertain, and stepped aside.
-
-Sona turned to Jian. “Upload the archive to the triple-redundant node. Personal key, my signature. When oversight comes knocking, they’ll find only a polite abstract.”
-
-“Already queued,” Jian said, fingers moving faster than speech.
-
-Gideon leaned in close to Sona, voice low enough that only the four of them would hear. “You know oversight will call this insubordination.”
-
-“Probably,” she said. “But the body we just helped still owns its irregular heartbeat. It deserves a record that isn’t afraid of its own arrhythmia.”
-
-Corv’s eyes glinted with quiet amusement. “The directorate fears what it cannot taxonomize. That is its arrhythmia, not ours.”
-
-The portable scrubber rolled into view—sleek, matte black, bristling with antennae like a miniature crustacean. It chirped once, scanning for unauthorized waveforms. Jian tapped a final glyph, and the archive flashed green: secure, distributed, untouchable.
-
-“Done,” he said.
-
-Sona felt the last residual tremor leave her diaphragm, a tiny farewell shiver, as if the host’s field had just whispered thank you and vanished for good. She let it go.
-
-The officer stepped forward again, more confident now. “The scrubber is ready.”
 
 Sona met his gaze. “So are we.”
 
@@ -380,15 +318,6 @@ He snorted, the first unguarded noise he’d made all shift. “You’ll be bill
 They stood in the hush that follows a risk taken and survived, listening to the scrubber’s fans slow to a lullaby hum. For a moment the chamber felt less like a sarcophagus and more like the inside of a conch—an old seashell where sea-roar had once lived and might again if shaken gently.
 
 The officer reached for the manual seal lever but paused. “You ever wonder,” he said, almost to himself, “if the host feels grateful?”
-
-Sona considered. “She feels finished. Gratitude is above my pay grade.”
-
-He laughed once—short, surprised, like a cough that turned into something softer. “You’re brutal.”
-
-“I’m accurate,” she corrected. “Brutal was the part where we cracked her ribs six hours ago.”
-
-He sobered, nodded. “Fair.”
-
 She flexed her hand; the cramp from holding position too long was setting in. “Seal it now, before the peptides re-crystallise.”
 
 He straightened, retrieving the authority that had slipped during the exchange. “Done,” he said.
@@ -396,7 +325,6 @@ He straightened, retrieving the authority that had slipped during the exchange. 
 He keyed the seal. For three heartbeats nothing else moved; even the sentinel drone seemed to hold its rotors in abeyance, as though bureaucracy itself waited to see whether the quiet would fracture. Sona felt the hush settle into the cartilage of her ears like cool glass. Then the chamber’s inner skin dulled to matte pearl, locking the new cadence behind a membrane thick enough to mute any further pleading.
 
 The officer exhaled through pursed lips, a small, practical relief. “You’ll need to log the extraction sequence manually. The drone’s buffer already erased local cache. Oversight orders.”
-
 “Already logged,” Jian said from the corridor junction, fingers flicking across a wrist slate. “Redundant node is three tiers deep and wrapped in my grandmother’s encryption. They can subpoena the air for all I care.”
 
 Sona’s mouth twitched at the corner. “Your grandmother uses temple glyphs and a dead poet’s permutation key?”
@@ -410,13 +338,6 @@ Corv joined them, coat unbuttoned for the first time all shift, collar darkened 
 Sona tucked a stray filament of hair behind her ear; the strand felt brittle, over-oxygenated. She found herself listening for the ghost curve inside her own pulse and was surprised to discover silence—clean, unremarkable silence. The host’s signature had truly departed. There was only the faint residual scent of cardamom on her own breath, a souvenir she had not requested.
 
 They moved. The corridor outside had the flat, institutional glow of places designed to forget emotion as quickly as possible. Yet Sona noticed a subtle shift in the overhead panels: the colour temperature had warmed by two hundred kelvin, as if the building itself had borrowed the host’s newfound willingness to exhale fully. She wondered if the service AI had registered the change as data or as mercy. Probably data. Mercy was still above its pay grade.
-
-At the first junction they passed the failed candidate’s empty workstation. The stool lay on its side like a question mark; the conductive gel had dried to pale crust, flaking where someone—Corv, perhaps—had brushed against it. Sona paused long enough to right the stool. No reason. Just symmetry.
-
-Corv observed the gesture without comment. Then he reached into his coat and produced a small tin of clove toothpicks. He offered one to the officer, who took it with the solemnity of a man accepting last rites. Gideon declined. Jian plucked two—one for each side of his mouth, claiming a need for bilateral focus. Sona accepted one and let the oil sting her tongue, a bright, nostalgic pain that reminded her she was still inside her own body.
-
-They reached the service conduit: a narrow ladder shaft ascending into darkness lit only by maintenance diodes the color of bruised plums. Climbing single file, they moved in near silence, boots ringing softly on perforated rungs. The air smelled of hot circuitry and the mineral tang of fresh welds. Somewhere above them a coolant pipe hissed like an old kettle. Sona counted rungs—eighteen, twenty, twenty-three—matching the rhythm to her restored breath cycle so the pattern stayed honest. At twenty-seven she felt the residual tremor in her forearms and knew the climb was doing her more good than any post-mission stretch protocol.
-
 Corv paused at the top hatch, fingers dancing over the manual release. “We exit on Level Minus Two. From there we can reach the debrief suite without tripping main corridors.”
 
 “Minus Two is where they keep the failed candidate archives,” Jian said. “Irony noted.”
@@ -463,61 +384,11 @@ Sona met his eyes. “She sounded like anyone who’s realised the story isn’t
 
 Silence settled, the kind that follows testimony too precise for applause. Gideon capped the water carafe. Jian closed his slate. Corv pressed his thumbs together, a small inward bow. The officer removed the toothpick, inspected the chewed end, and tucked it into his pocket like a relic.
 
-Overhead, the room lights warmed another degree. Somewhere below them, in a cradle now sealed and cooling, the host’s lungs continued their newly won negotiation with time—inhale, pause, release, begin again. Sona felt the rhythm echo once, faintly, in the pulse at her wrist, then quieted. She rose. The others rose with her, not in deference but in shared equilibrium. There was nothing left to guard.
 
 Corv did not close the debrief immediately. That, more than anything, told Sona the procedure had changed him. Corv closed things. Files, rooms, arguments, wounds that were still trying to make their case. He believed in clean edges because clean edges prevented sloppy mercy from disguising itself as care. Yet now his stylus remained uncapped beside the slate, and the final line of the report waited without a period.
-
-“You are leaving it open,” Sona said.
-
-“I am allowing the sentence to consider its future.”
-
-Jian looked up from his wrist slate. “That is the most aristocratic way anyone has ever said 'draft mode.'”
-
-“Draft mode implies eventual confidence. I would not go that far.”
-
-The officer sat very still on his cushion. The toothpick in his pocket made a small ridge under the fabric, a ridiculous, human lump against a uniform designed to erase such evidence. He had given his witness statement. He had not left. Sona understood the posture. The body sometimes remained after duty ended because departure would require deciding what the duty had meant.
-
-Gideon poured the last of the cold water into the officer's cup and slid it across the table. “Drink.”
-
-The officer obeyed before remembering rank. The cup clicked against his teeth. “I should return to post.”
-
-“You should hydrate,” Gideon said. “Your post will survive thirty seconds without you.”
-
-“Oversight may disagree.”
-
-“Oversight can also hydrate.”
-
-Jian pointed at Gideon without looking up. “Careful. That is how revolutions begin. One glass of water and a suspiciously reasonable tone.”
-
-The officer drank again, this time slower. Color returned to his face by increments. Sona watched the small restoration with the same attention she had given the host's third breath. Not because the officer mattered more, but because systems revealed themselves in minor recoveries. A building that trained its junior staff to ignore thirst would eventually ask them to ignore worse.
-
-Corv wrote one phrase on the slate: *unassisted variability maintained after intervention withdrawal*. He stared at it, dissatisfied.
-
-“Too clean?” Sona asked.
-
-“Too safe.”
-
-Jian leaned over. “Add 'despite administrative impatience.'”
-
-“Rejected for accuracy that looks like editorializing.”
-
-“The best accuracy often does.”
-
-Gideon set his empty cup upside down. “Write what happened.”
-
-Corv's eyes lifted. “What happened has too many witnesses.”
-
-“Then write the part they cannot make smaller.”
-
-The room quieted. Sona felt the sentence arrive before anyone spoke it. The part they could not make smaller was not the intervention, not the data, not even the saved record. It was the fact that the host had continued after Sona withdrew. The method had not conquered the field. It had made enough room for the field to answer without being dragged into agreement.
-
 “She held,” Sona said.
 
 Corv wrote that down.
-
-Two words. No ornament. The slate accepted them with a soft click.
-
-The officer's gaze went to the table. “If you leave that in, the directorate will ask why the scrubber was delayed.”
 
 “Because three cycles were clinically necessary,” Corv said.
 
@@ -533,53 +404,6 @@ He swallowed. “That sounds dangerous.”
 
 “It is.”
 
-Jian's slate chirped. He glanced down, then blinked. “The redundant node just received a polite request for deletion.”
-
-Gideon smiled without humor. “Polite?”
-
-“Extremely. It called me valued personnel.”
-
-“Never trust flattery from a purge daemon,” Corv said.
-
-Jian's fingers moved. “I am replying with a polite abstract, a checksum, and a haiku about jurisdictional overreach.”
-
-The officer stared at him. “You can do that?”
-
-“Badly. Which makes it harder to prosecute as poetry.”
-
-Sona laughed once, and the laugh hurt. Good. Pain returned her to scale. She was not an oracle in a chamber of breath and light. She was a tired woman with a bruised rib, a mouth full of salt, and an increasing suspicion that tenderness without procedure became theft, while procedure without tenderness became murder with better stationery.
-
-Corv's stylus paused. “Say that again.”
-
-“No.”
-
-“You had the look of a usable sentence.”
-
-“You cannot harvest me for report language.”
-
-“I can cite you anonymously.”
-
-“I will deny being quotable.”
-
-Jian made another mark on his slate. “Too late. 'Murder with better stationery' is now a protected cultural asset.”
-
-Gideon shook his head, but the edge had left his shoulders. The room had not become safe. Safety would have been a lie. It had become inhabited. There was a difference. In an inhabited room, people could notice thirst, argue over adjectives, and still keep one ear tuned to the sealed cradle below.
-
-Corv finally added the period after *She held.* Then he wrote a second line beneath it: *Method requires withdrawal proof before any future stabilization claim.*
-
-Sona read it and nodded. “That will make them angry.”
-
-“Good.”
-
-“That sounded vindictive.”
-
-“It was methodological.”
-
-Jian lifted his cup. “To methodology. The civilized face of revenge.”
-
-The officer almost smiled. Almost was becoming his native language.
-
-That was when the room proved her wrong.
 
 The debrief table, which had spent the last hour pretending to be furniture, opened a narrow seam and pushed a sealed wafer of glass into the center of the circle. It rose on a brass stem no thicker than a vein. Inside the wafer, the restored breathfield drew itself as a line of pale fire: not a waveform now, not a respiration trace, but a direction.
 
@@ -588,12 +412,6 @@ Jian leaned over it. “Please tell me the table has not developed opinions. I a
 “It is a post-session compass,” Corv said. “Old Vireth diagnostic. It converts stable variability into navigational bias.”
 
 “A compass for breathing,” Gideon said.
-
-“A compass for what the breathing refused to surrender,” Corv corrected. “North is for maps. This points toward unfinished consent.”
-
-Sona stared at the thin line. It angled neither toward the door nor toward the sealed cradle below them. It leaned beyond the suite, beyond the administrative ring, toward the deeper corridors where the Anamnesis Engine kept its older rooms folded under newer names. The line trembled once, then steadied with the faint obstinacy of a child deciding not to cry in public.
-
-The junior officer cleared his throat. He had kept the toothpick in his pocket after the host chamber, as if chewing it now would be disrespectful to the evidence. “Is that normal?”
 
 “In this building?” Jian said. “Normal is a rumor propagated by people who own matching socks.”
 
@@ -608,38 +426,6 @@ Sona reached for the wafer but stopped before her fingers touched the glass. The
 “It is responding to the residual decision in your field,” Corv said. “Not the same thing.”
 
 “Comforting distinction.”
-
-“Useful distinction,” he said. “The first makes you special. The second makes you responsible.”
-
-She let the correction land. Special had always been the cheapest narcotic in rooms like this. Responsible had weight, an edge, a bill due in the morning. She preferred the bill. At least bills admitted they wanted something.
-
-The officer shifted on his cushion. “The log still needs a final witness statement. Oversight will ask why the lattice record survived the scrubber.”
-
-“Because the scrubber was underfunded and spiritually unprepared,” Jian said.
-
-“Because medical protocol required a buffer flush,” Gideon said.
-
-“Because a life rhythm is not contraband,” Sona said.
-
-Corv looked at the officer. “Pick the sentence that keeps you employed.”
-
-The officer tapped his recorder. “I am keeping all three. Employment is a temporary metabolic state.”
-
-Jian placed a hand dramatically over his chest. “He learns. I am proud and mildly threatened.”
-
-The room warmed by another degree. The service AI, perhaps mistaking wit for recovery, dimmed the lights to a gold that almost resembled evening. Sona had not seen a true evening in months. In the lower rings, time arrived as menu settings: dawn for productivity, afternoon for compliance, midnight for containment breaches. Real dusk was messier. It bruised the sky, let edges soften, reminded the body that ending was not the same as failure.
-
-The wafer’s line shivered again.
-
-Gideon saw it too. His hand moved toward the sidearm he did not wear in medical zones, then closed into a fist around nothing. “Vector shift.”
-
-“Not hostile,” Corv said.
-
-“You say that like hostility files a calendar invite.”
-
-“Sometimes it does. Oversight prefers Thursdays.”
-
-Sona inhaled before she could laugh. Pain flashed under her collarbone where the cradle’s sympathetic shunt had left its crescent bruise. The laugh became a cough; the cough became one clean exhale that fogged the wafer. For an instant the line vanished under condensation. When the glass cleared, the line had split into three faint threads.
 
 Jian’s humor left him. “That’s new.”
 
@@ -663,37 +449,6 @@ Jian rubbed both palms over his face. “I liked it better when furniture had no
 
 Sona kept her eyes on the three threads. They reminded her of river deltas seen from impossible height, or the branching veins inside a leaf held to sun. But beneath the image was something stranger: a sensation of orientation not in space, but in motive. The gold thread wanted discipline. The green thread wanted mercy. The absent thread wanted the gap between them kept open long enough for a third answer to breathe.
 
-She almost said that aloud, then heard how grand it would sound. Grand language was how frightened people dressed up uncertainty until it saluted.
-
-“It is not a destination,” she said instead. “It is a disagreement that learned manners.”
-
-Gideon nodded as if that were operationally sufficient. “Can we move it?”
-
-“The wafer?” Jian asked.
-
-“The disagreement.”
-
-“For once,” Jian said, “your battlefield metaphor may be medically actionable.” He drew a wafer sleeve from his kit, then hesitated. “If I sheath it, we preserve the vector but lose live drift. If I leave it open, the room keeps updating and oversight gets curious about why the table is praying in three colors.”
-
-The officer raised a finger. “Technically the table is not in the inventory. It predates the current asset ledger.”
-
-Every head turned toward him.
-
-He flushed. “I used to do night audits. The old suites are full of things nobody budgeted into existence. The building keeps them the way old families keep cracked cups: useless until someone important dies.”
-
-Corv’s expression sharpened, not with suspicion but interest. “And the post-session compass?”
-
-“Listed as devotional residue, pre-charter. No active function. Marked decorative.”
-
-Jian stared at the wafer. “Decorative. Of course. The machine reveals a tripartite motive vector and procurement calls it decor. This is why civilization deserves paperwork fires.”
-
-Sona looked at the officer more carefully. “You knew the table might open.”
-
-“I knew it had opened before.” He swallowed. “Only in logs nobody reads. After failed sessions mostly. It gave single lines then. Always toward disposal, review, or hospice. Never three.”
-
-The word hospice settled over them without ceremony. It changed the temperature more effectively than any AI. Sona thought of the host below, the unnamed woman whose lungs had chosen negotiation over quiet. She thought of the candidate archive, amber lights blinking for people whose failures had been preserved as lessons. She thought of the bodies the Engine had taught them to read and the ways reading could become another form of taking.
-
-“Her name,” Sona said.
 
 The officer blinked. “What?”
 
@@ -717,12 +472,6 @@ The officer’s face went pale. “That will trigger restricted-review protocols
 
 She turned to him. “If the Engine can remember our fear, it can remember her name.”
 
-The room held. Then Gideon nodded once, the nod of a man accepting a bridge before checking whether anyone had installed railings. “Put it in the log.”
-
-The officer did. His hand shook only at the beginning.
-
-The first version of the amendment was too clean.
-
 The officer read it back in the voice institutions taught their young: neutral, laminated, difficult to prosecute. “Subject Aria Sen retained autonomous variability for two cycles after telemetry termination.”
 
 Sona said, “Three.”
@@ -743,63 +492,6 @@ Jian leaned back on his cushion and closed one eye as if sighting along a rifle 
 
 Corv tapped the slate with his stylus. “Write: third cycle completed after practitioner withdrawal, with no external coherence feed.”
 
-The officer entered the phrase. The green thread in the wafer brightened by a degree, as if the old diagnostic recognized precision as a form of kindness. Sona watched it and distrusted the comfort. Machines that rewarded truth could still be used to punish the people who told it.
-
-“Again,” she said.
-
-The officer read the amendment a second time. His voice lost some lamination. “Aria Sen retained autonomous variability for three cycles after telemetry termination, third cycle completed after practitioner withdrawal, with no external coherence feed.”
-
-“Patient name first,” Sona said.
-
-“It is first.”
-
-“No. First as subject of the sentence. Not the procedure. Not the variability. Her.”
-
-The officer's fingers hovered over the slate. “Aria Sen retained...?”
-
-“Yes.”
-
-“That is not standard.”
-
-“Neither was she.”
-
-He changed it. The sentence became smaller and more dangerous: *Aria Sen retained autonomous variability for three cycles after telemetry termination; third cycle completed after practitioner withdrawal, with no external coherence feed.*
-
-Gideon read it over the officer's shoulder. “Better.”
-
-Jian made a soft approving noise. “Look at that. Grammar has entered the resistance.”
-
-The officer's mouth tightened. “Grammar gets people demoted.”
-
-“Only when it works.”
-
-Corv did not smile. He was looking at the daughter's remission fund line still visible in the intake record. Sona had seen him read autopsy reports with less naked discomfort. Numbers protected him from certain kinds of grief; this number had refused the protection. Defaulted fund. Registered teacher. Industrial pollen exposure. Volunteer. The sequence was an algorithm of coercion dressed as consent.
-
-“Do not say it,” Sona said.
-
-Corv looked at her.
-
-“I can feel you preparing to say consent under constrained economic conditions should be reviewed by the ethics board.”
-
-“It should.”
-
-“Of course it should. But if you say it like that right now, I will pour the rest of this water on your shoes.”
-
-Jian looked at the nearly empty carafe. “A restrained but symbolically rich threat.”
-
-Corv set the slate down. “What would you prefer?”
-
-Sona looked at the record. The words blurred for a moment, not because she was crying, but because fatigue had made her eyes ambitious and incompetent. She blinked until the line steadied. “Say her daughter had a price put on hope, and Aria Sen paid with breath.”
-
-No one moved.
-
-Then Gideon said, “Put that nowhere official.”
-
-“I know.”
-
-“Remember it anyway.”
-
-The officer's throat worked. “Her daughter is alive.”
 
 Sona turned.
 
@@ -863,62 +555,6 @@ He looked down at the record, then at the closed floor beneath which Aria Sen's 
 
 The slate accepted the appeal with a sound so small it was almost obscene. A single administrative chirp. Somewhere in the higher systems, an account moved from suspended to pending. Pending again. The most merciful tense medicine had, and perhaps the cruelest, because it asked the desperate to keep breathing while strangers debated the price of air.
 
-Jian's slate lit immediately with a warning. “Appeal filed. Review queue opened. Automated objection from oversight in three, two—there it is. Charming. It says the evidence packet contains irregular witness emphasis.”
-
-“What is irregular witness emphasis?” Gideon asked.
-
-“A human being in the sentence.”
-
-Corv took the slate from Jian and read the objection. “They will try to sever the appeal from the lattice archive.”
-
-“Can they?”
-
-“Procedurally, yes.”
-
-“Actually?” Sona asked.
-
-Jian's grin returned, thin and sharp. “Actually, my grandmother's haiku has teeth.”
-
-The officer blinked. “You really did send a haiku?”
-
-“No. I sent an evidentiary checksum shaped like one. Aesthetic crimes are harder to subpoena.”
-
-Corv handed the slate back. “The archive and appeal now share a timestamp. If they delete one, the absence testifies for the other.”
-
-Sona let that settle. An absence that testified. A breath that held after hands withdrew. A name placed first in a sentence. The chapter's work, she realized, had never been only to stabilize a field. It was to learn which kinds of support left the supported thing more able to stand when support ended.
-
-The green thread in the wafer steadied.
-
-The officer exhaled. “My post will notice I am late.”
-
-Gideon glanced at the closed door. “Your post can file an appeal.”
-
-Jian lifted his cup. “I will write it a haiku.”
-
-This time the officer laughed. Not much. Enough.
-
-As he spoke the amendment, the green thread steadied. It no longer pulsed like leaves in wind; it held a low, even glow that made the water carafe flash emerald at the rim. Mercy, Sona thought, was not softness. Softness wanted relief. Mercy wanted an accurate ledger and the courage to keep reading after the numbers turned ugly.
-
-The absent thread remained almost absent.
-
-Corv noticed her looking. “Do not chase that one.”
-
-“I was not.”
-
-“You were preparing to become the sort of person who says she was not.”
-
-She looked at him despite herself. “You practice being unbearable, or is it congenital?”
-
-“My family cultivated it over nine generations. We nearly lost the line to charm once. Very embarrassing decade.”
-
-Jian pointed at him. “I have seen portraits. The decade had hats.”
-
-Corv’s mouth twitched. “We do not discuss the hats.”
-
-The humor did what medicine had failed to do: it put Sona back into her body without making the body the whole story. Her ribs hurt. Her mouth tasted of water and old metal. Her knees wanted sleep with an urgency that bordered on political organizing. But around the pain was room enough for thought, and around the thought was a corridor leading forward.
-
-The wafer’s absent thread finally moved. Not toward the door. Not toward the lower cradle. It angled toward the western wall of the debrief suite, where there was no visible passage, only seamless composite and the faint shadow of earlier architecture under later paint.
-
 The officer inhaled. “There is a sealed service gallery behind that wall.”
 
 Gideon stood. “Access?”
@@ -938,7 +574,6 @@ Sona stood last. For a moment the room tilted, not from weakness but from the su
 The officer looked at her. “You should rest before the calibration ring.”
 
 “I should do many things,” she said. “I keep a list so failure feels organized.”
-
 “That one sounded like a medical concern.”
 
 “It was. I filed it under future regrets.”
@@ -958,37 +593,6 @@ The wafer dimmed once Jian slid it into its sleeve. The three threads collapsed 
 Gideon stepped through first. Corv followed. The officer stayed behind to finish the witness log, though his eyes kept returning to the open wall as if part of him had already crossed. Jian paused at the threshold and glanced back at Sona.
 
 “Ready?”
-
-She listened inward. No borrowed lungs. No host cadence riding backup. No grand revelation staging itself in her throat. Only her own breath, imperfect and present, entering a body that had finally stopped trying to be a room for everyone else.
-
-“Not ready,” she said. “Available.”
-
-Jian’s grin flashed in the half-dark. “Much more dangerous.”
-
-The service gallery did not open fully at first. It admitted them by degrees: a palm-width of darkness, then a blade of cold air, then the smell of metal that had forgotten hands. Gideon kept one shoulder in the gap while the door decided whether it remembered being a door. The composite panels shuddered around him, old emergency power making a low, uncertain buzz behind the walls.
-
-“It is thinking,” Jian said.
-
-Gideon did not move. “Doors do not think.”
-
-“This one is doing a convincing impression of a committee.”
-
-Corv glanced at the seam. “Then we should flatter it and ignore its recommendations.”
-
-The officer, still behind them at the table, made a small sound that might have been a laugh if he had not immediately disguised it as a cough. Sona looked back. He had returned to the witness log, but his attention kept escaping toward the opening. The gallery had changed the gravity of the room. Everyone could feel it. A hidden passage was never merely architecture. It was an accusation against the floor plan.
-
-Jian slid the amber needle into a slot on his wrist slate. The slate recognized neither the object nor the era that had produced it. Its screen offered three options: quarantine, discard, or report unknown asset. Jian selected none of them.
-
-“You are not reporting it?” the officer asked.
-
-“I am allowing the unknown asset to enjoy its anonymity.”
-
-“That is illegal.”
-
-“So is bad taxonomy, if you have taste.”
-
-The officer looked to Corv, perhaps hoping for adult intervention. Corv only adjusted his cuffs. “House Vireth has survived many crises. Taste was rarely one of them.”
-
 The seam widened another inch.
 
 Sona felt the gallery before she saw it. Not as a new field, not as a summons, but as a change in the way her own breath spent itself. The air beyond the wall was drier than the suite, colder, threaded with dust and a mineral note like old rain trapped in stone. It made her exhale shorter. Her body did not trust it yet. That was useful information. The body was not wise in the way stories liked to claim; it was biased, historical, easily fooled, and often right by accident. Still, when it hesitated, Sona had learned to ask what shape the hesitation made.
@@ -998,13 +602,6 @@ This one made a triangle.
 Not visibly. No symbol appeared. No voice named it. The shape arrived as pressure: Gideon at the door holding boundary, Jian with the needle holding map, Corv with the slate holding consequence. Sona stood between them with Aria Sen's name under her ribs and the memory of three unassisted breaths still warm in her sternum. Four people, three functions, one gap. The old geometry did not need to be spoken. Speaking it would flatten it.
 
 “You felt that,” Corv said.
-
-Sona kept her eyes on the opening. “I felt something.”
-
-“Useful evasion.”
-
-“Inherited from physicians.”
-
 “Physicians usually charge more for it.”
 
 “I am saving my invoice for the door.”
@@ -1033,23 +630,6 @@ Jian gave the gallery a grave nod. “A fearsome metaphysical authority.”
 
 Sona stepped closer to the seam. The amber needle warmed inside Jian's slate, throwing a small line of light across his palm. It pointed not straight down the gallery but fractionally toward the left rail, where an old access hatch had been painted over and then scratched clean by time or fingernails. The hatch bore no label. Labels belonged to systems that expected to be obeyed.
 
-“There,” she said.
-
-Jian followed her gaze. “The hatch?”
-
-“The air changes around it.”
-
-Gideon looked at the hatch, then at her. “Trap?”
-
-“Memory.”
-
-“Operational difference?”
-
-“A trap wants you predictable. Memory wants you implicated.”
-
-Corv's mouth moved in the almost-smile that meant she had said something he would later pretend not to write down. “And this is why reports become longer after you enter rooms.”
-
-The officer stood. The movement surprised all of them, perhaps him most. “That hatch leads to old calibration storage.”
 
 Gideon turned. “You said the gallery led to the calibration ring.”
 
@@ -1073,9 +653,6 @@ Gideon shifted his stance. “We are not opening a memorial room in the middle o
 
 “No,” Sona said. “We are acknowledging that the exit passes one.”
 
-That held him. She could see the protective refusal form in his jaw and then fail to find a clean target. Gideon understood threats. He could carry people through them, stand between bodies and impact, reduce a crisis to load, distance, angle. But this was not a threat that could be shouldered. It was context. Context was harder on him because it did not stop when he did.
-
-“One minute,” he said.
 
 “Thirty seconds,” Corv corrected.
 
@@ -1090,7 +667,6 @@ Jian stepped beside him and held up the amber needle. “Fortunately, we have de
 “That is not a credential.”
 
 “Neither are half the people in power.”
-
 He touched the needle to the hatch. For a moment the old metal did nothing. Then warmth moved through the copper rails in a slow line, not bright, not dramatic, just enough to reveal the shape of a lock that had been painted over. The hatch clicked.
 
 No one opened it.
@@ -1138,15 +714,6 @@ Gideon looked at him.
 Sona studied the bend in the grid. “Not philosophy. Memory of weight.”
 
 The phrase left her mouth before she could polish it. She expected Corv to catch it for later use; instead he watched the floor. “What did it measure?”
-
-The officer consulted his log, then shook his head. “Not identity. Not biometrics. Aggregate distribution. How many people entered together, how far apart, whether anyone crossed alone.”
-
-Gideon's jaw shifted. “A formation test.”
-
-“Or a consent test,” Sona said.
-
-The hallway seemed to tighten around the word. Not visibly. It was only a change in attention, the team becoming aware at once of their spacing: Gideon half a step ahead, Jian angled toward the rail, Corv beside the seam, Sona between the open room and the dark. The old plate did not care who commanded. It cared whether the group crossed as a single weight or as separate evasions.
-
 Jian looked offended on behalf of modern engineering. “If the building wanted teamwork, it could have installed a sign.”
 
 “Signs are for people who ignore floors,” Corv said.
@@ -1208,7 +775,6 @@ Jian made a note. “I am writing that down as a safety protocol and no one can 
 “Fine. Do not solo the haunted floor.”
 
 The officer laughed before he could stop himself. The sound travelled down the gallery, touched the brass lamp shields, and came back smaller but intact. Sona listened to it return. There was the pressure-release the body needed: not escape from stakes, not denial of grief, but proof that the corridor had not swallowed ordinary sound.
-
 They moved again, slower now, guided by lamps that cared nothing for rank. Behind them the debrief suite remained warm and gold. Ahead the calibration ring waited with its dark mouth and its old appetite for exactness. Between the two, Chapter 7 narrowed into a single practical lesson Sona could carry without making a doctrine of it.
 
 Halfway to the first bend, Jian's slate pulsed with the delayed reply from the appeal queue. He lifted it, expecting another objection, and instead found a temporary hold: twelve hours before review, automatic medical credit preserved until then. Not victory. Not mercy. A pause with teeth in it.

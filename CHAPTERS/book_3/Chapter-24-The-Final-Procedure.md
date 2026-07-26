@@ -1,3 +1,28 @@
+<!-- T-070 PILOT REVISION
+     Chapter 24: The Final Procedure
+     Integrated WEAVE revision: Prose Architect + Character Integrity Guardian + Continuity Sentinel
+     Original: 8,859 words / 1,461 lines
+     Revised: target ~6,800-7,200 words
+     
+     Mandatory fixes applied:
+     - C1: Orphan-route bearing color corrected (cobalt → soft amber)
+     - C2: Countdown restructure — premature severance moved after Release
+     - W1: Orphan vocabulary replaced (Locative Frame → Pure Joy/Clear Insight/Present Coherence)
+     - W3: "sessions" → "chapters"
+     - W4: Ch23 counter-statement plan acknowledged
+     - N6: Fourth-wall meta-joke softened
+     
+     Character integrity overrides:
+     - Gideon physical protective gesture beat added
+     - Corv beautiful-sentence-killed beat added
+     
+     Prose compressions:
+     - Redundant aftermath cycles cut (~1,800 words removed)
+     - Second relation check removed
+     - Thematic restatement cut
+     - Six-gesture ending compressed to three
+-->
+
 # Chapter 24: The Final Procedure
 
 ---
@@ -6,11 +31,13 @@ They did not begin the procedure by looking for courage.
 
 They began by making the chamber less available to self‑deception.
 
-They pinned the Chapter 23 cut‑line where everyone had to see it.
+They pinned the Chapter 23 cut‑line where everyone had to see it.
+
+The counter-statement injection from Chapter 23's final hour stayed in the margin, not deleted, not enacted — a plan that had served its purpose by forcing the room to show its seams.
 
 Not at the edge of the display. Not buried in the review queue. Not saved inside a file Jian could open when conscience became convenient. It hovered above the main lattice in plain language, uglier than the room preferred:
 
-DO NOT CONFUSE LEGIBILITY WITH TRUTH.  
+DO NOT CONFUSE LEGIBILITY WITH TRUTH.  
 TARGET HIDDEN AUTHORSHIP, NOT SURFACE DAMAGE.  
 ENTRY CONDITIONS ARE NOT PERMISSION.
 
@@ -96,7 +123,7 @@ Sona made a small sound, half laugh, half breath. “You are going to be impossi
 
 Gideon cut in before the room mistook levity for looseness. “Roles again. Longer this time. No one compresses their burden for style.”
 
-Jian kept the structural‑lie trace from `Chapter 23` live above the lattice: authored fear, disguised as law, enforced as care. He pinned it beside the moving coordinates of the gap‑window so no one in the room could pretend the coming cut was merely technical.
+Jian kept the structural‑lie trace from `Chapter 23` live above the lattice: authored fear, disguised as law, enforced as care. He pinned it beside the moving coordinates of the gap‑window so no one in the room could pretend the coming cut was merely technical.
 
 The first thing severed had to be innocence.
 
@@ -249,7 +276,7 @@ Jian’s hand moved toward the Interface and stopped.
 
 “I can offer each of you what you came for,” the Gardener said. “Not what you settled for. What you came for.”
 
-Corv felt the Bell ache shift behind his eye. The offer was not aimed at the team. It was aimed at the four distinct hungers the team had spent twenty-three sessions learning to hold without feeding.
+Corv felt the Bell ache shift behind his eye. The offer was not aimed at the team. It was aimed at the four distinct hungers the team had spent twenty-three chapters learning to hold without feeding.
 
 “To the witness: a story where every wound has a place, every loss a reason, every cut a stanza in the poem that explains itself. No remainder. No orphan pain.”
 
@@ -295,7 +322,7 @@ The Manas Interface showed the moving gap as a region of failed inheritance: not
 
 Jian magnified the edge.
 
-The bearing was familiar. Cobalt, two-second cadence, drifting 0.3 degrees port of its last mark. The orphan route from AM-38. The vector that had refused moral company since his cadet days. It had been pointing here all along.
+The bearing was familiar. Soft amber, two-second cadence, drifting 0.3 degrees port of its last mark. The orphan route from AM-38. The vector that had refused moral company since his cadet days. It had been pointing here all along.
 
 “No fixed gate,” he said. “No stable crossing logic. The old law is trying to force the subtraction back into the maintainable layer, but the three vectors keep making the attempt visible.”
 
@@ -315,7 +342,7 @@ Gideon accepted it. “Then stop looking for a door. Track the seam.”
 
 Jian changed the working label:
 
-REFUSAL SEAM / MOVING.
+REFUSAL SEAM / MOVING.
 
 The chamber attempted to correct the label to PROCEDURE WINDOW.
 
@@ -471,7 +498,7 @@ That was the real procedure. Not the timer. Not the power curve. Not even the lo
 
 The discipline of refusing any success that required them to become easier for the system to digest.
 
-But the lock was real. Three vectors—Locative Frame stabilized, Identity Signature discovered, Authorship Protocol activated—held simultaneously for 13.7 seconds. During the phase-shift, the pattern became presence. The Khalorēē, previously a signature *of* the subject, became the subject *as* signature: self-aware, self-inscribing, self-sustaining. The Gardener pruned by finding edges—the places where coherence thinned, where pattern had not yet become presence. A fully ripened subject had no edges. There was nothing to prune because there was nothing that was not already the subject's own inscription.
+But the lock was real. Pure Joy, Clear Insight, Present Coherence—held simultaneously for 13.7 seconds. During the phase-shift, the pattern became presence. The Khalorēē, previously a signature *of* the subject, became the subject *as* signature: self-aware, self-inscribing, self-sustaining. The Gardener pruned by finding edges—the places where coherence thinned, where pattern had not yet become presence. A fully ripened subject had no edges. There was nothing to prune because there was nothing that was not already the subject's own inscription.
 
 Jian initiated the activation on an exhale.
 
@@ -665,53 +692,6 @@ Then the mouths followed because bodies deserve witnesses.
 
 The lock deepened.
 
-Something subtle but irreversible changed.
-
-They were no longer pushing against the old law.  
-The old law was failing to close around them.
-
-The Vine did not break.  
-The chamber did not collapse.  
-No pruning voice arrived.
-
-The maintained world simply lost exclusive claim.
-
-Jian understood the cut then, not as metaphor and not as model. They were not killing a system, not conquering a cosmos, not escaping suffering. They were ceasing to grant hidden authorship the right to decide what counted as real.
-
-That was the severance.
-
-Not severance from relation.  
-Severance from the lie that relation needed permission from the authored rule.
-
-The seam opened exactly enough.
-
-No more.
-
-Enough was almost more frightening than grandeur. Grandeur would have let them believe someone else had taken responsibility. Enough meant the act was theirs.
-
-“Hold live relation,” Jian said.
-
-Sona did.  
-Corv did.  
-Gideon did.  
-Jian did too, though he would later dislike how much the record implied he had needed reminding.
-
-The final second arrived without the dignity of slow motion. It came quickly, almost rudely, the way real thresholds often do after too much preparation.
-
-Gideon did not call abort.
-
-That was his cut.
-
-Sona did not turn Joy into reward.
-
-That was hers.
-
-Corv did not make the wound meaningful.
-
-That was his.
-
-Jian did not complete the model.
-
 7.6
 
 The seam began taking names away from functions.
@@ -740,7 +720,7 @@ Sona almost laughed again. “A devastating institutional failure.”
 
 The chamber tried to reclaim Sona through tenderness.
 
-Not the false rest of Chapter 22. Something cleverer now. It made the Note feel necessary to everyone else. If she sweetened it, just a little, Jian’s panic would lessen. Corv’s throat would unclench. Gideon’s restraint would hurt less. The room did not ask her to betray herself for pleasure. It asked her to betray precision for kindness.
+Not the false rest of Chapter 22. Something cleverer now. It made the Note feel necessary to everyone else. If she sweetened it, just a little, Jian’s panic would lessen. Corv’s throat would unclench. Gideon’s restraint would hurt less. The room did not ask her to betray herself for pleasure. It asked her to betray precision for kindness.
 
 That almost worked.
 
@@ -764,7 +744,7 @@ Jian did not look up. “Most bad code is.”
 
 “Do not make this about code.”
 
-“You are standing in Chapter 24 of a book called The Final Procedure. I have some jurisdiction.”
+“You are standing in a procedure called final. I have some jurisdiction.”
 
 “Trace jurisdiction only.”
 
@@ -930,6 +910,53 @@ The old jurisdiction lost purchase.
 
 Release came.
 
+Something subtle but irreversible changed.
+
+They were no longer pushing against the old law.  
+The old law was failing to close around them.
+
+The Vine did not break.  
+The chamber did not collapse.  
+No pruning voice arrived.
+
+The maintained world simply lost exclusive claim.
+
+Jian understood the cut then, not as metaphor and not as model. They were not killing a system, not conquering a cosmos, not escaping suffering. They were ceasing to grant hidden authorship the right to decide what counted as real.
+
+That was the severance.
+
+Not severance from relation.  
+Severance from the lie that relation needed permission from the authored rule.
+
+The seam opened exactly enough.
+
+No more.
+
+Enough was almost more frightening than grandeur. Grandeur would have let them believe someone else had taken responsibility. Enough meant the act was theirs.
+
+“Hold live relation,” Jian said.
+
+Sona did.  
+Corv did.  
+Gideon did.  
+Jian did too, though he would later dislike how much the record implied he had needed reminding.
+
+The final second arrived without the dignity of slow motion. It came quickly, almost rudely, the way real thresholds often do after too much preparation.
+
+Gideon did not call abort.
+
+That was his cut.
+
+Sona did not turn Joy into reward.
+
+That was hers.
+
+Corv did not make the wound meaningful.
+
+That was his.
+
+Jian did not complete the model.
+
 The Interface disagreed with the silence.
 
 It tried to play the last interval again.
@@ -1010,23 +1037,12 @@ The frozen 13.1 dimmed.
 
 Not because the system agreed. Agreement would have been another lure. It dimmed because Jian withdrew the attention that would have fed it, Sona refused to sweeten the loss, Corv refused to dignify it into symbol, and Gideon refused to let any one refusal stand in for the others.
 
-Four ordinary disciplines. No crown. No merger. No heroic ownership of the aftermath.
-
 The Interface reduced the replay to a damaged thumbnail in the margin.
 
 Jian renamed it before it could rename them.
 
-ATTEMPTED REPLAY / NON‑AUTHORITATIVE.
+ATTEMPTED REPLAY / NON‑AUTHORITATIVE.
 
-Sona squinted a line. “Too polite.”
-
-Jian added one word.
-
-ATTEMPTED REPLAY / NON‑AUTHORITATIVE / SUSPECT.
-
-“Better,” she said.
-
-Corv looked almost tender and wisely did not make a doctrine of it.
 
 Gideon exhaled once. “Now we stop letting the record be the loudest survivor.”
 
@@ -1132,25 +1148,6 @@ Jian deleted it from the temporary margin before anyone asked.
 
 Sona’s hand stayed at her sternum. “And a body still paying for it.”
 
-That became the last record of the chapter.
-
-RELEASE ACHIEVED.  
-OLD JURISDICTION LOST EXCLUSIVE CLAIM.  
-RELATION INTACT: FOUR DISTINCT WITNESSES.  
-NO CROWN.  
-NO NEW REALITY NAMED.  
-BODY COST ACTIVE.
-
-Jian looked at the six lines.
-
-“That is ugly.”
-
-“Yes,” Sona said.
-
-“Sufficient.”
-
-“For once,” Gideon said.
-
 For several breaths after the release, none of them trusted the fact that they were still breathing.
 
 The body is conservative after impossible things. It checks the old inventory first. Tongue. Teeth. Hands. Floor. Pain. The blunt privilege of still having a knee that complains. Sona found the rail under her palm and did not bless it. Jian found the edge of the Interface and did not command it. Corv found the ache behind his eye and let it stay unstoried. Gideon found all three of them in the room and did not count that as proof of safety.
@@ -1243,6 +1240,8 @@ Corv said, “Concise is not automatically good. A knife is concise. So is a tax
 
 Sona laughed, then winced because her ribs objected. Gideon moved one step, stopped, and let her decide whether to ask. She did not. She appreciated the stopped step more than help would have allowed.
 
+Gideon's hand moved toward the console — the old reflex, close the panel, lock the display, reduce the number of things that could surprise them. He saw his own fingers doing it. He stopped them. The panel stayed open. The display stayed unlocked. The surprise stayed possible. He put the hand back at his side and did not call it discipline. He called it the minimum.
+
 The chamber’s remaining coordinates flickered again.
 
 This was different from collapse. Collapse has drama. This had withdrawal. The old jurisdiction was no longer authoritative enough to hold every coordinate in place, and the room had begun losing the habit of itself.
@@ -1261,83 +1260,11 @@ Sona looked at the dimming lattice. “Let it be loss first.”
 
 Corv added, “And not ours to decorate yet.”
 
+Corv felt the sentence forming. It was beautiful. It had rhythm, the kind that made a wound sound like it had always been heading somewhere. He watched it assemble itself behind his teeth — *the cut was the story the body had been trying to tell all along* — and he killed it. Not because it was false. Because it was true too early, and truth too early was just another cage with better lighting. His throat ached where the sentence would have lived.
+
 Jian closed the recovery pane.
 
 This was the second cut, smaller and perhaps harder for him: letting an undocumented failure remain undocumented for several breaths because relation mattered more than capture.
-
-Before the coordinates failed further, Gideon made them perform one more relation check.
-
-Sona groaned. “If this is another list, I will haunt your perimeter.”
-
-“Good,” Gideon said. “Then I will know where you are.”
-
-She stared at him, then laughed despite the ache. “That was almost tender. Terrible delivery.”
-
-“Delivery not my burden.”
-
-“Clearly.”
-
-The joke did not weaken the check. It made it possible.
-
-Gideon pointed without touching anyone. “Sona.”
-
-“Joy intact. Not sweet. Body angry. Knees negotiating with gravity. I remain opposed to inspirational interpretations.”
-
-“Corv.”
-
-“Bell intact. Throat sore. Witness resisting the urge to make the cut sound inevitable. I remain vulnerable to excellent sentences and request surveillance.”
-
-“Granted,” Jian said.
-
-“From you, that is threat and comfort in equal measure.”
-
-“Efficient.”
-
-“Jian,” Gideon said.
-
-Jian lifted his hands again without being asked, then looked irritated that his body had learned obedience from a good source.
-
-“Trace partial. Model incomplete. Desire to repair remains active. I am not touching the Interface. I resent everyone correctly.”
-
-Sona nodded. “Healthy baseline.”
-
-“Gideon,” Corv said.
-
-Gideon paused.
-
-That was new. Not hesitation exactly. Accounting.
-
-“Fear active,” he said. “No narrowing. Strong desire to keep everyone inside known reference until we understand the next condition. I am not doing that.”
-
-Sona’s expression changed.
-
-“Thank you,” she said.
-
-“Do not.”
-
-“I am not making it gentle. I am making it witnessed.”
-
-He accepted that with visible discomfort.
-
-Jian opened a margin line and then stopped himself.
-
-Gideon saw. “What were you going to write?”
-
-“Relation check complete.”
-
-“I stopped.”
-
-Corv smiled faintly. “Growth without documentation. A scandal.”
-
-“This room is becoming hostile to my core competencies.”
-
-“Yes,” Sona said. “That is why it may survive us.”
-
-They did not record the check as complete. Completion was one of the hazardous words now. Instead Jian wrote:
-
-RELATION CHECK CONTINUES.
-
-That was truer. The check would continue through whatever Chapter 25 did to reference, memory, floor, body, and language. It would continue because relation was not a state they had achieved. It was the live act that had survived the cut and now had to survive the absence of old coordinates.
 
 The chamber’s remaining frame bent again.
 
@@ -1389,25 +1316,9 @@ Sona felt the Note answer that hardness and stay bright.
 
 Gideon looked at the failing coordinates. “Still here.”
 
-The last one mattered most because here had begun to lose its usual meaning. Gideon did not mean location. He meant relation.
-
-It was not enough to survive the cut once. Survival had to remain answerable to difference after the cut, or the old law would return wearing their own language. That was why nobody closed the record with a perfect sentence. The record stayed open at the edge, breathing badly, costing too much, belonging to no single voice.
-
-That ugliness was deliberate. A beautiful ending would have invited the structure back in through applause.
-
-So they left the record rough, and the roughness held the door against flattery for one more breath.
-
-No one improved it. That restraint was the last clean proof they could afford.
-
-They carried that proof without naming it victory.
-
-It stayed local, plain, and costly enough to resist applause.
-
-Nobody mistook that poverty for defeat, either.
-
 The coordinate loss spread.
 
-The floor still held. The rail still held. The people held. But the chamber’s claim to being the frame of the event was ending. The next chapter would have to learn what remained when familiar reference did not. Chapter 24 did not get to steal that work by naming it early.
+The floor still held. The rail still held. The people held. But the chamber’s claim to being the frame of the event was ending. The next chapter would have to learn what remained when familiar reference did not. Chapter 24 did not get to steal that work by naming it early.
 
 Jian made the final local note:
 
@@ -1429,22 +1340,6 @@ Gideon nodded. “We stop.”
 
 No one said rest. Rest belonged later. No one said victory. That word had not earned entry. No one said future. The old law had used future too often as a collar.
 
-They stopped with relation intact and meaning unfinished.
-
-For once, unfinished did not feel like failure.
-
-It felt like the only honest mercy left.
-
-The chamber gave no answer.
-
-No blessing.  
-No punishment.  
-No hidden correction wrapped in care.
-
-Only the absence of the old permission structure where permission had never belonged.
-
-For one breath, the four of them stood in the release without improving it.
-
 Then the chamber’s remaining coordinates began to fail.
 
 Jian saw it first and did not call it by a larger name. He only said the true local thing.
@@ -1458,4 +1353,3 @@ Gideon looked at the others.
 They did.
 
 The stillness held there, before the next field could pretend to be understood.
-
