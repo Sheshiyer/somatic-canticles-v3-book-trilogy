@@ -446,7 +446,7 @@ def main() -> None:
     except FileNotFoundError:
         parser.error(f"manifest not found: {args.manifest}")
     try:
-        manifest_mod.validate_manifest(m)
+        manifest_mod.verify_manifest(m)
     except ValueError as e:
         parser.error(f"invalid manifest: {e}")
 

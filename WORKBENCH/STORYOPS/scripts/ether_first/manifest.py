@@ -87,6 +87,23 @@ def validate_manifest(m: dict) -> None:
             raise ValueError(f"entry {i} ({e.get('path')}) does not have bytes_recorded=True")
 
 
+def verify_manifest(m: dict) -> None:
+    """Raise ValueError if any entry's recorded sha256 does not match the
+    current bytes on disk. Structural validation alone cannot detect
+    tampering — this re-hashes every source."""
+    validate_manifest(m)
+    for e in m["entries"]:
+        p = Path(e["path"])
+        if not p.is_file():
+            raise ValueError(f"source missing on disk: {e['path']}")
+        actual = hashlib.sha256(p.read_bytes()).hexdigest()
+        if actual != e["sha256"]:
+            raise ValueError(
+                f"sha256 mismatch for {e['path']}: manifest records "
+                f"{e['sha256'][:12]}… but disk has {actual[:12]}…"
+            )
+
+
 def load_manifest(path) -> dict:
     """Load a manifest JSON file."""
     with open(path, encoding="utf-8") as f:
@@ -123,6 +140,9 @@ def main() -> None:
     v = sub.add_parser("validate", help="validate a manifest JSON file")
     v.add_argument("manifest", help="manifest JSON path")
 
+    vf = sub.add_parser("verify", help="validate + re-hash every source against the manifest")
+    vf.add_argument("manifest", help="manifest JSON path")
+
     args = parser.parse_args()
 
     if args.command == "build":
@@ -141,14 +161,18 @@ def main() -> None:
     else:
         try:
             m = load_manifest(args.manifest)
-            validate_manifest(m)
+            if args.command == "verify":
+                verify_manifest(m)
+            else:
+                validate_manifest(m)
         except FileNotFoundError:
             print(f"error: manifest not found: {args.manifest}", file=sys.stderr)
             sys.exit(1)
         except (json.JSONDecodeError, ValueError) as e:
             print(f"INVALID: {e}", file=sys.stderr)
             sys.exit(1)
-        print(f"VALID: {args.manifest} ({len(m['entries'])} entries, version {m['version']})")
+        verb = "VERIFIED" if args.command == "verify" else "VALID"
+        print(f"{verb}: {args.manifest} ({len(m['entries'])} entries, version {m['version']})")
 
 
 if __name__ == "__main__":
