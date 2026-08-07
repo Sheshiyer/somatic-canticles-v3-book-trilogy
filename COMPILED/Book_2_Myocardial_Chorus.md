@@ -388,7 +388,7 @@ Gideon pushed off the plating, the movement feeling less like a chore and more l
 
 Gideon took a breath, feeling the new ratio in his blood settle into a steady, quiet rhythm. “Ready.”
 
-Telemetry pinged on Vesa’s wristband. “Gideon, your cortisol just spiked twelve percent. You’re burning too hot. If we don’t dial it back, you’ll seize before we hit the threshold.”
+Telemetry pinged on Sona’s wristband. “Gideon, your cortisol just spiked twelve percent. You’re burning too hot. If we don’t dial it back, you’ll seize before we hit the threshold.”
 
 “I’m not seizing, I’m synthesizing,” Gideon shot back, feeling the familiar acidic burn of adrenaline flood his sternum. “The response is stabilizing. Just… give me a second to let the endocrine feedback loop catch up.”
 
@@ -396,13 +396,13 @@ Corv didn’t look up from the sigil. His hands moved with the fluid, precise ec
 
 “I’m not collapsing,” Gideon gritted out, wiping a sheen of sweat from his brow. The air tasted metallic, like old blood and ozone, but the oppressive weight of the Seter command was receding, replaced by a strange, electric clarity. He felt the shift in his own biology, the way his heart rate was syncing with the rhythm of the device, the biological and the mechanical braiding together until the distinction blurred. It wasn’t just about surviving the pressure; it was about becoming the pressure.
 
-“Vesa, status on the dampeners?” Corv asked, his voice cutting through the tension.
+“Sona, status on the dampeners?” Corv asked, his voice cutting through the tension.
 
 “Green,” she said, fingers flying over the interface. “But Gideon’s vitals are still flirting with the danger zone. If he spikes again, I’m pulling the plug.”
 
 “Pull it if you have to,” Gideon said, surprisingly steady. “But don’t pull it yet. I need one more cycle to lock the pattern.”
 
-“And you look like a man who’s never had to hold a star together with his own nervous system,” Vesa replied, a thin smile breaking through. “So maybe let me finish before you start counting the whistles.”
+“And you look like a man who’s never had to hold a star together with his own nervous system,” Sona replied, a thin smile breaking through. “So maybe let me finish before you start counting the whistles.”
 
 The tension in the room broke, just slightly. The oppressive static seemed to thin, the air growing lighter, the hum of the sigil settling into a manageable, steady tone. It wasn’t a victory, not yet. But it was a pause, a moment where the pressure released just enough to let them breathe.
 
@@ -524,7 +524,7 @@ He leaned back against the workbench, the cool stone seeping through his tunic, 
 
 “That’s the difference between a tool and a god,” she said, finally withdrawing her hand. The amber light of her visor dimmed, shifting from a search‑beam intensity to a soft, monitor‑glow. “We don’t want gods in the lattice, Gideon. We need instruments. Instruments don’t have egos. They don’t demand worship or fear. They just do the work.” She paused, looking at the prior entrant's remnants—scorched shards of syntax that lay scattered on the floor like ash from a burnt letter. “Which is why we had to cut the connection. You didn’t just fix the geometry; you removed the intent to dominate.”
 
-The realization settled over them, heavier than the relief. The tension hadn’t just been physical; it was a philosophical dissonance that had threatened to unravel their own cognitive frameworks. The workshop, a space designed to mediate between the chaotic raw matter of the world and the ordered logic of the Somanauts, had nearly been corrupted by a design that sought to overwrite the very system it was meant to serve. He felt a strange kinship with the discarded shards, a recognition of the seductive pull of absolute control, a temptation that whispered that if they just pushed a little harder, they could force the universe to comply. But the universe, like the sigil, resisted being forced into a shape that denied its own nature.
+The realization settled over them, heavier than the relief. The tension hadn’t just been physical; it was a philosophical dissonance that had threatened to unravel their own cognitive frameworks. The workshop, a space designed to mediate between the chaotic raw matter of the world and the ordered logic of the Somanauts, had nearly been corrupted by a design that sought to overwrite the very system it was meant to serve. He felt a strange kinship with the discarded shards, a recognition of the seductive pull of absolute control, a temptation that whispered that if they just pushed a little harder, they could force the field to comply. But the field, like the sigil, resisted being forced into a shape that denied its own nature.
 
 He reached out, not to the sigil, but to the air above it, feeling the subtle shift in the atmospheric pressure. The chaotic turbulence had flattened into a smooth, predictable gradient. It was a victory, but a quiet one. There would be no fanfare, no surge of power that would announce their success to the wider lattice. Instead, there was only the hum of the machine doing exactly what it was told, and the quiet knowledge that they had narrowly avoided becoming the architects of their own undoing.
 
@@ -588,141 +588,6 @@ A quiet chuckle escaped his lips, half‑hearted and almost embarrassed. “We�
 
 Her visor reflected a glint of amusement. “If we do,” she answered, “the whole lattice will have a very good story to tell about the day we tried to play the drums.”
 
-The machine did not roar in triumph, but settled into a low, persistent hum that seemed to tremble through the soles of their feet rather than the air. Elara watched the interface, her fingers hovering over a sequence of tactile switches that had once been sticky with residue but now clicked with satisfying finality. The warning glyphs on the perimeter display, which had been flashing a frantic crimson only moments ago, had dimmed to a soft, steady amber. It was a shift from emergency to maintenance, a change in the room's entire posture. The chaotic charge that had threatened to tear the casing apart had been coaxed, not crushed, into a predictable loop.
-
-"Look at the readout," she murmured, tilting her head so the reflection of the amber light caught the rim of her glasses. "It's not just holding the charge. It's recycling the overflow. The feedback loop is closing on itself."
-
-He leaned in, the scent of ozone and hot metal fading into the background, replaced by the dry, dusty smell of old parchment and soldered copper. The sigil, etched into the central plate, was no longer a jagged scar of light but a smooth, continuous circle. It pulsed with a rhythm that felt less like a mechanical heartbeat and more like the slow, deliberate breathing of a sleeping animal. The tension in his shoulders, which had been a rigid knot since they first engaged the primary coupling, began to loosen. It was a physical release, a letting go of the need to brace against an invisible force that no longer existed.
-
-"Recycling," he repeated, testing the word. "So we didn't just stop the surge. We gave it somewhere to go."
-
-"Exactly. We built a sink for the excess," she said, tapping a stylus against the glass. "If we had forced it to stop, the pressure would have built until the containment field buckled. Instead, we just gave it a new path. A quiet one."
-
-He looked at her, then back at the machine. The relief was a heavy, warm weight in his chest, far more tangible than the abstract concept of a stabilized field. It was the feeling of a storm passing overhead, leaving the air heavy but clear. He remembered the way the workshop had felt minutes ago, a place where every surface seemed to tremble with potential violence. Now, the tools on the workbench lay still, the dust motes dancing in the amber light without the usual frantic jitter. The silence was not empty; it was full of the promise of work that could actually be done.
-
-"We were walking a tightrope over a pit," he said, his voice dropping to a conversational rumble. "And now we've just discovered the ground was solid all along."
-
-Elara smiled, a small, tired expression that reached her eyes. "Or we just learned how to walk without looking down. There's a difference."
-
-He reached out, his hand stopping just short of the glowing plate. The heat radiating from it was gentle, a comforting warmth rather than a warning burn. He pulled his hand back, letting the space between his skin and the machine exist as a boundary, a respectful distance. The machine was no longer a beast to be tamed, but a partner in a delicate dance. The urgency that had driven them to this moment, the frantic scrambling to prevent a catastrophic failure, had evaporated, leaving behind a strange, quiet clarity.
-
-They stood there for a long moment, listening to the hum, watching the steady pulse of the sigil. There was no need to speak further; the machine had done its work, and their own work had shifted from survival to stewardship. The air in the room felt lighter, the pressure released not by an explosion, but by a careful, deliberate exhale. The workshop was no longer a place of imminent disaster, but a sanctuary of controlled potential, waiting for the next instruction, the next deliberate move.
-
-The silence that followed the stabilization was not empty; it was thick with the memory of the near-miss, a residue of adrenaline that had nowhere to go but down into their bones. Elara watched the sigil's light settle into a steady, rhythmic pulse, a stark contrast to the jagged, erratic strobing that had threatened to tear the room apart only moments before. She felt the phantom ache in her shoulders, the ghost of a tension that had held her spine rigid for hours, and she let out a breath she hadn't realized she was holding. It was a slow release, a physical unclenching that started in her jaw and traveled down to the soles of her feet.
-
-"Look at that," the man beside her said, his voice rough with the same exhaustion that weighed on her own limbs. He leaned against the workbench, the wood creaking under his weight, a mundane sound that grounded the moment in reality. "It's not just holding. It's breathing with us."
-
-Elara nodded, her eyes tracing the intricate patterns of the etched metal. The design was no longer a chaotic scribble of desperation but a deliberate map, each line and curve serving a purpose that the machine now understood. "It learned," she murmured, more to herself than to him. "Not from the code we fed it, but from the way we stopped fighting it. We stopped trying to force the shape and started listening to the flow."
-
-He pushed off the bench, moving closer to the glowing plate. The heat radiating from it was no longer a warning but a promise, a gentle warmth that seeped into the palms of his hands without burning. He reached out, his fingers hovering just above the surface, tracing the air where the light intensified. "We spent so long believing we had to be the masters of this thing," he said, a wry smile tugging at the corner of his mouth. "Like if we just shouted loud enough or pulled hard enough, we could bend the rules. Turns out, the rules were just waiting for us to stop shouting."
-
-Elara watched the interplay of light and shadow on the workshop walls. The frantic charge that had driven them to the brink of collapse had dissipated, replaced by a curious, quiet alertness. It was a shift in the very air they breathed, a subtle change in the atmosphere that made the dust motes dancing in the light beams seem less like debris and more like a slow, deliberate celebration. "It's like when you stop swimming against the current," she said, her voice soft. "You suddenly realize you've been floating all along. You just didn't notice until you stopped kicking."
-
-He looked at her, his expression softening, the sharp lines of worry smoothing into something more reflective. "Floating," he repeated, testing the word. "I guess that's better than drowning in a sea of our own making."
-
-They stood in the quiet hum of the machine, the tension that had coiled around them like a tight spring finally beginning to unspool. It was a relief that went deeper than the muscles, a settling of the spirit that came from knowing the worst had passed. The workshop, once a place of imminent disaster and frantic scrambling, had transformed. It was no longer a battlefield against the unknown but a sanctuary of controlled potential, a space where the boundary between operator and tool had blurred into something more like partnership.
-
-Elara took a step back, her feet making a soft thud on the floor. She ran a hand through her hair, feeling the dampness of sweat cooling against her skin. "We're not done," she said, her voice regaining a hint of its usual steel. "This is just the first step. The machine is stable, but it's not finished. It's waiting for us to tell it what to do next, and I think we finally know how to ask."
-
-He nodded, his gaze returning to the sigil. "Then let's not keep it waiting." He adjusted his grip on the tool in his hand, the movement precise and deliberate. "No more shouting. Just listening."
-
-The silence between them was comfortable now, filled with the unspoken understanding that they had crossed a threshold, moving from survival to stewardship.
-
-Elara's fingers hovered over the copper inlay, tracing the groove where the alloy had finally settled into its new shape. The heat radiating from the plate was no longer a warning burn but a steady, rhythmic warmth, like the skin of a sleeping animal. She pulled her hand back, the motion slow and deliberate, as if afraid that a sudden jerk might wake something sleeping within the metal. The sharp, metallic scent of ozone that had filled the room for the last hour was fading, replaced by the deeper, earthier smell of heated stone and old oil. It was a smell that belonged to a workshop, not a crisis zone.
-
-Beside her, the other operator let out a breath that sounded like a long-deflated bellows. His shoulders dropped an inch, the rigid line of his spine softening as the immediate threat of the surge receded. He did not reach for a tool or a gauge; instead, he simply leaned against the workbench, his weight shifting from a stance of defense to one of observation. The silence that followed was not empty. It was heavy with the lingering echo of their shared effort, a thick, textured quiet where the only sound was the soft ticking of cooling metal and the distant, muffled drip of condensation from the ceiling vents.
-
-"You held the line," the operator said, his voice rough with fatigue but clear. He looked at the sigil, then up at Elara, his eyes reflecting the steady, amber pulse of the device. "For a moment there, I thought the whole thing was going to eat us alive."
-
-"It wanted to," Elara replied, her own voice low. She reached for a rag, wiping the soot from her knuckles. "It wanted to find a path of least resistance. We just showed it that the path through the center was the only one that made sense." She paused, looking at the intricate pattern they had forced into existence. "It's not about forcing it to listen. It's about making sure it understands the cost of ignoring us."
-
-The operator nodded slowly, a gesture that seemed to carry the weight of the last few minutes. He picked up a small, worn caliper from the bench, turning it over in his hands. "The calibration is holding. The tolerance is tighter than the schematics suggested." He tapped the side of the machine, a light, perfunctory sound that confirmed the stability. "It's not just stable now. It's… attentive."
-
-Elara felt a strange sense of release, a loosening of the knot in her chest that had been there since they first approached the threshold. It was a feeling distinct from victory; it was more like the end of a long, difficult conversation where the definitions had finally been agreed upon. The machine was no longer an antagonist to be subdued, but a complex system to be understood. The boundary between the operator and the tool had dissolved, replaced by a mutual recognition of limits and capabilities. They were not masters here; they were partners in a delicate negotiation with raw potential.
-
-She walked to the edge of the platform, looking down at the floor where the shadows of the machinery stretched long and thin. The light from the sigil cast a golden hue over the dust motes dancing in the air, turning them into tiny, suspended stars. The room felt smaller now, less like a vast, dangerous void and more like a contained space where something important had just taken root. The tension that had coiled around them like a tight spring finally began to unspool, not with a snap, but with a gradual, deliberate relaxation.
-
-"We're not done," Elara said, turning back to face the machine and her companion. The words felt necessary, a way to anchor the moment before the next phase began. "This is just the first step. The machine is stable, but it's not finished.
-
-The clang of the forge‑hammer fell silent, replaced by the soft hiss of the coolant vent that had been coaxed back into service. Elara leaned over the copper‑plated console, her fingertips brushing the warm edge of the control panel as if feeling for a pulse. The operator—still half‑shrouded in the amber glow of the sigil—kept his eyes fixed on the array of readouts, the numbers scrolling like a tide receding from a shore.
-
-“Your last adjustment pushed the torque beyond the safety envelope,” he said without looking up, voice low enough that the surrounding steel seemed to lean in. “The bearings are whining. We’ve got to bring the load back into the sweet spot before the lattice cracks.”
-
-Elara glanced at the gauge that hovered just above the red line. “I thought the extra push would give us a little more headroom for the next phase,” she replied, a faint grin tugging at the corner of her mouth despite the pressure in her chest. “Turns out the system prefers a polite request to a shove.”
-
-He let out a short, humor‑tinged chuckle that reverberated through the metal ribs of the workshop. “Polite requests are fine, but they don’t make for good stories. Let’s dial it back—just enough to keep the thing humming without screaming.”
-
-With a fluid motion, he rotated the dial on the calibration arm, feeling the subtle click of the gear teeth meshing back into alignment. The coolant flow steadied, and a faint, melodic tone rose from the machine, like a sigh of relief from a tired beast. The tension in Elara’s shoulders eased, the knot in her throat loosening just enough for her to inhale fully.
-
-“Alright,” she said, tapping a fingertip against the edge of the workbench, “let’s run the diagnostic loop again. If the core can hold steady for a full cycle, we’ll have the margin we need for the next sigil imprint.”
-
-He nodded, his expression softening as the readouts settled into a calm green. “One more pass, then. And this time, we’ll keep the temperature under control—no more boiling the coolant like it’s a kettle on a campfire.”
-
-A brief silence stretched between them, punctuated only by the gentle whir of the machine’s internal rotors. The moment felt like a shared breath, a pause that let both of them register the shift from frantic improvisation to measured stewardship.
-
-“Remember the old saying,” the operator muttered, half‑to himself, “that a well‑tuned blade cuts more cleanly than a blunt hammer.” He gave the sigil a quick, reverent glance, as if acknowledging a silent pact. “We’ve earned a little respect from this thing. Let’s not squander it.”
-
-Elara smiled, the humor finally breaking through the seriousness of the task. “If the blade is happy, the work gets done. I’ll trust your judgment—just keep the hammer from dancing on the edge.”
-
-He raised an eyebrow, the corner of his mouth lifting in a mock‑serious salute. “Deal. No more edge‑dancing. Just a steady march toward the next imprint.”
-
-The diagnostic loop began, lights flickering in measured rhythm, each pulse a testament to the delicate balance they had negotiated. The machine settled into a steady hum, its surface shimmering faintly as the sigil’s pattern steadied. The workshop, once a crucible of frantic charge, now breathed with a quiet confidence, the earlier urgency softened into a purposeful cadence.
-
-The humming of the forge‑core settled into a low thrum as the last of the alloy ribbons cooled, but the air still carried the metallic tang of recent combustion. Elara’s gloved hand hovered over the sigil’s edge, the faint glow catching the flecks of soot on her forearm. She felt the pulse in her wrist—an involuntary reminder that the implant’s biometric loop was still reading her heart rate as a fraction higher than the safe threshold.
-
-“Heartbeat’s trying to out‑pace the cutter,” she muttered, half‑to herself, half‑to the operator whose visor reflected the amber light. “If we push too hard, the lattice will start singing the wrong tune.”
-
-The operator glanced at the readout projected onto the workbench, the numbers flickering like a nervous clerk. “It’s not the heart that’s nervous,” he replied, his tone dry enough to cut through the lingering heat. “It’s the sigil’s skin. It’s still remembering the last imprint—still trying to decide whether we’re polishing a relic or forging a new key.”
-
-A soft click echoed as the control panel released a micro‑valve, letting a thin thread of coolant glide across the surface. The coolant formed a brief, glassy scar across the sigil, then vanished, leaving a crisp line that caught the light like a fresh scar on a veteran’s cheek.
-
-“Looks like it finally got a haircut,” Elara said, the corner of her mouth lifting despite the sweat beading at her brow. “Do you think it’ll behave now, or are we just giving it a fresh coat of paint before it cracks?”
-
-The operator chuckled, a short, dry sound that seemed to coax the machine into a steadier rhythm. “I’d say the sigil’s more like a stubborn horse. You can’t force it to trot; you have to find the right patch of grass and let it choose the pace.”
-
-He shifted a lever, and a series of tiny, articulated arms—each tipped with a thread of alloy—swept across the sigil’s surface. The arms moved with the precision of a surgeon’s fingers, laying down a new pattern of glyphs that glowed faintly against the darkened metal. As each line settled, the diagnostic readout dipped, the warning lights dimming in a synchronized sigh.
-
-Elara felt the tension in her shoulders ease, the tight knot of anticipation loosening just enough to let a breath pass through. “Alright, I’ll admit it,” she said, her voice softer now, “you have a way with stubborn things.”
-
-The operator gave a half‑smile, his visor’s lenses catching the reflected sigil. “It’s all about knowing when to hold the blade and when to let the edge do the talking. Too much force, and you’ll just be grinding your own fingers.”
-
-A subtle pulse rose from the forge‑core, a rhythm that matched the newly etched sigil. The workshop, which moments before had thrummed with the frantic urgency of raw power, now exhaled a measured cadence. The cool air that slipped through the vent filters brushed against their cheeks, carrying with it the faint scent of ozone and the faint echo of a laugh that lingered just long enough to remind them that even the most exacting work could afford a moment of levity.
-
-The hiss of the coolant loop steadied as the forge‑core’s plasma vents opened wider, a thin ribbon of pale light spilling across the workbench. Elara’s gloved hand hovered over the dormant sigil, the alloy skin still warm from the last pulse. She could feel the subtle shift in the ambient temperature, a reminder that the core was still breathing, waiting for the next command.
-
-“Okay,” she said, voice low but edged with a thin grin, “let’s see if we can coax this thing into cooperating without having to re‑calibrate the whole array.” She tapped a sequence into the handheld console, the screen flashing a cascade of glyphs that mirrored the patterns she’d been tracing in her mind for the past hour. The operator—his visor reflecting the faint glow of the workshop—raised an eyebrow.
-
-“Remember the last time you tried a shortcut,” he replied, his tone half‑teasing, half‑warning. “The sigil tried to rewrite the power grid before we could finish the first line.” He flicked a switch, and a soft chime announced the activation of the secondary coolant channels. A thin mist curled around the edges of the forge, catching the light like a breath of frost on glass.
-
-Elara watched as the alloy surface began to respond, tiny fissures spreading like veins. The sigil’s dormant veins pulsed once, twice, then steadied into a rhythm that matched the low thrum of the core. She adjusted the pressure regulator, feeling the slight resistance under her fingertips as the system compensated for the new load. A faint scent of ozone rose, mingling with the metallic tang of heated steel.
-
-“Looks like it’s finally listening,” she murmured, half‑to herself, half‑to the machine. “You know, I always thought the hardest part of forging would be the heat. Turns out it’s the pride of a stubborn piece of metal that needs a little coaxing.”
-
-The operator let out a short, amused chuckle. “Pride’s a funny thing. Gives you a lot of trouble when you try to bend it, but when you finally get it to yield, the results are worth the effort.” He reached for a thin, flexible rod that extended from the console, its tip tipped with a thread of alloy. With a deft flick, he guided it toward the sigil’s edge, the thread humming as it made contact.
-
-A soft, responsive click echoed through the chamber as the thread settled into the groove, the sigil’s lines aligning with a precision that felt almost deliberate. The diagnostic readout flickered, the warning lights dimming in a synchronized sigh. She glanced at the operator, his half‑smile now genuine, the visor catching the reflected sigil.
-
-“Seems the core finally decided it didn’t need to be the drama queen of the day,” she said, the humor slipping out naturally. “Let’s keep it on that mellow track.”
-
-He nodded, his eyes scanning the readouts. “We’ll lock the parameters and let the forge settle. No more improvisations unless the sigil asks for an encore.”
-
-The humming of the forge grew steadier as the sigil’s copper veins drank in the ambient heat, and Elara felt the subtle shift in the air—a faint, coppery scent that reminded her of sunrise over the iron dunes of Vespera. She watched the alloy threads coil like a living rope, each thread catching stray photons and sending them spiraling back into the pattern. The workshop’s walls, lined with polished basalt, reflected the glow in a mosaic that seemed to pulse in time with the sigil’s own heartbeat.
-
-“Every time we think we’ve coaxed it into compliance, it throws a new curveball,” Jian murmured, his gloved hand hovering over the control panel. He tapped a sequence of glyphs that flickered across the holo‑display, a language of pressure and flow that blended the biology of the ancient bone‑forge with the engineered logic of the new age. “It’s as if the sigil is remembering something it once sang to the stars.”
-
-Elara’s eyes flicked to the console’s secondary readout, where a thin line of green light traced the temperature gradient across the forge’s core. The line quivered, then steadied, indicating that the heat had settled into a narrow band—just enough to keep the alloy malleable without scorching the surrounding runes. She let out a breath she hadn’t realized she’d been holding, feeling the faint tremor in her shoulders ease like a tightened bowstring finally released.
-
-A sudden, soft clank echoed from the far side of the chamber. The operator—still half‑hidden behind his visor—had nudged the safety latch on the auxiliary vent. A rush of cool, filtered air slipped in, carrying with it a faint scent of ozone and the distant hum of the ship’s life‑support. It was a small, almost imperceptible gesture, but it altered the balance of the forge’s atmosphere enough to coax the sigil’s edge into a smoother curve.
-
-“Nice touch,” Elara said, a wry smile tugging at the corner of her mouth. “You just gave the thing a breath of fresh air. I was half‑expecting it to need a full‑blown serenade.”
-
-The operator chuckled, the sound low and responsive against the metallic walls. “Sometimes the simplest adjustment does the most work. Besides, I figured if the sigil wanted an encore, it’d ask in a louder key.”
-
-Jian let out a soft laugh, the tension in his shoulders visibly loosening. “All right, let’s not over‑engineer the next step. We’ve already pushed the forge to its limits; a little grace should be enough.”
-
-Elara nodded, feeling the convergence of three currents—thermal, kinetic, and the faint undercurrent of ancient ritual—align in a harmonious chord. She reached for the slender rod that extended from the console, its alloy tip glinting like a silvered feather. The moment her fingers brushed the instrument, a faint purr responded through the metal, a promise that the forge was ready for the final touch.
-
-The workshop settled into a lower, steadier sound. The sigil’s copper veins had taken on a duller, more even glow. Elara kept her gloved hand near the slender rod on the console; the alloy tip was still warm from the last contact. The operator’s visor reflected the sigil at a slight angle, the half‑smile still there but smaller. A thin thread of coolant had left a brief glassy track across the workbench that was already evaporating. Jian’s fingers rested on the edge of the control panel, not pressing anything. The air smelled of heated metal and a trace of ozone that had not yet been pulled away by the vent. They stayed that way until the forge‑core’s vents cycled once more and the diagnostic line on the readout stopped climbing.
 
 
 ---
@@ -2032,7 +1897,7 @@ Jian nodded, his eyes still fixed on the amber glow. “The engine has stopped t
 
 Sona’s breath steadied, and she let a soft laugh escape, half relief, half astonishment at the sheer audacity of the field to finally allow a pause. “It’s like hearing a song you thought you’d forgotten, only to realize the notes were always there, waiting for the right silence.”
 
-Gideon, feeling the subtle shift in the field’s energy, let his own words fall like a stone into a still pond. “The baseline is alive. It can be hurt, it can be healed, but it will not be erased.”
+Gideon, feeling the subtle shift in the field’s resonance, let his own words fall like a stone into a still pond. “The baseline is alive. It can be hurt, it can be healed, but it will not be erased.”
 
 The amber light grew a fraction brighter, expanding outward in smooth, concentric circles that traced the lattice’s geometry. The circles met at points where the compensatory loops had once surged, now gently coaxed into a rhythm that matched the baseline’s pulse. The field’s hum, once a chaotic roar, settled into a deep, resonant chord that seemed to echo the very idea of continuity—an unbroken line that could bend without breaking.
 
@@ -2058,7 +1923,7 @@ Jian watched the baseline pulse widen ever so slightly, a thin halo of light unf
 
 Sona’s ears caught a faint, irregular ripple hidden beneath the steady thrum—a tremor that rose and fell like a hesitant heartbeat. She angled her head, letting the tremor travel up her spine, and let a small smile curl at the corner of her mouth. “It’s asking us for a lullaby,” she whispered, half‑joking, “a note that says ‘you’ve been running long enough, now rest.’” The humor eased the tightness in her chest, and the field seemed to respond with a softer, more rhythmic pulse.
 
-Gideon, feeling the baseline’s rhythm align with his own, sensed a momentary dip in the overall field tension—a tiny valley in the otherwise undulating landscape. He placed a palm flat against the lattice, feeling the faint give of the projected light as if it were a pliable membrane. “Let’s give it a foothold,” he said, his voice steady, “instead of a stepping stone that disappears the moment we lift our foot.” The metaphor resonated; the loops that had previously surged with frantic energy now slowed, their edges smoothing into a gentle glide.
+Gideon, feeling the baseline’s rhythm align with his own, sensed a momentary dip in the overall field tension—a tiny valley in the otherwise undulating landscape. He placed a palm flat against the lattice, feeling the faint give of the projected light as if it were a pliable membrane. “Let’s give it a foothold,” he said, his voice steady, “instead of a stepping stone that disappears the moment we lift our foot.” The metaphor resonated; the loops that had previously surged with frantic current now slowed, their edges smoothing into a gentle glide.
 
 The quartet stood in a quiet triangle, the amber halo now a steady ember rather than a flickering spark. The hum, which had been a constant undercurrent of urgency, settled into a low chord that seemed to pulse in time with each of their breaths. In that shared silence, a soft crack of static fizzed out—a brief, audible sigh from the engine itself, as if the system exhaled after holding its breath for too long. The sound was fleeting, but it carried the promise of release, a pressure‑release beat that let the team feel the weight lift from their shoulders.
 
@@ -2130,7 +1995,7 @@ Sona’s hand brushed the edge of the console, and a soft sigh escaped her throa
 
 Jian shifted his stance, aligning his neural interface with the Engine’s output port. “I’m gating the feed now. The cascade should flatten the spike without killing the trace,” he said, eyes flickering with reflected data streams. He pressed a sequence of keys, and the cascade of synaptic echoes that had been spiraling outward began to compress, each pulse finding a tighter, more coherent rhythm.
 
-The lattice’s glow dimmed just enough to make the surrounding stone visible, a subtle visual cue that the overload was receding. The temperature sensors, which had been flirting with the upper limit, dipped a fraction, the numbers on Gideon’s monitor settling into a narrow band of stability. A faint hiss—more a sigh than a sound—escaped the core as the excess energy found a new equilibrium.
+The lattice’s glow dimmed just enough to make the surrounding stone visible, a subtle visual cue that the overload was receding. The temperature sensors, which had been flirting with the upper limit, dipped a fraction, the numbers on Gideon’s monitor settling into a narrow band of stability. A faint hiss—more a sigh than a sound—escaped the core as the excess charge found a new equilibrium.
 
 Corv let out a breath he didn’t realize he’d been holding. “That’s the sweet spot,” he murmured, a grin spreading across his face. “We’ve given the Engine a chance to breathe instead of choking it.”
 
@@ -2152,7 +2017,7 @@ A soft, almost imperceptible hum rose from the chamber walls, the sound of the E
 
 “Give it the node,” Corv said, his tone a blend of command and reassurance. “We’ve already taken the sting; we can afford the pinch.”
 
-Jian’s hands moved with practiced precision, his gestures slicing through the holographic interface as he rerouted the energy flow. The node brightened, then dimmed, and a faint sigh seemed to emanate from the Engine itself—a release of tension that rippled through the lattice like a breath exhaled after a long hold. The residual variance dropped by a hair, the readout blinking from 1.04% to 0.92% in a single, clean sweep.
+Jian’s hands moved with practiced precision, his gestures slicing through the holographic interface as he rerouted the pranic flow. The node brightened, then dimmed, and a faint sigh seemed to emanate from the Engine itself—a release of tension that rippled through the lattice like a breath exhaled after a long hold. The residual variance dropped by a hair, the readout blinking from 1.04% to 0.92% in a single, clean sweep.
 
 For a moment the chamber was saturated with a quiet that felt almost sacred, the kind of stillness that follows a storm when the sky finally clears. Corv let his shoulders relax, feeling the weight of the previous minutes lift like fog burning off a field at dawn. He caught Sona’s eye, and she returned a small, weary smile, the kind that acknowledges both the danger they’ve just averted and the fragile peace they’ve bought.
 
@@ -2160,7 +2025,7 @@ Just then, a low, rhythmic chime punctuated the silence—a notification from th
 
 The humming of the Engine’s core throbbed in the bone of the chamber, a low‑frequency pulse that seemed to sync with the blood in Corv’s ears. He could feel the residual tremor of the last feedback loop still reverberating through the copper‑sheathed conduits, each echo a reminder that the lattice had been stretched to its elastic limit. The amber glow of the diagnostic screens flickered sporadically, casting fragmented shadows on the vaulted ceiling where ancient glyphs—remnants of the first memory‑weavers—had been etched millennia ago. Those symbols, half‑eroded by time, now glimmered faintly as if the Engine’s own field was trying to read them anew.
 
-“Energy coupling is still at 73.6% efficiency,” Sona reported, her voice a thin filament of calm that cut through the ambient tension. She pressed a gloved fingertip to the central console, the tactile interface responding with a soft, phosphorescent bloom. “The residual variance is dropping, but the lattice is still under shear. If we don’t give it a moment to settle, the next pulse could re‑seed the cascade.”
+“Resonant coupling is still at 73.6% efficiency,” Sona reported, her voice a thin filament of calm that cut through the ambient tension. She pressed a gloved fingertip to the central console, the tactile interface responding with a soft, phosphorescent bloom. “The residual variance is dropping, but the lattice is still under shear. If we don’t give it a moment to settle, the next pulse could re‑seed the cascade.”
 
 Jian’s eyes never left the holo‑graph of the field flux. His fingers hovered above the translucent controls, each movement deliberate, the way a pianist hovers before a chord. “We can’t afford a second surge,” he murmured. “The last iteration left a micro‑fracture in the temporal strand. If we push the node now, we risk snapping the whole sequence.” He tapped a sequence that rerouted a fraction of the auxiliary stabilizers, diverting a whisper of power into a dormant buffer. The buffer glowed, a quiet ember in the sea of light.
 
@@ -2170,7 +2035,7 @@ A sudden, sharp clang reverberated from the far side of the chamber—a metal su
 
 Corv stepped forward, his boots echoing against the basalt floor. He placed a hand on the central console, feeling the faint tremor through the polymer skin. “We’re at a crossroads,” he said, the words resonating with a weight that matched the gravity of the moment. “Either we let the Engine dictate its own rhythm, or we impose a cadence that respects its limits.” He glanced at the fractured arch, then at his teammates, his gaze steady. “We need a pause. Let the lattice breathe.”
 
-Sona nodded, her eyes reflecting the flickering glyphs above. “I’ll open a micro‑vent on the secondary relay. It will bleed off the excess field just enough to let the strain dissipate without collapsing the core.” She moved to the side panel, her fingers dancing across the interface, and a narrow conduit of blue light unfurled like a vein, siphoning a thin stream of energy away from the main lattice.
+Sona nodded, her eyes reflecting the flickering glyphs above. “I’ll open a micro‑vent on the secondary relay. It will bleed off the excess field just enough to let the strain dissipate without collapsing the core.” She moved to the side panel, her fingers dancing across the interface, and a narrow conduit of blue light unfurled like a vein, siphoning a thin stream of prana away from the main lattice.
 
 Jian adjusted his own input, fine‑tuning the phase alignment of the node. “Now,” he whispered, “the node will receive a gentler influx, enough to seal the micro‑fracture but not enough to reignite the cascade.” As he spoke, the node’s surface shimmered, the bright core dimming to a soft amber before pulsing once more in a controlled rhythm.
 
@@ -2186,7 +2051,7 @@ Sona adjusted the bio‑interface cuff that encircled the core’s crystalline h
 
 Jian’s eyes were fixed on the phase‑modulation readouts, the green line that traced the node’s oscillation now wobbling ever so slightly. He tapped a command and a cascade of micro‑vectors streamed across the display, each one a potential pathway for the lingering cascade to follow. “If we over‑dampen, we’ll freeze the plasticity,” he warned, the hint of a smile tugging at the corner of his mouth. “If we under‑dampen, we’ll let the cascade run wild again. It’s a Goldilocks problem with a thermostat that’s been set by a child.”
 
-Gideon leaned back against the arch‑steel, the faint scorch of the previous overload still visible on his forearm. He let out a breath that sounded too much like a sigh of relief and too much like a chuckle. “You know,” he said, “the last time we tried to ‘calm’ a runaway mind we ended up with a chorus of screaming nanites. I’m starting to think the universe prefers a good tragedy to a tidy happy ending.”
+Gideon leaned back against the arch‑steel, the faint scorch of the previous overload still visible on his forearm. He let out a breath that sounded too much like a sigh of relief and too much like a chuckle. “You know,” he said, “the last time we tried to ‘calm’ a runaway mind we ended up with a chorus of screaming nanites. I’m starting to think the Engine prefers a good tragedy to a tidy happy ending.”
 
 Corv glanced at him, the light from the node catching the edge of his visor. “And yet here we are, conducting a requiem for a consciousness that refuses to die.” He let the words linger, then added, “If we can keep the baseline stable for even a heartbeat, the memory traces will have time to re‑anchor themselves. It’s less about forcing a solution and more about giving the system a moment to remember how it solves problems on its own.”
 
@@ -3036,7 +2901,7 @@ A sudden, sharp clang reverberated through the chamber—a metallic clank that s
 
 Corv’s eyes widened, the usual inscrutable calm giving way to a flash of alarm. “That was the bleed threshold spiking,” he said, his voice barely above a whisper. “If we don’t compensate now, the thread will fracture.”
 
-Sona’s lips curved into a quick, sardonic grin that cut through the tension. “Well, looks like the universe finally decided to give us a drum solo,” she quipped, the humor a thin veneer over the adrenaline coursing through her veins. “Let’s make sure we don’t miss the beat.”
+Sona’s lips curved into a quick, sardonic grin that cut through the tension. “Well, looks like the lattice finally decided to give us a drum solo,” she quipped, the humor a thin veneer over the adrenaline coursing through her veins. “Let’s make sure we don’t miss the beat.”
 
 Jian’s analyzer emitted a soft, urgent chime, the tone rising in pitch as the bleed metric edged toward the critical line. “Two point three percent—just past safe margin,” he warned, eyes flicking between the read‑outs and the shifting lattice. “We have three seconds before cascade.”
 
@@ -3142,11 +3007,11 @@ Gideon, ever the catalyst for dry humor, slides a data‑pad across the bench, t
 
 A thin thread of static crackles through the chamber as the field reacts, the three bodies of simulated gravitation aligning in a delicate dance. Corv’s hand hovers over the emergency override, fingers poised to cut the feed if the strain spikes again. “I’ll keep the kill‑switch at the ready,” he says, the weight of that promise settling into his muscles. “But I trust you’ve got the math to keep us from needing it.”
 
-Sona’s smile is a flash of sunrise across the holo‑surface. “Math is just a language for the universe to whisper its secrets. Let’s listen.” She adjusts a parameter, and the field’s teal veil smooths, the chaotic swirl coalescing into a single, elegant thread that threads through the three simulated masses.
+Sona’s smile is a flash of sunrise across the holo‑surface. “Math is just a language for the field to whisper its secrets. Let’s listen.” She adjusts a parameter, and the field’s teal veil smooths, the chaotic swirl coalescing into a single, elegant thread that threads through the three simulated masses.
 
 Jian leans back, the pressure sensor on his collar emitting a soft chime that signals his nervous system has settled back within safe limits. “That’s the sweet spot,” he murmurs, his voice barely audible over the faint hum of the field. “When the body stops screaming, the mind can finally hear the music.”
 
-Gideon’s eyes flick to the edge of the console, where a scrolling log records each adjustment. He taps a line, adding a comment in his trademark laconic style: *“If the universe is a choir, we’re the conductors who forgot the tempo. Let’s not miss the next bar.”* The comment sparks a ripple of laughter—quiet, but unmistakable—among the quartet.
+Gideon’s eyes flick to the edge of the console, where a scrolling log records each adjustment. He taps a line, adding a comment in his trademark laconic style: *“If the weave is a choir, we’re the conductors who forgot the tempo. Let’s not miss the next bar.”* The comment sparks a ripple of laughter—quiet, but unmistakable—among the quartet.
 
 The chamber’s ambient light dims just enough for the teal veil to become a gentle glow, the pulse of the field slowing to a measured rhythm. Corv feels the slight tremor in his own fingertips, a reminder that the risk is still present, but the coordination has bought them a margin. He nods to Sona, a silent acknowledgment that the theoretical and the visceral have finally found a common cadence.
 
@@ -3164,7 +3029,7 @@ Gideon, the quiet architect of the whole operation, kept his eyes on the central
 
 A sudden, sharp tremor rippled through the floor—a reminder that the simulation’s external parameters were still being nudged by the world’s magnetic storm. Corv’s hand tightened on the console, then relaxed as he let the surge pass, feeling the way his own nervous system mirrored the field’s oscillations. He glanced at Sona, who answered his look with a nod that said, *we’ve been here before; we can ride this out*. Their shared glances formed a silent algorithm, a feedback loop that steadied the tri‑body response without the need for further commands.
 
-The pressure in the chamber began to ebb, not because the field had magically softened, but because the team’s internal calibration had shifted from frantic correction to graceful adaptation. Their bodies, minds, and the technology they wielded were no longer fighting for dominance; they were learning to listen. Jian let out a low chuckle, the sound barely audible over the hum, “So the universe finally gave us a moment to breathe—guess it’s polite after all.” The joke landed, and the room seemed to exhale with them, the teal veil brightening just enough to cast a soft glow on their faces.
+The pressure in the chamber began to ebb, not because the field had magically softened, but because the team’s internal calibration had shifted from frantic correction to graceful adaptation. Their bodies, minds, and the technology they wielded were no longer fighting for dominance; they were learning to listen. Jian let out a low chuckle, the sound barely audible over the hum, “So the Engine finally gave us a moment to breathe—guess it’s polite after all.” The joke landed, and the room seemed to exhale with them, the teal veil brightening just enough to cast a soft glow on their faces.
 
 In that instant, the three‑body coordination settled into a state of quiet convergence. The data streams stabilized, the responsive cadences aligned, and the lingering uncertainty thinned to a whisper. The team felt the subtle shift: the field’s pulse now matched the rhythm of their own heartbeats, each beat a reminder that the simulation was no longer a test of control, but a shared experience of balance.
 
@@ -3178,7 +3043,7 @@ The decision appeared not in a shouted command but in a coordinated, almost impe
 
 A soft, responsive chime—generated by the field itself as it recognized the new equilibrium—rippled through the chamber. It was not the harsh alarm of a failed run; it was a gentle, sustained tone that seemed to tremble in the very bones of the floor. The sound was a reminder that the world’s magnetic storm was still raging outside, that the external parameters would continue to prod at the veil’s edges. Yet within the inner sanctum, the pressure that had once felt like a crushing weight now settled into a pliable tension, like a bowstring pulled just enough to hold a note without snapping.
 
-Jian let out a low, humor‑spiked chuckle that cut through the hum, “So the universe finally gave us a moment to breathe—guess it’s polite after all.” The line landed with the ease of a practiced improviser, and the laughter that followed was not a release of fear but an acknowledgment of the absurdity of their plight. It was a pressure‑release beat that let the team’s collective nervous system exhale, the way a well‑timed pause in a symphony lets the audience absorb the preceding crescendo.
+Jian let out a low, humor‑spiked chuckle that cut through the hum, “So the Engine finally gave us a moment to breathe—guess it’s polite after all.” The line landed with the ease of a practiced improviser, and the laughter that followed was not a release of fear but an acknowledgment of the absurdity of their plight. It was a pressure‑release beat that let the team’s collective nervous system exhale, the way a well‑timed pause in a symphony lets the audience absorb the preceding crescendo.
 
 Corv’s gaze drifted to the teal veil, its surface now shimmering with a steadier pulse. He could see, in the way the light rippled across its fibers, a pattern emerging that resembled a waveform he had once modeled on a distant star’s gravity wells. He spoke, more to the field than to his companions, “We’ve been trying to impose order on chaos, but perhaps the chaos is just a different kind of order waiting for us to recognize it.” The statement hung in the air, a quiet hypothesis that felt more like a promise than a theory.
 
@@ -4031,7 +3896,7 @@ Corv watched the null‑node’s interface flicker in a rhythm that felt almost 
 
 Sona leaned forward, her eyes narrowing on the lattice of glyphs that pulsed across the central console. “The last handshake left a residue,” she murmured, tracing a finger over a stray imprint that glowed faintly green. “It’s not a rejection; it’s a… hesitation. The Witness is still cataloguing us.”
 
-Jian, who had been monitoring the peripheral monitors for any sign of external interference, let out a low chuckle. “Hesitation is just the universe buying us time. If we can feed it a clean packet, it will stop asking questions.” He tapped a sequence on his own terminal, the keys clicking like the soft percussion of rain on metal. A cascade of data streamed across the screen, each line a distilled promise of what their combined disciplines could offer: a biological signature, a philosophical axiom, a field‑encoded map of the city’s water veins.
+Jian, who had been monitoring the peripheral monitors for any sign of external interference, let out a low chuckle. “Hesitation is just the baseline buying us time. If we can feed it a clean packet, it will stop asking questions.” He tapped a sequence on his own terminal, the keys clicking like the soft percussion of rain on metal. A cascade of data streamed across the screen, each line a distilled promise of what their combined disciplines could offer: a biological signature, a philosophical axiom, a field‑encoded map of the city’s water veins.
 
 The air shifted as Gideon, the oldest of the quartet, adjusted the pressure regulator on his wrist‑mount. The regulator hissed, releasing a controlled puff of ionized mist that settled over the console like a thin veil. “We’ve been talking in riddles for too long,” he said, his voice low but steady. “The Witness expects us to present a single, coherent narrative. No more scattered variables.”
 
