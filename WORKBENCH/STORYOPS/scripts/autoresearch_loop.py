@@ -14,7 +14,7 @@ Transform outputs land in WORKBENCH/STORYOPS/runs/<chapter-slug>/ as candidates.
 Usage:
   python3 WORKBENCH/STORYOPS/scripts/autoresearch_loop.py \
       CHAPTERS/book_3/Chapter-19-The-Three-Point-Problem.md \
-      --transforms dedupe --max-cycles 3 --dry-run
+      --transforms dedupe --max-cycles 3 --run-id CR-00-proof
 """
 from __future__ import annotations
 
@@ -82,9 +82,26 @@ TRANSFORMS = {
 }
 
 
-def run_loop(chapter: Path, transforms: list[str], max_cycles: int, apply: bool) -> dict:
+def _book_dir(chapter: Path) -> str:
+    for part in chapter.parts:
+        if part in {"book_1", "book_2", "book_3"}:
+            return part
+    return "unregistered_book"
+
+
+def run_loop(
+    chapter: Path,
+    transforms: list[str],
+    max_cycles: int,
+    apply: bool,
+    run_id: str | None = None,
+    runs_root: Path = RUNS,
+) -> dict:
     slug = chapter.stem
-    run_dir = RUNS / slug
+    if run_id:
+        run_dir = runs_root / run_id / _book_dir(chapter) / slug
+    else:
+        run_dir = runs_root / slug
     run_dir.mkdir(parents=True, exist_ok=True)
 
     working = chapter.read_text(encoding="utf-8")
@@ -94,8 +111,13 @@ def run_loop(chapter: Path, transforms: list[str], max_cycles: int, apply: bool)
 
     trace = {
         "chapter": str(chapter),
+        "run_id": run_id or slug,
+        "run_dir": str(run_dir),
         "started": datetime.now(timezone.utc).isoformat(),
         "mode": "apply" if apply else "dry-run",
+        "requested_max_cycles": max_cycles,
+        "transforms_supplied": list(transforms),
+        "actual_cycle_limit": min(max_cycles, len(transforms)),
         "cycles": [],
     }
 
@@ -140,6 +162,7 @@ def run_loop(chapter: Path, transforms: list[str], max_cycles: int, apply: bool)
     final_path = run_dir / "final.candidate.md"
     final_path.write_text(current_text, encoding="utf-8")
     trace["final_candidate"] = str(final_path)
+    trace["actual_cycles"] = len(trace["cycles"])
     trace["final_metrics"] = metric_vector(current_report)
     trace["final_verdict"] = current_report["deterministic_verdict"]
 
@@ -161,6 +184,8 @@ def main() -> None:
                         choices=list(TRANSFORMS) + ["dedupe"], help="ordered one-variable transforms")
     parser.add_argument("--max-cycles", type=int, default=3)
     parser.add_argument("--apply", action="store_true", help="mutate the chapter (default: dry-run)")
+    parser.add_argument("--run-id", help="write artifacts under runs/<run-id>/<book>/<chapter>")
+    parser.add_argument("--runs-root", default=str(RUNS), help="artifact root (default: WORKBENCH/STORYOPS/runs)")
     args = parser.parse_args()
 
     max_cycles = min(max(args.max_cycles, 3), 9)
@@ -168,13 +193,13 @@ def main() -> None:
     if not chapter.exists():
         parser.error(f"chapter not found: {chapter}")
 
-    trace = run_loop(chapter, args.transforms, max_cycles, args.apply)
+    trace = run_loop(chapter, args.transforms, max_cycles, args.apply, args.run_id, Path(args.runs_root))
     kept = [c for c in trace["cycles"] if c.get("status") == "keep"]
     print(f"chapter: {chapter.name}")
     print(f"mode: {trace['mode']}  cycles: {len(trace['cycles'])}  kept: {len(kept)}")
     print(f"baseline: {trace['baseline_metrics']}")
     print(f"final:    {trace['final_metrics']}  verdict: {trace['final_verdict']}")
-    print(f"trace: {RUNS / chapter.stem / 'autoresearch-trace.json'}")
+    print(f"trace: {Path(trace['run_dir']) / 'autoresearch-trace.json'}")
 
 
 if __name__ == "__main__":

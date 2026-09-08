@@ -1,0 +1,52 @@
+{
+  "generated_at": "2026-09-08T12:35:54.163261+00:00",
+  "runner_help": "usage: autoresearch_loop.py [-h]\n                            [--transforms {dedupe,opacity-strip,dedupe} [{dedupe,opacity-strip,dedupe} ...]]\n                            [--max-cycles MAX_CYCLES] [--apply]\n                            [--run-id RUN_ID] [--runs-root RUNS_ROOT]\n                            chapter\n\nBounded autoresearch loop (dry-run default)\n\npositional arguments:\n  chapter               path to chapter markdown\n\noptions:\n  -h, --help            show this help message and exit\n  --transforms {dedupe,opacity-strip,dedupe} [{dedupe,opacity-strip,dedupe} ...]\n                        ordered one-variable transforms\n  --max-cycles MAX_CYCLES\n  --apply               mutate the chapter (default: dry-run)\n  --run-id RUN_ID       write artifacts under runs/<run-id>/<book>/<chapter>\n  --runs-root RUNS_ROOT\n                        artifact root (default: WORKBENCH/STORYOPS/runs)\n",
+  "two_run_ids": [
+    "cosmology-cr00-proof-a",
+    "cosmology-cr00-proof-b"
+  ],
+  "two_run_dirs": [
+    "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/WORKBENCH/STORYOPS/runs/cosmology-cr00-proof-a/book_1/Chapter-06-The-Synaptic-Crossroads",
+    "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/WORKBENCH/STORYOPS/runs/cosmology-cr00-proof-b/book_1/Chapter-06-The-Synaptic-Crossroads"
+  ],
+  "run_dirs_distinct": true,
+  "canonical_ch06_sha256_before_apply_temp_proof": "a26ba8ca6feba9598ba7947d24991de91c51a34653a36ff25244125c04daa647",
+  "canonical_ch06_sha256_after_apply_temp_proof": "a26ba8ca6feba9598ba7947d24991de91c51a34653a36ff25244125c04daa647",
+  "canonical_ch06_unchanged_by_temp_apply": true,
+  "apply_temp_stdout": "chapter: Chapter-06-The-Synaptic-Crossroads.md\nmode: apply  cycles: 1  kept: 0\nbaseline: {'total_per_1000': 0.0, 'verbatim_duplicate_paragraphs': 0, 'empirical_syntax_adjacent': 0, 'explanatory_aside_hits': 0}\nfinal:    {'total_per_1000': 0.0, 'verbatim_duplicate_paragraphs': 0, 'empirical_syntax_adjacent': 0, 'explanatory_aside_hits': 0}  verdict: WARN\ntrace: /var/folders/zx/_wycnwwx3p1f_4gclpnhr8rm0000gn/T/tmpjizej5uw/runs/cosmology-cr00-apply-proof/book_1/Chapter-06-The-Synaptic-Crossroads/autoresearch-trace.json\n",
+  "actual_cycles_recorded": [
+    1,
+    1
+  ],
+  "requested_max_cycles": [
+    3,
+    3
+  ],
+  "actual_cycle_limit": [
+    1,
+    1
+  ],
+  "contract_version": "v3-deeper-pass-gating-contract-v2",
+  "contract_probes": {
+    "justified_compression": {
+      "accepted": true,
+      "compressed": true,
+      "justified": true,
+      "missing_protected_choices": [],
+      "contract_version": "v3-deeper-pass-gating-contract-v2"
+    },
+    "missing_choice": {
+      "accepted": false,
+      "compressed": true,
+      "justified": true,
+      "missing_protected_choices": [
+        "Gideon said yes"
+      ],
+      "contract_version": "v3-deeper-pass-gating-contract-v2"
+    }
+  },
+  "tests": {
+    "command": "python3 -m unittest WORKBENCH/STORYOPS/scripts/test_cosmology_cr00.py WORKBENCH/STORYOPS/scripts/test_ether_first_cli.py WORKBENCH/STORYOPS/scripts/test_ether_first_core.py",
+    "result": "50 tests OK"
+  }
+}

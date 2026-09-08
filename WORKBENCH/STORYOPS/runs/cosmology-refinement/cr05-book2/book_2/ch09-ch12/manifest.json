@@ -1,0 +1,57 @@
+{
+  "schema": "storyops.book2.ch09-ch12.wave.v1",
+  "phase": "CR-05.01",
+  "status": "review-only-structural-audit",
+  "chapters": [
+    {
+      "id": "ch09",
+      "source": "CHAPTERS/book_2/Chapter-09-The-Sigil-Smith.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2/book_2/ch09-ch12/ch09/candidate.md",
+      "sha256": "baff96f0f63b6d6186798068123be1f0dd019b98e12457a454af554002bebc18",
+      "changed": false,
+      "audit": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2/book_2/ch09-ch12/ch09/audit.md",
+      "findings": [
+        "Retain forge/Elara material only where it exposes Gideon protection reflex and construct vulnerability.",
+        "Audit appended forge/operator endings for causal distinctness before promotion."
+      ]
+    },
+    {
+      "id": "ch10",
+      "source": "CHAPTERS/book_2/Chapter-10-The-Debug-Protocol.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2/book_2/ch09-ch12/ch10/candidate.md",
+      "sha256": "09144286845907c6faf2d0c843a85518dc1aede84bd937487edb14067c9aa6ec",
+      "changed": false,
+      "audit": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2/book_2/ch09-ch12/ch10/audit.md",
+      "findings": [
+        "Retain access/permission line and incomplete correction.",
+        "Compress station/keyboard repetitions only after preserving acceptable-risk owner."
+      ]
+    },
+    {
+      "id": "ch11",
+      "source": "CHAPTERS/book_2/Chapter-11-The-Avatar-Mutation.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2/book_2/ch09-ch12/ch11/candidate.md",
+      "sha256": "ad27c171dfa35b9154fc41d780612b2b319ad5e8e3f60ff99ea79b8579eb139f",
+      "changed": false,
+      "audit": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2/book_2/ch09-ch12/ch11/audit.md",
+      "findings": [
+        "Retain avatar mutation as sheath premise and refusal of forced convergence.",
+        "Compress steward/operator endings that repeat council legibility without new action."
+      ]
+    },
+    {
+      "id": "ch12",
+      "source": "CHAPTERS/book_2/Chapter-12-The-Anamnesis-Engine.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2/book_2/ch09-ch12/ch12/candidate.md",
+      "sha256": "d08544cd347fa20576bc92f1b74ad143279ada73b8ac882f41b12440cb7732b4",
+      "changed": false,
+      "audit": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2/book_2/ch09-ch12/ch12/audit.md",
+      "findings": [
+        "Live revision target: restore baseline without erasing compensations, but name who pays the pinch.",
+        "Add a payer/receiver consent beat in later prose pass before Book 2 promotion."
+      ]
+    }
+  ],
+  "removal_policy": "No removal performed in this pass; every potential removal remains recommendation-only until dependency check and candidate diff review.",
+  "canon_mutation": false
+}

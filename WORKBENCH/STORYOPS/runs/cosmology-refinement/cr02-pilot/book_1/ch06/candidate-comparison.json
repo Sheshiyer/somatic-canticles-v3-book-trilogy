@@ -1,0 +1,44 @@
+{
+  "schema": "storyops.candidate-comparison.v1",
+  "phase": "CR-02.02",
+  "source_span": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md:35-165",
+  "brief": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot/book_1/ch06/brief.md",
+  "candidates": [
+    {
+      "candidate_id": "candidate-a-two-motion-custody-vote",
+      "flags": [],
+      "literary_grade": "strongest ethically, slightly expository",
+      "advance": false,
+      "rationale": "Best separates retention, custody, and carrier veto. It gives Gideon explicit agency and lets Jian amend the log. It risks sounding like a committee procedure; needs compression if selected.",
+      "scanner_accepted": true,
+      "scanner_contract_version": "v3-deeper-pass-gating-contract-v2",
+      "missing_protected_choices": []
+    },
+    {
+      "candidate_id": "candidate-b-retain-but-defer-custody",
+      "flags": [],
+      "literary_grade": "cleanest prose, weaker later continuity",
+      "advance": false,
+      "rationale": "Preserves pressure and prevents Gideon custody assumption. It dodges the Chapter 26 remembered shard-in-hollow continuity and may avoid the harder consent test rather than solving it.",
+      "scanner_accepted": true,
+      "scanner_contract_version": "v3-deeper-pass-gating-contract-v2",
+      "missing_protected_choices": []
+    },
+    {
+      "candidate_id": "candidate-c-gideon-conditions-klei",
+      "flags": [],
+      "literary_grade": "best pilot seed",
+      "advance": true,
+      "rationale": "Keeps the baseline shape, gives Gideon a direct custody objection, makes Sona distinguish available from neutral, and has Jian amend the log. It changes action without turning the scene into a seminar.",
+      "scanner_accepted": true,
+      "scanner_contract_version": "v3-deeper-pass-gating-contract-v2",
+      "missing_protected_choices": []
+    }
+  ],
+  "selected_for_next_step": "candidate-c-gideon-conditions-klei",
+  "selection_rationale": "Candidate C preserves the original scene spine and humor while adding the missing carrier-consent beat. It is less complete procedurally than Candidate A, but better fiction: one irritated question changes custody rights, Sona’s objection changes the meaning of available Klei, Jian’s log changes, and Corv’s witness action remains useful but ethically incomplete.",
+  "stagnation_check": "No stagnation: all three candidates test distinct custody shapes.",
+  "not_promoted_to_chapter": true,
+  "next_required": "Use selected candidate as basis for Chapter 14 transfer brief only after recording CR-02.02 trace; do not mutate canon chapter yet.",
+  "scanner_summary": "All three candidates preserve protected beats under gating contract v3-deeper-pass-gating-contract-v2; scanner acceptance is necessary but not literary acceptance."
+}

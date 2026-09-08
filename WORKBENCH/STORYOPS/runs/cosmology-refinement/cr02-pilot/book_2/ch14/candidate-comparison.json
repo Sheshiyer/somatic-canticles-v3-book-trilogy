@@ -1,0 +1,15 @@
+{
+  "schema": "storyops.chapter14-transfer-review.v1",
+  "phase": "CR-02.03",
+  "candidate_id": "candidate-a-second-handoff-cost",
+  "scanner_accepted": true,
+  "selected_for_pilot_pair": true,
+  "rationale": "The candidate applies the Chapter 6 consent/cost lesson in a different system: route completion and sender timing do not prove receiver readiness. A premature handoff costs nine seconds and review margin, then the successful handoff carries less data than Jian wants. The scene keeps iteration, not miracle.",
+  "risks": [
+    "Slightly more explicit than baseline; later prose pass should compress after preserving action beats.",
+    "The political-margin cost is useful but should be checked against Book 3 House pressure vocabulary before promotion."
+  ],
+  "not_promoted_to_chapter": true,
+  "missing_protected_choices": [],
+  "scanner_contract_version": "v3-deeper-pass-gating-contract-v2"
+}

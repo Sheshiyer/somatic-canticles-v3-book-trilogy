@@ -1,0 +1,8 @@
+{
+  "candidate_id": "candidate-a-second-handoff-cost",
+  "provider": "in-session native Codex/PAI orchestrator",
+  "source_span": "CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md:27-141",
+  "changed_lines": "133-141 only within review candidate span",
+  "canon_mutation": false,
+  "brief": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot/book_2/ch14/brief.md"
+}

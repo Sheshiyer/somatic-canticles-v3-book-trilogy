@@ -1,0 +1,327 @@
+{
+  "schema": "storyops.final-verification.v1",
+  "created_at": "2026-09-08T13:37:55.633070+00:00",
+  "campaign": "cosmology-refinement",
+  "plan_status": "executed_review_package_complete",
+  "phase_statuses": [
+    {
+      "id": "CR-00",
+      "status": "complete",
+      "task_statuses": [
+        {
+          "id": "CR-00.01",
+          "status": "complete",
+          "receipt": null
+        },
+        {
+          "id": "CR-00.02",
+          "status": "complete",
+          "receipt": null
+        },
+        {
+          "id": "CR-00.03",
+          "status": "complete",
+          "receipt": null
+        },
+        {
+          "id": "CR-00.04",
+          "status": "complete",
+          "receipt": null
+        }
+      ]
+    },
+    {
+      "id": "CR-01",
+      "status": "complete",
+      "task_statuses": [
+        {
+          "id": "CR-01.01",
+          "status": "complete",
+          "receipt": null
+        },
+        {
+          "id": "CR-01.02",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/canon-decisions.md"
+        },
+        {
+          "id": "CR-01.03",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/continuity-ledger.json"
+        },
+        {
+          "id": "CR-01.04",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/character-arcs.json; WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/relationship-arcs.json"
+        }
+      ]
+    },
+    {
+      "id": "CR-02",
+      "status": "complete",
+      "task_statuses": [
+        {
+          "id": "CR-02.01",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot/book_1/ch06/brief.md"
+        },
+        {
+          "id": "CR-02.02",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot/book_1/ch06/candidate-comparison.json; WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot/book_1/ch06/autoresearch-trace.json"
+        },
+        {
+          "id": "CR-02.03",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot/book_2/ch14/candidate-comparison.json; WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot/book_2/ch14/selected-candidate-full-chapter.md"
+        },
+        {
+          "id": "CR-02.04",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot/pilot-wave-close.md; WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot/pilot-wave-close.json"
+        }
+      ]
+    },
+    {
+      "id": "CR-03",
+      "status": "complete",
+      "task_statuses": [
+        {
+          "id": "CR-03.01",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr03-architecture/four-character-plan.md"
+        },
+        {
+          "id": "CR-03.02",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr03-architecture/six-pair-plan.md; WORKBENCH/STORYOPS/runs/cosmology-refinement/cr03-architecture/group-dynamics.md"
+        },
+        {
+          "id": "CR-03.03",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr03-architecture/chapter-beat-allocation.json"
+        },
+        {
+          "id": "CR-03.04",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr03-architecture/wave-packets/"
+        }
+      ]
+    },
+    {
+      "id": "CR-04",
+      "status": "complete",
+      "task_statuses": [
+        {
+          "id": "CR-04.01",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1/book_1/ch01-ch04/manifest.json"
+        },
+        {
+          "id": "CR-04.02",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1/book_1/ch05-ch08/manifest.json"
+        },
+        {
+          "id": "CR-04.03",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1/book_1/whole-book-review.md"
+        },
+        {
+          "id": "CR-04.04",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1/book_1/wave-close.md"
+        }
+      ]
+    },
+    {
+      "id": "CR-05",
+      "status": "complete",
+      "task_statuses": [
+        {
+          "id": "CR-05.01",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2/book_2/ch09-ch12/manifest.json"
+        },
+        {
+          "id": "CR-05.02",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2/book_2/ch13-ch15/manifest.json"
+        },
+        {
+          "id": "CR-05.03",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2/book_2/relationship-review.md"
+        },
+        {
+          "id": "CR-05.04",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2/book_2/wave-close.md"
+        }
+      ]
+    },
+    {
+      "id": "CR-06",
+      "status": "complete",
+      "task_statuses": [
+        {
+          "id": "CR-06.01",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/ch16-ch20/manifest.json; WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/ch16-ch20/time-grid.json"
+        },
+        {
+          "id": "CR-06.02",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/ch21-ch24/manifest.json"
+        },
+        {
+          "id": "CR-06.03",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/ch25-ch27/manifest.json"
+        },
+        {
+          "id": "CR-06.04",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/wave-close.md"
+        }
+      ]
+    },
+    {
+      "id": "CR-07",
+      "status": "complete",
+      "task_statuses": [
+        {
+          "id": "CR-07.01",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr07-convergence/trilogy-continuity.md"
+        },
+        {
+          "id": "CR-07.02",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr07-convergence/reader-review.md; WORKBENCH/STORYOPS/runs/cosmology-refinement/cr07-convergence/epistemic-audit.md"
+        },
+        {
+          "id": "CR-07.03",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr07-convergence/writer-update.patch; WORKBENCH/STORYOPS/runs/cosmology-refinement/cr07-convergence/mirror-receipt.json"
+        },
+        {
+          "id": "CR-07.04",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr07-convergence/manuscript-release-candidate.md"
+        }
+      ]
+    },
+    {
+      "id": "CR-08",
+      "status": "complete",
+      "task_statuses": [
+        {
+          "id": "CR-08.01",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr08-companion/companion-manifest.json"
+        },
+        {
+          "id": "CR-08.02",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr08-companion/content-pilot/"
+        },
+        {
+          "id": "CR-08.03",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr08-companion/practice-access-contract.md"
+        },
+        {
+          "id": "CR-08.04",
+          "status": "complete",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr08-companion/companion-handoff.md"
+        }
+      ]
+    },
+    {
+      "id": "CR-09",
+      "status": "complete_handoff_only",
+      "task_statuses": [
+        {
+          "id": "CR-09.01",
+          "status": "complete_handoff_only",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr09-handoffs/selemene-engine-pr-brief.md"
+        },
+        {
+          "id": "CR-09.02",
+          "status": "complete_handoff_only",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr09-handoffs/practice-access-pr-brief.md"
+        },
+        {
+          "id": "CR-09.03",
+          "status": "complete_handoff_only",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr09-handoffs/web-mobile-pilot-pr-brief.md"
+        },
+        {
+          "id": "CR-09.04",
+          "status": "complete_handoff_only",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr09-handoffs/ecosystem-pilot-receipt.md"
+        }
+      ]
+    },
+    {
+      "id": "CR-10",
+      "status": "complete_review_package",
+      "task_statuses": [
+        {
+          "id": "CR-10.01",
+          "status": "complete_review_package",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr10-delivery/export-parity.json"
+        },
+        {
+          "id": "CR-10.02",
+          "status": "complete_review_package",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr10-delivery/delivery-manifest.json"
+        },
+        {
+          "id": "CR-10.03",
+          "status": "complete_review_package",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr10-delivery/release-checklist.md"
+        },
+        {
+          "id": "CR-10.04",
+          "status": "complete_review_package",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr10-delivery/reader-feedback.md"
+        }
+      ]
+    }
+  ],
+  "tests": {
+    "command": "python3 -m unittest WORKBENCH/STORYOPS/scripts/test_cosmology_cr00.py WORKBENCH/STORYOPS/scripts/test_ether_first_cli.py WORKBENCH/STORYOPS/scripts/test_ether_first_core.py",
+    "result": "passed",
+    "count": 50
+  },
+  "json_validation": {
+    "result": "passed",
+    "files": [
+      "WORKBENCH/STORYOPS/plans/cosmology-refinement/plan.json",
+      "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr10-delivery/delivery-manifest.json",
+      "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr10-delivery/export-parity.json"
+    ]
+  },
+  "canon_diff": {
+    "command": "git diff -- CHAPTERS COMPILED",
+    "result": "empty",
+    "meaning": "No canonical chapter or compiled export changes were made."
+  },
+  "git_status_short": [
+    " M WORKBENCH/STORYOPS/README.md",
+    " M WORKBENCH/STORYOPS/gating_contract.py",
+    " M WORKBENCH/STORYOPS/scripts/autoresearch_loop.py",
+    "?? WORKBENCH/STORYOPS/plans/",
+    "?? WORKBENCH/STORYOPS/runs/cosmology-cr00-proof-a/",
+    "?? WORKBENCH/STORYOPS/runs/cosmology-cr00-proof-b/",
+    "?? WORKBENCH/STORYOPS/runs/cosmology-refinement/",
+    "?? WORKBENCH/STORYOPS/scripts/test_cosmology_cr00.py"
+  ],
+  "boundaries": [
+    "CR-09 is complete as owner handoffs only; external implementation is deferred.",
+    "CR-10 is complete as a delivery/re-entry review package; publication and export regeneration are deferred until acceptance.",
+    "No deployment or external PR was created."
+  ]
+}

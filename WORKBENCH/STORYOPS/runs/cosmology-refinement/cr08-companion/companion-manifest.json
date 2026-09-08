@@ -1,0 +1,30 @@
+{
+  "schema": "storyops.companion-manifest.v1",
+  "phase": "CR-08.01",
+  "status": "complete_handoff_manifest",
+  "created": "2026-09-08",
+  "source_inspection": {
+    "web_root": "/Volumes/madara/2026/Projects/tryambakam-noesis/somaticcanticles-aleph/",
+    "web_content_file": "src/lib/lore/chapter-content.ts",
+    "web_observation": "File comment says maps 27 manuscript chapters to 12 webapp chapters, but local source currently exposes 27 id fields. Developed vs placeholder/easter-egg status must be verified by content owners rather than inferred from count.",
+    "mobile_root": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-mobile-app/",
+    "mobile_backend_file": "backend/data/chapters-v1.json",
+    "mobile_observation": "JSON has chapters, rowCount, schemaVersion, datasetHash; chapters list count observed as 27 with sourceHash fields.",
+    "parity_claim": false
+  },
+  "identity_model": {
+    "manuscript_chapter_id": "book_n/chapter_n in current v3 CHAPTERS source",
+    "app_entry_id": "surface-specific entry used by web/mobile UI or database",
+    "practice_id": "guided reusable practice introduced by a scene situation",
+    "situation_id": "portable dilemma unit: stimulus, interpretation, choice, consequence, return",
+    "source_revision_id": "hash of accepted manuscript candidate or protected baseline used for mapping"
+  },
+  "developed_entry_policy": "Every developed companion entry needs a source revision hash, situation id, practice id, and owner. Placeholder/easter-egg entries must be marked placeholder; do not invent exercises to fill counts.",
+  "missing_or_retired_policy": "Missing, placeholder, retired, and migrated entries remain explicit states. A retired entry can preserve alias history without being treated as current practice authority.",
+  "first_mapping_target": {
+    "situation_id": "B1C6-shard-custody",
+    "manuscript_source": "CR-04 Chapter 6 review-only candidate, not yet canonical",
+    "practice_identity": "carrier-consent-check",
+    "surfaces": ["mobile_short_encounter", "web_expanded_exploration", "optional_symbolic_lens_context"]
+  }
+}

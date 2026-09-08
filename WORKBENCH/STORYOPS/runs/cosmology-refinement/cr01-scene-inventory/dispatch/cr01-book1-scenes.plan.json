@@ -1,0 +1,80 @@
+{
+  "policy_version": "temperance-routing-v1",
+  "mode": "enforce",
+  "plan_id": "rp_5db84b1d9a6c05b4",
+  "correlation_id": "tc_exec_1788871098258_90233_87929896_task_0_cr01-book1-scenes",
+  "input_hash": "5db84b1d9a6c05b465f6e3078e311c6621c6e566c87627ab17ceb4e5cd6bd2fb",
+  "task_type": "balanced",
+  "decision_time_ms": 1788871098000,
+  "diverged": false,
+  "status": "ok",
+  "static_order": [
+    {
+      "backend": "omniroute",
+      "model": "noesis-execute",
+      "static_rank": 0,
+      "failure_domain": "gateway",
+      "tier": "unknown",
+      "strength": "unknown",
+      "context_window": "unknown"
+    }
+  ],
+  "proposed_order": [
+    {
+      "backend": "omniroute",
+      "model": "noesis-execute",
+      "static_rank": 0,
+      "failure_domain": "gateway",
+      "tier": "unknown",
+      "strength": "unknown",
+      "context_window": "unknown"
+    }
+  ],
+  "selected_order": [
+    {
+      "backend": "omniroute",
+      "model": "noesis-execute",
+      "static_rank": 0,
+      "failure_domain": "gateway",
+      "tier": "unknown",
+      "strength": "unknown",
+      "context_window": "unknown"
+    }
+  ],
+  "candidates": [
+    {
+      "backend": "omniroute",
+      "model": "noesis-execute",
+      "static_rank": 0,
+      "failure_domain": "gateway",
+      "tier": "unknown",
+      "strength": "unknown",
+      "context_window": "unknown",
+      "score": 0.14375,
+      "eligible": true,
+      "effective_circuit_state": "half_open",
+      "factors": {
+        "capability": 0.5,
+        "health": 0.5,
+        "quota": 0.5,
+        "cost_efficiency": 0.5,
+        "stability": 1,
+        "circuit": 0.25
+      },
+      "reasons": [
+        "explicit-override",
+        "cooldown-probe",
+        "fit-head:arbiter=uncontested"
+      ],
+      "worker_context_budget_kb": 6,
+      "worker_context_bounded": true,
+      "worker_context_ceiling_kb": 64
+    }
+  ],
+  "allocation": {},
+  "notes": [
+    "domain-floor-violated:count=0,floor=2",
+    "exhausted-excluded:backend=omniroute",
+    "all-eligibles-exhausted"
+  ]
+}

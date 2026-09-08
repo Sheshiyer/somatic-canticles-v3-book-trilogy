@@ -1,0 +1,294 @@
+{
+  "generated_at": "2026-09-08T12:34:15.159659+00:00",
+  "checks": [
+    {
+      "chapter": "CHAPTERS/book_1/Chapter-01-The-Choroid-Plexus.md",
+      "book_export": "COMPILED/Book_1_Anamnesis_Engine.md",
+      "present_exact_in_book_export": false,
+      "present_exact_in_omnibus": false
+    },
+    {
+      "chapter": "CHAPTERS/book_1/Chapter-02-Signal-Transduction.md",
+      "book_export": "COMPILED/Book_1_Anamnesis_Engine.md",
+      "present_exact_in_book_export": false,
+      "present_exact_in_omnibus": false
+    },
+    {
+      "chapter": "CHAPTERS/book_1/Chapter-03-The-Blood-Brain-Barrier.md",
+      "book_export": "COMPILED/Book_1_Anamnesis_Engine.md",
+      "present_exact_in_book_export": false,
+      "present_exact_in_omnibus": false
+    },
+    {
+      "chapter": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+      "book_export": "COMPILED/Book_1_Anamnesis_Engine.md",
+      "present_exact_in_book_export": false,
+      "present_exact_in_omnibus": false
+    },
+    {
+      "chapter": "CHAPTERS/book_1/Chapter-05-The-Endocrine-Dogma.md",
+      "book_export": "COMPILED/Book_1_Anamnesis_Engine.md",
+      "present_exact_in_book_export": false,
+      "present_exact_in_omnibus": false
+    },
+    {
+      "chapter": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+      "book_export": "COMPILED/Book_1_Anamnesis_Engine.md",
+      "present_exact_in_book_export": false,
+      "present_exact_in_omnibus": false
+    },
+    {
+      "chapter": "CHAPTERS/book_1/Chapter-07-The-Breathfield-Weaver.md",
+      "book_export": "COMPILED/Book_1_Anamnesis_Engine.md",
+      "present_exact_in_book_export": false,
+      "present_exact_in_omnibus": false
+    },
+    {
+      "chapter": "CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md",
+      "book_export": "COMPILED/Book_1_Anamnesis_Engine.md",
+      "present_exact_in_book_export": false,
+      "present_exact_in_omnibus": false
+    },
+    {
+      "chapter": "CHAPTERS/book_2/Chapter-09-The-Sigil-Smith.md",
+      "book_export": "COMPILED/Book_2_Myocardial_Chorus.md",
+      "present_exact_in_book_export": false,
+      "present_exact_in_omnibus": false
+    },
+    {
+      "chapter": "CHAPTERS/book_2/Chapter-10-The-Debug-Protocol.md",
+      "book_export": "COMPILED/Book_2_Myocardial_Chorus.md",
+      "present_exact_in_book_export": true,
+      "present_exact_in_omnibus": true
+    },
+    {
+      "chapter": "CHAPTERS/book_2/Chapter-11-The-Avatar-Mutation.md",
+      "book_export": "COMPILED/Book_2_Myocardial_Chorus.md",
+      "present_exact_in_book_export": true,
+      "present_exact_in_omnibus": true
+    },
+    {
+      "chapter": "CHAPTERS/book_2/Chapter-12-The-Anamnesis-Engine.md",
+      "book_export": "COMPILED/Book_2_Myocardial_Chorus.md",
+      "present_exact_in_book_export": true,
+      "present_exact_in_omnibus": true
+    },
+    {
+      "chapter": "CHAPTERS/book_2/Chapter-13-The-Myocardial-Chorus.md",
+      "book_export": "COMPILED/Book_2_Myocardial_Chorus.md",
+      "present_exact_in_book_export": true,
+      "present_exact_in_omnibus": true
+    },
+    {
+      "chapter": "CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+      "book_export": "COMPILED/Book_2_Myocardial_Chorus.md",
+      "present_exact_in_book_export": false,
+      "present_exact_in_omnibus": false
+    },
+    {
+      "chapter": "CHAPTERS/book_2/Chapter-15-The-Witness-Integration.md",
+      "book_export": "COMPILED/Book_2_Myocardial_Chorus.md",
+      "present_exact_in_book_export": false,
+      "present_exact_in_omnibus": false
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+      "book_export": "COMPILED/Book_3_The_Ripening.md",
+      "present_exact_in_book_export": false,
+      "present_exact_in_omnibus": false
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-17-The-Gardener.md",
+      "book_export": "COMPILED/Book_3_The_Ripening.md",
+      "present_exact_in_book_export": true,
+      "present_exact_in_omnibus": true
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-18-The-Synthesis-Protocol.md",
+      "book_export": "COMPILED/Book_3_The_Ripening.md",
+      "present_exact_in_book_export": false,
+      "present_exact_in_omnibus": false
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-19-The-Three-Point-Problem.md",
+      "book_export": "COMPILED/Book_3_The_Ripening.md",
+      "present_exact_in_book_export": false,
+      "present_exact_in_omnibus": false
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-20-The-Convergence-Point.md",
+      "book_export": "COMPILED/Book_3_The_Ripening.md",
+      "present_exact_in_book_export": false,
+      "present_exact_in_omnibus": false
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-21-The-Test-Fire.md",
+      "book_export": "COMPILED/Book_3_The_Ripening.md",
+      "present_exact_in_book_export": true,
+      "present_exact_in_omnibus": true
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+      "book_export": "COMPILED/Book_3_The_Ripening.md",
+      "present_exact_in_book_export": false,
+      "present_exact_in_omnibus": false
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-23-The-Flaw-in-the-Code.md",
+      "book_export": "COMPILED/Book_3_The_Ripening.md",
+      "present_exact_in_book_export": false,
+      "present_exact_in_omnibus": false
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-24-The-Final-Procedure.md",
+      "book_export": "COMPILED/Book_3_The_Ripening.md",
+      "present_exact_in_book_export": false,
+      "present_exact_in_omnibus": false
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-25-The-Void-of-Pure-Potential.md",
+      "book_export": "COMPILED/Book_3_The_Ripening.md",
+      "present_exact_in_book_export": true,
+      "present_exact_in_omnibus": true
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-26-The-Architecture-of-New-Reality.md",
+      "book_export": "COMPILED/Book_3_The_Ripening.md",
+      "present_exact_in_book_export": false,
+      "present_exact_in_omnibus": false
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+      "book_export": "COMPILED/Book_3_The_Ripening.md",
+      "present_exact_in_book_export": false,
+      "present_exact_in_omnibus": false
+    }
+  ],
+  "summary": {
+    "chapters": 27,
+    "exact_in_book_export": 7,
+    "exact_in_omnibus": 7,
+    "missing": [
+      {
+        "chapter": "CHAPTERS/book_1/Chapter-01-The-Choroid-Plexus.md",
+        "book_export": "COMPILED/Book_1_Anamnesis_Engine.md",
+        "present_exact_in_book_export": false,
+        "present_exact_in_omnibus": false
+      },
+      {
+        "chapter": "CHAPTERS/book_1/Chapter-02-Signal-Transduction.md",
+        "book_export": "COMPILED/Book_1_Anamnesis_Engine.md",
+        "present_exact_in_book_export": false,
+        "present_exact_in_omnibus": false
+      },
+      {
+        "chapter": "CHAPTERS/book_1/Chapter-03-The-Blood-Brain-Barrier.md",
+        "book_export": "COMPILED/Book_1_Anamnesis_Engine.md",
+        "present_exact_in_book_export": false,
+        "present_exact_in_omnibus": false
+      },
+      {
+        "chapter": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+        "book_export": "COMPILED/Book_1_Anamnesis_Engine.md",
+        "present_exact_in_book_export": false,
+        "present_exact_in_omnibus": false
+      },
+      {
+        "chapter": "CHAPTERS/book_1/Chapter-05-The-Endocrine-Dogma.md",
+        "book_export": "COMPILED/Book_1_Anamnesis_Engine.md",
+        "present_exact_in_book_export": false,
+        "present_exact_in_omnibus": false
+      },
+      {
+        "chapter": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+        "book_export": "COMPILED/Book_1_Anamnesis_Engine.md",
+        "present_exact_in_book_export": false,
+        "present_exact_in_omnibus": false
+      },
+      {
+        "chapter": "CHAPTERS/book_1/Chapter-07-The-Breathfield-Weaver.md",
+        "book_export": "COMPILED/Book_1_Anamnesis_Engine.md",
+        "present_exact_in_book_export": false,
+        "present_exact_in_omnibus": false
+      },
+      {
+        "chapter": "CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md",
+        "book_export": "COMPILED/Book_1_Anamnesis_Engine.md",
+        "present_exact_in_book_export": false,
+        "present_exact_in_omnibus": false
+      },
+      {
+        "chapter": "CHAPTERS/book_2/Chapter-09-The-Sigil-Smith.md",
+        "book_export": "COMPILED/Book_2_Myocardial_Chorus.md",
+        "present_exact_in_book_export": false,
+        "present_exact_in_omnibus": false
+      },
+      {
+        "chapter": "CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+        "book_export": "COMPILED/Book_2_Myocardial_Chorus.md",
+        "present_exact_in_book_export": false,
+        "present_exact_in_omnibus": false
+      },
+      {
+        "chapter": "CHAPTERS/book_2/Chapter-15-The-Witness-Integration.md",
+        "book_export": "COMPILED/Book_2_Myocardial_Chorus.md",
+        "present_exact_in_book_export": false,
+        "present_exact_in_omnibus": false
+      },
+      {
+        "chapter": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+        "book_export": "COMPILED/Book_3_The_Ripening.md",
+        "present_exact_in_book_export": false,
+        "present_exact_in_omnibus": false
+      },
+      {
+        "chapter": "CHAPTERS/book_3/Chapter-18-The-Synthesis-Protocol.md",
+        "book_export": "COMPILED/Book_3_The_Ripening.md",
+        "present_exact_in_book_export": false,
+        "present_exact_in_omnibus": false
+      },
+      {
+        "chapter": "CHAPTERS/book_3/Chapter-19-The-Three-Point-Problem.md",
+        "book_export": "COMPILED/Book_3_The_Ripening.md",
+        "present_exact_in_book_export": false,
+        "present_exact_in_omnibus": false
+      },
+      {
+        "chapter": "CHAPTERS/book_3/Chapter-20-The-Convergence-Point.md",
+        "book_export": "COMPILED/Book_3_The_Ripening.md",
+        "present_exact_in_book_export": false,
+        "present_exact_in_omnibus": false
+      },
+      {
+        "chapter": "CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+        "book_export": "COMPILED/Book_3_The_Ripening.md",
+        "present_exact_in_book_export": false,
+        "present_exact_in_omnibus": false
+      },
+      {
+        "chapter": "CHAPTERS/book_3/Chapter-23-The-Flaw-in-the-Code.md",
+        "book_export": "COMPILED/Book_3_The_Ripening.md",
+        "present_exact_in_book_export": false,
+        "present_exact_in_omnibus": false
+      },
+      {
+        "chapter": "CHAPTERS/book_3/Chapter-24-The-Final-Procedure.md",
+        "book_export": "COMPILED/Book_3_The_Ripening.md",
+        "present_exact_in_book_export": false,
+        "present_exact_in_omnibus": false
+      },
+      {
+        "chapter": "CHAPTERS/book_3/Chapter-26-The-Architecture-of-New-Reality.md",
+        "book_export": "COMPILED/Book_3_The_Ripening.md",
+        "present_exact_in_book_export": false,
+        "present_exact_in_omnibus": false
+      },
+      {
+        "chapter": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+        "book_export": "COMPILED/Book_3_The_Ripening.md",
+        "present_exact_in_book_export": false,
+        "present_exact_in_omnibus": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema": "storyops.wave-packet.v1",
+  "source_head": "d41090862e5bc3dcff22927998b7b4e6b77ca19d",
+  "frozen_inputs": [
+    "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/scene-inventory.md",
+    "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/canon-decisions.md",
+    "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/continuity-ledger.json",
+    "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/character-arcs.json",
+    "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/relationship-arcs.json",
+    "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot/pilot-wave-close.md",
+    "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr03-architecture/chapter-beat-allocation.json"
+  ],
+  "global_do_not_invent": [
+    "new elapsed dates",
+    "new object identity mergers",
+    "engine/app authority proof",
+    "fixed character sheath ownership",
+    "private-thought exposure as teamwork",
+    "publication/deployment effects"
+  ],
+  "phase": "CR-05",
+  "wave": "Book 2 revisions",
+  "goal": "Carry the pilot lesson into transfer, integration, and repeated harmonization while compressing duplicate explanation.",
+  "ordered_targets": [
+    "Chapter 12 payer clarity",
+    "Chapter 13 repeated harmony compression",
+    "Chapter 14 second handoff cost/setup",
+    "Chapter 15 no-fusion preservation",
+    "Chapters 9-11 appended material audit"
+  ],
+  "primary_dependencies": [
+    "CR-02 Chapter 14 selected candidate",
+    "CR-03 six-pair plan",
+    "CR-03 group dynamics"
+  ],
+  "protected_downstream": [
+    "Book 3 differentiated witness and dry interval",
+    "Mira remains outside proof",
+    "No singular narrator"
+  ],
+  "writer_start": "Start with Chapter 14 setup/compression, then work backward to Chapter 13 and outward to Chapter 15.",
+  "success_check": "Receiver consent visible; failed relay costs something; no smooth teamwork montage."
+}

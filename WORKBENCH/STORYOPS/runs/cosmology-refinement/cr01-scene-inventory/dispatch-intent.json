@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-09-08T12:38:07.429771+00:00",
+  "skill": "temperance-parallel-dispatch",
+  "mode": "governed combo mode",
+  "lane": "noesis-execute",
+  "tasks": [
+    {
+      "id": "cr01-book1-scenes",
+      "focus": "Book 1 chapters 1-8: perception, first cost, Chapter 6 shard/consent burden, humor and team-work evidence."
+    },
+    {
+      "id": "cr01-book2-scenes",
+      "focus": "Book 2 chapters 9-15: forge/debug/avatar/anamnesis, Chapter 14 transfer, Chapter 15 witness integration and team dynamics."
+    },
+    {
+      "id": "cr01-book3a-scenes",
+      "focus": "Book 3 chapters 16-21: wilt/gardener/synthesis/three-point/convergence/test-fire, relapse and overcorrection evidence."
+    },
+    {
+      "id": "cr01-book3b-scenes",
+      "focus": "Book 3 chapters 22-27: perfect world/flaw/final procedure/void/new reality/new beginning, Lens 13 edges and ordinary life."
+    }
+  ]
+}

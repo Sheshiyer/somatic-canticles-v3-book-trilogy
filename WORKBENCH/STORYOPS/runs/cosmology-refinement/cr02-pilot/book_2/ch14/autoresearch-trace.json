@@ -1,0 +1,15 @@
+{
+  "schema": "storyops.chapter14-transfer-trace.v1",
+  "phase": "CR-02.03",
+  "cycles": [
+    {
+      "cycle": 1,
+      "candidate_id": "candidate-a-second-handoff-cost",
+      "scanner_accepted": true,
+      "selected": true,
+      "missing_protected_choices": []
+    }
+  ],
+  "canon_mutation": false,
+  "extension_used": false
+}

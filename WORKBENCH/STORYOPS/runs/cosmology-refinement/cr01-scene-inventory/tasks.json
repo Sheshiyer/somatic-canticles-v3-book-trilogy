@@ -1,0 +1,65 @@
+[
+  {
+    "id": "cr01-book1-scenes",
+    "backend": "omniroute",
+    "model": "noesis-execute",
+    "focus": "Book 1 chapters 1-8: perception, first cost, Chapter 6 shard/consent burden, humor and team-work evidence.",
+    "chapter_paths": [
+      "CHAPTERS/book_1/Chapter-01-The-Choroid-Plexus.md",
+      "CHAPTERS/book_1/Chapter-02-Signal-Transduction.md",
+      "CHAPTERS/book_1/Chapter-03-The-Blood-Brain-Barrier.md",
+      "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+      "CHAPTERS/book_1/Chapter-05-The-Endocrine-Dogma.md",
+      "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+      "CHAPTERS/book_1/Chapter-07-The-Breathfield-Weaver.md",
+      "CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md"
+    ],
+    "task": "You are a read-only StoryOps scene-inventory worker for Somatic Canticles cosmology refinement. Do not edit files, do not create files, do not summarize from memory. Read the named chapter files in the current git worktree and return compact JSON only. For each chapter, include: chapter path, scene anchors using stable quoted phrases or approximate line ranges, POV/focal center, setting/time, object continuity, consequential choice, cost, unresolved remainder, voice/register notes, and critique status if the prior critique input confirms/narrows/rejects a concern. Treat all recommendations as hypotheses. Do not promote prose. Use WORKBENCH/STORYOPS/plans/cosmology-refinement/inputs/CRITIQUE.md and CHAPTER-PLAN.md only as critique inputs, not authority over source.\n\nFocus: Book 1 chapters 1-8: perception, first cost, Chapter 6 shard/consent burden, humor and team-work evidence.\nChapter files:\nCHAPTERS/book_1/Chapter-01-The-Choroid-Plexus.md\nCHAPTERS/book_1/Chapter-02-Signal-Transduction.md\nCHAPTERS/book_1/Chapter-03-The-Blood-Brain-Barrier.md\nCHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md\nCHAPTERS/book_1/Chapter-05-The-Endocrine-Dogma.md\nCHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md\nCHAPTERS/book_1/Chapter-07-The-Breathfield-Weaver.md\nCHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md\n\nReturn JSON with keys worker_id, source_head, chapters, open_questions, and confidence_limits. Keep it concise but evidence-bearing."
+  },
+  {
+    "id": "cr01-book2-scenes",
+    "backend": "omniroute",
+    "model": "noesis-execute",
+    "focus": "Book 2 chapters 9-15: forge/debug/avatar/anamnesis, Chapter 14 transfer, Chapter 15 witness integration and team dynamics.",
+    "chapter_paths": [
+      "CHAPTERS/book_2/Chapter-09-The-Sigil-Smith.md",
+      "CHAPTERS/book_2/Chapter-10-The-Debug-Protocol.md",
+      "CHAPTERS/book_2/Chapter-11-The-Avatar-Mutation.md",
+      "CHAPTERS/book_2/Chapter-12-The-Anamnesis-Engine.md",
+      "CHAPTERS/book_2/Chapter-13-The-Myocardial-Chorus.md",
+      "CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+      "CHAPTERS/book_2/Chapter-15-The-Witness-Integration.md"
+    ],
+    "task": "You are a read-only StoryOps scene-inventory worker for Somatic Canticles cosmology refinement. Do not edit files, do not create files, do not summarize from memory. Read the named chapter files in the current git worktree and return compact JSON only. For each chapter, include: chapter path, scene anchors using stable quoted phrases or approximate line ranges, POV/focal center, setting/time, object continuity, consequential choice, cost, unresolved remainder, voice/register notes, and critique status if the prior critique input confirms/narrows/rejects a concern. Treat all recommendations as hypotheses. Do not promote prose. Use WORKBENCH/STORYOPS/plans/cosmology-refinement/inputs/CRITIQUE.md and CHAPTER-PLAN.md only as critique inputs, not authority over source.\n\nFocus: Book 2 chapters 9-15: forge/debug/avatar/anamnesis, Chapter 14 transfer, Chapter 15 witness integration and team dynamics.\nChapter files:\nCHAPTERS/book_2/Chapter-09-The-Sigil-Smith.md\nCHAPTERS/book_2/Chapter-10-The-Debug-Protocol.md\nCHAPTERS/book_2/Chapter-11-The-Avatar-Mutation.md\nCHAPTERS/book_2/Chapter-12-The-Anamnesis-Engine.md\nCHAPTERS/book_2/Chapter-13-The-Myocardial-Chorus.md\nCHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md\nCHAPTERS/book_2/Chapter-15-The-Witness-Integration.md\n\nReturn JSON with keys worker_id, source_head, chapters, open_questions, and confidence_limits. Keep it concise but evidence-bearing."
+  },
+  {
+    "id": "cr01-book3a-scenes",
+    "backend": "omniroute",
+    "model": "noesis-execute",
+    "focus": "Book 3 chapters 16-21: wilt/gardener/synthesis/three-point/convergence/test-fire, relapse and overcorrection evidence.",
+    "chapter_paths": [
+      "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+      "CHAPTERS/book_3/Chapter-17-The-Gardener.md",
+      "CHAPTERS/book_3/Chapter-18-The-Synthesis-Protocol.md",
+      "CHAPTERS/book_3/Chapter-19-The-Three-Point-Problem.md",
+      "CHAPTERS/book_3/Chapter-20-The-Convergence-Point.md",
+      "CHAPTERS/book_3/Chapter-21-The-Test-Fire.md"
+    ],
+    "task": "You are a read-only StoryOps scene-inventory worker for Somatic Canticles cosmology refinement. Do not edit files, do not create files, do not summarize from memory. Read the named chapter files in the current git worktree and return compact JSON only. For each chapter, include: chapter path, scene anchors using stable quoted phrases or approximate line ranges, POV/focal center, setting/time, object continuity, consequential choice, cost, unresolved remainder, voice/register notes, and critique status if the prior critique input confirms/narrows/rejects a concern. Treat all recommendations as hypotheses. Do not promote prose. Use WORKBENCH/STORYOPS/plans/cosmology-refinement/inputs/CRITIQUE.md and CHAPTER-PLAN.md only as critique inputs, not authority over source.\n\nFocus: Book 3 chapters 16-21: wilt/gardener/synthesis/three-point/convergence/test-fire, relapse and overcorrection evidence.\nChapter files:\nCHAPTERS/book_3/Chapter-16-The-Wilt.md\nCHAPTERS/book_3/Chapter-17-The-Gardener.md\nCHAPTERS/book_3/Chapter-18-The-Synthesis-Protocol.md\nCHAPTERS/book_3/Chapter-19-The-Three-Point-Problem.md\nCHAPTERS/book_3/Chapter-20-The-Convergence-Point.md\nCHAPTERS/book_3/Chapter-21-The-Test-Fire.md\n\nReturn JSON with keys worker_id, source_head, chapters, open_questions, and confidence_limits. Keep it concise but evidence-bearing."
+  },
+  {
+    "id": "cr01-book3b-scenes",
+    "backend": "omniroute",
+    "model": "noesis-execute",
+    "focus": "Book 3 chapters 22-27: perfect world/flaw/final procedure/void/new reality/new beginning, Lens 13 edges and ordinary life.",
+    "chapter_paths": [
+      "CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+      "CHAPTERS/book_3/Chapter-23-The-Flaw-in-the-Code.md",
+      "CHAPTERS/book_3/Chapter-24-The-Final-Procedure.md",
+      "CHAPTERS/book_3/Chapter-25-The-Void-of-Pure-Potential.md",
+      "CHAPTERS/book_3/Chapter-26-The-Architecture-of-New-Reality.md",
+      "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md"
+    ],
+    "task": "You are a read-only StoryOps scene-inventory worker for Somatic Canticles cosmology refinement. Do not edit files, do not create files, do not summarize from memory. Read the named chapter files in the current git worktree and return compact JSON only. For each chapter, include: chapter path, scene anchors using stable quoted phrases or approximate line ranges, POV/focal center, setting/time, object continuity, consequential choice, cost, unresolved remainder, voice/register notes, and critique status if the prior critique input confirms/narrows/rejects a concern. Treat all recommendations as hypotheses. Do not promote prose. Use WORKBENCH/STORYOPS/plans/cosmology-refinement/inputs/CRITIQUE.md and CHAPTER-PLAN.md only as critique inputs, not authority over source.\n\nFocus: Book 3 chapters 22-27: perfect world/flaw/final procedure/void/new reality/new beginning, Lens 13 edges and ordinary life.\nChapter files:\nCHAPTERS/book_3/Chapter-22-The-Perfect-World.md\nCHAPTERS/book_3/Chapter-23-The-Flaw-in-the-Code.md\nCHAPTERS/book_3/Chapter-24-The-Final-Procedure.md\nCHAPTERS/book_3/Chapter-25-The-Void-of-Pure-Potential.md\nCHAPTERS/book_3/Chapter-26-The-Architecture-of-New-Reality.md\nCHAPTERS/book_3/Chapter-27-The-New-Beginning.md\n\nReturn JSON with keys worker_id, source_head, chapters, open_questions, and confidence_limits. Keep it concise but evidence-bearing."
+  }
+]

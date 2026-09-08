@@ -1,0 +1,32 @@
+{
+  "schema": "storyops.book3.ch25-ch27.wave.v1",
+  "phase": "CR-06.03",
+  "status": "review-only",
+  "chapters": [
+    {
+      "id": "ch25",
+      "source": "CHAPTERS/book_3/Chapter-25-The-Void-of-Pure-Potential.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/ch25-ch27/ch25/candidate.md",
+      "sha256": "b9ba1d8ec1c4d1f4c9ad7b5623b016caad94e84da411eeacd54b088537d80416",
+      "changed": false,
+      "rationale": "Protected privacy without hiding and fear without slogan."
+    },
+    {
+      "id": "ch26",
+      "source": "CHAPTERS/book_3/Chapter-26-The-Architecture-of-New-Reality.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/ch25-ch27/ch26/candidate.md",
+      "sha256": "6831c2419eea1b096fd0b25a053f2a9fdd5ea2860b8569989939ce4e56d5d3a3",
+      "changed": true,
+      "rationale": "Candidate fixes seed/sliver cross-reference while preserving two black stones and minimum-condition architecture."
+    },
+    {
+      "id": "ch27",
+      "source": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/ch25-ch27/ch27/candidate.md",
+      "sha256": "cf247751d5673c0a699a1cfb2f15faa7bd44cd956ce1cf618038de064a4b2c58",
+      "changed": false,
+      "rationale": "Protected ordinary-life ending: rest, play, water, open boundary, and no growth receipt."
+    }
+  ],
+  "canon_mutation": false
+}

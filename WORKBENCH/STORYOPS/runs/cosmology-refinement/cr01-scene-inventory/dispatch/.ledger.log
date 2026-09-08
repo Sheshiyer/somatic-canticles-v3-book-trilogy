@@ -1,0 +1,24 @@
+[2026-09-08T12:38:18Z] decision: task=cr01-book1-scenes plan_id=rp_5db84b1d9a6c05b4 combo=noesis-execute
+{"ok":true,"decision_id":"rp_5db84b1d9a6c05b4","correlation_id":"tc_exec_1788871098258_90233_87929896_task_0_cr01-book1-scenes"}
+[2026-09-08T12:38:19Z] decision: task=cr01-book2-scenes plan_id=rp_5e2e993086b7dfc0 combo=noesis-execute
+{"ok":true,"decision_id":"rp_5e2e993086b7dfc0","correlation_id":"tc_exec_1788871098258_90233_87929896_task_1_cr01-book2-scenes"}
+[2026-09-08T12:38:20Z] decision: task=cr01-book3a-scenes plan_id=rp_d9375586b239f770 combo=noesis-execute
+{"ok":true,"decision_id":"rp_d9375586b239f770","correlation_id":"tc_exec_1788871098258_90233_87929896_task_2_cr01-book3a-scenes"}
+[2026-09-08T12:38:20Z] decision: task=cr01-book3b-scenes plan_id=rp_7cd88ac772d0e0d2 combo=noesis-execute
+{"ok":true,"decision_id":"rp_7cd88ac772d0e0d2","correlation_id":"tc_exec_1788871098258_90233_87929896_task_3_cr01-book3b-scenes"}
+[2026-09-08T12:38:49Z] attempt: task=cr01-book1-scenes decision_id=rp_5db84b1d9a6c05b4 ordinal=0 status=failed
+{"ok":true}
+[2026-09-08T12:38:49Z] receipt_link: task=cr01-book1-scenes decision_id=rp_5db84b1d9a6c05b4 mode=attribution
+{"ok":true}
+[2026-09-08T12:38:49Z] attempt: task=cr01-book3b-scenes decision_id=rp_7cd88ac772d0e0d2 ordinal=0 status=failed
+{"ok":true}
+[2026-09-08T12:38:50Z] receipt_link: task=cr01-book3b-scenes decision_id=rp_7cd88ac772d0e0d2 mode=attribution
+{"ok":true}
+[2026-09-08T12:38:52Z] attempt: task=cr01-book2-scenes decision_id=rp_5e2e993086b7dfc0 ordinal=0 status=failed
+{"ok":true}
+[2026-09-08T12:38:52Z] receipt_link: task=cr01-book2-scenes decision_id=rp_5e2e993086b7dfc0 mode=attribution
+{"ok":true}
+[2026-09-08T12:39:12Z] attempt: task=cr01-book3a-scenes decision_id=rp_d9375586b239f770 ordinal=0 status=failed
+{"ok":true}
+[2026-09-08T12:39:13Z] receipt_link: task=cr01-book3a-scenes decision_id=rp_d9375586b239f770 mode=attribution
+{"ok":true}

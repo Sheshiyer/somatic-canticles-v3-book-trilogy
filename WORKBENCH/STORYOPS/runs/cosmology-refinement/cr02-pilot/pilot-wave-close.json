@@ -1,0 +1,11 @@
+{
+  "schema": "storyops.pilot-wave-close.v1",
+  "phase": "CR-02.04",
+  "status": "complete",
+  "decision": "keep-with-targeted-revision",
+  "chapter_6_sha256": "d335257a6c848e86f99683760bea9575a86064b9d9ff653871e6e7500087a424",
+  "chapter_14_sha256": "6214a1ff6c7debdb809c8e2736db5e69cc19aa27c67f1174c94109b3d33dc6f5",
+  "canon_mutation": false,
+  "next_phase": "CR-03",
+  "scaling_condition": "Use pilot lesson as developmental architecture: pull, interpretation, action, cost-bearer, dissent, recurrence, privacy/unresolved remainder."
+}

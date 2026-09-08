@@ -1,0 +1,9 @@
+{
+  "candidate_id": "candidate-c-gideon-conditions-klei",
+  "provider": "in-session native Codex/PAI orchestrator",
+  "model_context": "current desktop thread model; no external provider receipt because external Temperance batch failed gateway/tool-schema in CR-01.01",
+  "source_span": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md:35-165",
+  "changed_lines": "147-159 only within review candidate span",
+  "canon_mutation": false,
+  "brief": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot/book_1/ch06/brief.md"
+}

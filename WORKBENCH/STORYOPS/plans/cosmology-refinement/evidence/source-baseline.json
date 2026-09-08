@@ -1,0 +1,898 @@
+{
+  "generated_at": "2026-09-08T12:34:15.159659+00:00",
+  "worktree": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan",
+  "branch": "codex/cosmology-storyops-plan",
+  "head": "d41090862e5bc3dcff22927998b7b4e6b77ca19d",
+  "origin_main": "d41090862e5bc3dcff22927998b7b4e6b77ca19d",
+  "baseline_planning_commit": "d41090862e5bc3dcff22927998b7b4e6b77ca19d",
+  "main_drift_from_planning_baseline": false,
+  "dirty_state": [
+    " M WORKBENCH/STORYOPS/gating_contract.py",
+    " M WORKBENCH/STORYOPS/scripts/autoresearch_loop.py",
+    "?? WORKBENCH/STORYOPS/plans/",
+    "?? WORKBENCH/STORYOPS/scripts/test_cosmology_cr00.py"
+  ],
+  "chapters": [
+    {
+      "path": "CHAPTERS/book_1/Chapter-01-The-Choroid-Plexus.md",
+      "book": "book_1",
+      "sha256": "76523ef71b92a247274a1a8b8b9291b1c8f1f8f0c6d5199ad59dc276878ac9e4",
+      "bytes": 52403
+    },
+    {
+      "path": "CHAPTERS/book_1/Chapter-02-Signal-Transduction.md",
+      "book": "book_1",
+      "sha256": "d54eac6bda9735560ee01b2e04be91618cc598023a8d94257eea1496f7596140",
+      "bytes": 25184
+    },
+    {
+      "path": "CHAPTERS/book_1/Chapter-03-The-Blood-Brain-Barrier.md",
+      "book": "book_1",
+      "sha256": "dd68425fc609b045c066a0aebb3243d2aa9900eceb1d9a6619da13f4466f8d8c",
+      "bytes": 48554
+    },
+    {
+      "path": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+      "book": "book_1",
+      "sha256": "4c2b17da2042bafbcc6f1d654f2b551ccffbc6941537a5688f125a3cc36e7e12",
+      "bytes": 46713
+    },
+    {
+      "path": "CHAPTERS/book_1/Chapter-05-The-Endocrine-Dogma.md",
+      "book": "book_1",
+      "sha256": "0379366a8f95dbaa29f903c24861cc60c06e234335814338fa7b5d27d6754c86",
+      "bytes": 49038
+    },
+    {
+      "path": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+      "book": "book_1",
+      "sha256": "a26ba8ca6feba9598ba7947d24991de91c51a34653a36ff25244125c04daa647",
+      "bytes": 18750
+    },
+    {
+      "path": "CHAPTERS/book_1/Chapter-07-The-Breathfield-Weaver.md",
+      "book": "book_1",
+      "sha256": "b29aeb7d9b6d9ca12378d705feae0423fe67815ef04b4c4ae92d09722f5e6fb9",
+      "bytes": 65842
+    },
+    {
+      "path": "CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md",
+      "book": "book_1",
+      "sha256": "42970b3a4f3ea5ad57741d8105f30d4c097e6a97569039dd32a52a13327dfff6",
+      "bytes": 26526
+    },
+    {
+      "path": "CHAPTERS/book_2/Chapter-09-The-Sigil-Smith.md",
+      "book": "book_2",
+      "sha256": "baff96f0f63b6d6186798068123be1f0dd019b98e12457a454af554002bebc18",
+      "bytes": 85327
+    },
+    {
+      "path": "CHAPTERS/book_2/Chapter-10-The-Debug-Protocol.md",
+      "book": "book_2",
+      "sha256": "09144286845907c6faf2d0c843a85518dc1aede84bd937487edb14067c9aa6ec",
+      "bytes": 105200
+    },
+    {
+      "path": "CHAPTERS/book_2/Chapter-11-The-Avatar-Mutation.md",
+      "book": "book_2",
+      "sha256": "ad27c171dfa35b9154fc41d780612b2b319ad5e8e3f60ff99ea79b8579eb139f",
+      "bytes": 78503
+    },
+    {
+      "path": "CHAPTERS/book_2/Chapter-12-The-Anamnesis-Engine.md",
+      "book": "book_2",
+      "sha256": "d08544cd347fa20576bc92f1b74ad143279ada73b8ac882f41b12440cb7732b4",
+      "bytes": 47106
+    },
+    {
+      "path": "CHAPTERS/book_2/Chapter-13-The-Myocardial-Chorus.md",
+      "book": "book_2",
+      "sha256": "96032d04d14cfd12829876b54c6ab11a38526df9864134f104c7d9b460ab9c60",
+      "bytes": 95464
+    },
+    {
+      "path": "CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+      "book": "book_2",
+      "sha256": "ff0e3078a226abb0bdb0dd42dbd529c7e5fbd5030f4f4bf64d0e61b0aa7fd022",
+      "bytes": 12812
+    },
+    {
+      "path": "CHAPTERS/book_2/Chapter-15-The-Witness-Integration.md",
+      "book": "book_2",
+      "sha256": "1df34bbf6e84f0c2f86b5c27d100808d08edd471d7d1ddb068d8b693c19d2683",
+      "bytes": 18274
+    },
+    {
+      "path": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+      "book": "book_3",
+      "sha256": "1d67ce00f71af8ef8a791d7f2b117a41e762d44469f43fed061b743e9b4654b3",
+      "bytes": 36865
+    },
+    {
+      "path": "CHAPTERS/book_3/Chapter-17-The-Gardener.md",
+      "book": "book_3",
+      "sha256": "04ad09322b98f981f20aa461129ff53a1e491813c15eeb1c40bc2095f2be37ff",
+      "bytes": 66974
+    },
+    {
+      "path": "CHAPTERS/book_3/Chapter-18-The-Synthesis-Protocol.md",
+      "book": "book_3",
+      "sha256": "8a1ab027fc0b9b38fefb1a6e858a689e5bfd4f05f6249d40548a86b3bd1fdc49",
+      "bytes": 20619
+    },
+    {
+      "path": "CHAPTERS/book_3/Chapter-19-The-Three-Point-Problem.md",
+      "book": "book_3",
+      "sha256": "3d3ce00e8e720c79c7205b25e2e86c01e1b0b34b310cb6fa334ebe5d7c1f2908",
+      "bytes": 47220
+    },
+    {
+      "path": "CHAPTERS/book_3/Chapter-20-The-Convergence-Point.md",
+      "book": "book_3",
+      "sha256": "b484c5d946e48794d57b6f8d065e0478c4938ebcc0c35b4665130bfed2399b28",
+      "bytes": 49754
+    },
+    {
+      "path": "CHAPTERS/book_3/Chapter-21-The-Test-Fire.md",
+      "book": "book_3",
+      "sha256": "95f0c76e386a9dabae86cff5f6eab0763d9cc80f3e69e4b1c9a7ba9ca42840bc",
+      "bytes": 59020
+    },
+    {
+      "path": "CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+      "book": "book_3",
+      "sha256": "0567f54be361cd24748afd8b801978dc850009c1b691859e5ad67325bc71dd47",
+      "bytes": 57838
+    },
+    {
+      "path": "CHAPTERS/book_3/Chapter-23-The-Flaw-in-the-Code.md",
+      "book": "book_3",
+      "sha256": "0e77bf334b5ce48322a6fca62e830d96dda10eafb1bcf1252c3abe7de320fa67",
+      "bytes": 40745
+    },
+    {
+      "path": "CHAPTERS/book_3/Chapter-24-The-Final-Procedure.md",
+      "book": "book_3",
+      "sha256": "33ee35b604b18f34338c34f6cdd1423a06523eb2cac499dd6c055b9e9d33002e",
+      "bytes": 52570
+    },
+    {
+      "path": "CHAPTERS/book_3/Chapter-25-The-Void-of-Pure-Potential.md",
+      "book": "book_3",
+      "sha256": "b9ba1d8ec1c4d1f4c9ad7b5623b016caad94e84da411eeacd54b088537d80416",
+      "bytes": 56602
+    },
+    {
+      "path": "CHAPTERS/book_3/Chapter-26-The-Architecture-of-New-Reality.md",
+      "book": "book_3",
+      "sha256": "44608173de489d2e44b342648480007d8db4362de4f8e1f3569ededf148319c7",
+      "bytes": 22944
+    },
+    {
+      "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+      "book": "book_3",
+      "sha256": "cf247751d5673c0a699a1cfb2f15faa7bd44cd956ce1cf618038de064a4b2c58",
+      "bytes": 30085
+    }
+  ],
+  "compiled": [
+    {
+      "path": "COMPILED/Book_1_Anamnesis_Engine.md",
+      "sha256": "ccda50e469a8ee2e439c5323250fb3cd0ecd6fd3e23146f2c4c33d2b2f547701",
+      "bytes": 724269
+    },
+    {
+      "path": "COMPILED/Book_2_Myocardial_Chorus.md",
+      "sha256": "528f78a7b72e7e14d6ec3dd835d3276d16fc5fc4fdfabf36f585ca1ef37bcc58",
+      "bytes": 630700
+    },
+    {
+      "path": "COMPILED/Book_3_The_Ripening.md",
+      "sha256": "5ac8283b37b9989af49525f77943fcb7769fa37318b3b9842c3e0b25e70b8af3",
+      "bytes": 773329
+    },
+    {
+      "path": "COMPILED/Somatic_Canticles_Trilogy_Omnibus.md",
+      "sha256": "f34294a41d28daa98e86da7d4908267362188eef08fc431e4e2bd45c636c37b1",
+      "bytes": 2128360
+    }
+  ],
+  "critique_inputs": [
+    {
+      "path": "WORKBENCH/STORYOPS/plans/cosmology-refinement/inputs/CHAPTER-PLAN.md",
+      "sha256": "5509200eab3f06fee06b6d1d3295aac545f746ab356bec25e0889df3b3942977",
+      "bytes": 15353
+    },
+    {
+      "path": "WORKBENCH/STORYOPS/plans/cosmology-refinement/inputs/CRITIQUE.md",
+      "sha256": "5d12638fb139b26975d779647f6b04146d56950d178fa6736c020149453079e0",
+      "bytes": 28333
+    },
+    {
+      "path": "WORKBENCH/STORYOPS/plans/cosmology-refinement/inputs/ECOSYSTEM-PLAN.md",
+      "sha256": "6f679b3fa995e0c507cbaf705dea21108a8268d0b02e8ae7fdc90c4c583b604e",
+      "bytes": 15199
+    },
+    {
+      "path": "WORKBENCH/STORYOPS/plans/cosmology-refinement/inputs/REVIEW-RECEIPT.md",
+      "sha256": "ff10081705c9c5f52a2b93cdad2e6644105effee60215158a8fbd4b8ddafe47b",
+      "bytes": 4923
+    }
+  ],
+  "writer_skill": {
+    "path": "/Volumes/madara/2026/twc-vault/.agents/skills/noesis-writer-skill/SKILL.md",
+    "exists": true,
+    "sha256": "7de6ee3d7502a7fa855487c7c0fbaccd885a833941ef5360033e5536e3757a4f",
+    "bytes": 17622
+  },
+  "brand_reference_root": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph",
+  "brand_reference_files": [
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/00-niche-validation.md",
+      "sha256": "62a28a70f9c990dc0fef281c3d464ce296ea7f231badadbedeafd961c0a858b6",
+      "bytes": 11197
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/01-buyer-persona.md",
+      "sha256": "3ab0e9385a5ef58fa4aec9cf7b3499edaded154943b85c24ff03c82b181855df",
+      "bytes": 12453
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/02-product-positioning.md",
+      "sha256": "44542f2485f484d34000ff3b8b0545bdde281c5ff13c7efab5ca356d995c7856",
+      "bytes": 7722
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/03-voice-and-tone.md",
+      "sha256": "df68739d2d5e44385818baf2c9b9572c821141a888ed9eee618ffa7d6b0d8e28",
+      "bytes": 22558
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/04-detailed-product-description.md",
+      "sha256": "53c63f1ffda4019bdc63bdaf6ea8c31c14ccacdb6b4bdc6b8fde74e16c709c72",
+      "bytes": 16171
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/05-messaging-direction-summary.md",
+      "sha256": "71fabf76a9ece95e1cdd1552e76c2403a4c7927e3a1b6a3c3a97a94e672d6527",
+      "bytes": 8531
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/06-visual-identity.md",
+      "sha256": "7f4aa5139af07502533371ba29a4f3d994ee3895afc6cfcc9c24779bf0cd5e4b",
+      "bytes": 24680
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/07-competitor-analysis.md",
+      "sha256": "d7534027eed985b2dfa85c3251c8d05416ae96a62f1183a54ff7a8d6395dc308",
+      "bytes": 15572
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/08-press-release.md",
+      "sha256": "d65e48bb86c5cc644a1411f4a4fb016e1a4f58455e60e2a35e55d2afae9bcd98",
+      "bytes": 7776
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/09-launch-email-sequence.md",
+      "sha256": "363264564bab5f8ad680a057e99f8cde723df3c3984866584d31fd031d8b5aab",
+      "bytes": 15776
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/10-welcome-email-sequence.md",
+      "sha256": "4b0ba8c45f90d017b207ebf28f7113966d497752beb3689a60093b9e569bf604",
+      "bytes": 17350
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/11-social-content-calendar.md",
+      "sha256": "157e6451636769d8e114bbba711e6a33041db2067efd94c0d9a3a990906960fa",
+      "bytes": 16700
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/13-short-form-hooks.md",
+      "sha256": "21e5185537d474314e9ec075dfcdec18a684cb85c39625dd19de68915312e045",
+      "bytes": 13158
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/14-visual-prompt-cookbook.md",
+      "sha256": "74a9790e3c6e6b63b50a347c5362d08fbb65884b47d0e124dd905f54ac17eed8",
+      "bytes": 33717
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/14v2-brand-context.md",
+      "sha256": "ce77a5d5ee2dc353dd7403635bcf51414873dca2942c86cb7c2e5e70ea8c44a7",
+      "bytes": 12745
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/15-website-prompt-cookbook.md",
+      "sha256": "e1df45933d26bce32610eed054f7ada4a77ad5859d792db4db956e679c0ae91a",
+      "bytes": 31527
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/brand-config.yaml",
+      "sha256": "cbe7067eaafa448764d629c5391a3620c0125e10ea282c4f340eefcebb0d7450",
+      "bytes": 21161
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/community-seeding-guide.md",
+      "sha256": "132aeb7a9feaf6b09234016f76a7f072815acc23503f0bca139a6e246bb788e3",
+      "bytes": 17156
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/deliverables/16-engines-data.csv",
+      "sha256": "961b71810af3814ad587ff12f9556e3fc523785026475b78ce8ceba8a2697b8a",
+      "bytes": 4051
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/deliverables/brand-flashcards.json",
+      "sha256": "117b99e2553fb1ff0d364b6044e9353ca387b9602309e7f5f50b9739b05ed530",
+      "bytes": 11974
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/deliverables/brand-flashcards.md",
+      "sha256": "05e7f18a119b52a3e74dca102d06356f46fcb64befb8e3291c559daead7da394",
+      "bytes": 11012
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/deliverables/brand-infographic.png",
+      "sha256": "838cff9294e257232f0d8d17b1c86f67f5a02febded6c53c760dd55d9a83ea78",
+      "bytes": 5212128
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/deliverables/brand-mind-map.json",
+      "sha256": "94019f4e77992e35a3b7e11003f1b4857bfdb3ea6b054421a0d86de27331ddac",
+      "bytes": 3891
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/deliverables/brand-quiz.json",
+      "sha256": "087a4aa527d11579768cd14c857a6400190c6d2ce1a1dfdb0c3cdc7b8113e6f0",
+      "bytes": 16054
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/deliverables/brand-quiz.md",
+      "sha256": "fcef2c611276cc0c8af8ed4150654bcfab8aeac163e3bb1a0d8e90a3dc87e50c",
+      "bytes": 5414
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/deliverables/briefing-doc.md",
+      "sha256": "f67609dfd565a75c938520929cb04e53e46f0919afba6e2643f1e568f3f5c34c",
+      "bytes": 8921
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/deliverables/faq.md",
+      "sha256": "6177a041d7ee4350fb135403d83faa9345067e0e00f6712dafc3d7b40c5a4e47",
+      "bytes": 10269
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/deliverables/study-guide.md",
+      "sha256": "c31174ae622647173a3de6cf1e6faba2534042cd840a7ed63adadc8f2687fb2f",
+      "bytes": 10667
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/deliverables/timeline.md",
+      "sha256": "51a76d83c4766463bfca68550617aed6588e4280f13464e36f87b1fe106b1b39",
+      "bytes": 11486
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/donation-page-copy.md",
+      "sha256": "14cbac09cde3bdddd2d305f62220c577c4dac241203c250b87caea5d53f4aaf2",
+      "bytes": 13405
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/9A-posters-v2/9A-01-panchanga-poster-v2.png",
+      "sha256": "f600b0f3282149af59a693ad76c1a277fe54b311d816b548dfdb68e980e1a8d5",
+      "bytes": 1593564
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/9A-posters-v2/9A-02-vimshottari-dasha-poster-v2.png",
+      "sha256": "36cf574a230179492f78784ff26cdbebd9604e615ae95ad183afde8f0a64426e",
+      "bytes": 1805788
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/9A-posters-v2/9A-03-transits-poster-v2.png",
+      "sha256": "16cdbe78da83b29dddff79607c574c9e16ecf23602317862deffb790d96e9a8b",
+      "bytes": 1714684
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/9A-posters-v2/9A-04-human-design-poster-v2.png",
+      "sha256": "34d2eafac146bf7435ad61e64fc8010991716b58ef6e58ff834740d001fa1f83",
+      "bytes": 1837760
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/9A-posters-v2/9A-05-gene-keys-poster-v2.png",
+      "sha256": "1b6d784f606da803b2657e4a92c6999dba7369e1b2fa91e5104d4f4b2944d249",
+      "bytes": 1696617
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/9A-posters-v2/9A-06-biofield-poster-v2.png",
+      "sha256": "16d21a059b6656f07145eaadbcf1607b9b494d9331c0269b9e20c48d371dc86c",
+      "bytes": 1788176
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/9A-posters-v2/9A-07-biorhythm-poster-v2.png",
+      "sha256": "d6c5037237637dc34967454b1fec6b44eef37b998990ac7cff4379e75388c127",
+      "bytes": 1667205
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/9A-posters-v2/9A-08-vedic-clock-poster-v2.png",
+      "sha256": "8e1ba17d58cb11e8f9ad59994825429d113412251620a90184880cfe971aa641",
+      "bytes": 1928534
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/9A-posters-v2/9A-09-nadabrahman-poster-v2.png",
+      "sha256": "05ba46216442b96e3f49357e12c9cc0c1a8dba39fd171611a5d82a0ca4161ac8",
+      "bytes": 1981184
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/9A-posters-v2/9A-10-face-reading-poster-v2.png",
+      "sha256": "af2d891a6bd8b48d079205a41cf1b03c1a235b17e7adf1e72490fc4f0fe1d474",
+      "bytes": 1726409
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/9A-posters-v2/9A-11-tarot-poster-v2.png",
+      "sha256": "93eb3a900612421cca231cc9852bfdebd2bbee5b771351297bd68919ee610330",
+      "bytes": 2287196
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/9A-posters-v2/9A-12-i-ching-poster-v2.png",
+      "sha256": "55d95576008b057f2a22da98377bd1789c42b4ab2ea853cbcd548b650d197ca1",
+      "bytes": 1613442
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/9A-posters-v2/9A-13-enneagram-poster-v2.png",
+      "sha256": "61d15feaf64772cebc57fe56a6dd369a6cbdc5c56c2a262de83470b7d26afaa3",
+      "bytes": 1628744
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/9A-posters-v2/9A-14-numerology-poster-v2.png",
+      "sha256": "86e96c0e65f7a4587cac83f7def85f122205e981ce14003c05bbbe69dfeebd63",
+      "bytes": 1558557
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/9A-posters-v2/9A-15-sacred-geometry-poster-v2.png",
+      "sha256": "cf7f493075f4a44f4b0cf272b3dd5e752b4b9b0b40480244be4593542c174c88",
+      "bytes": 1995838
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/9A-posters-v2/9A-16-sigil-forge-poster-v2.png",
+      "sha256": "f51d71dab235ba02283d79725cf78af8f7ca7b9ba7627083dbe7a2bfa2d65650",
+      "bytes": 1791880
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/engine-cards/EC-01-vimshottari-dasha-card-v1.png",
+      "sha256": "a8bd942e277abca80c0fbba37eb9eb3ceb998b5ffec7b03ced702ed1da3b92d3",
+      "bytes": 5899152
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/engine-cards/EC-02-nakshatra-card-v1.png",
+      "sha256": "dccf83a3615752ed3a4356649a4d88ab532bb3e71d56bd1d3ce71c79f2240b8f",
+      "bytes": 5985391
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/engine-cards/EC-03-chakra-kosha-card-v1.png",
+      "sha256": "b332478ea8fd57b0895a609362ca8f119e11218ad05261b03e4446e0cf4c6e17",
+      "bytes": 7038507
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/engine-cards/EC-04-human-design-card-v1.png",
+      "sha256": "469b06d537bb8d8f0c026be039d330f54d5c220ccabacfc58b10a111084d59a2",
+      "bytes": 6379809
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/engine-cards/EC-05-gene-keys-card-v1.png",
+      "sha256": "dea91a9b49bb34c2969df08da7b79a6bece30ebc2a9362eebbeddce35a32e625",
+      "bytes": 6400017
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/engine-cards/EC-06-astrocartography-card-v1.png",
+      "sha256": "0b0ff71de35a2edb22c07a7a3d5cb8d097ad3726f2dbf58b2fcce34a8dfdd930",
+      "bytes": 6381055
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/engine-cards/EC-07-enneagram-card-v1.png",
+      "sha256": "7a47b16c72a408f21ffd59cc2a89bd89043184aa49951b1c766e00f33478b842",
+      "bytes": 6627178
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/engine-cards/EC-08-numerology-card-v1.png",
+      "sha256": "18756454c2182657070c4d6d85a610cc2605f2e48a0763f9a5231a3bd51294f5",
+      "bytes": 6211943
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/engine-cards/EC-09-tarot-card-v1.png",
+      "sha256": "99b74a45a8730bb264395afda1dbfee7989e2b86cb770a98aae47bda69c118b9",
+      "bytes": 6697476
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/engine-cards/EC-10-tcm-organ-clock-card-v1.png",
+      "sha256": "16b876e346d12528d75927e9dcc38b37a0064dff3461a80e7a02ab8f0a90c1df",
+      "bytes": 6658076
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/engine-cards/EC-11-biorhythm-card-v1.png",
+      "sha256": "b24b64b07affc9866459a7806ae98547e29b1b761124976e157547ac9876a58b",
+      "bytes": 4723360
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/engine-cards/EC-12-hrv-card-v1.png",
+      "sha256": "889f58eac9fa260601527a0bd434dba42a6ad16c7bff8bfffa3a084d7a581c07",
+      "bytes": 5932970
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/engine-cards/EC-13-biofield-and-raga-card-v1.png",
+      "sha256": "c80416a2bfe7652cd35b2bbab808a5919a05c44590ea08e95c7e56304edd9212",
+      "bytes": 6242951
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/engine-cards/EC-14-birth-blueprint-card-v1.png",
+      "sha256": "df80ae1fd6d3ac1109d6935956e84b88d49620ff78d1b3b15be7337c340ac513",
+      "bytes": 5719556
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/engine-cards/EC-15-daily-practice-card-v1.png",
+      "sha256": "d143f3907630248307b73e972383d62cc6bff3724f55c09985389c34c1bc3df3",
+      "bytes": 6545904
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/engine-cards/EC-16-decision-support-card-v1.png",
+      "sha256": "1a0bf574d3f374f7415377fd29e30622228e62a7ca5891c168686394ebb8c381",
+      "bytes": 5406122
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/.claude/settings.local.json",
+      "sha256": "da709f107579325e315b1c26393aaf7541db5f4f38f0bff358b02835f99bc336",
+      "bytes": 500
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/10A-the-morning-ritual-nanobananapro-v1.png",
+      "sha256": "93bde4cefa8bf8b5c9877d26aa86807c14a1692194c00e47439a237720cf7a4b",
+      "bytes": 6539573
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/10A-the-morning-ritual-nanobananapro-v2.png",
+      "sha256": "9fb690dcded58a29e529d7e3f2a10a0250413c8d24024a294f22a1f903f67e69",
+      "bytes": 6427974
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/10B-the-evening-integration-nanobananapro-v1.png",
+      "sha256": "934eb7351eb24666175cc9d5a77ea0ee4e66666bf30df3a7a1fc1f708271641f",
+      "bytes": 6509979
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/10B-the-evening-integration-nanobananapro-v2.png",
+      "sha256": "dcab85a5c1fd5dcc714e1d3589f3419cdc9ca6cdc78dcc493709efa9d31d50fa",
+      "bytes": 6246616
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/10C-the-initiation-nanobananapro-v1.png",
+      "sha256": "ce293f9f29f527243e4c827becefe55cb27eb2b48487ee1bf0f2c69b7c02153a",
+      "bytes": 6523439
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/10C-the-initiation-nanobananapro-v2.png",
+      "sha256": "fb638f19cac27a95f0a345b971ca5319f7d111d1cab3ebc8d21a4cb5a70a75cd",
+      "bytes": 6544920
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/2A-brand-kit-bento-nanobananapro-v1.png",
+      "sha256": "34d78d3c734d2f3dc63663dfbd649871328459a5c8d4efca39222873225ad2bb",
+      "bytes": 6311076
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/2A-brand-kit-bento-nanobananapro-v2.png",
+      "sha256": "b8a2a2b3f407a31f1d1f19b78c60b10684544921accc5899cc85cc281539e682",
+      "bytes": 6310809
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/2B-copper-seal-flux2pro-v1.png",
+      "sha256": "363776f6fee480e1c7618d4f6a47b8fc569e1e5d2b24359d05b5e354f8d2c207",
+      "bytes": 2133116
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/2B-copper-seal-flux2pro-v2.png",
+      "sha256": "e3ed912e841f281b1573d89121dc1289bf5dcbc5b3a8982c16236238791a5767",
+      "bytes": 2101349
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/2C-stained-glass-logo-nanobananapro-v1.png",
+      "sha256": "118494889edd1bc8d2ae3a0ea9182e761cb0c1ff81f94985c27516b05ffd46da",
+      "bytes": 5989773
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/2C-stained-glass-logo-nanobananapro-v2.png",
+      "sha256": "335c72f6a1f9ca89e841c60ba7409dc0326fb77029e04b9aedcdd9076e19ef57",
+      "bytes": 6451600
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/3A-inquiry-kit-nanobananapro-v1.png",
+      "sha256": "bfea76e0d43913399d5bc7bff29471e52ec1f9a3f461bc08d097131dbad3333f",
+      "bytes": 7111511
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/3A-inquiry-kit-nanobananapro-v2.png",
+      "sha256": "b115b0d7e23991a9375a2e0b3347ec71e2cf87c174b708fd8922c5871e215717",
+      "bytes": 6164161
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/3B-somatic-codex-nanobananapro-v1.png",
+      "sha256": "1820341317786afa2f938ca5503d90100a0fdc4e6c6d3405972582dee69278d9",
+      "bytes": 6455099
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/3B-somatic-codex-nanobananapro-v2.png",
+      "sha256": "89a46835ca846de3b6569875a3b5b111cb5e358fe1699f03a946c6d36d7f7cb1",
+      "bytes": 7027880
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/3C-essence-vial-nanobananapro-v1.png",
+      "sha256": "5431633b14be067c2a2a93bcb6fd0568543a0adb638f4e985ed62fabc4ec1a6e",
+      "bytes": 4938426
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/3C-essence-vial-nanobananapro-v2.png",
+      "sha256": "99bdfbe59d3625aef8a86c3963650ae0627c4c426008f59a1eba7549248a329e",
+      "bytes": 5715434
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/4A-inquiry-vial-catalog-layout-nanobananapro-v1.png",
+      "sha256": "b713ebe2bfa04f49acea517985880cf0d135bdbe7ce2920b087beda8e246fe3f",
+      "bytes": 6365968
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/4A-inquiry-vial-catalog-layout-nanobananapro-v2.png",
+      "sha256": "aa8171b306a7b6fe8143bcd694abfa9527e1a2f8b6298f1d50773ce00fccfdbc",
+      "bytes": 6628138
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/4B-bio-digital-object-collection-flat-lay-nanobananapro-v1.png",
+      "sha256": "5b801b35f4a47eab227b7eddff3e25a98fb39570862621543fb2b94ad29916a0",
+      "bytes": 7126992
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/4B-bio-digital-object-collection-flat-lay-nanobananapro-v2.png",
+      "sha256": "5148480d8fc2f8e18fc0ed12247b395bd85724faf3cf417f77176010b9f6a67f",
+      "bytes": 7663586
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5A-heritage-engraving-recraft-v1.png",
+      "sha256": "ca07f3acc307b89e94c81639abc2c5338b3bac224c052dcb21cea0b8ae8f8eff",
+      "bytes": 537469
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5A-heritage-engraving-recraft-v1.webp",
+      "sha256": "5831cb113f342c0b6c067a7c5f1cc9e441caaff28921435156953bbe8f5a5f29",
+      "bytes": 179590
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5A-heritage-engraving-recraft-v2.png",
+      "sha256": "092354b21201eb1609523c9b38669d05bbe883909c4b8bacf96bf0a919bc142b",
+      "bytes": 649790
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5A-heritage-engraving-recraft-v2.webp",
+      "sha256": "2c656d59c027bed1c5289527150ef2017a46da4591cf8800cc77e0e201e286d3",
+      "bytes": 195028
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5B-campaign-visual-identity-grid-nanobananapro-v1.png",
+      "sha256": "96765b4adedbb5f240e4704f6f8eb0778f5df12c101d44ba8e19faa1ed84cf8a",
+      "bytes": 7415018
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5B-campaign-visual-identity-grid-nanobananapro-v2.png",
+      "sha256": "e67f41a07d04906734b1a357687a82d209b6e1ab3cd359275d7d4f6678eba30c",
+      "bytes": 7601749
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5C-art-nouveau-plumber-recraft-v1.png",
+      "sha256": "b85804abaf73be759a15321427c291b7ab3a58cc8f80a339da5d7272f9d32fb2",
+      "bytes": 1844960
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5C-art-nouveau-plumber-recraft-v1.webp",
+      "sha256": "816da18f2274db9a776b8397d7d05f06d3566f99e71b13075c00ba5242b94953",
+      "bytes": 454468
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5C-art-nouveau-plumber-recraft-v2.png",
+      "sha256": "9852b581154f9f1b369e9df0dbf73707e8db50a47a7eb92e15f4f8b7d915a8be",
+      "bytes": 1719461
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5C-art-nouveau-plumber-recraft-v2.webp",
+      "sha256": "334086a9989264cb94e8847e7bc593bda58ae1db03abff025e5c5e40a07e82f3",
+      "bytes": 399750
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5D-1-vedic-engine-icons-recraft-v1.png",
+      "sha256": "ac76a41fdd69b7b4793bde82aaa7b3f52003f9d65ff4eebf7a96cd7b6c9b0f38",
+      "bytes": 367048
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5D-1-vedic-engine-icons-recraft-v1.svg",
+      "sha256": "23f4f8c7c62d2b3a5bad28944d9845eca6437abb67e86299ea1328ea2c44f269",
+      "bytes": 195027
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5D-1-vedic-engine-icons-recraft-v2.png",
+      "sha256": "39cd9aea4985aea467f92e0c47cd0021c420c2932d891dc71f04cbaad94fafc2",
+      "bytes": 285697
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5D-1-vedic-engine-icons-recraft-v2.svg",
+      "sha256": "e634a1a20a036344451b0409ec602f773568b4ed2e54d3fb4b21d89175f68fb5",
+      "bytes": 120920
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5D-2-western-engine-icons-recraft-v1.png",
+      "sha256": "31217c2c3e5d941b75e807961183bd9840d364348366d02d808b90f96a5f209a",
+      "bytes": 269555
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5D-2-western-engine-icons-recraft-v1.svg",
+      "sha256": "97f9213ba1a7a52470fa230eeba5e10a1ca9d19b1cf53351bada04d257b64efd",
+      "bytes": 76492
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5D-2-western-engine-icons-recraft-v2.png",
+      "sha256": "7e3db6d9007c9a61dfc1525ecfd58e711413d770009eb60977a616babdc1a7a4",
+      "bytes": 396827
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5D-2-western-engine-icons-recraft-v2.svg",
+      "sha256": "8e5c930af8ecc63ebe785f28ad9133b46aa06de97310371f4bb328a494f34e3a",
+      "bytes": 243674
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5D-3-bridge-engine-icons-recraft-v1.png",
+      "sha256": "a8daac952a4b979507e8e58589e6107edba3d119f715b8e861b55169bf867648",
+      "bytes": 501239
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5D-3-bridge-engine-icons-recraft-v1.svg",
+      "sha256": "b15915f033ba600c78b0cd7616c86fbcc1d2404f6096db1ae1428e500eb5ff92",
+      "bytes": 211172
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5D-3-bridge-engine-icons-recraft-v2.png",
+      "sha256": "b8ba743c6648e1f5f81b70a75e5724c063c539d1b50123d47d6398fb0b12cfc8",
+      "bytes": 379331
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5D-3-bridge-engine-icons-recraft-v2.svg",
+      "sha256": "c7a3cf5e2e18a931353d9d16a4b3eb3770bdf039fd9a7812226be1b28274236c",
+      "bytes": 106176
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5D-4-biofield-engine-icons-recraft-v1.png",
+      "sha256": "2d77ec2dec9a9c4fbfa36f2bc2adaf37f497837de8b56fb72df97eb9d0e4398f",
+      "bytes": 348255
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5D-4-biofield-engine-icons-recraft-v1.svg",
+      "sha256": "4d18c15a4a5fa50d089a66c28b2ca40d8b2497ae25d7312753c5ca8ae1b970bb",
+      "bytes": 160762
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5D-4-biofield-engine-icons-recraft-v2.png",
+      "sha256": "bd342235d5058bf256f24a0ad161032182a46228ce36018c3cc7f9ce5a22e4c1",
+      "bytes": 508089
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/5D-4-biofield-engine-icons-recraft-v2.svg",
+      "sha256": "d031a7ab3c17a1eb8891c139b631f036b4173c439ec5341fc0939ee4716ec207",
+      "bytes": 193477
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/7A-cartographer-contact-sheet-nanobananapro-v1.png",
+      "sha256": "ea8d43ff63faa30ca4f3c1f0e0fc8b546a40d26dff34253c0769affc06a13492",
+      "bytes": 6278325
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/7A-cartographer-contact-sheet-nanobananapro-v2.png",
+      "sha256": "c9850482bb9c0dad1e6ffb56db157af67e74ecd13c9a9d96717813f389feff4f",
+      "bytes": 6864270
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/7A-the-cartographer-contact-sheet-nanobananapro-v1.png",
+      "sha256": "5d85058ef3534f7027be7d4120f28a31f5d4e007c2d9f0b304508cb3a4257e81",
+      "bytes": 6730228
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/7A-the-cartographer-contact-sheet-nanobananapro-v2.png",
+      "sha256": "1059af5f7791bd685e0f5e26316efe3f5b6bbdf051028f5580a02b10bb190dcf",
+      "bytes": 6729781
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/8A-seeker-inner-architecture-nanobananapro-v1.png",
+      "sha256": "df492e0f06db1b83fe66a3d2e8edd9d26d5766c4a0dfdc537e28438251a76e7e",
+      "bytes": 7555626
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/8A-seeker-inner-architecture-nanobananapro-v2.png",
+      "sha256": "d2fbe9aeea071979ca1563a1823c25206805ab2e028950bbc1bf8014d90c27f7",
+      "bytes": 7944572
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/8A-seeker-inner-architecture-nanobananapro-v3.png",
+      "sha256": "4457671541ab44ba4687be9b1a38b684ae252833fcbee8d9d17a661b9103ddc6",
+      "bytes": 7592470
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/9A-01-vimshottari-dasha-poster-v1.png",
+      "sha256": "9bf3f6de66f03a8b0ac725906319f6320cfc354ad7d7bb1cad0adf9e852cc34d",
+      "bytes": 6372522
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/9A-02-nakshatra-engine-poster-v1.png",
+      "sha256": "5aff3607e469873b9f2598d7809bb7ffb75d1b2c9d6bdcd6e6b986813284da10",
+      "bytes": 6755383
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/9A-03-chakra-kosha-mapping-poster-v1.png",
+      "sha256": "1933b9d88da55a089606f3c9b2685e69d75d3de370e8282b825b0a64b24eeb97",
+      "bytes": 6892281
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/9A-04-human-design-poster-v1.png",
+      "sha256": "fe990316e656ceb2585eeabb63447802d6448bd4659d4b216c14827600a8c21b",
+      "bytes": 6547650
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/9A-05-gene-keys-poster-v1.png",
+      "sha256": "39e52cf353b11b747b7dcb2e156b5de90dd8ad3c9bace7de72c768ed060c9eae",
+      "bytes": 6025770
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/9A-06-astrocartography-poster-v1.png",
+      "sha256": "61ebc7a10fe3c03b60f7ad06d703b8ba2ce8d473b7f040ce7a723425faaa52e5",
+      "bytes": 6212817
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/9A-07-enneagram-poster-v1.png",
+      "sha256": "f63235374502bbc3b88bd2c5877b097376aa84d45c093a39d77dc6ef5138df51",
+      "bytes": 6291021
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/legacy-v2-imports/9A-08-numerology-poster-v1.png",
+      "sha256": "6b23b9e4f182be0870cac5ae86abdb9c29f79b868ba07058d8b6859eb8b76c67",
+      "bytes": 1671168
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/logo-color-border.png",
+      "sha256": "6b9f980885adc1fe228c19517d9aae4ccba6083248605fc3d4537a437678a3ef",
+      "bytes": 29382
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/logo-color.png",
+      "sha256": "d12e9461ec9a7a2f672d764eb078c3929d967e13f11bd607cc1abe54f29991d0",
+      "bytes": 28509
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/logo-white-thin.png",
+      "sha256": "356c4a325230fd7f71094647661721a87412fe026454555db9ad90ce9f35c02d",
+      "bytes": 17288
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/logo-white.png",
+      "sha256": "50ed3dd87221e378cb358c3c6f43b07a1e0badf1824699816e9adaa842a3cbc5",
+      "bytes": 10034
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/product.md",
+      "sha256": "13a1015e9d94af330ce3e82ddfbfb43c40e44d55758ab6f88ee3d00e76ff7cb7",
+      "bytes": 28261
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/brand-docs-final/tryambakam-noesis-aleph/generated-v3/tarot-blueprint.md",
+      "sha256": "6d8d5345b84f48c5c91b9486392462166fe55518a8bc0af1fa156683e814125e",
+      "bytes": 21071
+    }
+  ],
+  "labels": {
+    "CHAPTERS": "canon",
+    "COMPILED": "export",
+    "WORKBENCH/STORYOPS/plans/cosmology-refinement/inputs": "critique_snapshot",
+    "brand-docs-final/tryambakam-noesis-aleph": "reference"
+  }
+}

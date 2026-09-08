@@ -1,0 +1,40 @@
+{
+  "schema": "storyops.book1.ch05-ch08.wave.v1",
+  "phase": "CR-04.02",
+  "status": "review-only",
+  "chapters": [
+    {
+      "id": "ch05",
+      "source": "CHAPTERS/book_1/Chapter-05-The-Endocrine-Dogma.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1/book_1/ch05-ch08/ch05/candidate.md",
+      "sha256": "0379366a8f95dbaa29f903c24861cc60c06e234335814338fa7b5d27d6754c86",
+      "changed": false,
+      "rationale": "Protected baseline retained; CR-01 found this chapter already carries required function."
+    },
+    {
+      "id": "ch06",
+      "source": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1/book_1/ch05-ch08/ch06/candidate.md",
+      "sha256": "9900f70ae07691e30894b97775010a7a189d9dbabd352d1f5a0d4a21fd04942f",
+      "changed": true,
+      "rationale": "Integrates CR-02 selected shard-custody candidate and adds one cleaner beat showing Corv waits for Gideon’s conditioned consent before Klei custody."
+    },
+    {
+      "id": "ch07",
+      "source": "CHAPTERS/book_1/Chapter-07-The-Breathfield-Weaver.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1/book_1/ch05-ch08/ch07/candidate.md",
+      "sha256": "b29aeb7d9b6d9ca12378d705feae0423fe67815ef04b4c4ae92d09722f5e6fb9",
+      "changed": false,
+      "rationale": "Protected baseline retained; CR-01 found this chapter already carries required function."
+    },
+    {
+      "id": "ch08",
+      "source": "CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1/book_1/ch05-ch08/ch08/candidate.md",
+      "sha256": "42970b3a4f3ea5ad57741d8105f30d4c097e6a97569039dd32a52a13327dfff6",
+      "changed": false,
+      "rationale": "Protected baseline retained; CR-01 found this chapter already carries required function."
+    }
+  ],
+  "canon_mutation": false
+}

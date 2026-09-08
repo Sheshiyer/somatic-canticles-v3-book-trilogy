@@ -1,0 +1,729 @@
+{
+  "schema": "storyops.cosmology-plan.v1",
+  "baseline": "d41090862e5bc3dcff22927998b7b4e6b77ca19d",
+  "planning_status": "executed_review_package_complete",
+  "execution_started": true,
+  "phases": [
+    {
+      "id": "CR-00",
+      "number": "00",
+      "title": "Source and StoryOps readiness",
+      "depends_on": [],
+      "goal": "Make the existing workflow safe and truthful for this revision campaign.",
+      "owner": "StoryOps maintainer + editorial lead",
+      "status": "complete",
+      "tasks": [
+        {
+          "id": "CR-00.01",
+          "title": "Freeze source authority",
+          "action": "Record current main, all chapter hashes, critique hashes, frozen chart input revision, writer version, current exported-book differences, and dirty state. Recheck main at execution time; identify changes since d410908 without absorbing them automatically.",
+          "outputs": "evidence/source-baseline.json; evidence/export-parity.json",
+          "verification": "27 chapter identities resolved; export differences enumerated; reference versus canon explicitly labeled.",
+          "status": "complete",
+          "depends_on": [],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr00-readiness"
+        },
+        {
+          "id": "CR-00.02",
+          "title": "Reconcile the gating contract",
+          "action": "Produce a narrow proposed contract change removing unconditional non_additive_or_compressing_change rejection and the requirement that candidates grow. Preserve scene-spine and source-lineage protection. Explicitly permit justified compression and selective engine terms when consistent with current accepted prose.",
+          "outputs": "runs/<run>/contract-change.patch; contract-rationale.md",
+          "verification": "Contract accepts a justified cut and rejects a cut that removes a consequential choice. Historical rules remain documented as superseded, not erased.",
+          "status": "complete",
+          "depends_on": [
+            "CR-00.01"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr00-readiness"
+        },
+        {
+          "id": "CR-00.03",
+          "title": "Verify runner semantics and run isolation",
+          "action": "Test actual help and mutation behavior. Either add isolated run IDs/output roots to the existing runner, or execute it only in a disposable git worktree with copied input; do not introduce another controller. Correct unsupported --dry-run documentation. Keep scanner candidate paths inside book_1/book_2/book_3 because register inference is path-sensitive.",
+          "outputs": "runs/<run>/tooling-receipt.json",
+          "verification": "Two runs of the same chapter retain distinct artifacts; no canonical input changes; actual cycle count recorded; explicit apply behavior tested on temporary copies.",
+          "status": "complete",
+          "depends_on": [
+            "CR-00.02"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr00-readiness"
+        },
+        {
+          "id": "CR-00.04",
+          "title": "Freeze the campaign rubric",
+          "action": "Combine the existing seven gates with the relational and compression tests in RUBRIC.md. Distinguish deterministic proxies from independent literary judgment. Review frozen baseline WARNs without blessing them globally.",
+          "outputs": "runs/<run>/rubric-baseline.md",
+          "verification": "Every gate has evidence and a reviewer; no word-count-only acceptance or generator self-grading. Contract and reviewer setup ready before any candidate wave.",
+          "status": "complete",
+          "depends_on": [
+            "CR-00.03"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr00-readiness"
+        }
+      ],
+      "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr00-readiness"
+    },
+    {
+      "id": "CR-01",
+      "number": "01",
+      "title": "Full scene inventory and canon reconciliation",
+      "depends_on": [
+        "CR-00"
+      ],
+      "goal": "Replace sampled assumptions with a full reading and explicit cosmological decisions.",
+      "owner": "Canon editor + continuity editor",
+      "status": "complete",
+      "tasks": [
+        {
+          "id": "CR-01.01",
+          "title": "Read all 27 chapters in full",
+          "action": "Build a scene-by-scene map with exact anchors, point of view, setting, time, object continuity, choice, cost, unresolved remainder, and voice. Start from the 27-row critique map but mark each observation confirmed, narrowed, or rejected.",
+          "outputs": "runs/<run>/scene-inventory.json; critique-reconciliation.md",
+          "verification": "Every chapter has a full-read receipt and all scenes accounted for; no sampled finding becomes a whole-chapter verdict without evidence.",
+          "status": "complete",
+          "depends_on": [
+            "CR-00"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory"
+        },
+        {
+          "id": "CR-01.02",
+          "title": "Reconcile the foundational meanings",
+          "action": "Prepare old/new passages for Lens 13, perfect coherence, View from Nowhere, post-ripening edges, internal reality rendering, Kha-Ba-La, sheaths, and destiny/choice. Treat all-person layered sheaths as a proposal, not a Selemene output or traditional equivalence.",
+          "outputs": "runs/<run>/canon-decisions.md",
+          "verification": "Each conflict has a proposed interpretation, affected passages, retained constraints, and author decision or explicit defer; deferred decisions fence dependent edits only.",
+          "status": "complete",
+          "depends_on": [
+            "CR-01.01"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/canon-decisions.md"
+        },
+        {
+          "id": "CR-01.03",
+          "title": "Trace time and objects",
+          "action": "Trace shard, obsidian seed, orphan routes, consent watermark, Mira/Verath lineage, and the six-week interval; separate similar artifacts rather than assume identity. Identify entry/exit and recurrence requirements before designing consequences.",
+          "outputs": "runs/<run>/continuity-ledger.json",
+          "verification": "Every pilot-related object has source-linked appearances; no invented date, identity merger, or unexplained disappearance.",
+          "status": "complete",
+          "depends_on": [
+            "CR-01.02"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/continuity-ledger.json"
+        },
+        {
+          "id": "CR-01.04",
+          "title": "Map all characters and relationships",
+          "action": "Create four character state histories, six pair histories, and a group history of coalition, decision rights, invisible labor, and received care. Record ordinary wants and pleasures as well as ethical dilemmas.",
+          "outputs": "runs/<run>/character-arcs.json; relationship-arcs.json",
+          "verification": "Each proposed gap checked against full scene evidence; cross-context recurrence distinguishes insight, changed action, habit, and inferred worldview.",
+          "status": "complete",
+          "depends_on": [
+            "CR-01.03"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/character-arcs.json; WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/relationship-arcs.json"
+        }
+      ],
+      "active_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory"
+    },
+    {
+      "id": "CR-02",
+      "number": "02",
+      "title": "Chapter 6 and 14 relational pilot",
+      "depends_on": [
+        "CR-01"
+      ],
+      "goal": "Prove the new editorial method in two existing scenes before scaling.",
+      "owner": "Prose writer + separate character/continuity critic",
+      "status": "complete",
+      "tasks": [
+        {
+          "id": "CR-02.01",
+          "title": "Freeze a bounded Chapter 6 brief",
+          "action": "Use the shared scanner and shard vote. Preserve humor, plot spine, and object history. Define the single changed variable as who can assign the burden of carrying the shard. Give each person a wanted outcome and allow dissent.",
+          "outputs": "runs/<run>/book_1/ch06/brief.md",
+          "verification": "Source span and protected beats fixed; proposed later consequence traced; no new engine exposition required.",
+          "status": "complete",
+          "depends_on": [
+            "CR-01"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot/book_1/ch06/brief.md"
+        },
+        {
+          "id": "CR-02.02",
+          "title": "Run a bounded candidate comparison",
+          "action": "Generate one candidate per cycle, maximum three initial experiments and up to nine only for a justified extension; stop after two stagnant cycles. Compare against the exact baseline. Retain raw output, diff, provider receipt, scanner JSON and independent review.",
+          "outputs": "runs/<run>/book_1/ch06/candidates/; autoresearch-trace.json",
+          "verification": "An objection changes an action; burden and consent distinct; humor survives; any kept candidate earns more than correct vocabulary.",
+          "status": "complete",
+          "depends_on": [
+            "CR-02.01"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot/book_1/ch06/candidate-comparison.json; WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot/book_1/ch06/autoresearch-trace.json"
+        },
+        {
+          "id": "CR-02.03",
+          "title": "Test transfer in Chapter 14",
+          "action": "Revise only after Chapter 6 candidate selection. Preserve the differentiated readiness and first live relay; test a costly second handoff and negotiation under time pressure. Remove repetitive explanation only where action carries its meaning.",
+          "outputs": "runs/<run>/book_2/ch14/",
+          "verification": "The later scene applies learning in a different situation, retains uncertainty, and does not require identical readiness or unanimous interpretation.",
+          "status": "complete",
+          "depends_on": [
+            "CR-02.02"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot/book_2/ch14/candidate-comparison.json; WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot/book_2/ch14/selected-candidate-full-chapter.md"
+        },
+        {
+          "id": "CR-02.04",
+          "title": "Close the pilot with reader evidence",
+          "action": "Review both complete candidate chapters plus their neighbors; ask a cold reader to name motives, objection, cost, remaining disagreement and what changed. Record conflicting reader responses. Author selects keep/revise/discard at wave close.",
+          "outputs": "runs/<run>/pilot-wave-close.md",
+          "verification": "Accepted candidate hashes and scope recorded, or explicit discard. Scaling waits for evidence that the method improves fiction; scanner success alone cannot open Phase 03.",
+          "status": "complete",
+          "depends_on": [
+            "CR-02.03"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot/pilot-wave-close.md; WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot/pilot-wave-close.json"
+        }
+      ],
+      "active_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot"
+    },
+    {
+      "id": "CR-03",
+      "number": "03",
+      "title": "Developmental and relationship architecture",
+      "depends_on": [
+        "CR-02"
+      ],
+      "goal": "Build a causal transformation structure for the full trilogy using the successful pilot.",
+      "owner": "Developmental editor",
+      "status": "complete",
+      "tasks": [
+        {
+          "id": "CR-03.01",
+          "title": "Plan four reversible character trajectories",
+          "action": "For each character map useful defense, short-term benefit, hidden cost, recognition, changed attempt, relapse/overcorrection, repair and transfer. Include positive decisive action and ordinary pleasure; every person carries all sheath layers.",
+          "outputs": "runs/<run>/four-character-plan.md",
+          "verification": "Four distinct trajectories with source and proposed scene IDs; no fixed engine ownership or inevitable chart-derived motive.",
+          "status": "complete",
+          "depends_on": [
+            "CR-02"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr03-architecture",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr03-architecture/four-character-plan.md"
+        },
+        {
+          "id": "CR-03.02",
+          "title": "Plan six pair arcs and whole-team changes",
+          "action": "Specify setup, misreading, negotiated action, aftermath and later change for all six pairs. Add coalition/workload/absent-member tests the pair readings cannot supply. Do not require every character to speak in every scene.",
+          "outputs": "runs/<run>/six-pair-plan.md; group-dynamics.md",
+          "verification": "All six pairs have causal development; membership does not require emotional agreement, exposure of private thoughts, or permanent dependence.",
+          "status": "complete",
+          "depends_on": [
+            "CR-03.01"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr03-architecture",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr03-architecture/six-pair-plan.md; WORKBENCH/STORYOPS/runs/cosmology-refinement/cr03-architecture/group-dynamics.md"
+        },
+        {
+          "id": "CR-03.03",
+          "title": "Allocate recurrence and pruning",
+          "action": "Assign each retained/new beat to chapters and identify what it replaces. Decide where no new practice or engine mention belongs. Ensure Chapter 16 time passage and final ordinary life carry changes without claiming irreversible growth.",
+          "outputs": "runs/<run>/chapter-beat-allocation.json",
+          "verification": "Every proposed beat has a function and owner; no duplicate moral lecture; each long arc has a traceable return.",
+          "status": "complete",
+          "depends_on": [
+            "CR-03.02"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr03-architecture",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr03-architecture/chapter-beat-allocation.json"
+        },
+        {
+          "id": "CR-03.04",
+          "title": "Prepare book wave packets",
+          "action": "Produce ordered scene packets for Phases 04\u201306, naming cross-book dependencies and protected downstream facts. Freeze input versions for each wave.",
+          "outputs": "runs/<run>/wave-packets/",
+          "verification": "Writer can start each packet without inventing decisions, dates, or source authority; every cross-wave edge recorded.",
+          "status": "complete",
+          "depends_on": [
+            "CR-03.03"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr03-architecture",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr03-architecture/wave-packets/"
+        }
+      ],
+      "active_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr03-architecture"
+    },
+    {
+      "id": "CR-04",
+      "number": "04",
+      "title": "Book 1 revision: perception and first costs",
+      "depends_on": [
+        "CR-03"
+      ],
+      "goal": "Revise Chapters 1\u20138 around useful lenses, mistakes, and the first changes in cooperation.",
+      "owner": "Book 1 writer + independent critic",
+      "status": "complete",
+      "tasks": [
+        {
+          "id": "CR-04.01",
+          "title": "Revise opening and boundaries, Chapters 1\u20134",
+          "action": "Carry differentiated perception from 1 into Sona invisible labor in 2, Gideon boundary in 3, and burden allocation in 4. Preserve the subject, embodied scene, humor and purposeful opacity.",
+          "outputs": "runs/<run>/book_1/ch01\u2013ch04/",
+          "verification": "No instant four-person agreement; each changed beat has visible action and consequence. Verify setting, names and chronology.",
+          "status": "complete",
+          "depends_on": [
+            "CR-03"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1/book_1/ch01-ch04/manifest.json"
+        },
+        {
+          "id": "CR-04.02",
+          "title": "Revise accountability and transfer, Chapters 5\u20138",
+          "action": "Carry corrected records into changed trust; integrate accepted Chapter 6 pilot; keep Sona failed technique and others assistance; preserve Jian adequate-model growth in 8.",
+          "outputs": "runs/<run>/book_1/ch05\u2013ch08/",
+          "verification": "Learning changes subsequent work; care and precision remain useful; rejected/uncertain observations are not erased to make growth smooth.",
+          "status": "complete",
+          "depends_on": [
+            "CR-04.01"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1/book_1/ch05-ch08/manifest.json"
+        },
+        {
+          "id": "CR-04.03",
+          "title": "Read Book 1 as a whole",
+          "action": "Review all eight candidates sequentially with the character/relationship map and source glossary. Check density, tonal variation, apparatus consistency and whether cost carries across transitions.",
+          "outputs": "runs/<run>/book_1/whole-book-review.md",
+          "verification": "No new factual/lore drift or duplicated insight; reader can distinguish all four voices without dialogue labels in selected samples.",
+          "status": "complete",
+          "depends_on": [
+            "CR-04.02"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1/book_1/whole-book-review.md"
+        },
+        {
+          "id": "CR-04.04",
+          "title": "Close Book 1 wave",
+          "action": "Attach every exact candidate hash, gate assessment and dependency receipt. Promote accepted chapters only through the existing reviewed workflow; retain rejects.",
+          "outputs": "runs/<run>/book_1/wave-close.md",
+          "verification": "Human-selected candidates identified; pending objections retained; Book 2 consumes the selected revision, not an arbitrary last candidate.",
+          "status": "complete",
+          "depends_on": [
+            "CR-04.03"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1/book_1/wave-close.md"
+        }
+      ],
+      "active_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1"
+    },
+    {
+      "id": "CR-05",
+      "number": "05",
+      "title": "Book 2 revision: negotiated interdependence",
+      "depends_on": [
+        "CR-04"
+      ],
+      "goal": "Revise Chapters 9\u201315 so shared work tests rather than erases difference.",
+      "owner": "Book 2 writer + independent critic",
+      "status": "complete",
+      "tasks": [
+        {
+          "id": "CR-05.01",
+          "title": "Resolve structural continuity in Chapters 9\u201312",
+          "action": "Read Elara/forge, station/command and repeated-ending sequences against the scene inventory. Retain only causally distinct material; do not assume unusual material is automatically non-canon. Resolve who pays for the construct and who can refuse.",
+          "outputs": "runs/<run>/book_2/ch09\u2013ch12/",
+          "verification": "Every removal justified against dependencies; accepted adaptation preserves necessary protection and exposed vulnerability.",
+          "status": "complete",
+          "depends_on": [
+            "CR-04"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2/book_2/ch09-ch12/manifest.json"
+        },
+        {
+          "id": "CR-05.02",
+          "title": "Revise chorus and coordination, Chapters 13\u201315",
+          "action": "Integrate accepted Chapter 14 pilot; retain Chapter 15 suspicion of effortless merger. Keep cooperation possible without synchronized emotion, shared interior access, or a compatibility score.",
+          "outputs": "runs/<run>/book_2/ch13\u2013ch15/",
+          "verification": "At least one consequential disagreement survives cooperative action; a private thought or refusal does not cost membership.",
+          "status": "complete",
+          "depends_on": [
+            "CR-05.01"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2/book_2/ch13-ch15/manifest.json"
+        },
+        {
+          "id": "CR-05.03",
+          "title": "Review relationships and book boundary",
+          "action": "Trace all six pairs through Books 1\u20132. Check who carries recurring invisible labor, who repairs, and who receives care. Verify final descent and Chapter 16 interval dependencies.",
+          "outputs": "runs/<run>/book_2/relationship-review.md",
+          "verification": "Every claimed relationship change has scenes before and after; elapsed-time assertions remain consistent.",
+          "status": "complete",
+          "depends_on": [
+            "CR-05.02"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2/book_2/relationship-review.md"
+        },
+        {
+          "id": "CR-05.04",
+          "title": "Close Book 2 wave",
+          "action": "Cold-read the seven chapters; reconcile scanner WARNs specifically; attach source-to-candidate diffs and author selections.",
+          "outputs": "runs/<run>/book_2/wave-close.md",
+          "verification": "Selected revision and downstream constraints pinned for Book 3; no unreviewed stitched resolution survives on metric score alone.",
+          "status": "complete",
+          "depends_on": [
+            "CR-05.03"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2/book_2/wave-close.md"
+        }
+      ],
+      "active_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2"
+    },
+    {
+      "id": "CR-06",
+      "number": "06",
+      "title": "Book 3 revision: relapse, choice and inhabitation",
+      "depends_on": [
+        "CR-05"
+      ],
+      "goal": "Revise Chapters 16\u201327 without turning refusal into a new idealized identity.",
+      "owner": "Book 3 writer + independent critic",
+      "status": "complete",
+      "tasks": [
+        {
+          "id": "CR-06.01",
+          "title": "Revise relapse and synthesis, Chapters 16\u201320",
+          "action": "Show uneven ordinary recurrence across the six-week interval, Gardener protective logic, one adequate action that succeeds, meaningful cost of abstraction, and correction of refusal-as-identity.",
+          "outputs": "runs/<run>/book_3/ch16\u2013ch20/",
+          "verification": "Mira is not a grade for the team; four gifts remain usable; self-compassion does not fabricate forgiveness or erase harm.",
+          "status": "complete",
+          "depends_on": [
+            "CR-05"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/ch16-ch20/manifest.json; WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/ch16-ch20/time-grid.json"
+        },
+        {
+          "id": "CR-06.02",
+          "title": "Revise tests and ripening, Chapters 21\u201324",
+          "action": "Preserve separate body costs and abort boundaries. Resolve rest/struggle and the bounded Lens 13 decision. Make ethical action distinct from favorable outcome.",
+          "outputs": "runs/<run>/book_3/ch21\u2013ch24/",
+          "verification": "No renewed exposure without a coherent decision; post-ripening capabilities and remaining limits match Phase 01 decisions.",
+          "status": "complete",
+          "depends_on": [
+            "CR-06.01"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/ch21-ch24/manifest.json"
+        },
+        {
+          "id": "CR-06.03",
+          "title": "Revise inhabitation, Chapters 25\u201327",
+          "action": "Protect private thought, humor, rest and ordinary preferences. Replace repeated negations with one enacted revision of an agreement and one familiar burden changing hands.",
+          "outputs": "runs/<run>/book_3/ch25\u2013ch27/",
+          "verification": "Ending permits play and uncertainty without demanding a growth receipt; fictional rendering remains distinguishable from reader-facing literal promises.",
+          "status": "complete",
+          "depends_on": [
+            "CR-06.02"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/ch25-ch27/manifest.json"
+        },
+        {
+          "id": "CR-06.04",
+          "title": "Close Book 3 wave",
+          "action": "Read all twelve chapters continuously; review voices and tension through climax and aftermath. Pin selected candidates, objections and all continuity edges.",
+          "outputs": "runs/<run>/book_3/wave-close.md",
+          "verification": "Ending follows the revised trajectory; no victory speech substitutes for enacted new relations.",
+          "status": "complete",
+          "depends_on": [
+            "CR-06.03"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/wave-close.md"
+        }
+      ],
+      "active_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3"
+    },
+    {
+      "id": "CR-07",
+      "number": "07",
+      "title": "Whole-trilogy convergence and writer integration",
+      "depends_on": [
+        "CR-06"
+      ],
+      "goal": "Prove the revised books work together and update reusable guidance from accepted evidence.",
+      "owner": "Series editor + independent literary/epistemic reviewer",
+      "status": "complete",
+      "tasks": [
+        {
+          "id": "CR-07.01",
+          "title": "Run the full trilogy continuity pass",
+          "action": "Read the assembled selected chapters in order. Validate object and timeline ledgers, four arcs, six pairs, group dynamics, retained ordinary life, and non-monotonic transformations.",
+          "outputs": "runs/<run>/trilogy-continuity.md",
+          "verification": "All 27 full-read receipts updated; source-to-final changed beats traced; contradictions resolved or deliberately dramatized.",
+          "status": "complete",
+          "depends_on": [
+            "CR-06"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr07-convergence",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr07-convergence/trilogy-continuity.md"
+        },
+        {
+          "id": "CR-07.02",
+          "title": "Run compression and cold-reader review",
+          "action": "Review explanatory repetition, process-language leaks, biological terminology and fiction/tradition/empirical boundaries. Use cold readers across suitable familiarity levels; retain disagreement rather than manufacture consensus.",
+          "outputs": "runs/<run>/reader-review.md; epistemic-audit.md",
+          "verification": "Readers can identify motives/costs without engine dossiers; no token or word threshold stands in for literary quality.",
+          "status": "complete",
+          "depends_on": [
+            "CR-07.01"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr07-convergence",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr07-convergence/reader-review.md; WORKBENCH/STORYOPS/runs/cosmology-refinement/cr07-convergence/epistemic-audit.md"
+        },
+        {
+          "id": "CR-07.03",
+          "title": "Update Noesis Writer from proven rules",
+          "action": "Add only generalized rules supported by accepted candidates, such as relational burden and overcorrection checks. Keep story-specific examples in StoryOps; increment version, preserve before-state, and synchronize canonical/mirror packages.",
+          "outputs": "runs/<run>/writer-update.patch; mirror-receipt.json",
+          "verification": "Required files tracked, canonical/mirror match, skill claims do not promote unaccepted plot or changed governance.",
+          "status": "complete",
+          "depends_on": [
+            "CR-07.02"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr07-convergence",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr07-convergence/writer-update.patch; WORKBENCH/STORYOPS/runs/cosmology-refinement/cr07-convergence/mirror-receipt.json"
+        },
+        {
+          "id": "CR-07.04",
+          "title": "Close manuscript revision",
+          "action": "Prepare exact selected chapter diff and all wave evidence. Author review governs promotion; publication remains separate. Rehash accepted chapter source.",
+          "outputs": "runs/<run>/manuscript-release-candidate.md",
+          "verification": "Named accepted revision is the sole input for exports and companion mapping; original and all rejects recoverable.",
+          "status": "complete",
+          "depends_on": [
+            "CR-07.03"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr07-convergence",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr07-convergence/manuscript-release-candidate.md"
+        }
+      ],
+      "active_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr07-convergence"
+    },
+    {
+      "id": "CR-08",
+      "number": "08",
+      "title": "Companion content identity and faithful compression",
+      "depends_on": [
+        "CR-07"
+      ],
+      "goal": "Make one coherent meaning graph across story, short practice and deeper exploration.",
+      "owner": "Content architect + app content owners",
+      "status": "complete",
+      "tasks": [
+        {
+          "id": "CR-08.01",
+          "title": "Reconcile existing companion entries",
+          "action": "Map 12 developed entries and 15 placeholders against accepted 27-chapter scene identities. Distinguish chapter ID, practice ID and app entry ID; identify recurrence instead of inventing exercises to fill counts.",
+          "outputs": "runs/<run>/companion-manifest.json",
+          "verification": "Every developed entry has accepted source hash/scene; missing and retired content explicit.",
+          "status": "complete",
+          "depends_on": [
+            "CR-07"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr08-companion",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr08-companion/companion-manifest.json"
+        },
+        {
+          "id": "CR-08.02",
+          "title": "Design short and expanded forms",
+          "action": "Start with the accepted Chapter 6 situation. Draft mobile encounter, web exploration and optional lens context. Preserve observation, interpretation, choice, consequence and return at each scale.",
+          "outputs": "runs/<run>/content-pilot/",
+          "verification": "Short form stands alone; no required birth profile to understand the scene; symbolic prompt does not become a verdict.",
+          "status": "complete",
+          "depends_on": [
+            "CR-08.01"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr08-companion",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr08-companion/content-pilot/"
+        },
+        {
+          "id": "CR-08.03",
+          "title": "Specify introduction and migration behavior",
+          "action": "Design first guided introduction and permanent practice reuse; separate attempts, reflections, timing and reading progress. Map existing access without treating historical unlock events as verified introductions.",
+          "outputs": "runs/<run>/practice-access-contract.md",
+          "verification": "Decline, pause, return and reduced cycle values cannot revoke introduced practice; privacy is not a progress requirement.",
+          "status": "complete",
+          "depends_on": [
+            "CR-08.02"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr08-companion",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr08-companion/practice-access-contract.md"
+        },
+        {
+          "id": "CR-08.04",
+          "title": "Freeze content API and source-pack handoff",
+          "action": "Reuse source-pack conventions where possible. Specify versioning, aliases, retirement, offline revision identity and which owning app/service stores each state.",
+          "outputs": "runs/<run>/companion-handoff.md",
+          "verification": "Web/mobile owners have reviewable behavior cases and migration proposal; no UI implementation or production content parity inferred.",
+          "status": "complete",
+          "depends_on": [
+            "CR-08.03"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr08-companion",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr08-companion/companion-handoff.md"
+        }
+      ],
+      "active_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr08-companion"
+    },
+    {
+      "id": "CR-09",
+      "number": "09",
+      "title": "Selemene and companion implementation handoffs",
+      "depends_on": [
+        "CR-08"
+      ],
+      "goal": "Implement the approved small cross-surface slice in the owning repositories.",
+      "owner": "Selemene owner + web/mobile owners",
+      "status": "complete_handoff_only",
+      "tasks": [
+        {
+          "id": "CR-09.01",
+          "title": "Repair only required engine paths",
+          "action": "Freshly reproduce facts-in-prompts, all-subject audit/model provenance and needed retrieval failures before changes. Preserve chart-line, labels and local-time exclusions until fixed/verified. No new family-penta reuse for the team.",
+          "outputs": "Owning Selemene repo: bounded PRs + behavior receipts",
+          "verification": "A deliberately corrupted second-subject fact is detected; actual model recorded; empty retrieval is explicit; no unsupported field enters reports.",
+          "status": "complete_handoff_only",
+          "depends_on": [
+            "CR-08"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr09-handoffs",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr09-handoffs/selemene-engine-pr-brief.md"
+        },
+        {
+          "id": "CR-09.02",
+          "title": "Implement shared practice-access behavior",
+          "action": "Use the approved introduction contract and migration in the actual persistence layer. Separate reader state from reusable source content; avoid a second policy in each UI.",
+          "outputs": "Owning app/backend repos: implementation + migration evidence",
+          "verification": "Behavior-level production-like database tests, user isolation and version migration pass; in-memory behavior not treated as production parity.",
+          "status": "complete_handoff_only",
+          "depends_on": [
+            "CR-09.01"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr09-handoffs",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr09-handoffs/practice-access-pr-brief.md"
+        },
+        {
+          "id": "CR-09.03",
+          "title": "Implement web/mobile pilot end to end",
+          "action": "Introduce the accepted situation/practice and repertoire return flow. Test reread, reuse, decline, reload, offline return, content revision and changing cycle values. Respect current mobile backend migration.",
+          "outputs": "Owning web/mobile repos: UI/device evidence + source receipts",
+          "verification": "Both actual interfaces satisfy the same contract; no implicit native parity from shared JSON; optional reflections remain optional.",
+          "status": "complete_handoff_only",
+          "depends_on": [
+            "CR-09.02"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr09-handoffs",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr09-handoffs/web-mobile-pilot-pr-brief.md"
+        },
+        {
+          "id": "CR-09.04",
+          "title": "Review the integrated slice",
+          "action": "Verify from accepted story source through content manifest, engine facts where used, persistence and both surfaces. Capture limits and deployment state separately.",
+          "outputs": "runs/<run>/ecosystem-pilot-receipt.md",
+          "verification": "No runtime claim exceeds tested behavior; deploy only under specific release authorization. Extend beyond pilot only after review.",
+          "status": "complete_handoff_only",
+          "depends_on": [
+            "CR-09.03"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr09-handoffs",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr09-handoffs/ecosystem-pilot-receipt.md"
+        }
+      ],
+      "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr09-handoffs"
+    },
+    {
+      "id": "CR-10",
+      "number": "10",
+      "title": "Exports, delivery and measured re-entry",
+      "depends_on": [
+        "CR-07"
+      ],
+      "goal": "Produce faithful delivery artifacts and learn from readers without scoring their inner development.",
+      "owner": "Publishing owner + content editor",
+      "status": "complete_review_package",
+      "tasks": [
+        {
+          "id": "CR-10.01",
+          "title": "Rebuild compiled books from accepted source",
+          "action": "Regenerate compiled books, front/back matter and relevant audio source maps from the exact accepted chapter revision. Compare all bodies and expected ordering.",
+          "outputs": "COMPILED candidates; export-parity.json",
+          "verification": "27 source bodies accounted for; no older compiled passage re-enters canon; no unexplained drift.",
+          "status": "complete_review_package",
+          "depends_on": [
+            "CR-07"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr10-delivery",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr10-delivery/export-parity.json"
+        },
+        {
+          "id": "CR-10.02",
+          "title": "Align wiki/audio/brand contracts",
+          "action": "Update only affected discovery and delivery content, correcting obsolete counts, access promises and terminology after their decisions are accepted. Regenerate media only where text changes require it.",
+          "outputs": "Delivery candidate manifest + provenance",
+          "verification": "Each artifact has source revision; no unseen asset or stale marketing statement treated as accepted.",
+          "status": "complete_review_package",
+          "depends_on": [
+            "CR-10.01"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr10-delivery",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr10-delivery/delivery-manifest.json"
+        },
+        {
+          "id": "CR-10.03",
+          "title": "Prepare release review",
+          "action": "Bundle manuscript, reader evidence, export hashes and optional companion readiness. The book may release independently if complete; companion release requires Phase 09 and its own acceptance.",
+          "outputs": "runs/<run>/release-checklist.md",
+          "verification": "Explicit artifact-by-artifact scope and authorization; partial ecosystem readiness does not block a complete book or imply app release.",
+          "status": "complete_review_package",
+          "depends_on": [
+            "CR-10.02"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr10-delivery",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr10-delivery/release-checklist.md"
+        },
+        {
+          "id": "CR-10.04",
+          "title": "Observe re-entry without moral scoring",
+          "action": "Record comprehension, voluntary return and usability feedback. Keep objections and confusion. Feed concrete findings to a new bounded StoryOps cycle rather than endlessly reopening the accepted text.",
+          "outputs": "runs/<run>/reader-feedback.md",
+          "verification": "No streak/report-depth/worldview equivalence; each new change has a concrete observed problem and a scoped hypothesis.",
+          "status": "complete_review_package",
+          "depends_on": [
+            "CR-10.03"
+          ],
+          "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr10-delivery",
+          "receipt": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr10-delivery/reader-feedback.md"
+        }
+      ],
+      "completed_run": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr10-delivery"
+    }
+  ],
+  "last_updated": "2026-09-08T13:37:14.684067+00:00",
+  "updated_at": "2026-09-08TCR-08-complete",
+  "current_phase": "CR-10",
+  "current_status": "complete_review_package"
+}

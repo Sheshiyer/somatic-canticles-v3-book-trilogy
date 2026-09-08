@@ -1,0 +1,32 @@
+{
+  "schema": "storyops.autoresearch-trace.v1",
+  "phase": "CR-02.02",
+  "run_id": "cosmology-refinement/cr02-pilot/book_1/ch06",
+  "source": "manual bounded candidate generation after runner inspection",
+  "reason_runner_not_used_for_text_generation": "autoresearch_loop.py supports structural transforms (dedupe, opacity-strip); Chapter 6 pilot required a literary one-variable custody/cost experiment.",
+  "cycles": [
+    {
+      "cycle": 1,
+      "candidate_id": "candidate-a-two-motion-custody-vote",
+      "advance": false,
+      "scanner_accepted": true
+    },
+    {
+      "cycle": 2,
+      "candidate_id": "candidate-b-retain-but-defer-custody",
+      "advance": false,
+      "scanner_accepted": true
+    },
+    {
+      "cycle": 3,
+      "candidate_id": "candidate-c-gideon-conditions-klei",
+      "advance": true,
+      "scanner_accepted": true
+    }
+  ],
+  "stopped_after_cycles": 3,
+  "extension_used": false,
+  "selected": "candidate-c-gideon-conditions-klei",
+  "canon_mutation": false,
+  "scanner_summary": "All three candidates preserve protected beats under gating contract v3-deeper-pass-gating-contract-v2; scanner acceptance is necessary but not literary acceptance."
+}

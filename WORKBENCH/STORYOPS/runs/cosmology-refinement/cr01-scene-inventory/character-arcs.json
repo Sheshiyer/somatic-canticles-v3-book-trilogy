@@ -1,0 +1,392 @@
+{
+  "schema": "storyops.character-arcs.v1",
+  "campaign": "cosmology-refinement",
+  "phase": "CR-01.04",
+  "created": "2026-09-08",
+  "principle": "Every character carries every sheath. Arc means a dominant gift learns when to yield, transfer, receive care, or refuse extraction; it is not a fixed role label.",
+  "characters": [
+    {
+      "id": "jian",
+      "name": "Jian",
+      "entry_habit": "Maps first, trusts precision, hides unstable traces until they can be made safe enough to read.",
+      "inner_lens": "Discernment and model as self-protection: if he can sequence enough, the world may become less morally slippery.",
+      "outer_sheath": "Manas Interface, overlays, diagnostic ledgers, route archives, timing windows, thresholds.",
+      "ordinary_wants_and_pleasures": [
+        "clean timing",
+        "beautiful math that remains honest",
+        "private jokes filed as unresolved distinctions",
+        "being exact and astonished without shame"
+      ],
+      "positive_transformations": [
+        "Leaves incompatible readings in the record instead of forcing one timing answer.",
+        "Stores the AM-38 bearing as morally unresolved rather than muting it.",
+        "Learns that rules can be proposed without being installed as tyranny.",
+        "Lets delight coexist with precision in the first home."
+      ],
+      "negative_transformations_or_risks": [
+        "Can turn privacy into unilateral custody of information.",
+        "Can confuse a total map with care.",
+        "Can admire clean data while interpersonal cost is concealed.",
+        "Can make another person endure the delay required by his certainty."
+      ],
+      "changed_actions": [
+        "Adds Sona’s barefoot detail as an internal-only note rather than erasing it as review-irrelevant.",
+        "Moves from diagnosis toward timing in Chapter 14.",
+        "Saves AM-38 as an orphan route instead of sealing it behind triple scramble."
+      ],
+      "unresolved_habits": [
+        "Needs CR-02/CR-05 recurrence where he asks before holding a private trace that affects others.",
+        "Needs consequences when correct timing still costs Sona or Mira."
+      ],
+      "received_care": [
+        "Sona asks him to focus on passage rather than pulse in early descent.",
+        "Corv warns him to keep anomaly privacy with relational care, not accusation.",
+        "Gideon asks him to translate honestly rather than procedurally."
+      ],
+      "care_given": [
+        "Maintains ledgers that protect Mira from retrospective claims.",
+        "Keeps unresolved lines visibly incomplete when completion would lie.",
+        "Can slow systems enough for receiver consent to matter."
+      ],
+      "anchors": [
+        {
+          "path": "CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md",
+          "line": 185,
+          "fact": "Copies raw bearing into AM-38 instead of muting/sealing it."
+        },
+        {
+          "path": "CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+          "line": 89,
+          "fact": "Leaves different answers in the record; his readiness does not decide timing."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+          "line": 465,
+          "fact": "Adds Sona’s barefoot precision as internal-only note."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 217,
+          "fact": "Discovers rules can be proposed without becoming tyranny."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 475,
+          "fact": "Precision and delight do not cancel each other."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+          "line": 47,
+          "fact": "Tests Sona’s objection without first deciding whether either is calm enough to be right."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-07-The-Breathfield-Weaver.md",
+          "line": 46,
+          "fact": "Stops Sona when her smoothing becomes suppression."
+        }
+      ],
+      "edit_implications": [
+        "Chapter 6 pilot: make him ask who carries risk, not only log the vote.",
+        "Chapter 14 pilot: make timing cost him something and make receiver consent visible.",
+        "App/Selemene: never turn his private route archive into automatic public authority."
+      ]
+    },
+    {
+      "id": "sona",
+      "name": "Sona",
+      "entry_habit": "Feels the field before others can name it and often subsidizes the team through invisible affective labor.",
+      "inner_lens": "Felt meaning and attachment as weather-reading: she hears mourning, mistrust, tone, and pain before systems admit them.",
+      "outer_sheath": "Adawat al-Wa’i, breathfield, oxytocin handoff, vocal/tonal calibration, body-cost absorption.",
+      "ordinary_wants_and_pleasures": [
+        "ordinary gestures after architecture",
+        "bad jokes that prove refusal has not become tribunal",
+        "rest without anesthetic peace",
+        "warmth that does not deny anger"
+      ],
+      "positive_transformations": [
+        "Moves from soothing/broadcasting calm toward asking others to stop her when needed.",
+        "Names the shard risk before the group treats retention as clean procedure.",
+        "Lets warmth shape climate without anesthetizing complexity.",
+        "Lets feelings remain private rather than becoming team fuel."
+      ],
+      "negative_transformations_or_risks": [
+        "Invisible labor can become expected infrastructure.",
+        "Can absorb endocrine or affective shear before a vote catches up.",
+        "Can mistake relief for care if peace erases truth.",
+        "Can be supported into dullness by systems that call it rest."
+      ],
+      "changed_actions": [
+        "Names Mira from mourning, making weather into testimony.",
+        "Uses consent watermark logic as receipt rather than guarantee.",
+        "In Chapter 14 offers interval instead of consolation.",
+        "In Chapter 27 looks without entering."
+      ],
+      "unresolved_habits": [
+        "Needs later scenes where another person carries a task she would usually absorb.",
+        "Needs visible consequences when she asks for pause and Jian finishes alone."
+      ],
+      "received_care": [
+        "Gideon’s non-patrol presence can shelter without dictating her.",
+        "Jian’s internal note honors an ordinary detail the Houses would erase.",
+        "Corv learns not to translate her silence/rest into story."
+      ],
+      "care_given": [
+        "Names grief as Mira rather than ambient signal.",
+        "Provides tonal/interval safety without making herself the solution.",
+        "Protects the group from beautiful false closure by calling Corv back."
+      ],
+      "anchors": [
+        {
+          "path": "CHAPTERS/book_1/Chapter-01-The-Choroid-Plexus.md",
+          "line": 57,
+          "fact": "Names Mira in the mourning."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+          "line": 432,
+          "fact": "Names the watermark a receipt."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-07-The-Breathfield-Weaver.md",
+          "line": 304,
+          "fact": "Softens brittle humor into a practical threshold warning."
+        },
+        {
+          "path": "CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+          "line": 91,
+          "fact": "Offers interval instead of consolation."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 218,
+          "fact": "Discovers warmth can shape climate without anesthetizing complexity."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 692,
+          "fact": "Can look without entering."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-07-The-Breathfield-Weaver.md",
+          "line": 66,
+          "fact": "Asks Jian to stop her if she chases smoothness again."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-25-The-Void-of-Pure-Potential.md",
+          "line": 334,
+          "fact": "Jian keeps NO SIGNAL REQUIRED BEFORE REMAINING private; Sona’s remaining does not need proof."
+        }
+      ],
+      "edit_implications": [
+        "Chapter 6 pilot: preserve her warning that the shard cuts the bearer.",
+        "Chapter 12/13/19: assign some normally invisible labor to others.",
+        "Companion practice: do not make “feel more” the moral answer.",
+        "Chapter 7 should remain a precedent for consentful correction: Jian stopping her is care only because she later asks him to keep doing it."
+      ]
+    },
+    {
+      "id": "gideon",
+      "name": "Gideon",
+      "entry_habit": "Protects by enclosing, anticipating breach, and turning love into perimeter before anyone has asked.",
+      "inner_lens": "Belonging and boundary as fear management: if the edge holds, loved people may remain available to be loved.",
+      "outer_sheath": "Klei Toda’ah, perimeter logic, carrier lattice, scars, thresholds, relation checks.",
+      "ordinary_wants_and_pleasures": [
+        "paperwork that actually protects",
+        "repeatable protocols",
+        "jokes dry enough to survive fear",
+        "openings that do not become abandonment"
+      ],
+      "positive_transformations": [
+        "Treats breaches as routes rather than sealing them.",
+        "Offers brace instead of control geometry.",
+        "Admits fear without making it command the group.",
+        "Learns a boundary can shelter growth without dictating final form."
+      ],
+      "negative_transformations_or_risks": [
+        "Protection can reduce the life it wants to preserve.",
+        "Can become a thanked maintainer of smaller futures.",
+        "Can accept outcome gratitude as proof that narrowing was care.",
+        "Can carry risk before consenting if others treat Klei as group storage."
+      ],
+      "changed_actions": [
+        "Uses scar/Klei as native signature instead of total wall.",
+        "Keeps hands away from others’ controls in Chapter 14.",
+        "Lets the dipped edge remain an opening in Chapter 27."
+      ],
+      "unresolved_habits": [
+        "Needs explicit carrier-consent beat around Chapter 6 shard.",
+        "Needs recurrence where he guards passage without sealing it under greater pressure."
+      ],
+      "received_care": [
+        "Jian translates review violence honestly when Gideon asks.",
+        "Sona distinguishes guarding passage from guarding against passage.",
+        "Corv stands beside his fear without making it a small question."
+      ],
+      "care_given": [
+        "Provides relation checks that keep plural witness under load.",
+        "Can hold perimeter low enough that the room does not mistake him for emergency power.",
+        "Names fear in the void rather than converting it into procedure."
+      ],
+      "anchors": [
+        {
+          "path": "CHAPTERS/book_1/Chapter-03-The-Blood-Brain-Barrier.md",
+          "line": 193,
+          "fact": "Uses oldest scar so host can read a mark as its own."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+          "line": 159,
+          "fact": "His idle Klei receives the shard, creating carrier-consent gap."
+        },
+        {
+          "path": "CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+          "line": 89,
+          "fact": "Indicates opening while keeping hands away from others’ controls."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-23-The-Flaw-in-the-Code.md",
+          "line": 293,
+          "fact": "Offered future reduces team variance while calling it support."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-25-The-Void-of-Pure-Potential.md",
+          "line": 380,
+          "fact": "Admits fear of losing them in a place without edges."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 219,
+          "fact": "Discovers boundary can shelter growth without dictating form."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 489,
+          "fact": "Lets an opening remain an opening."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+          "line": 244,
+          "fact": "Distinguishes load assessment from permission/refusal."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+          "line": 338,
+          "fact": "Catches Sona’s elbow before she can pretend she does not need it."
+        }
+      ],
+      "edit_implications": [
+        "Chapter 6 pilot: separate group retention from Gideon’s Klei custody.",
+        "Chapter 23/27: protect the good side of boundaries while exposing reduction risk.",
+        "Team dynamics: his growth is lower claim, not less care.",
+        "Use load assessment as his healthier boundary language: it protects decision rights instead of overriding them."
+      ]
+    },
+    {
+      "id": "corv",
+      "name": "Corv",
+      "entry_habit": "Witnesses and sequences meaning, tempted to make pain bearable by giving it beautiful placement.",
+      "inner_lens": "Felt meaning plus discernment: witness wants exactness, story, and moral restraint at once.",
+      "outer_sheath": "Yìshí Qìxiè, Bell, field notes, coordinates, shard/seed handling, narrative refusal.",
+      "ordinary_wants_and_pleasures": [
+        "beauty that stays usable",
+        "endings that do not seal",
+        "dry humor beside terror",
+        "meaning without theft"
+      ],
+      "positive_transformations": [
+        "Owns delay and anomaly rather than narrating around it.",
+        "Leaves beauty in ordinary use while refusing closure as theft.",
+        "Keeps Mira from becoming symbol and Anvel from becoming excuse.",
+        "Lets an ending be true without being sealed."
+      ],
+      "negative_transformations_or_risks": [
+        "Can make suffering useful before the person is safe.",
+        "Can convert witness into possession.",
+        "Can pocket or place objects before custody is fully explicit.",
+        "Can be seduced by exquisite, non-cheap meaning."
+      ],
+      "changed_actions": [
+        "Asks permission to leave a seed.",
+        "Admits wanting the offered closure instead of making himself clean.",
+        "Closes his eyes when watching begins to become possession."
+      ],
+      "unresolved_habits": [
+        "Needs Chapter 6 custody clarity before object actions become team trust.",
+        "Needs recurrence where he lets beauty remain without improving the line."
+      ],
+      "received_care": [
+        "Sona calls him back from beautiful sequence.",
+        "Gideon does not rescue him into narrative cleanliness.",
+        "Jian records limits that keep witness from retrospective claim."
+      ],
+      "care_given": [
+        "Tracks coordinates for future calibration.",
+        "Refuses to translate or narrate silence when restraint is the care.",
+        "Protects Mira from becoming proof."
+      ],
+      "anchors": [
+        {
+          "path": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+          "line": 135,
+          "fact": "Introduces shard as mute witness."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md",
+          "line": 171,
+          "fact": "Asks permission to leave a seed."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+          "line": 491,
+          "fact": "Offered world makes suffering necessary and beautiful."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+          "line": 511,
+          "fact": "Admits the desire to make Mira and Anvel bearable through story."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+          "line": 539,
+          "fact": "Says Mira does not become safer because pain explains the cage."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 220,
+          "fact": "Discovers an ending can be true without being sealed."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 604,
+          "fact": "Lets eyes close when watching begins to become possession."
+        },
+        {
+          "path": "CHAPTERS/book_2/Chapter-15-The-Witness-Integration.md",
+          "line": 105,
+          "fact": "Waits until the room takes in others; he is not summarizing them into himself."
+        },
+        {
+          "path": "CHAPTERS/book_2/Chapter-15-The-Witness-Integration.md",
+          "line": 129,
+          "fact": "Learns he is not the room’s singular narrator."
+        }
+      ],
+      "edit_implications": [
+        "Chapter 6 pilot: keep his shard proposal useful but ethically incomplete.",
+        "Chapter 22/24: preserve refusal of retrospective redemption.",
+        "Ending: let him keep images unclaimed.",
+        "Chapter 15 already supplies the no-singular-narrator bridge; later edits should preserve it rather than restating it."
+      ]
+    }
+  ],
+  "verification": {
+    "chapter_prose_changed": false,
+    "source_files": [
+      "scene-inventory.md",
+      "critique-reconciliation.md",
+      "canon-decisions.md",
+      "continuity-ledger.json",
+      "selected CHAPTERS anchors"
+    ]
+  }
+}

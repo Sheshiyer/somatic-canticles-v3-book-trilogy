@@ -1,0 +1,18 @@
+{
+  "phase_count": 11,
+  "task_count": 44,
+  "unique_ids": true,
+  "phase_dependency_dag": "pass",
+  "task_dependencies_resolve": true,
+  "required_task_fields": "pass",
+  "source_hashes_verified": 38,
+  "chapter_scans": 27,
+  "scanner_verdicts": {
+    "WARN": 13,
+    "PASS": 14
+  },
+  "local_link_errors": [],
+  "tracked_source_changes": [],
+  "execution_started": false,
+  "verification_scope": "planning completeness and source integrity; no candidate literary quality or runtime parity claim"
+}
