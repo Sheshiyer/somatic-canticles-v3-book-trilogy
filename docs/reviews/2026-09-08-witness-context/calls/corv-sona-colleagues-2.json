@@ -1,0 +1,22 @@
+{
+  "job": "corv-sona-colleagues",
+  "pass_index": 2,
+  "provider_gateway": "omniroute",
+  "requested_model": "noesis-observe",
+  "returned_model": "composer-2.5",
+  "resolved_provider": null,
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 14511,
+    "completion_tokens": 3225,
+    "total_tokens": 17736,
+    "completion_tokens_details": {
+      "reasoning_tokens": 549
+    },
+    "estimated": true
+  },
+  "latency_ms": 21469,
+  "input_sha256": "fc33691ae503e2e76f2aa15894d100c534b02808b7466094b18be25adff4a3ea",
+  "output_sha256": "cfe6a8130bcca6974bf059dd2e565f098625cf9cf1d3e54a9872477aad452724",
+  "failures": []
+}

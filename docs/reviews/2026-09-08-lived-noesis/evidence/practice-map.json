@@ -1,0 +1,707 @@
+{
+  "scope": "Local content extraction and pure-function probes; no network/database/device verification",
+  "sources": [
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somaticcanticles-aleph/src/lib/lore/chapter-content.ts",
+      "sha256": "311ebf4c6a180d825c22e7176f410a68148a63299cbdb214fce6c8693801d9d7"
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somaticcanticles-aleph/app/internal-api/chapters/_helpers.ts",
+      "sha256": "be777bb7fd4d7911f2d30f402b3896850dd206ca04ec2f9ec76d2a49ca63ca1e"
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somaticcanticles-aleph/app/internal-api/chapters/check-unlock/route.ts",
+      "sha256": "43df2cda2b4411f9a3d9a71ad264c687b618e918ad38aa9930b0610bc15d65e2"
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somaticcanticles-aleph/app/internal-api/chapters/progress/route.ts",
+      "sha256": "ec0d43c6a9ed698c5fa7adeb3dba41eb965e186710c7cd656ce4c66d1d7bb126"
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-mobile-app/expo/lib/unlock-engine.ts",
+      "sha256": "627861de8da68f6e30a463977c9c6b140359d83b70a95bfbfc7a53a86e670059"
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-mobile-app/expo/lib/unlock-events.ts",
+      "sha256": "00de60929dd96b39bce309ac3301389ec209c41ab43b5f6dbbf803cfab7d66de"
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-mobile-app/expo/stores/chapters.ts",
+      "sha256": "33362376591533bcb3bcadeadffd1daa4f860f75d54a189c385c4d65930ff549"
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-mobile-app/expo/assets/serpentine/data/chapters-v1.json",
+      "sha256": "62a3d6760fef3fdb70538605f38aafc6a6e64e128e5f2fe81e4f0ad3c6d26013"
+    }
+  ],
+  "counts": {
+    "catalog": 27,
+    "entries": 27,
+    "developed": 12,
+    "placeholders": 15,
+    "chaptersWithoutDevelopedPractice": 15
+  },
+  "probes": {
+    "mobileChapter2": {
+      "high": {
+        "isUnlocked": true,
+        "metConditions": 1,
+        "totalConditions": 1
+      },
+      "low": {
+        "isUnlocked": false,
+        "metConditions": 0,
+        "totalConditions": 1
+      }
+    },
+    "webSummary": {
+      "missing": "locked",
+      "persistedUnlock": "unlocked",
+      "progressOnly": "in-progress",
+      "secondDefault": "unlocked"
+    }
+  },
+  "rows": [
+    {
+      "chapter": 1,
+      "title": "The Choroid Plexus",
+      "existingPractices": [
+        {
+          "appId": 1,
+          "manuscriptChapter": 1,
+          "title": "The Choroid Plexus",
+          "practice": "CSF Flow Awareness",
+          "steps": 7,
+          "reflections": 4
+        }
+      ],
+      "placeholderIds": [],
+      "mobileConditions": null
+    },
+    {
+      "chapter": 2,
+      "title": "Signal Transduction",
+      "existingPractices": [
+        {
+          "appId": 2,
+          "manuscriptChapter": 2,
+          "title": "Signal Transduction",
+          "practice": "Signal Recognition",
+          "steps": 7,
+          "reflections": 4
+        }
+      ],
+      "placeholderIds": [],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "physical",
+            "operator": ">=",
+            "threshold": 0.3
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 3,
+      "title": "The Blood Brain Barrier",
+      "existingPractices": [
+        {
+          "appId": 3,
+          "manuscriptChapter": 3,
+          "title": "The Blood-Brain Barrier",
+          "practice": "Boundary Awareness",
+          "steps": 7,
+          "reflections": 4
+        }
+      ],
+      "placeholderIds": [],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "physical",
+            "operator": ">=",
+            "threshold": 0.4
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 4,
+      "title": "The Emperors Genome",
+      "existingPractices": [],
+      "placeholderIds": [],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "emotional",
+            "operator": ">=",
+            "threshold": 0.3
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 5,
+      "title": "The Endocrine Dogma",
+      "existingPractices": [
+        {
+          "appId": 4,
+          "manuscriptChapter": 5,
+          "title": "The Endocrine Dogma",
+          "practice": "Hormonal Awareness",
+          "steps": 7,
+          "reflections": 4
+        }
+      ],
+      "placeholderIds": [],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "emotional",
+            "operator": ">=",
+            "threshold": 0.4
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 6,
+      "title": "The Synaptic Crossroads",
+      "existingPractices": [
+        {
+          "appId": 5,
+          "manuscriptChapter": 6,
+          "title": "The Synaptic Crossroads",
+          "practice": "Crossroads Meditation",
+          "steps": 7,
+          "reflections": 4
+        }
+      ],
+      "placeholderIds": [],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "emotional",
+            "operator": ">=",
+            "threshold": 0.5
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 7,
+      "title": "The Breathfield Weaver",
+      "existingPractices": [],
+      "placeholderIds": [],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "intellectual",
+            "operator": ">=",
+            "threshold": 0.3
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 8,
+      "title": "The Compass Calibration",
+      "existingPractices": [
+        {
+          "appId": 6,
+          "manuscriptChapter": 8,
+          "title": "The Compass Calibration",
+          "practice": "Compass Calibration",
+          "steps": 7,
+          "reflections": 4
+        }
+      ],
+      "placeholderIds": [],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "intellectual",
+            "operator": ">=",
+            "threshold": 0.4
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 9,
+      "title": "The Sigil Smith",
+      "existingPractices": [
+        {
+          "appId": 7,
+          "manuscriptChapter": 9,
+          "title": "The Sigil Smith",
+          "practice": "Personal Sigil Creation",
+          "steps": 7,
+          "reflections": 4
+        }
+      ],
+      "placeholderIds": [],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "intellectual",
+            "operator": ">=",
+            "threshold": 0.5
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 10,
+      "title": "The Debug Protocol",
+      "existingPractices": [
+        {
+          "appId": 8,
+          "manuscriptChapter": 10,
+          "title": "The Debug Protocol",
+          "practice": "Consciousness Debugging",
+          "steps": 7,
+          "reflections": 4
+        }
+      ],
+      "placeholderIds": [],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "spiritual",
+            "operator": ">=",
+            "threshold": 0.3
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 11,
+      "title": "The Avatar Mutation",
+      "existingPractices": [],
+      "placeholderIds": [],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "spiritual",
+            "operator": ">=",
+            "threshold": 0.4
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 12,
+      "title": "The Anamnesis Engine",
+      "existingPractices": [],
+      "placeholderIds": [],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "spiritual",
+            "operator": ">=",
+            "threshold": 0.5
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 13,
+      "title": "The Myocardial Chorus",
+      "existingPractices": [
+        {
+          "appId": 9,
+          "manuscriptChapter": 13,
+          "title": "The Myocardial Chorus",
+          "practice": "Heart Field Resonance",
+          "steps": 7,
+          "reflections": 4
+        }
+      ],
+      "placeholderIds": [
+        13
+      ],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "physical",
+            "operator": ">=",
+            "threshold": 0.6
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 14,
+      "title": "The Three Body Coordination",
+      "existingPractices": [],
+      "placeholderIds": [
+        14
+      ],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "physical",
+            "operator": ">=",
+            "threshold": 0.6
+          },
+          {
+            "cycle": "emotional",
+            "operator": ">=",
+            "threshold": 0.4
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 15,
+      "title": "The Witness Integration",
+      "existingPractices": [
+        {
+          "appId": 10,
+          "manuscriptChapter": 15,
+          "title": "The Witness Integration",
+          "practice": "Witness Integration",
+          "steps": 7,
+          "reflections": 4
+        }
+      ],
+      "placeholderIds": [
+        15
+      ],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "physical",
+            "operator": ">=",
+            "threshold": 0.7
+          },
+          {
+            "cycle": "intellectual",
+            "operator": ">=",
+            "threshold": 0.4
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 16,
+      "title": "The Wilt",
+      "existingPractices": [],
+      "placeholderIds": [
+        16
+      ],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "emotional",
+            "operator": ">=",
+            "threshold": 0.6
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 17,
+      "title": "The Gardener",
+      "existingPractices": [],
+      "placeholderIds": [
+        17
+      ],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "emotional",
+            "operator": ">=",
+            "threshold": 0.6
+          },
+          {
+            "cycle": "spiritual",
+            "operator": ">=",
+            "threshold": 0.4
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 18,
+      "title": "The Synthesis Protocol",
+      "existingPractices": [
+        {
+          "appId": 11,
+          "manuscriptChapter": 18,
+          "title": "The Synthesis Protocol",
+          "practice": "Four-Element Synthesis",
+          "steps": 7,
+          "reflections": 4
+        }
+      ],
+      "placeholderIds": [
+        18
+      ],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "emotional",
+            "operator": ">=",
+            "threshold": 0.7
+          },
+          {
+            "cycle": "intellectual",
+            "operator": ">=",
+            "threshold": 0.5
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 19,
+      "title": "The Three Point Problem",
+      "existingPractices": [],
+      "placeholderIds": [
+        19
+      ],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "intellectual",
+            "operator": ">=",
+            "threshold": 0.6
+          },
+          {
+            "cycle": "physical",
+            "operator": ">=",
+            "threshold": 0.4
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 20,
+      "title": "The Convergence Point",
+      "existingPractices": [],
+      "placeholderIds": [
+        20
+      ],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "intellectual",
+            "operator": ">=",
+            "threshold": 0.7
+          },
+          {
+            "cycle": "emotional",
+            "operator": ">=",
+            "threshold": 0.5
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 21,
+      "title": "The Test Fire",
+      "existingPractices": [],
+      "placeholderIds": [
+        21
+      ],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "intellectual",
+            "operator": ">=",
+            "threshold": 0.7
+          },
+          {
+            "cycle": "spiritual",
+            "operator": ">=",
+            "threshold": 0.5
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 22,
+      "title": "The Perfect World",
+      "existingPractices": [],
+      "placeholderIds": [
+        22
+      ],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "spiritual",
+            "operator": ">=",
+            "threshold": 0.6
+          },
+          {
+            "cycle": "physical",
+            "operator": ">=",
+            "threshold": 0.5
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 23,
+      "title": "The Flaw In The Code",
+      "existingPractices": [],
+      "placeholderIds": [
+        23
+      ],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "spiritual",
+            "operator": ">=",
+            "threshold": 0.7
+          },
+          {
+            "cycle": "emotional",
+            "operator": ">=",
+            "threshold": 0.5
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 24,
+      "title": "The Final Procedure",
+      "existingPractices": [],
+      "placeholderIds": [
+        24
+      ],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "spiritual",
+            "operator": ">=",
+            "threshold": 0.7
+          },
+          {
+            "cycle": "intellectual",
+            "operator": ">=",
+            "threshold": 0.5
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 25,
+      "title": "The Void Of Pure Potential",
+      "existingPractices": [],
+      "placeholderIds": [
+        25
+      ],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "spiritual",
+            "operator": ">=",
+            "threshold": 0.8
+          },
+          {
+            "cycle": "physical",
+            "operator": ">=",
+            "threshold": 0.6
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 26,
+      "title": "The Architecture Of New Reality",
+      "existingPractices": [],
+      "placeholderIds": [
+        26
+      ],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "spiritual",
+            "operator": ">=",
+            "threshold": 0.8
+          },
+          {
+            "cycle": "emotional",
+            "operator": ">=",
+            "threshold": 0.6
+          },
+          {
+            "cycle": "intellectual",
+            "operator": ">=",
+            "threshold": 0.6
+          }
+        ],
+        "logic": "AND"
+      }
+    },
+    {
+      "chapter": 27,
+      "title": "The New Beginning",
+      "existingPractices": [
+        {
+          "appId": 12,
+          "manuscriptChapter": 27,
+          "title": "The New Beginning",
+          "practice": "Architecture of New Reality",
+          "steps": 7,
+          "reflections": 4
+        }
+      ],
+      "placeholderIds": [
+        27
+      ],
+      "mobileConditions": {
+        "conditions": [
+          {
+            "cycle": "physical",
+            "operator": ">=",
+            "threshold": 0.6
+          },
+          {
+            "cycle": "emotional",
+            "operator": ">=",
+            "threshold": 0.6
+          },
+          {
+            "cycle": "intellectual",
+            "operator": ">=",
+            "threshold": 0.6
+          },
+          {
+            "cycle": "spiritual",
+            "operator": ">=",
+            "threshold": 0.6
+          }
+        ],
+        "logic": "AND"
+      }
+    }
+  ]
+}

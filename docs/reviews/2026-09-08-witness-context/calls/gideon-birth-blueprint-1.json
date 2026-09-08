@@ -1,0 +1,22 @@
+{
+  "job": "gideon-birth-blueprint",
+  "pass_index": 1,
+  "provider_gateway": "omniroute",
+  "requested_model": "noesis-observe",
+  "returned_model": "composer-2.5",
+  "resolved_provider": null,
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 7785,
+    "completion_tokens": 1443,
+    "total_tokens": 9228,
+    "completion_tokens_details": {
+      "reasoning_tokens": 438
+    },
+    "estimated": true
+  },
+  "latency_ms": 13716,
+  "input_sha256": "7f4e2a8b13f2c6cd5710ab3785be1ee8e4866b8f8a008f26376162578b92e43c",
+  "output_sha256": "3a25f3332f7da62631cb5297017af452fcb79fc10c50693d16889ae691edbc8a",
+  "failures": []
+}

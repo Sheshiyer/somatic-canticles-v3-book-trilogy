@@ -1,0 +1,141 @@
+{
+  "id": "jian-biofield-book1",
+  "input_status": "FROZEN EDITORIAL CALCULATION BASELINE v1 \u2014 fictional Earth-equivalent dates; not a manuscript rewrite",
+  "requested_engine": "biofield",
+  "requested_at": "2026-09-08T00:43:27.471265+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Jian Quoril",
+      "date": "1988-02-09",
+      "time": "04:45",
+      "latitude": 25.033,
+      "longitude": 121.5654,
+      "timezone": "Asia/Taipei"
+    },
+    "current_time": "2027-02-08T00:00:00Z",
+    "location": {
+      "latitude": 25.033,
+      "longitude": 121.5654
+    },
+    "precision": "standard",
+    "options": {}
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "biofield",
+    "result": {
+      "areas_of_attention": [
+        "Svadhisthana (Sacral) (Lower abdomen, below navel) - lower activity linked to Venus placement",
+        "Anahata (Heart) (Center of chest) - lower activity linked to Venus placement",
+        "Throat chakra shows right-dominant pattern",
+        "Crown chakra shows right-dominant pattern",
+        "Ketu in Virgo shows lower strength - related chakras may need attention"
+      ],
+      "chakra_readings": [
+        {
+          "activity_level": 0.5187499999999999,
+          "balance": 0.25,
+          "chakra": "Root",
+          "chakra_name": "Root",
+          "color_intensity": "moderate red",
+          "element": "Earth",
+          "location": "Base of spine, perineum"
+        },
+        {
+          "activity_level": 0.384375,
+          "balance": -0.2727272727272727,
+          "chakra": "Sacral",
+          "chakra_name": "Sacral",
+          "color_intensity": "dim orange",
+          "element": "Water",
+          "location": "Lower abdomen, below navel"
+        },
+        {
+          "activity_level": 0.5,
+          "balance": 0.2727272727272727,
+          "chakra": "SolarPlexus",
+          "chakra_name": "Solar Plexus",
+          "color_intensity": "dim yellow",
+          "element": "Fire",
+          "location": "Upper abdomen, stomach area"
+        },
+        {
+          "activity_level": 0.384375,
+          "balance": -0.2727272727272727,
+          "chakra": "Heart",
+          "chakra_name": "Heart",
+          "color_intensity": "dim green",
+          "element": "Air",
+          "location": "Center of chest"
+        },
+        {
+          "activity_level": 0.771875,
+          "balance": 0.5384615384615384,
+          "chakra": "Throat",
+          "chakra_name": "Throat",
+          "color_intensity": "bright blue",
+          "element": "Ether/Space",
+          "location": "Throat area"
+        },
+        {
+          "activity_level": 0.56125,
+          "balance": 0.2,
+          "chakra": "ThirdEye",
+          "chakra_name": "Third Eye",
+          "color_intensity": "moderate indigo",
+          "element": "Light",
+          "location": "Between eyebrows"
+        },
+        {
+          "activity_level": 0.6749999999999999,
+          "balance": 0.6363636363636364,
+          "chakra": "Crown",
+          "chakra_name": "Crown",
+          "color_intensity": "moderate violet",
+          "element": "Consciousness",
+          "location": "Top of head"
+        }
+      ],
+      "computation_mode": "vedic",
+      "interpretation": "Vitality is in a moderate range. Mercury in Aquarius provides the strongest planetary influence in your biofield. Your Vishuddha (Throat) shows the highest activity, supported by Mercury energy. Left-right balance shows some asymmetry worth observing.",
+      "is_mock_data": false,
+      "metrics": {
+        "coherence": 0.5633333333333334,
+        "entropy": 0.6982662536280608,
+        "fractal_dimension": 1.6,
+        "symmetry": 0.4223529411764706,
+        "timestamp": "2027-02-08T00:00:00Z",
+        "vitality_index": 0.5731238389609064
+      },
+      "witness_layer": {
+        "aletheios": {
+          "perspective": "One side of your field is quieter than the other. That quieter side is not broken \u2014 it is waiting. What has it been waiting to say?"
+        },
+        "pichet": {
+          "perspective": "The field is dynamic \u2014 entropy at 70%. Pichet sees this as aliveness, not chaos. What one action, even tiny, would honor the energy that is moving right now?"
+        },
+        "synthesis": "Between unconcealment and aliveness \u2014 what is the quality of this moment, exactly as it is?"
+      }
+    },
+    "witness_prompt": "What sensations do you notice in your body right now? Without trying to change anything, simply observe what is present. Your Throat chakra shows strong Mercury energy today. What sensations do you notice in your throat and neck? Bring gentle attention to your lower belly, below your navel. What is present there? If this area could speak, what might it want to express? Taking in your body as a whole, what is the overall felt sense? If you could describe it in one word or image, what would it be?",
+    "consciousness_level": 5,
+    "metadata": {
+      "calculation_time_ms": 1.097341,
+      "backend": "vedic-ephemeris",
+      "precision_achieved": "Standard",
+      "cached": false,
+      "timestamp": "2026-09-08T00:43:27.429260454Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "What sensations do you notice in your body right now? Without trying to change anything, simply observe what is present. Your Throat chakra shows strong Mercury energy today. What sensations do you notice in your throat and neck? Bring gentle attention to your lower belly, below your navel. What is present there? If this area could speak, what might it want to express? Taking in your body as a whole, what is the overall felt sense? If you could describe it in one word or image, what would it be?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:43:27.429260454+00:00",
+    "processing_time_ms": 1.097341
+  }
+}

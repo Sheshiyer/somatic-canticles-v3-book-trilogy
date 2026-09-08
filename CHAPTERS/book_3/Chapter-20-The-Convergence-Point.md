@@ -905,6 +905,8 @@ Jian nodded once. "Availability is not mercy."
 
 "No," Sona said. "And if I make it mercy, I will start forgiving things that have not asked to be forgiven."
 
+She felt the old wish to give the chamber a gentler ending. Her throat knew how. She let the wish remain without lending it her voice. There were people who would have to live with what happened here; relief in her own chest could not answer for them.
+
 Gideon's temptation was the least lyrical and perhaps the most dangerous. He wanted to secure the gap. Stabilize the chamber around it. Establish a perimeter. Prepare a response if it widened. Prepare another if it closed. Prepare a third if the Houses interrupted. Every instinct arranged itself into usefulness.
 
 He did none of it.

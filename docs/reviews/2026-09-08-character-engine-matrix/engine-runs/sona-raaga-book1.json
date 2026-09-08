@@ -1,0 +1,241 @@
+{
+  "id": "sona-raaga-book1",
+  "input_status": "PROPOSED FICTIONAL CALCULATION INPUTS - NOT CANON",
+  "requested_engine": "raaga",
+  "requested_at": "2026-09-08T00:35:35.801280+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Sona Vireth",
+      "date": "1991-06-17",
+      "time": "18:10",
+      "latitude": 22.5726,
+      "longitude": 88.3639,
+      "timezone": "Asia/Kolkata"
+    },
+    "current_time": "2027-02-01T06:00:00Z",
+    "location": {
+      "latitude": 22.5726,
+      "longitude": 88.3639
+    },
+    "precision": "standard",
+    "options": {
+      "melakarta": 15,
+      "root_hz": 220,
+      "request_clip": false
+    }
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "raaga",
+    "result": {
+      "arohana_indices": [
+        0,
+        1,
+        7,
+        9,
+        13,
+        14,
+        20,
+        22
+      ],
+      "avarohana_indices": [
+        22,
+        20,
+        14,
+        13,
+        9,
+        7,
+        1,
+        0
+      ],
+      "dosha_affinities": {
+        "kapha": true,
+        "pitta": false,
+        "vata": true
+      },
+      "generated_audio": {
+        "clip_url": null,
+        "metadata": {
+          "clip": {
+            "requested": false,
+            "status": "not_requested"
+          },
+          "dosha_match": null,
+          "engine": "raaga",
+          "melakarta": 15,
+          "name": "Mayamalavagaula",
+          "prahar": "Night",
+          "verification": {
+            "allNumsUnique1to72": true,
+            "doshaCoverage": {
+              "kapha": 8,
+              "pitta": 8,
+              "vata": 8
+            },
+            "is72": true,
+            "praharCoverage": 8,
+            "strudelReady": true,
+            "total": 72
+          }
+        },
+        "root_hz": 220,
+        "strudel_ratios": [
+          1,
+          1.0534979423868314,
+          1.25,
+          1.3333333333333333,
+          1.5,
+          1.5802469135802468,
+          1.875,
+          2
+        ]
+      },
+      "melakarta": {
+        "chakra": 3,
+        "ma_type": "shuddha",
+        "name": "Mayamalavagaula",
+        "num": 15
+      },
+      "prahar": {
+        "is_recommended_time": false,
+        "label": "Night",
+        "num": 7
+      },
+      "root_hz": 220,
+      "strudel_ratios": [
+        1,
+        1.0534979423868314,
+        1.25,
+        1.3333333333333333,
+        1.5,
+        1.5802469135802468,
+        1.875,
+        2
+      ],
+      "swaras": [
+        {
+          "hz": 220,
+          "ratio_decimal": 1,
+          "ratio_den": 1,
+          "ratio_num": 1,
+          "shruti_index": 0,
+          "swara": "Sa"
+        },
+        {
+          "hz": 231.77,
+          "ratio_decimal": 1.0534979423868314,
+          "ratio_den": 243,
+          "ratio_num": 256,
+          "shruti_index": 1,
+          "swara": "Re"
+        },
+        {
+          "hz": 275,
+          "ratio_decimal": 1.25,
+          "ratio_den": 4,
+          "ratio_num": 5,
+          "shruti_index": 7,
+          "swara": "Ga"
+        },
+        {
+          "hz": 293.333,
+          "ratio_decimal": 1.3333333333333333,
+          "ratio_den": 3,
+          "ratio_num": 4,
+          "shruti_index": 9,
+          "swara": "Ma"
+        },
+        {
+          "hz": 330,
+          "ratio_decimal": 1.5,
+          "ratio_den": 2,
+          "ratio_num": 3,
+          "shruti_index": 13,
+          "swara": "Pa"
+        },
+        {
+          "hz": 347.654,
+          "ratio_decimal": 1.5802469135802468,
+          "ratio_den": 81,
+          "ratio_num": 128,
+          "shruti_index": 14,
+          "swara": "Dha"
+        },
+        {
+          "hz": 412.5,
+          "ratio_decimal": 1.875,
+          "ratio_den": 8,
+          "ratio_num": 15,
+          "shruti_index": 20,
+          "swara": "Ni"
+        },
+        {
+          "hz": 440,
+          "ratio_decimal": 2,
+          "ratio_den": 1,
+          "ratio_num": 2,
+          "shruti_index": 22,
+          "swara": "Sa'"
+        }
+      ],
+      "total_melakartas": 72
+    },
+    "witness_prompt": "As you listen to Mayamalavagaula, notice where in your body the sound lands first. What does it illuminate?",
+    "consciousness_level": 0,
+    "metadata": {
+      "calculation_time_ms": 46.0,
+      "backend": "typescript",
+      "precision_achieved": "exact",
+      "cached": false,
+      "timestamp": "2026-09-08T00:35:35.765Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "As you listen to Mayamalavagaula, notice where in your body the sound lands first. What does it illuminate?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:35:35.765+00:00",
+    "processing_time_ms": 46.0,
+    "generated_audio": {
+      "clip_url": null,
+      "metadata": {
+        "clip": {
+          "requested": false,
+          "status": "not_requested"
+        },
+        "dosha_match": null,
+        "engine": "raaga",
+        "melakarta": 15,
+        "name": "Mayamalavagaula",
+        "prahar": "Night",
+        "verification": {
+          "allNumsUnique1to72": true,
+          "doshaCoverage": {
+            "kapha": 8,
+            "pitta": 8,
+            "vata": 8
+          },
+          "is72": true,
+          "praharCoverage": 8,
+          "strudelReady": true,
+          "total": 72
+        }
+      },
+      "root_hz": 220,
+      "strudel_ratios": [
+        1,
+        1.0534979423868314,
+        1.25,
+        1.3333333333333333,
+        1.5,
+        1.5802469135802468,
+        1.875,
+        2
+      ]
+    }
+  }
+}

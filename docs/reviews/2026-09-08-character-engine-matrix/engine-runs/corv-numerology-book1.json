@@ -1,0 +1,103 @@
+{
+  "id": "corv-numerology-book1",
+  "input_status": "PROPOSED FICTIONAL CALCULATION INPUTS - NOT CANON",
+  "requested_engine": "numerology",
+  "requested_at": "2026-09-08T00:21:22.134408+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Corvan Luminth",
+      "date": "1984-11-03",
+      "time": "07:20",
+      "latitude": 25.3176,
+      "longitude": 82.9739,
+      "timezone": "Asia/Kolkata"
+    },
+    "current_time": "2027-02-01T06:00:00Z",
+    "location": {
+      "latitude": 25.3176,
+      "longitude": 82.9739
+    },
+    "precision": "standard",
+    "options": {}
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "numerology",
+    "result": {
+      "birthday": {
+        "is_master": false,
+        "meaning": "Creativity, expression, joy",
+        "reduction_chain": [
+          3
+        ],
+        "value": 3
+      },
+      "chaldean_name": {
+        "is_master": false,
+        "meaning": "Analysis, wisdom, introspection",
+        "reduction_chain": [
+          52,
+          7
+        ],
+        "value": 7
+      },
+      "expression": {
+        "is_master": false,
+        "meaning": "Power, abundance, achievement",
+        "reduction_chain": [
+          62,
+          8
+        ],
+        "value": 8
+      },
+      "life_path": {
+        "is_master": false,
+        "meaning": "Compassion, completion, universal love",
+        "reduction_chain": [
+          36,
+          9
+        ],
+        "value": 9
+      },
+      "personality": {
+        "is_master": false,
+        "meaning": "Analysis, wisdom, introspection",
+        "reduction_chain": [
+          43,
+          7
+        ],
+        "value": 7
+      },
+      "soul_urge": {
+        "is_master": false,
+        "meaning": "Leadership, independence, pioneering",
+        "reduction_chain": [
+          19,
+          10,
+          1
+        ],
+        "value": 1
+      }
+    },
+    "witness_prompt": "Your Life Path 9 speaks of universal compassion. Notice: in your giving, have you also allowed yourself to receive?",
+    "consciousness_level": 0,
+    "metadata": {
+      "calculation_time_ms": 0.024713,
+      "backend": "native-rust",
+      "precision_achieved": "exact",
+      "cached": false,
+      "timestamp": "2026-09-08T00:21:22.112684364Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "Your Life Path 9 speaks of universal compassion. Notice: in your giving, have you also allowed yourself to receive?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:21:22.112684364+00:00",
+    "processing_time_ms": 0.024713
+  }
+}

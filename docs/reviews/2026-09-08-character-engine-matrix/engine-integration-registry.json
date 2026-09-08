@@ -1,0 +1,520 @@
+{
+  "schema_version": "1.0.0",
+  "status": "review-complete registry; proposed mappings; dates NOT frozen; final character reports pending date freeze and listed contract fixes",
+  "source_head": "9a05f5cc90777f083d7065e491484ef727aeada1",
+  "engines": [
+    {
+      "id": "panchanga",
+      "category": "calendar",
+      "inputs_to_freeze": "Date, instant, coordinates, timezone and natal/daily mode",
+      "output_scope": "Five limbs including vara",
+      "character_focus": "Team",
+      "proposed_outward_action": "Schedule a shared check-in, then respond to actual circumstances",
+      "limits": "Daily witness text is natal-worded; timezone semantics need care",
+      "live_info_status": 200,
+      "required_phase": 0,
+      "calculate_endpoint": "/api/v1/engines/panchanga/calculate",
+      "calculation_receipts": [
+        "engine-runs/team-panchanga-book1.json",
+        "engine-runs/team-panchanga-book2.json",
+        "engine-runs/team-panchanga-book3.json"
+      ],
+      "calculation_status": "receipts available; see field-level quality limits"
+    },
+    {
+      "id": "human-design",
+      "category": "natal",
+      "inputs_to_freeze": "Exact birth date, local time, timezone and coordinates",
+      "output_scope": "Type, authority, profile, gates, channels, centers",
+      "character_focus": "All four",
+      "proposed_outward_action": "Make distinct decision processes explicit before allocating work",
+      "limits": "No compatibility or moral score; internal consistency is not independent chart certification",
+      "live_info_status": 200,
+      "required_phase": 1,
+      "calculate_endpoint": "/api/v1/engines/human-design/calculate",
+      "calculation_receipts": [
+        "engine-runs/corv-human-design-book1.json",
+        "engine-runs/gideon-human-design-book1.json",
+        "engine-runs/jian-human-design-book1.json",
+        "engine-runs/sona-human-design-book1.json"
+      ],
+      "calculation_status": "receipts available; see field-level quality limits"
+    },
+    {
+      "id": "gene-keys",
+      "category": "contemplative",
+      "inputs_to_freeze": "Birth inputs or explicit HD gates",
+      "output_scope": "Activation keys and interpretive sequences",
+      "character_focus": "Corv; Jian; all",
+      "proposed_outward_action": "Recognize a familiar pattern and choose a different response",
+      "limits": "Default line 3 and confirmed label mismatches quarantined",
+      "live_info_status": 200,
+      "required_phase": 2,
+      "calculate_endpoint": "/api/v1/engines/gene-keys/calculate",
+      "calculation_receipts": [
+        "engine-runs/corv-gene-keys-book1.json",
+        "engine-runs/gideon-gene-keys-book1.json",
+        "engine-runs/jian-gene-keys-book1.json",
+        "engine-runs/sona-gene-keys-book1.json"
+      ],
+      "calculation_status": "receipts available; see field-level quality limits"
+    },
+    {
+      "id": "vimshottari",
+      "category": "long-period timing",
+      "inputs_to_freeze": "Birth inputs and evaluation instant",
+      "output_scope": "Nested planetary periods and transitions",
+      "character_focus": "All four",
+      "proposed_outward_action": "Revisit an old response under a different proposed period",
+      "limits": "Structured nesting only; periods do not cause or excuse conduct",
+      "live_info_status": 200,
+      "required_phase": 2,
+      "calculate_endpoint": "/api/v1/engines/vimshottari/calculate",
+      "calculation_receipts": [
+        "engine-runs/corv-vimshottari-book1.json",
+        "engine-runs/corv-vimshottari-book2.json",
+        "engine-runs/corv-vimshottari-book3.json",
+        "engine-runs/gideon-vimshottari-book1.json",
+        "engine-runs/gideon-vimshottari-book2.json",
+        "engine-runs/gideon-vimshottari-book3.json",
+        "engine-runs/jian-vimshottari-book1.json",
+        "engine-runs/jian-vimshottari-book2.json",
+        "engine-runs/jian-vimshottari-book3.json",
+        "engine-runs/sona-vimshottari-book1.json",
+        "engine-runs/sona-vimshottari-book2.json",
+        "engine-runs/sona-vimshottari-book3.json"
+      ],
+      "calculation_status": "receipts available; see field-level quality limits"
+    },
+    {
+      "id": "numerology",
+      "category": "symbolic identity",
+      "inputs_to_freeze": "Name and birth date; system choice",
+      "output_scope": "Name/date reductions and themes",
+      "character_focus": "Corv",
+      "proposed_outward_action": "Ask how an inherited name-story shapes a present choice",
+      "limits": "Symbolic arithmetic is not an objective personality diagnosis",
+      "live_info_status": 200,
+      "required_phase": 0,
+      "calculate_endpoint": "/api/v1/engines/numerology/calculate",
+      "calculation_receipts": [
+        "engine-runs/corv-numerology-book1.json",
+        "engine-runs/gideon-numerology-book1.json",
+        "engine-runs/jian-numerology-book1.json",
+        "engine-runs/sona-numerology-book1.json"
+      ],
+      "calculation_status": "receipts available; see field-level quality limits"
+    },
+    {
+      "id": "biorhythm",
+      "category": "calculated cycle",
+      "inputs_to_freeze": "Birth date and target date",
+      "output_scope": "23/28/33-day sine cycles",
+      "character_focus": "Jian",
+      "proposed_outward_action": "Compare an expectation with a lived observation and preserve disagreement",
+      "limits": "Not measured physiology or prana",
+      "live_info_status": 200,
+      "required_phase": 0,
+      "calculate_endpoint": "/api/v1/engines/biorhythm/calculate",
+      "calculation_receipts": [
+        "engine-runs/corv-biorhythm-book1.json",
+        "engine-runs/corv-biorhythm-book2.json",
+        "engine-runs/corv-biorhythm-book3.json",
+        "engine-runs/gideon-biorhythm-book1.json",
+        "engine-runs/gideon-biorhythm-book2.json",
+        "engine-runs/gideon-biorhythm-book3.json",
+        "engine-runs/jian-biorhythm-book1.json",
+        "engine-runs/jian-biorhythm-book2.json",
+        "engine-runs/jian-biorhythm-book3.json",
+        "engine-runs/sona-biorhythm-book1.json",
+        "engine-runs/sona-biorhythm-book2.json",
+        "engine-runs/sona-biorhythm-book3.json"
+      ],
+      "calculation_status": "receipts available; see field-level quality limits"
+    },
+    {
+      "id": "vedic-clock",
+      "category": "traditional time map",
+      "inputs_to_freeze": "Instant plus explicit timezone offset or supported timezone",
+      "output_scope": "Local hour, dosha, organ-clock correspondence",
+      "character_focus": "Team; Gideon",
+      "proposed_outward_action": "Make space for food, rest and a check-in in ordinary work",
+      "limits": "Traditional correspondence; no medical or performance guarantee",
+      "live_info_status": 200,
+      "required_phase": 0,
+      "calculate_endpoint": "/api/v1/engines/vedic-clock/calculate",
+      "calculation_receipts": [
+        "engine-runs/team-vedic-clock-book1.json",
+        "engine-runs/team-vedic-clock-book2.json",
+        "engine-runs/team-vedic-clock-book3.json"
+      ],
+      "calculation_status": "receipts available; see field-level quality limits"
+    },
+    {
+      "id": "biofield",
+      "category": "birth-derived symbolic map",
+      "inputs_to_freeze": "Birth inputs and target instant",
+      "output_scope": "Planet-chakra mappings and derived metrics",
+      "character_focus": "Sona; Gideon",
+      "proposed_outward_action": "Use a map as a question, then listen and adjust the real interaction",
+      "limits": "Vedic backend is not a camera capture or measured bodily field; is_mock=false is insufficient",
+      "live_info_status": 200,
+      "required_phase": 1,
+      "calculate_endpoint": "/api/v1/engines/biofield/calculate",
+      "calculation_receipts": [
+        "engine-runs/corv-biofield-book1.json",
+        "engine-runs/gideon-biofield-book1.json",
+        "engine-runs/jian-biofield-book1.json",
+        "engine-runs/sona-biofield-book1.json"
+      ],
+      "calculation_status": "receipts available; see field-level quality limits"
+    },
+    {
+      "id": "biofield-capture",
+      "category": "media-derived analysis",
+      "inputs_to_freeze": "Actual capture, consent and quality; sidecar availability",
+      "output_scope": "Capture analysis and persisted readings via dedicated workflow",
+      "character_focus": "Jian; Sona",
+      "proposed_outward_action": "Compare a repeat capture with self-report and environmental changes",
+      "limits": "No fictional fixture should masquerade as a physical measurement; not live exercised",
+      "live_info_status": 200,
+      "required_phase": 1,
+      "calculate_endpoint": "/api/v1/engines/biofield-capture/calculate",
+      "calculation_receipts": [],
+      "calculation_status": "not exercised; reviewed metadata/source contract"
+    },
+    {
+      "id": "face-reading",
+      "category": "image/heuristic interpretation",
+      "inputs_to_freeze": "Consented image for CV path; birth and heuristic fallbacks exist",
+      "output_scope": "Landmark/zone mapping plus traditional interpretations",
+      "character_focus": "Gideon; Corv",
+      "proposed_outward_action": "Notice an interpretation forming, ask the person, revise the assumption",
+      "limits": "Do not infer moral character, health, trustworthiness or destiny from facial appearance; non-mock can still mean heuristic",
+      "live_info_status": 200,
+      "required_phase": 1,
+      "calculate_endpoint": "/api/v1/engines/face-reading/calculate",
+      "calculation_receipts": [],
+      "calculation_status": "not exercised; reviewed metadata/source contract"
+    },
+    {
+      "id": "nadabrahman",
+      "category": "sound recommendation",
+      "inputs_to_freeze": "Instant, optional dosha, rasa/mood, chakra",
+      "output_scope": "Ranked Melakarta recommendations and note patterns",
+      "character_focus": "Sona",
+      "proposed_outward_action": "Listen, choose a candidate phrase, ask permission, observe response",
+      "limits": "Inspected implementation recommends; it does not substantiate advertised vocal analysis; UTC hour issue",
+      "live_info_status": 200,
+      "required_phase": 0,
+      "calculate_endpoint": "/api/v1/engines/nadabrahman/calculate",
+      "calculation_receipts": [
+        "engine-runs/team-nadabrahman-book1.json",
+        "engine-runs/team-nadabrahman-book2.json",
+        "engine-runs/team-nadabrahman-book3.json"
+      ],
+      "calculation_status": "receipts available; see field-level quality limits"
+    },
+    {
+      "id": "raaga",
+      "category": "musical structure",
+      "inputs_to_freeze": "Explicit Melakarta 1\u201372 or name, root Hz, optional clip request",
+      "output_scope": "Swaras, ratios, ascending/descending indices and optional audio",
+      "character_focus": "Sona",
+      "proposed_outward_action": "Try a short phrase and alter pacing or stop in response to the listener",
+      "limits": "Auto-time uses wall clock; use explicit Melakarta. Therapeutic labels are not demonstrated effects",
+      "live_info_status": 200,
+      "required_phase": 0,
+      "calculate_endpoint": "/api/v1/engines/raaga/calculate",
+      "calculation_receipts": [
+        "engine-runs/sona-raaga-book1.json"
+      ],
+      "calculation_status": "receipts available; see field-level quality limits"
+    },
+    {
+      "id": "tarot",
+      "category": "symbolic inquiry",
+      "inputs_to_freeze": "Question/spread or birth-card mode and recorded seed/options",
+      "output_scope": "Cards and interpretive prompts",
+      "character_focus": "Corv",
+      "proposed_outward_action": "Consider a neglected possibility before a real conversation",
+      "limits": "A draw cannot establish future events; freeze draw/seed, do not reroll for plot convenience",
+      "live_info_status": 200,
+      "required_phase": 0,
+      "calculate_endpoint": "/api/v1/engines/tarot/calculate",
+      "calculation_receipts": [],
+      "calculation_status": "not exercised; reviewed metadata/source contract"
+    },
+    {
+      "id": "i-ching",
+      "category": "symbolic change",
+      "inputs_to_freeze": "Question, explicit hexagram or seed/casting inputs",
+      "output_scope": "Primary/relating hexagrams and changing lines",
+      "character_focus": "Jian; Corv",
+      "proposed_outward_action": "Hold a transition question while testing an actual decision",
+      "limits": "Inspected implementation supports seeded selection; do not imply physical casting or prediction",
+      "live_info_status": 200,
+      "required_phase": 0,
+      "calculate_endpoint": "/api/v1/engines/i-ching/calculate",
+      "calculation_receipts": [],
+      "calculation_status": "not exercised; reviewed metadata/source contract"
+    },
+    {
+      "id": "enneagram",
+      "category": "self-pattern lookup",
+      "inputs_to_freeze": "Existing type or assessment inputs, retained with provenance",
+      "output_scope": "Type themes and prompts",
+      "character_focus": "All four",
+      "proposed_outward_action": "Notice motive, own harm, practise another response",
+      "limits": "Current four results were seeded by existing canon, not independently discovered",
+      "live_info_status": 200,
+      "required_phase": 1,
+      "calculate_endpoint": "/api/v1/engines/enneagram/calculate",
+      "calculation_receipts": [
+        "engine-runs/corv-enneagram-book1.json",
+        "engine-runs/gideon-enneagram-book1.json",
+        "engine-runs/jian-enneagram-book1.json",
+        "engine-runs/sona-enneagram-book1.json"
+      ],
+      "calculation_status": "receipts available; see field-level quality limits"
+    },
+    {
+      "id": "sacred-geometry",
+      "category": "visual contemplation",
+      "inputs_to_freeze": "Explicit form, intention and optional template",
+      "output_scope": "Geometric symbolism and visual guidance",
+      "character_focus": "Jian",
+      "proposed_outward_action": "Use a diagram to communicate a boundary, then test whether it is usable",
+      "limits": "Geometry does not establish energetic causation; preserve selected form",
+      "live_info_status": 200,
+      "required_phase": 0,
+      "calculate_endpoint": "/api/v1/engines/sacred-geometry/calculate",
+      "calculation_receipts": [],
+      "calculation_status": "not exercised; reviewed metadata/source contract"
+    },
+    {
+      "id": "sigil-forge",
+      "category": "intention artifact",
+      "inputs_to_freeze": "Intention, method/style, optional generation settings",
+      "output_scope": "Reduced intention/guidance and optional image",
+      "character_focus": "Gideon; Corv",
+      "proposed_outward_action": "Attach an intention to a concrete repeatable act and check follow-through",
+      "limits": "A symbol is not a substitute for action; do not claim an ungenerated image exists",
+      "live_info_status": 200,
+      "required_phase": 1,
+      "calculate_endpoint": "/api/v1/engines/sigil-forge/calculate",
+      "calculation_receipts": [],
+      "calculation_status": "not exercised; reviewed metadata/source contract"
+    },
+    {
+      "id": "transits",
+      "category": "current planetary context",
+      "inputs_to_freeze": "Birth inputs and target instant",
+      "output_scope": "Sidereal positions, aspects and Sade Sati context",
+      "character_focus": "All four",
+      "proposed_outward_action": "Compare a timing interpretation with actual conditions before choosing",
+      "limits": "Not a prediction of conduct or a substitute for observed consequences",
+      "live_info_status": 200,
+      "required_phase": 0,
+      "calculate_endpoint": "/api/v1/engines/transits/calculate",
+      "calculation_receipts": [
+        "engine-runs/corv-transits-book1.json",
+        "engine-runs/corv-transits-book2.json",
+        "engine-runs/corv-transits-book3.json",
+        "engine-runs/gideon-transits-book1.json",
+        "engine-runs/gideon-transits-book2.json",
+        "engine-runs/gideon-transits-book3.json",
+        "engine-runs/jian-transits-book1.json",
+        "engine-runs/jian-transits-book2.json",
+        "engine-runs/jian-transits-book3.json",
+        "engine-runs/sona-transits-book1.json",
+        "engine-runs/sona-transits-book2.json",
+        "engine-runs/sona-transits-book3.json"
+      ],
+      "calculation_status": "receipts available; see field-level quality limits"
+    },
+    {
+      "id": "financial-biosensor",
+      "category": "composite decision reflection",
+      "inputs_to_freeze": "Birth data, target instant, optional actual biometric sample",
+      "output_scope": "Five-engine composition and contributor provenance",
+      "character_focus": "Gideon; Jian",
+      "proposed_outward_action": "Consider resource allocation and who bears a decision's cost",
+      "limits": "Not a financial forecast, trade instruction or prana meter; inherits upstream GK limitations",
+      "live_info_status": 200,
+      "required_phase": 3,
+      "calculate_endpoint": "/api/v1/engines/financial-biosensor/calculate",
+      "calculation_receipts": [],
+      "calculation_status": "not exercised; reviewed metadata/source contract"
+    }
+  ],
+  "endpoints": [
+    {
+      "surface": "Selemene",
+      "method": "POST",
+      "path": "/api/v1/witness/interpret",
+      "purpose": "Birth/partner context plus required live_scores; returns Aletheios, Pichet, synthesis, witness_question, engines_used, llm_powered",
+      "evidence_limit": "Source uses Utc::now, no story as_of parameter; seven primary engines, four partner engines; partial failures tolerated. Do not fabricate live_scores. Not invoked."
+    },
+    {
+      "surface": "Selemene",
+      "method": "POST",
+      "path": "/api/v1/assets/generate",
+      "purpose": "Mode, report_level L0\u2013L5, subjects/locations and relationship context; passes, assembled text and source_pack",
+      "evidence_limit": "Inspected Rust route renders seed text; not full LLM report pipeline. Uses now and focused six-engine primary-subject seeds. Not invoked."
+    },
+    {
+      "surface": "Selemene",
+      "method": "GET",
+      "path": "/api/v1/readings",
+      "purpose": "Reading history; /stats and /:reading_id variants",
+      "evidence_limit": "Source route review only; unrelated user readings were not fetched."
+    },
+    {
+      "surface": "Selemene",
+      "method": "GET",
+      "path": "/api/v1/raga/:num/clip",
+      "purpose": "Existing clip lookup",
+      "evidence_limit": "Source route review only; a musical profile receipt is not an audio clip."
+    },
+    {
+      "surface": "Selemene",
+      "method": "POST",
+      "path": "/api/v1/biofield/sessions",
+      "purpose": "Create capture session; /:id/captures, /:id/close; readings, baselines and exports",
+      "evidence_limit": "Source workflow review; requires genuine capture inputs and storage proof."
+    },
+    {
+      "surface": "selemene-gw",
+      "method": "GET",
+      "path": "/health",
+      "purpose": "Version and KV key-presence booleans",
+      "evidence_limit": "Source only; KV values not read."
+    },
+    {
+      "surface": "selemene-gw",
+      "method": "ALL",
+      "path": "/api/v1/*",
+      "purpose": "Owner bearer authenticated proxy; injects upstream key from SELEMENE_SECRETS",
+      "evidence_limit": "KV stores gateway credentials, not the character canon. Deployment not verified here."
+    },
+    {
+      "surface": "pattern-memory worker",
+      "method": "POST",
+      "path": "/patterns",
+      "purpose": "Upsert extracted patterns to embeddings and durable storage",
+      "evidence_limit": "Source entrypoint has no auth gate; deployment and outer protection unverified. No writes performed."
+    },
+    {
+      "surface": "pattern-memory worker",
+      "method": "POST",
+      "path": "/patterns/query",
+      "purpose": "Retrieve by query, filters and limit",
+      "evidence_limit": "Source only; binding placeholders are not deployed endpoint evidence."
+    },
+    {
+      "surface": "pattern-memory worker",
+      "method": "GET",
+      "path": "/",
+      "purpose": "Name/version",
+      "evidence_limit": "Source only."
+    },
+    {
+      "surface": "llm-proxy worker",
+      "method": "POST",
+      "path": "provider proxy request",
+      "purpose": "Shared-secret gate then KV-backed provider routing",
+      "evidence_limit": "No general public KV CRUD endpoint established; reviewed source only."
+    }
+  ],
+  "somatic_layer": {
+    "engine_id": null,
+    "status": "proposed practice layer; no standalone somatic engine in live 19-engine inventory",
+    "sequence": [
+      "notice embodied experience",
+      "choose a contextual lens",
+      "try a consensual bounded outward action",
+      "observe effect and disagreement",
+      "repair or adjust",
+      "repeat in ordinary life"
+    ],
+    "nada_raaga_receipts": [
+      "engine-runs/team-nadabrahman-book1.json",
+      "engine-runs/sona-raaga-book1.json"
+    ],
+    "not_claimed": [
+      "automatic bodily diagnosis",
+      "guaranteed resonance",
+      "clinical healing",
+      "literal reality alteration"
+    ]
+  },
+  "freeze_contract": {
+    "status": "not_frozen",
+    "required": [
+      "birth local date/time/timezone/coordinates and calendar convention",
+      "chapter event instants and location/timezone",
+      "source and engine versions",
+      "explicit symbolic draw seeds or chosen forms",
+      "media provenance where applicable",
+      "actual report implementation/provider/model and fallback status",
+      "field-level quality exclusions",
+      "human review of interpretation and canon promotion"
+    ],
+    "replay_policy": "Change an input => new revision/hash and new dependent calculations. Preserve prior receipts; do not overwrite them or reroll to obtain a preferred result."
+  },
+  "sources": [
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/Selemene-engine/crates/noesis-api/src/lib.rs",
+      "sha256": "d929fb525e3458d4d5755434a7dbcd2627ce7b869befc0b18608f1d603994d1a"
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/Selemene-engine/crates/noesis-api/src/handlers/witness.rs",
+      "sha256": "99cc29975ea3339c3b2e255a984d55b14a93f8ee7f547da798af83b8d3e99c49"
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/Selemene-engine/crates/noesis-api/src/handlers/assets.rs",
+      "sha256": "766ef1f2f6a3236e815f60b567df201be04e473411f7a5f379d2ec490aab9455"
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/Selemene-engine/crates/engine-nadabrahman/src/engine.rs",
+      "sha256": "65db4d4af567fcd47351d538d0e31b09d52e4233cfc77bdbffc5366a361e1829"
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/Selemene-engine/ts-engines/src/engines/raaga/engine.ts",
+      "sha256": "c99cd6b6f41252c61a1f6ca31dfc48a5ee9c8ee4c442d82198f938bd61a49c20"
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/Selemene-engine/crates/engine-face-reading/src/engine.rs",
+      "sha256": "99d6cb8c2a2e260d962c2706b889454b2348b1dd0d0c943b745d2efb3dfa4015"
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/Selemene-engine/crates/engine-biofield/src/engine.rs",
+      "sha256": "c9e9f9048abe83e51f40a9d8d7acca34709e881db347f26a1c54bd97f0572126"
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/Selemene-engine/crates/engine-financial-biosensor/src/engine.rs",
+      "sha256": "427620b0566bdeec41465e5dbb71b5dc9f967ea2e1520a24bc11722d03331d88"
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/Selemene-engine/packages/witness-pipeline/src/orchestrator/integrated.ts",
+      "sha256": "9a1fb05b4aba2699d335a488593d0685b2c8e156bc5af2079c7898f7118d7897"
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/Selemene-engine/workers/pattern-memory/src/index.ts",
+      "sha256": "7c90af685300a7525f3df47b059fdd26b9e568120b09fcdad2af5f543403a9b7"
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/Selemene-engine/workers/pattern-memory/src/patterns/cloudflare-vectorize-lite.ts",
+      "sha256": "a162a390e829d7ab5c9f399142c1a64f5ba02079814a54252e919e9fdc36263b"
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/Selemene-engine/workers/selemene-gw/src/index.js",
+      "sha256": "55e4eba1cb1e86ca7d34dbbbb9f4919d6f657bf3a124807a274cbf37ad763cf8"
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/Selemene-engine/workers/llm-proxy/src/index.ts",
+      "sha256": "2501604a5eb063adb6b9d6dc8af6ce504a3e628f9270b9ad115f6f07d0131f71"
+    }
+  ]
+}

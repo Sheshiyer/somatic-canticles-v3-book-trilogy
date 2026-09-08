@@ -1,0 +1,217 @@
+[
+  {
+    "path": "/api/v1/engines/biofield/info",
+    "status": 200,
+    "body": {
+      "engine_id": "biofield",
+      "engine_name": "Biofield",
+      "required_phase": 1
+    }
+  },
+  {
+    "path": "/api/v1/engines/biofield-capture/info",
+    "status": 200,
+    "body": {
+      "engine_id": "biofield-capture",
+      "engine_name": "Biofield Capture",
+      "required_phase": 1
+    }
+  },
+  {
+    "path": "/api/v1/engines/biorhythm/info",
+    "status": 200,
+    "body": {
+      "engine_id": "biorhythm",
+      "engine_name": "Biorhythm",
+      "required_phase": 0
+    }
+  },
+  {
+    "path": "/api/v1/engines/enneagram/info",
+    "status": 200,
+    "body": {
+      "engine_id": "enneagram",
+      "engine_name": "Enneagram",
+      "required_phase": 1
+    }
+  },
+  {
+    "path": "/api/v1/engines/face-reading/info",
+    "status": 200,
+    "body": {
+      "engine_id": "face-reading",
+      "engine_name": "Face Reading",
+      "required_phase": 1
+    }
+  },
+  {
+    "path": "/api/v1/engines/financial-biosensor/info",
+    "status": 200,
+    "body": {
+      "engine_id": "financial-biosensor",
+      "engine_name": "Financial Biosensor",
+      "required_phase": 3
+    }
+  },
+  {
+    "path": "/api/v1/engines/gene-keys/info",
+    "status": 200,
+    "body": {
+      "engine_id": "gene-keys",
+      "engine_name": "Gene Keys",
+      "required_phase": 2
+    }
+  },
+  {
+    "path": "/api/v1/engines/human-design/info",
+    "status": 200,
+    "body": {
+      "engine_id": "human-design",
+      "engine_name": "Human Design",
+      "required_phase": 1
+    }
+  },
+  {
+    "path": "/api/v1/engines/i-ching/info",
+    "status": 200,
+    "body": {
+      "engine_id": "i-ching",
+      "engine_name": "I Ching",
+      "required_phase": 0
+    }
+  },
+  {
+    "path": "/api/v1/engines/nadabrahman/info",
+    "status": 200,
+    "body": {
+      "engine_id": "nadabrahman",
+      "engine_name": "NadaBrahman",
+      "required_phase": 0
+    }
+  },
+  {
+    "path": "/api/v1/engines/numerology/info",
+    "status": 200,
+    "body": {
+      "engine_id": "numerology",
+      "engine_name": "Numerology",
+      "required_phase": 0
+    }
+  },
+  {
+    "path": "/api/v1/engines/panchanga/info",
+    "status": 200,
+    "body": {
+      "engine_id": "panchanga",
+      "engine_name": "Panchanga",
+      "required_phase": 0
+    }
+  },
+  {
+    "path": "/api/v1/engines/raaga/info",
+    "status": 200,
+    "body": {
+      "engine_id": "raaga",
+      "engine_name": "Raaga",
+      "required_phase": 0
+    }
+  },
+  {
+    "path": "/api/v1/engines/sacred-geometry/info",
+    "status": 200,
+    "body": {
+      "engine_id": "sacred-geometry",
+      "engine_name": "Sacred Geometry",
+      "required_phase": 0
+    }
+  },
+  {
+    "path": "/api/v1/engines/sigil-forge/info",
+    "status": 200,
+    "body": {
+      "engine_id": "sigil-forge",
+      "engine_name": "Sigil Forge",
+      "required_phase": 1
+    }
+  },
+  {
+    "path": "/api/v1/engines/tarot/info",
+    "status": 200,
+    "body": {
+      "engine_id": "tarot",
+      "engine_name": "Tarot",
+      "required_phase": 0
+    }
+  },
+  {
+    "path": "/api/v1/engines/transits/info",
+    "status": 200,
+    "body": {
+      "engine_id": "transits",
+      "engine_name": "Planetary Transits",
+      "required_phase": 0
+    }
+  },
+  {
+    "path": "/api/v1/engines/vedic-clock/info",
+    "status": 200,
+    "body": {
+      "engine_id": "vedic-clock",
+      "engine_name": "Vedic Clock",
+      "required_phase": 0
+    }
+  },
+  {
+    "path": "/api/v1/engines/vimshottari/info",
+    "status": 200,
+    "body": {
+      "engine_id": "vimshottari",
+      "engine_name": "Vimshottari Dasha",
+      "required_phase": 2
+    }
+  },
+  {
+    "path": "/api/v1/workflows",
+    "status": 200,
+    "body": {
+      "workflows": [
+        {
+          "id": "birth-blueprint",
+          "name": "Birth Blueprint",
+          "description": "Core identity mapping through birth data analysis",
+          "engine_count": 5
+        },
+        {
+          "id": "creative-expression",
+          "name": "Creative Expression",
+          "description": "Creative and aesthetic exploration through symbols",
+          "engine_count": 5
+        },
+        {
+          "id": "daily-practice",
+          "name": "Daily Practice",
+          "description": "Daily rhythm calibration through temporal analysis",
+          "engine_count": 5
+        },
+        {
+          "id": "decision-support",
+          "name": "Decision Support",
+          "description": "Multi-system decision mirrors for clarity",
+          "engine_count": 5
+        },
+        {
+          "id": "full-spectrum",
+          "name": "Full Spectrum",
+          "description": "Complete integration of all consciousness engines",
+          "engine_count": 17
+        },
+        {
+          "id": "self-inquiry",
+          "name": "Self-Inquiry",
+          "description": "Deep self-consciousness exploration and shadow work",
+          "engine_count": 4
+        }
+      ]
+    }
+  }
+]

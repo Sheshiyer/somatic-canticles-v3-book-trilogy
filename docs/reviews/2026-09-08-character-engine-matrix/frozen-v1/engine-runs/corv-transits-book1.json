@@ -1,0 +1,432 @@
+{
+  "id": "corv-transits-book1",
+  "input_status": "FROZEN EDITORIAL CALCULATION BASELINE v1 \u2014 fictional Earth-equivalent dates; not a manuscript rewrite",
+  "requested_engine": "transits",
+  "requested_at": "2026-09-08T00:43:07.150540+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Corvan Luminth",
+      "date": "1984-11-03",
+      "time": "07:20",
+      "latitude": 25.3176,
+      "longitude": 82.9739,
+      "timezone": "Asia/Kolkata"
+    },
+    "current_time": "2027-02-08T00:00:00Z",
+    "location": {
+      "latitude": 25.3176,
+      "longitude": 82.9739
+    },
+    "precision": "standard",
+    "options": {}
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "transits",
+    "result": {
+      "aspects": [
+        {
+          "aspect_type": "Square",
+          "is_applying": false,
+          "natal_planet": "Saturn",
+          "nature": "Challenging",
+          "orb": 0.3,
+          "transiting_planet": "Sun"
+        },
+        {
+          "aspect_type": "Trine",
+          "is_applying": false,
+          "natal_planet": "Pluto",
+          "nature": "Harmonious",
+          "orb": 0.77,
+          "transiting_planet": "Moon"
+        },
+        {
+          "aspect_type": "Square",
+          "is_applying": false,
+          "natal_planet": "Jupiter",
+          "nature": "Challenging",
+          "orb": 1.12,
+          "transiting_planet": "Saturn"
+        },
+        {
+          "aspect_type": "Trine",
+          "is_applying": true,
+          "natal_planet": "Uranus",
+          "nature": "Harmonious",
+          "orb": 1.56,
+          "transiting_planet": "Saturn"
+        },
+        {
+          "aspect_type": "Sextile",
+          "is_applying": false,
+          "natal_planet": "Venus",
+          "nature": "Harmonious",
+          "orb": 1.58,
+          "transiting_planet": "Sun"
+        },
+        {
+          "aspect_type": "Square",
+          "is_applying": false,
+          "natal_planet": "Saturn",
+          "nature": "Challenging",
+          "orb": 1.85,
+          "transiting_planet": "Rahu"
+        },
+        {
+          "aspect_type": "Square",
+          "is_applying": true,
+          "natal_planet": "Saturn",
+          "nature": "Challenging",
+          "orb": 1.85,
+          "transiting_planet": "Ketu"
+        },
+        {
+          "aspect_type": "Square",
+          "is_applying": false,
+          "natal_planet": "Neptune",
+          "nature": "Challenging",
+          "orb": 2.49,
+          "transiting_planet": "Neptune"
+        },
+        {
+          "aspect_type": "Square",
+          "is_applying": false,
+          "natal_planet": "Pluto",
+          "nature": "Challenging",
+          "orb": 2.53,
+          "transiting_planet": "Pluto"
+        },
+        {
+          "aspect_type": "Square",
+          "is_applying": false,
+          "natal_planet": "Mercury",
+          "nature": "Challenging",
+          "orb": 3.07,
+          "transiting_planet": "Jupiter"
+        },
+        {
+          "aspect_type": "Sextile",
+          "is_applying": false,
+          "natal_planet": "Venus",
+          "nature": "Harmonious",
+          "orb": 3.13,
+          "transiting_planet": "Rahu"
+        },
+        {
+          "aspect_type": "Trine",
+          "is_applying": true,
+          "natal_planet": "Venus",
+          "nature": "Harmonious",
+          "orb": 3.13,
+          "transiting_planet": "Ketu"
+        },
+        {
+          "aspect_type": "Conjunction",
+          "is_applying": true,
+          "natal_planet": "Rahu",
+          "nature": "Neutral",
+          "orb": 3.52,
+          "transiting_planet": "Uranus"
+        },
+        {
+          "aspect_type": "Opposition",
+          "is_applying": true,
+          "natal_planet": "Ketu",
+          "nature": "Challenging",
+          "orb": 3.52,
+          "transiting_planet": "Uranus"
+        },
+        {
+          "aspect_type": "Square",
+          "is_applying": true,
+          "natal_planet": "Saturn",
+          "nature": "Challenging",
+          "orb": 3.76,
+          "transiting_planet": "Jupiter"
+        },
+        {
+          "aspect_type": "Trine",
+          "is_applying": false,
+          "natal_planet": "Ketu",
+          "nature": "Harmonious",
+          "orb": 4.35,
+          "transiting_planet": "Neptune"
+        },
+        {
+          "aspect_type": "Square",
+          "is_applying": true,
+          "natal_planet": "Mercury",
+          "nature": "Challenging",
+          "orb": 4.98,
+          "transiting_planet": "Rahu"
+        },
+        {
+          "aspect_type": "Square",
+          "is_applying": false,
+          "natal_planet": "Mercury",
+          "nature": "Challenging",
+          "orb": 4.98,
+          "transiting_planet": "Ketu"
+        },
+        {
+          "aspect_type": "Trine",
+          "is_applying": true,
+          "natal_planet": "Venus",
+          "nature": "Harmonious",
+          "orb": 5.04,
+          "transiting_planet": "Jupiter"
+        },
+        {
+          "aspect_type": "Square",
+          "is_applying": false,
+          "natal_planet": "Rahu",
+          "nature": "Challenging",
+          "orb": 5.72,
+          "transiting_planet": "Jupiter"
+        },
+        {
+          "aspect_type": "Square",
+          "is_applying": false,
+          "natal_planet": "Ketu",
+          "nature": "Challenging",
+          "orb": 5.72,
+          "transiting_planet": "Jupiter"
+        },
+        {
+          "aspect_type": "Square",
+          "is_applying": true,
+          "natal_planet": "Sun",
+          "nature": "Challenging",
+          "orb": 5.88,
+          "transiting_planet": "Pluto"
+        },
+        {
+          "aspect_type": "Opposition",
+          "is_applying": true,
+          "natal_planet": "Mercury",
+          "nature": "Challenging",
+          "orb": 6.17,
+          "transiting_planet": "Uranus"
+        }
+      ],
+      "natal_positions": [
+        {
+          "degree_in_sign": 17.18,
+          "is_retrograde": false,
+          "longitude": 197.181,
+          "planet": "Sun",
+          "sign": "Libra"
+        },
+        {
+          "degree_in_sign": 15.34,
+          "is_retrograde": false,
+          "longitude": 315.336,
+          "planet": "Moon",
+          "sign": "Aquarius"
+        },
+        {
+          "degree_in_sign": 1.27,
+          "is_retrograde": false,
+          "longitude": 211.273,
+          "planet": "Mercury",
+          "sign": "Scorpio"
+        },
+        {
+          "degree_in_sign": 23.16,
+          "is_retrograde": false,
+          "longitude": 233.162,
+          "planet": "Venus",
+          "sign": "Scorpio"
+        },
+        {
+          "degree_in_sign": 26.94,
+          "is_retrograde": false,
+          "longitude": 266.944,
+          "planet": "Mars",
+          "sign": "Sagittarius"
+        },
+        {
+          "degree_in_sign": 15.54,
+          "is_retrograde": false,
+          "longitude": 255.54,
+          "planet": "Jupiter",
+          "sign": "Sagittarius"
+        },
+        {
+          "degree_in_sign": 24.44,
+          "is_retrograde": false,
+          "longitude": 204.443,
+          "planet": "Saturn",
+          "sign": "Libra"
+        },
+        {
+          "degree_in_sign": 18.22,
+          "is_retrograde": false,
+          "longitude": 228.219,
+          "planet": "Uranus",
+          "sign": "Scorpio"
+        },
+        {
+          "degree_in_sign": 5.79,
+          "is_retrograde": false,
+          "longitude": 245.788,
+          "planet": "Neptune",
+          "sign": "Sagittarius"
+        },
+        {
+          "degree_in_sign": 8.78,
+          "is_retrograde": false,
+          "longitude": 188.778,
+          "planet": "Pluto",
+          "sign": "Libra"
+        },
+        {
+          "degree_in_sign": 3.92,
+          "is_retrograde": true,
+          "longitude": 33.924,
+          "planet": "Rahu",
+          "sign": "Taurus"
+        },
+        {
+          "degree_in_sign": 3.92,
+          "is_retrograde": false,
+          "longitude": 213.924,
+          "planet": "Ketu",
+          "sign": "Scorpio"
+        }
+      ],
+      "period_quality": "Difficult",
+      "retrograde_planets": [
+        "Mars",
+        "Jupiter",
+        "Uranus",
+        "Ketu"
+      ],
+      "sade_sati": {
+        "is_active": true,
+        "moon_sign": "Aquarius",
+        "phase": "Setting (2nd from Moon)",
+        "saturn_sign": "Pisces"
+      },
+      "transit_positions": [
+        {
+          "degree_in_sign": 24.75,
+          "is_retrograde": false,
+          "longitude": 294.746,
+          "planet": "Sun",
+          "sign": "Capricorn",
+          "speed": 1.0134
+        },
+        {
+          "degree_in_sign": 9.55,
+          "is_retrograde": false,
+          "longitude": 309.553,
+          "planet": "Moon",
+          "sign": "Aquarius",
+          "speed": 12.1935
+        },
+        {
+          "degree_in_sign": 11.48,
+          "is_retrograde": false,
+          "longitude": 311.477,
+          "planet": "Mercury",
+          "sign": "Aquarius",
+          "speed": 0.308
+        },
+        {
+          "degree_in_sign": 10.82,
+          "is_retrograde": false,
+          "longitude": 250.823,
+          "planet": "Venus",
+          "sign": "Sagittarius",
+          "speed": 1.1554
+        },
+        {
+          "degree_in_sign": 10.98,
+          "is_retrograde": true,
+          "longitude": 130.979,
+          "planet": "Mars",
+          "sign": "Leo",
+          "speed": -0.3483
+        },
+        {
+          "degree_in_sign": 28.2,
+          "is_retrograde": true,
+          "longitude": 118.205,
+          "planet": "Jupiter",
+          "sign": "Cancer",
+          "speed": -0.1323
+        },
+        {
+          "degree_in_sign": 16.66,
+          "is_retrograde": false,
+          "longitude": 346.661,
+          "planet": "Saturn",
+          "sign": "Pisces",
+          "speed": 0.0933
+        },
+        {
+          "degree_in_sign": 7.45,
+          "is_retrograde": true,
+          "longitude": 37.447,
+          "planet": "Uranus",
+          "sign": "Taurus",
+          "speed": -0.0005
+        },
+        {
+          "degree_in_sign": 8.27,
+          "is_retrograde": false,
+          "longitude": 338.273,
+          "planet": "Neptune",
+          "sign": "Pisces",
+          "speed": 0.0294
+        },
+        {
+          "degree_in_sign": 11.3,
+          "is_retrograde": false,
+          "longitude": 281.303,
+          "planet": "Pluto",
+          "sign": "Capricorn",
+          "speed": 0.0311
+        },
+        {
+          "degree_in_sign": 26.29,
+          "is_retrograde": false,
+          "longitude": 296.29,
+          "planet": "Rahu",
+          "sign": "Capricorn",
+          "speed": 0.0015
+        },
+        {
+          "degree_in_sign": 26.29,
+          "is_retrograde": true,
+          "longitude": 116.29,
+          "planet": "Ketu",
+          "sign": "Cancer",
+          "speed": -0.0015
+        }
+      ]
+    },
+    "witness_prompt": "If Saturn is the teacher and your Moon is the student, what lesson has already been learned that your mind hasn't caught up to? Can you rest in the knowing that precedes understanding?\n\nMars, Jupiter, Uranus, Ketu in apparent retrograde. The cosmos mirrors: all forward motion contains return. What is the still point around which your apparent progress revolves?\n\nTransit Sun Square natal Saturn. Pressure creates diamonds. What is being compressed in you right now, and can you trust that compression serves crystallization?\n\nDifficult transits break the shell so the seed can sprout. What is the shell? What is the seed? Can you be both the breaking and the becoming?",
+    "consciousness_level": 5,
+    "metadata": {
+      "calculation_time_ms": 3.146197,
+      "backend": "swiss-ephemeris",
+      "precision_achieved": "Standard",
+      "cached": false,
+      "timestamp": "2026-09-08T00:43:07.113922751Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "If Saturn is the teacher and your Moon is the student, what lesson has already been learned that your mind hasn't caught up to? Can you rest in the knowing that precedes understanding?\n\nMars, Jupiter, Uranus, Ketu in apparent retrograde. The cosmos mirrors: all forward motion contains return. What is the still point around which your apparent progress revolves?\n\nTransit Sun Square natal Saturn. Pressure creates diamonds. What is being compressed in you right now, and can you trust that compression serves crystallization?\n\nDifficult transits break the shell so the seed can sprout. What is the shell? What is the seed? Can you be both the breaking and the becoming?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:43:07.113922751+00:00",
+    "processing_time_ms": 3.146197
+  }
+}

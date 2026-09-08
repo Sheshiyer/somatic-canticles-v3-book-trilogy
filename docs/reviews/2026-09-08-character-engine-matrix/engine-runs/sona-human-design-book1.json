@@ -1,0 +1,197 @@
+{
+  "id": "sona-human-design-book1",
+  "input_status": "PROPOSED FICTIONAL CALCULATION INPUTS - NOT CANON",
+  "requested_engine": "human-design",
+  "requested_at": "2026-09-08T00:21:23.812600+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Sona Vireth",
+      "date": "1991-06-17",
+      "time": "18:10",
+      "latitude": 22.5726,
+      "longitude": 88.3639,
+      "timezone": "Asia/Kolkata"
+    },
+    "current_time": "2027-02-01T06:00:00Z",
+    "location": {
+      "latitude": 22.5726,
+      "longitude": 88.3639
+    },
+    "precision": "standard",
+    "options": {}
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "human-design",
+    "result": {
+      "active_channels": [
+        "45-21",
+        "59-6"
+      ],
+      "authority": "Emotional",
+      "defined_centers": [
+        "SolarPlexus",
+        "Throat",
+        "Sacral",
+        "Heart"
+      ],
+      "definition": "Split",
+      "design_activations": {
+        "earth": {
+          "gate": 6,
+          "line": 6,
+          "longitude": 177.83823460950998
+        },
+        "jupiter": {
+          "gate": 31,
+          "line": 2,
+          "longitude": 123.76358478500502
+        },
+        "mars": {
+          "gate": 45,
+          "line": 6,
+          "longitude": 82.22852484108444
+        },
+        "mercury": {
+          "gate": 21,
+          "line": 4,
+          "longitude": 13.043330902620236
+        },
+        "moon": {
+          "gate": 3,
+          "line": 6,
+          "longitude": 31.274014301617143
+        },
+        "neptune": {
+          "gate": 54,
+          "line": 2,
+          "longitude": 286.50092186461535
+        },
+        "northnode": {
+          "gate": 61,
+          "line": 6,
+          "longitude": 295.9439426676907
+        },
+        "pluto": {
+          "gate": 43,
+          "line": 2,
+          "longitude": 230.19919811086953
+        },
+        "saturn": {
+          "gate": 41,
+          "line": 3,
+          "longitude": 304.13666394477724
+        },
+        "southnode": {
+          "gate": 62,
+          "line": 6,
+          "longitude": 115.94394266769069
+        },
+        "sun": {
+          "gate": 36,
+          "line": 6,
+          "longitude": 357.83823460951004
+        },
+        "uranus": {
+          "gate": 38,
+          "line": 5,
+          "longitude": 283.4216123126532
+        },
+        "venus": {
+          "gate": 3,
+          "line": 4,
+          "longitude": 30.055686500768115
+        }
+      },
+      "hd_type": "ManifestingGenerator",
+      "personality_activations": {
+        "earth": {
+          "gate": 11,
+          "line": 4,
+          "longitude": 265.8382163092696
+        },
+        "jupiter": {
+          "gate": 33,
+          "line": 5,
+          "longitude": 131.81295176788194
+        },
+        "mars": {
+          "gate": 33,
+          "line": 6,
+          "longitude": 133.02466623427728
+        },
+        "mercury": {
+          "gate": 12,
+          "line": 4,
+          "longitude": 86.25473807807496
+        },
+        "moon": {
+          "gate": 59,
+          "line": 6,
+          "longitude": 155.01428364880246
+        },
+        "neptune": {
+          "gate": 54,
+          "line": 1,
+          "longitude": 285.91979790570707
+        },
+        "northnode": {
+          "gate": 54,
+          "line": 5,
+          "longitude": 289.12063811057055
+        },
+        "pluto": {
+          "gate": 1,
+          "line": 6,
+          "longitude": 228.01368201083736
+        },
+        "saturn": {
+          "gate": 41,
+          "line": 5,
+          "longitude": 306.07340864419234
+        },
+        "southnode": {
+          "gate": 53,
+          "line": 5,
+          "longitude": 109.12063811057055
+        },
+        "sun": {
+          "gate": 12,
+          "line": 4,
+          "longitude": 85.83821630926961
+        },
+        "uranus": {
+          "gate": 38,
+          "line": 4,
+          "longitude": 282.49422760390644
+        },
+        "venus": {
+          "gate": 33,
+          "line": 4,
+          "longitude": 131.1467900050454
+        }
+      },
+      "profile": "4/6"
+    },
+    "witness_prompt": "How do you experience yourself riding the emotional wave before making decisions, without forcing clarity? And how do you notice the bridging energy when others enter your field, connecting what feels separate?",
+    "consciousness_level": 5,
+    "metadata": {
+      "calculation_time_ms": 4.0159,
+      "backend": "swiss-ephemeris",
+      "precision_achieved": "Standard",
+      "cached": false,
+      "timestamp": "2026-09-08T00:21:23.759189919Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "How do you experience yourself riding the emotional wave before making decisions, without forcing clarity? And how do you notice the bridging energy when others enter your field, connecting what feels separate?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:21:23.759189919+00:00",
+    "processing_time_ms": 4.0159
+  }
+}

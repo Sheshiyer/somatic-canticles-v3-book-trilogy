@@ -37,6 +37,10 @@ Gideon’s boundary tightened around the team in the smallest honest shape it co
 
 Corv listened to the sentence sequence and knew they had crossed the real threshold. Not severance—that had already happened. Authorship.
 
+They had not arrived without an inheritance. Gideon still noticed an exposed edge before an open way; Corv still reached for a story. Corv could feel the latent pull he called destiny without knowing everything it might make possible. The old habits were familiar; they were not the whole blueprint. Neither the habit nor the possibility could take the next step for him.
+
+He watched Gideon leave a gap in the boundary, large enough to choose an exit, and kept himself from explaining the gap away.
+
 They did not begin by inventing physics. That would have been Jian’s old mistake and, in a different register, Corv’s too: to believe the most important part of a world was the elegance of its explanation.
 
 The void itself refused that order.

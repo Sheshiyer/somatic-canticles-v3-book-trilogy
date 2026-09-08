@@ -1,0 +1,3 @@
+- What is the one thing from this reading that feels most alive right now?
+- Where do you notice resistance, and what is it protecting?
+- What is the smallest step that honors what this reading named?

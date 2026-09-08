@@ -1,0 +1,21 @@
+{
+  "job": "corv-integrated-reading",
+  "pass_index": 1,
+  "provider_gateway": "omniroute",
+  "requested_model": "noesis-observe",
+  "returned_model": "gpt-5.3-codex-spark",
+  "resolved_provider": null,
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 5859,
+    "completion_tokens": 8107,
+    "total_tokens": 13966,
+    "completion_tokens_details": {
+      "reasoning_tokens": 5223
+    }
+  },
+  "latency_ms": 9546,
+  "input_sha256": "829e3ab29798e1e35e8ddcfcd36aedf4399bdec466be5593f26e8cd404b8eb27",
+  "output_sha256": "fd489f76608412b3b5de60906f35c06910237e5f3327e16f3ef0e1147b78c385",
+  "failures": []
+}

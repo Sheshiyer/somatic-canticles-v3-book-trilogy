@@ -1,0 +1,68 @@
+{
+  "id": "team-panchanga-book2",
+  "input_status": "FROZEN EDITORIAL CALCULATION BASELINE v1 \u2014 fictional Earth-equivalent dates; not a manuscript rewrite",
+  "requested_engine": "panchanga",
+  "requested_at": "2026-09-08T00:43:28.754822+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Corvan Luminth",
+      "date": "1984-11-03",
+      "time": "07:20",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "timezone": "UTC"
+    },
+    "current_time": "2027-02-08T06:00:00Z",
+    "location": {
+      "latitude": 12.9716,
+      "longitude": 77.5946
+    },
+    "precision": "standard",
+    "options": {
+      "mode": "daily"
+    }
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "panchanga",
+    "result": {
+      "julian_day": 2461444.75,
+      "karana_index": 1,
+      "karana_name": "Balava",
+      "karana_value": 3.0,
+      "lunar_longitude": 313.1215807970209,
+      "nakshatra_index": 23,
+      "nakshatra_name": "Shatabhisha",
+      "nakshatra_value": 23.484118559776565,
+      "solar_longitude": 295.51466325063495,
+      "tithi_index": 1,
+      "tithi_name": "Dwitiya (Shukla)",
+      "tithi_value": 1.4672431288654952,
+      "vara_index": 1,
+      "vara_name": "Somavara (Monday)",
+      "yoga_index": 18,
+      "yoga_name": "Parigha",
+      "yoga_value": 18.647718303574187
+    },
+    "witness_prompt": "You were born under Tithi Dwitiya (Shukla) and Nakshatra Shatabhisha. The Tithi reflects the angle between Sun and Moon at your birth \u2014 a mirror of the dance between your conscious will and emotional nature. What pattern do you notice when your intentions and feelings are misaligned?",
+    "consciousness_level": 0,
+    "metadata": {
+      "calculation_time_ms": 0.17624900000000002,
+      "backend": "native-rust",
+      "precision_achieved": "Standard",
+      "cached": false,
+      "timestamp": "2026-09-08T00:43:28.720165558Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "You were born under Tithi Dwitiya (Shukla) and Nakshatra Shatabhisha. The Tithi reflects the angle between Sun and Moon at your birth \u2014 a mirror of the dance between your conscious will and emotional nature. What pattern do you notice when your intentions and feelings are misaligned?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:43:28.720165558+00:00",
+    "processing_time_ms": 0.17624900000000002
+  }
+}

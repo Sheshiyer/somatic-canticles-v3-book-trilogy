@@ -1,0 +1,29 @@
+{
+  "job": "gideon-birth-blueprint",
+  "pass_index": 0,
+  "provider_gateway": "omniroute",
+  "requested_model": "noesis-observe",
+  "returned_model": "gemini-3.7-flash",
+  "resolved_provider": null,
+  "finish_reason": "length",
+  "usage": {
+    "prompt_tokens": 4260,
+    "completion_tokens": 1796,
+    "total_tokens": 6056,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1125,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "latency_ms": 29356,
+  "input_sha256": "ab5be7e23ab5993fedefb1e8babaa447516baf8faa08cbf7ff8df09e45d7896f",
+  "output_sha256": "c54a3c659c58831bbb62a660325b073920279b49899a004abca5e25189068c9e",
+  "failures": []
+}

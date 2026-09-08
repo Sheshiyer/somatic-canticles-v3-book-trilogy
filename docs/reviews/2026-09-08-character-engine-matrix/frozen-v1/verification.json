@@ -1,0 +1,42 @@
+{
+  "gate": "PASS_WITH_EXCLUSIONS",
+  "meaning": "Enough for a reproducible editorial mapping baseline, not certification of every engine or final interpretation report.",
+  "receipt_count": 74,
+  "all_http_200": true,
+  "request_instants_match_freeze": true,
+  "vimshottari_period_containment": true,
+  "natal_channel_consistency": 4,
+  "pairs": 6,
+  "chapter_character_cells": 108,
+  "six_week_gap_exact": true,
+  "field_exclusions": [
+    {
+      "field": "gene-keys active_keys.line",
+      "reason": "Fixed/default line 3; use actual HD gate.line separately"
+    },
+    {
+      "field": "gene-keys labels",
+      "reason": "Confirmed authoritative label mismatch; descriptive set withheld"
+    },
+    {
+      "field": "nadabrahman local-time suitability",
+      "reason": "UTC-hour basis not resolved to scene local time"
+    },
+    {
+      "field": "raaga prahar/time suitability",
+      "reason": "Server wall clock; explicit Melakarta musical data retained"
+    },
+    {
+      "field": "biofield metrics as physiology",
+      "reason": "Birth-derived symbolic values, not physical measurement"
+    },
+    {
+      "field": "consciousness_level / suggested Siddhi",
+      "reason": "Not evidence of character attainment"
+    },
+    {
+      "field": "generic witness prose for timing",
+      "reason": "Known natal/day wording and nesting errors; structured fields retained"
+    }
+  ]
+}

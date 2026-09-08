@@ -1,0 +1,21 @@
+{
+  "job": "sona-birth-blueprint",
+  "pass_index": 1,
+  "provider_gateway": "omniroute",
+  "requested_model": "noesis-observe",
+  "returned_model": "gpt-5.3-codex-spark",
+  "resolved_provider": null,
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 4393,
+    "completion_tokens": 8271,
+    "total_tokens": 12664,
+    "completion_tokens_details": {
+      "reasoning_tokens": 7376
+    }
+  },
+  "latency_ms": 9081,
+  "input_sha256": "f7638978a82f818da49934ce024494cb6c763bf138cab0ac62dc5af7f97f818b",
+  "output_sha256": "ede95d89b7f54a5e17468073f8369239a5c392d3c6c3ebbd2e06966c9fb8d74e",
+  "failures": []
+}

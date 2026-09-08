@@ -450,6 +450,14 @@ His eyes flicked to her. “I was not going to.”
 
 Jian, despite himself, smiled. “The charge is credible.”
 
+Corv opened his mouth to improve the joke, then shut it. The Type Nine lookup in his vessel’s margin named the wish to preserve harmony. He had selected the type himself; it was a question he kept near, not a finding about this room. What came from the room was the missing interval. What came from him was the urge to make it bearable before anyone had answered for it.
+
+“Tell me what you need me to hold.”
+
+“The question,” Sona said. “Until there’s someone here who can answer it.”
+
+He left the slate alone. Sona had not asked him to make the room agree. The blank place remained blank. It cost him more effort than naming it would have.
+
 Gideon studied the seam as if it might grow teeth. “Empty lanes still need perimeter. If that absence turns into ingress, I want it meeting a wall, not a welcome mat.”
 
 “No wall,” Sona said.

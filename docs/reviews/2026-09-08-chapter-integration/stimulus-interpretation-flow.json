@@ -1,0 +1,103 @@
+{
+  "version": "3.0",
+  "status": "DRAFT",
+  "principal_correction": "All main characters use the engine repertoire for internal AND external stimulus and interpretation flow; no exclusive character-engine ownership.",
+  "flow": [
+    "external and internal stimulus",
+    "engine output selected for context",
+    "provisional interpretation",
+    "chosen outward action",
+    "observed consequences",
+    "revised understanding and recurrence"
+  ],
+  "boundary": "Engine output is itself something interpreted. Agreement is not proof; discrepancy remains meaningful. Character observations and actions below are authored fiction, not engine-returned observations.",
+  "character_flows": [
+    {
+      "character": "corv",
+      "chapter": 1,
+      "engine": "enneagram",
+      "receipt": "corv-enneagram-book1.json",
+      "field": "typeAnalysis.type.keyMotivations",
+      "external_stimulus": "Missing interval in the room, identified by Jian",
+      "internal_stimulus": "Urge to make the absence bearable through a beautiful explanation",
+      "interpretation": "Harmony-seeking may be shaping his account; lookup selected by Corv, not a diagnosis of the room",
+      "chosen_action": "Ask Sona what to hold and leave the slate alone",
+      "feedback": "Sona asks him to hold the question; absence remains unresolved",
+      "revised_understanding": "An unanswered signal can remain available without being converted into reassuring meaning",
+      "shared_lens_recurrence": 14,
+      "later_action_recurrence": [
+        5,
+        20,
+        26,
+        27
+      ],
+      "reciprocal_action_refinement": "Leaves disagreement available without requiring assent."
+    },
+    {
+      "character": "gideon",
+      "chapter": 3,
+      "engine": "biofield",
+      "receipt": "gideon-biofield-book1.json",
+      "field": "chakra_readings[Root].activity_level",
+      "external_stimulus": "Membrane seam flexes under load and Sona chooses her position",
+      "internal_stimulus": "Tight jaw and urge to direct her stance",
+      "interpretation": "Root emphasis is a symbolic prompt to notice bracing; it cannot establish load-bearing safety",
+      "chosen_action": "Point out the edge, ask rather than command, plan cover around her position",
+      "feedback": "Sona has room to turn",
+      "revised_understanding": "The same observed motion can prompt closure or protection of a passage",
+      "shared_lens_recurrence": 14,
+      "later_action_recurrence": [
+        9,
+        16,
+        26,
+        27
+      ],
+      "reciprocal_action_refinement": "Waits for Sona to test the reach before fixing the span he would cover."
+    },
+    {
+      "character": "jian",
+      "chapter": 6,
+      "engine": "biorhythm",
+      "receipt": "jian-biorhythm-book1.json",
+      "field": "emotional.phase",
+      "external_stimulus": "Sona objects that he is examining the wrong scale",
+      "internal_stimulus": "Irritation, shame, impulse to suppress the alert",
+      "interpretation": "A birthday-derived Low label could become an excuse; it does not evaluate her argument",
+      "chosen_action": "Restore the private mark and open a recurrence view",
+      "feedback": "Existing subsequent scene has Sona identify the cadence, Jian retune and acknowledge stable periodicity",
+      "revised_understanding": "The objection can be tested without deciding which person feels correctly",
+      "shared_lens_recurrence": 14,
+      "later_action_recurrence": [
+        16,
+        18,
+        27
+      ],
+      "reciprocal_action_refinement": "Turns the scanner view toward Sona and asks where she would start."
+    },
+    {
+      "character": "sona",
+      "chapter": 7,
+      "engine": "enneagram + raaga",
+      "receipt": "sona-enneagram-book1.json",
+      "additional_receipts": [
+        "sona-raaga-book1.json"
+      ],
+      "field": "typeAnalysis.type.description; melakarta.num",
+      "external_stimulus": "Jian identifies declining variability and the host responds unevenly",
+      "internal_stimulus": "Relief misread as success, shaking hands after withdrawing the intervention",
+      "interpretation": "Her identity investment may be coloring the reading; the musical pattern organizes her attention but does not establish host recovery",
+      "chosen_action": "Keep contrary trace visible, mouth a familiar phrase, explicitly retain Jian as a corrective witness, reduce intervention",
+      "feedback": "Existing host response remains uneven; shaking does not magically disappear",
+      "revised_understanding": "Internal relief and external recovery are separate observations",
+      "shared_lens_recurrence": 14,
+      "later_action_recurrence": [
+        20,
+        22,
+        27
+      ],
+      "reciprocal_action_refinement": "Moves her hand so Jian can mark the point she passed over."
+    }
+  ],
+  "frozen_inputs_changed": false,
+  "witness_context": "../2026-09-08-witness-context/reviewed-mapping.json"
+}

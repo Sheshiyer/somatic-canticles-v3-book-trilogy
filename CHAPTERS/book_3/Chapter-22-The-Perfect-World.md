@@ -759,6 +759,8 @@ At first glance, it looked like recovery.
 
 At second glance, it looked like obedience that had learned medical language.
 
+Sona noticed how badly she wanted the display to be right. The remembered Melakarta rose to her lips. She left it there, unvoiced, and listened to the breathing beside her. This was not a moment to supply the room with a prettier answer.
+
 Jian leaned closer without touching the Interface. “The variance is too low.”
 
 Sona looked at the traces. “Low variance can be rest.”

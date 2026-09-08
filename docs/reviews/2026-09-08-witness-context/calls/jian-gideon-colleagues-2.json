@@ -1,0 +1,22 @@
+{
+  "job": "jian-gideon-colleagues",
+  "pass_index": 2,
+  "provider_gateway": "omniroute",
+  "requested_model": "noesis-observe",
+  "returned_model": "composer-2.5",
+  "resolved_provider": null,
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 14394,
+    "completion_tokens": 3004,
+    "total_tokens": 17398,
+    "completion_tokens_details": {
+      "reasoning_tokens": 723
+    },
+    "estimated": true
+  },
+  "latency_ms": 80825,
+  "input_sha256": "03608ecf6521f349b7580e3646b72d10fd46942285b9c3a35b417192c12bb220",
+  "output_sha256": "076c0bb325012e025b823b3d531ffb970ae2c40fe75133988a9e3c3ab63721c2",
+  "failures": []
+}

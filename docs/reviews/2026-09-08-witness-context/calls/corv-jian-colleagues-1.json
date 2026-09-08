@@ -1,0 +1,22 @@
+{
+  "job": "corv-jian-colleagues",
+  "pass_index": 1,
+  "provider_gateway": "omniroute",
+  "requested_model": "noesis-observe",
+  "returned_model": "composer-2.5",
+  "resolved_provider": null,
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 14454,
+    "completion_tokens": 3303,
+    "total_tokens": 17757,
+    "completion_tokens_details": {
+      "reasoning_tokens": 643
+    },
+    "estimated": true
+  },
+  "latency_ms": 21816,
+  "input_sha256": "b6a2a26b511716ec241f5740c4b81c25df3d06df30635358b5bf366b15fa4434",
+  "output_sha256": "804361a50f3f2a8a12e6b6fdb496ac7abec404302552cfff7cfc4210955067fa",
+  "failures": []
+}

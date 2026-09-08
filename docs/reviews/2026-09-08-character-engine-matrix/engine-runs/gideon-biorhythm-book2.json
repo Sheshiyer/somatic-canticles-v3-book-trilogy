@@ -1,0 +1,193 @@
+{
+  "id": "gideon-biorhythm-book2",
+  "input_status": "PROPOSED FICTIONAL CALCULATION INPUTS - NOT CANON",
+  "requested_engine": "biorhythm",
+  "requested_at": "2026-09-08T00:21:27.957099+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Gideon Seter",
+      "date": "1981-09-24",
+      "time": "13:35",
+      "latitude": 32.794,
+      "longitude": 34.9896,
+      "timezone": "Asia/Jerusalem"
+    },
+    "current_time": "2027-02-08T06:00:00Z",
+    "location": {
+      "latitude": 32.794,
+      "longitude": 34.9896
+    },
+    "precision": "standard",
+    "options": {}
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "biorhythm",
+    "result": {
+      "aesthetic": {
+        "cycle_day": 18,
+        "days_until_critical": 4,
+        "days_until_peak": 36,
+        "is_critical": false,
+        "percentage": 74.47089239055119,
+        "phase": "Falling",
+        "value": 0.4894178478110236
+      },
+      "critical_days": [
+        "2027-02-10",
+        "2027-02-11",
+        "2027-02-12"
+      ],
+      "days_alive": 16573,
+      "emotional": {
+        "cycle_day": 25,
+        "days_until_critical": 3,
+        "days_until_peak": 10,
+        "is_critical": false,
+        "percentage": 18.825509907054254,
+        "phase": "Rising",
+        "value": -0.6234898018589149
+      },
+      "forecast": [
+        {
+          "aesthetic": 67.86154449006051,
+          "date": "2027-02-09",
+          "days_alive": 16574,
+          "emotional": 28.305813044121486,
+          "intellectual": 99.94336695915062,
+          "intuitive": 91.85832391312485,
+          "overall_energy": 51.247804429196805,
+          "physical": 18.445602783698,
+          "spiritual": 1.072175385025359
+        },
+        {
+          "aesthetic": 60.871508779067206,
+          "date": "2027-02-10",
+          "days_alive": 16575,
+          "emotional": 38.873953302194266,
+          "intellectual": 99.49107209404471,
+          "intuitive": 95.78866633275254,
+          "overall_energy": 50.729035621128936,
+          "physical": 9.151505349476407,
+          "spiritual": 0.1975078692384835
+        },
+        {
+          "aesthetic": 53.64976573306485,
+          "date": "2027-02-11",
+          "days_alive": 16576,
+          "emotional": 49.9999999999757,
+          "intellectual": 97.25004093574108,
+          "intuitive": 98.47001329696124,
+          "overall_energy": 50.379788672395875,
+          "physical": 2.8869538940721915,
+          "spiritual": 0.021958174560138266
+        },
+        {
+          "aesthetic": 46.35023426695909,
+          "date": "2027-02-12",
+          "days_alive": 16577,
+          "emotional": 61.126046697802686,
+          "intellectual": 93.30127018922934,
+          "intuitive": 99.82922465033377,
+          "overall_energy": 50.211887996448034,
+          "physical": 0.11656154047239853,
+          "spiritual": 0.5479906338909157
+        },
+        {
+          "aesthetic": 39.12849122091184,
+          "date": "2027-02-13",
+          "days_alive": 16578,
+          "emotional": 71.6941869558757,
+          "intellectual": 87.787478717717,
+          "intuitive": 99.82922465033305,
+          "overall_energy": 50.20889967755121,
+          "physical": 1.045795615886469,
+          "spiritual": 1.7682209045831954
+        },
+        {
+          "aesthetic": 32.138455509961915,
+          "date": "2027-02-14",
+          "days_alive": 16579,
+          "emotional": 81.17449009292552,
+          "intellectual": 80.90794931104628,
+          "intuitive": 98.47001329697027,
+          "overall_energy": 50.32702781986283,
+          "physical": 5.605739079867789,
+          "spiritual": 3.665519628405256
+        },
+        {
+          "aesthetic": 25.52910760944993,
+          "date": "2027-02-15",
+          "days_alive": 16580,
+          "emotional": 89.09157412339941,
+          "intellectual": 72.911326086381,
+          "intuitive": 95.78866633275818,
+          "overall_energy": 50.4986881380464,
+          "physical": 13.458201786076174,
+          "spiritual": 6.213252890213683
+        }
+      ],
+      "intellectual": {
+        "cycle_day": 7,
+        "days_until_critical": 10,
+        "days_until_peak": 2,
+        "is_critical": false,
+        "percentage": 98.59057841617623,
+        "phase": "Peak",
+        "value": 0.9718115683235246
+      },
+      "intuitive": {
+        "cycle_day": 5,
+        "days_until_critical": 15,
+        "days_until_peak": 5,
+        "is_critical": false,
+        "percentage": 86.78619553365323,
+        "phase": "Rising",
+        "value": 0.7357239106730644
+      },
+      "mastery": 64.33526196193402,
+      "overall_energy": 51.897800677069604,
+      "passion": 24.452727707373036,
+      "physical": {
+        "cycle_day": 13,
+        "days_until_critical": 11,
+        "days_until_peak": 16,
+        "is_critical": false,
+        "percentage": 30.079945507691814,
+        "phase": "Falling",
+        "value": -0.39840108984616374
+      },
+      "spiritual": {
+        "cycle_day": 37,
+        "days_until_critical": 17,
+        "days_until_peak": 30,
+        "is_critical": false,
+        "percentage": 2.633682307290952,
+        "phase": "Falling",
+        "value": -0.947326353854181
+      },
+      "target_date": "2027-02-08",
+      "wisdom": 58.70804416161524
+    },
+    "witness_prompt": "Your intellectual cycle is at 99% while spiritual is at 3%. Notice: how does this contrast show up in your day? Are you the energy, or the one who observes it?",
+    "consciousness_level": 0,
+    "metadata": {
+      "calculation_time_ms": 0.072703,
+      "backend": "native-rust",
+      "precision_achieved": "Standard",
+      "cached": false,
+      "timestamp": "2026-09-08T00:21:27.904089824Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "Your intellectual cycle is at 99% while spiritual is at 3%. Notice: how does this contrast show up in your day? Are you the energy, or the one who observes it?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:21:27.904089824+00:00",
+    "processing_time_ms": 0.072703
+  }
+}

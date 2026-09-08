@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "state": "DRAFT_CONTEXT_ONLY",
+  "characters": [
+    {
+      "character": "corv",
+      "selected_enneagram": 9,
+      "context_record": "sw:enn:9:core",
+      "report_context": "reports/corv-integrated-reading.json",
+      "question": "The wish for harmony can close a question too early.",
+      "chapter": 1,
+      "authored_action": "Leaves disagreement open rather than securing assent.",
+      "status": "REVIEWED_EDITORIAL_PROPOSAL",
+      "boundary": "Neither lookup nor generated reading establishes an inevitable trait; scene evidence and consequences govern interpretation.",
+      "engine_access": "shared repertoire; selection follows context",
+      "feedback": "Another person may correct, decline, disagree, or test the proposed action."
+    },
+    {
+      "character": "sona",
+      "selected_enneagram": 4,
+      "context_record": "sw:enn:4:core",
+      "report_context": "reports/sona-integrated-reading.json",
+      "question": "Felt relief may become evidence for a desired identity.",
+      "chapter": 7,
+      "authored_action": "Makes the missed trace available for another person to mark.",
+      "status": "REVIEWED_EDITORIAL_PROPOSAL",
+      "boundary": "Neither lookup nor generated reading establishes an inevitable trait; scene evidence and consequences govern interpretation.",
+      "engine_access": "shared repertoire; selection follows context",
+      "feedback": "Another person may correct, decline, disagree, or test the proposed action."
+    },
+    {
+      "character": "jian",
+      "selected_enneagram": 5,
+      "context_record": "sw:enn:5:core",
+      "report_context": "reports/jian-integrated-reading.json",
+      "question": "Competence can become a reason to keep control of information.",
+      "chapter": 6,
+      "authored_action": "Shares his second scanner view and asks where Sona would start.",
+      "status": "REVIEWED_EDITORIAL_PROPOSAL",
+      "boundary": "Neither lookup nor generated reading establishes an inevitable trait; scene evidence and consequences govern interpretation.",
+      "engine_access": "shared repertoire; selection follows context",
+      "feedback": "Another person may correct, decline, disagree, or test the proposed action."
+    },
+    {
+      "character": "gideon",
+      "selected_enneagram": 8,
+      "context_record": "sw:enn:8:core",
+      "report_context": "reports/gideon-integrated-reading.json",
+      "question": "Protection can become control when only the protector defines safety.",
+      "chapter": 3,
+      "authored_action": "Waits for Sona to test her reach before fixing the span he would cover.",
+      "status": "REVIEWED_EDITORIAL_PROPOSAL",
+      "boundary": "Neither lookup nor generated reading establishes an inevitable trait; scene evidence and consequences govern interpretation.",
+      "engine_access": "shared repertoire; selection follows context",
+      "feedback": "Another person may correct, decline, disagree, or test the proposed action."
+    }
+  ],
+  "rejected_generated_claims": [
+    {
+      "report": "sona-integrated-reading",
+      "location": "line 237",
+      "claim": "Design Earth 31.2 and personality Sun 33.5",
+      "reason": "Frozen source gives design Jupiter 31.2, personality Jupiter 33.5, design Earth 6.6 and personality Sun 12.4.",
+      "disposition": "EXCLUDE"
+    },
+    {
+      "report": "sona-integrated-reading",
+      "location": "lines 257,303",
+      "claim": "Gate 3 completes 59-6; Sacral-Throat connection",
+      "reason": "Unsupported by supplied two-channel split; do not invent circuitry.",
+      "disposition": "EXCLUDE"
+    },
+    {
+      "report": "sona-integrated-reading",
+      "location": "line 262",
+      "claim": "Body literally cannot move as fast",
+      "reason": "Symbolic biorhythm provides no physiological evidence.",
+      "disposition": "EXCLUDE"
+    },
+    {
+      "report": "sona-integrated-reading",
+      "location": "structural field",
+      "claim": "Independent systems confirm non-negotiable emotional sequencing and need others to feel whole",
+      "reason": "Interpretive agreement is not independent validation; waiting is contextual, and split definition is not personal incompleteness.",
+      "disposition": "EXCLUDE"
+    }
+  ],
+  "retrieval": {
+    "exact_records": 10,
+    "similarity_queries": 4,
+    "similarity_matches": 0,
+    "inspected_kv_namespaces": [
+      "ENGINE_DATA",
+      "CONSCIOUSNESS_KV"
+    ],
+    "kv_keys": 0,
+    "fresh_embedding_http_status": 410
+  },
+  "engine_inputs_changed": false,
+  "remote_writes": false,
+  "full_report_fact_check": false,
+  "review_scope": "Selective interpretation review and concrete new prose; raw reports remain unreviewed context, not validated charts or canon."
+}

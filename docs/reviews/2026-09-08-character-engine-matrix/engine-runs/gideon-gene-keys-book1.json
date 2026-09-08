@@ -1,0 +1,243 @@
+{
+  "id": "gideon-gene-keys-book1",
+  "input_status": "PROPOSED FICTIONAL CALCULATION INPUTS - NOT CANON",
+  "requested_engine": "gene-keys",
+  "requested_at": "2026-09-08T00:21:27.298212+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Gideon Seter",
+      "date": "1981-09-24",
+      "time": "13:35",
+      "latitude": 32.794,
+      "longitude": 34.9896,
+      "timezone": "Asia/Jerusalem"
+    },
+    "current_time": "2027-02-01T06:00:00Z",
+    "location": {
+      "latitude": 32.794,
+      "longitude": 34.9896
+    },
+    "precision": "standard",
+    "options": {}
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "gene-keys",
+    "result": {
+      "activation_sequence": {
+        "evolution": [
+          15,
+          10
+        ],
+        "lifes_work": [
+          46,
+          25
+        ],
+        "purpose": [
+          25,
+          10
+        ],
+        "radiance": [
+          46,
+          15
+        ]
+      },
+      "active_keys": [
+        {
+          "gift": "Resourcefulness",
+          "key_number": 46,
+          "line": 3,
+          "name": "Gene Key 46",
+          "shadow": "Inadequacy",
+          "siddhi": "Resourcefulness",
+          "source": "PersonalitySun"
+        },
+        {
+          "gift": "Acceptance",
+          "key_number": 25,
+          "line": 3,
+          "name": "Gene Key 25",
+          "shadow": "Constriction",
+          "siddhi": "Acceptance",
+          "source": "PersonalityEarth"
+        },
+        {
+          "gift": "Magnetism",
+          "key_number": 15,
+          "line": 3,
+          "name": "Gene Key 15",
+          "shadow": "Dullness",
+          "siddhi": "Magnetism",
+          "source": "DesignSun"
+        },
+        {
+          "gift": "Naturalness",
+          "key_number": 10,
+          "line": 3,
+          "name": "Gene Key 10",
+          "shadow": "Self-Obsession",
+          "siddhi": "Being",
+          "source": "DesignEarth"
+        }
+      ],
+      "frequency_assessments": [
+        {
+          "gene_key": 46,
+          "gift": "Resourcefulness",
+          "gift_description": "The gift frequency expresses the balanced state of consciousness that serves the collective good.",
+          "name": "Gene Key 46",
+          "recognition_prompts": {
+            "gift": [
+              "When do you experience Resourcefulness arising naturally, without effort?",
+              "Can you notice the space between the Inadequacy pattern and the emergence of Resourcefulness?",
+              "What happens when Resourcefulness flows through you? How does it feel different from the shadow?",
+              "When this gift is active, who are you serving? What opens?",
+              "Does this quality arise more often now than in the past?"
+            ],
+            "shadow": [
+              "Do you notice yourself reacting unconsciously through the pattern of Inadequacy?",
+              "When Inadequacy arises, can you feel the contraction or resistance in your body?",
+              "Do you find yourself caught in Inadequacy without realizing it until later?",
+              "What triggers this pattern? When does it feel most intense?",
+              "Can you witness the pattern without trying to change or fix it?"
+            ],
+            "siddhi": [
+              "Have you had moments where Resourcefulness dissolved into Resourcefulness?",
+              "When Resourcefulness is present, is there still a 'you' experiencing it?",
+              "What remains when the personal expression of Resourcefulness falls away?",
+              "Have you touched a state beyond your individual consciousness?",
+              "Can you rest in the paradox of this frequency without needing to understand it?"
+            ]
+          },
+          "shadow": "Inadequacy",
+          "shadow_description": "The shadow frequency represents the unconscious pattern that creates limitation and suffering in this area of life.",
+          "siddhi": "Resourcefulness",
+          "siddhi_description": "The siddhi frequency embodies the highest potential of human consciousness in this archetypal pattern.",
+          "suggested_frequency": "Siddhi"
+        },
+        {
+          "gene_key": 25,
+          "gift": "Acceptance",
+          "gift_description": "The gift frequency expresses the balanced state of consciousness that serves the collective good.",
+          "name": "Gene Key 25",
+          "recognition_prompts": {
+            "gift": [
+              "When do you experience Acceptance arising naturally, without effort?",
+              "Can you notice the space between the Constriction pattern and the emergence of Acceptance?",
+              "What happens when Acceptance flows through you? How does it feel different from the shadow?",
+              "When this gift is active, who are you serving? What opens?",
+              "Does this quality arise more often now than in the past?"
+            ],
+            "shadow": [
+              "Do you notice yourself reacting unconsciously through the pattern of Constriction?",
+              "When Constriction arises, can you feel the contraction or resistance in your body?",
+              "Do you find yourself caught in Constriction without realizing it until later?",
+              "What triggers this pattern? When does it feel most intense?",
+              "Can you witness the pattern without trying to change or fix it?"
+            ],
+            "siddhi": [
+              "Have you had moments where Acceptance dissolved into Acceptance?",
+              "When Acceptance is present, is there still a 'you' experiencing it?",
+              "What remains when the personal expression of Acceptance falls away?",
+              "Have you touched a state beyond your individual consciousness?",
+              "Can you rest in the paradox of this frequency without needing to understand it?"
+            ]
+          },
+          "shadow": "Constriction",
+          "shadow_description": "The shadow frequency represents the unconscious pattern that creates limitation and suffering in this area of life.",
+          "siddhi": "Acceptance",
+          "siddhi_description": "The siddhi frequency embodies the highest potential of human consciousness in this archetypal pattern.",
+          "suggested_frequency": "Siddhi"
+        },
+        {
+          "gene_key": 15,
+          "gift": "Magnetism",
+          "gift_description": "The gift frequency expresses the balanced state of consciousness that serves the collective good.",
+          "name": "Gene Key 15",
+          "recognition_prompts": {
+            "gift": [
+              "When do you experience Magnetism arising naturally, without effort?",
+              "Can you notice the space between the Dullness pattern and the emergence of Magnetism?",
+              "What happens when Magnetism flows through you? How does it feel different from the shadow?",
+              "When this gift is active, who are you serving? What opens?",
+              "Does this quality arise more often now than in the past?"
+            ],
+            "shadow": [
+              "Do you notice yourself reacting unconsciously through the pattern of Dullness?",
+              "When Dullness arises, can you feel the contraction or resistance in your body?",
+              "Do you find yourself caught in Dullness without realizing it until later?",
+              "What triggers this pattern? When does it feel most intense?",
+              "Can you witness the pattern without trying to change or fix it?"
+            ],
+            "siddhi": [
+              "Have you had moments where Magnetism dissolved into Magnetism?",
+              "When Magnetism is present, is there still a 'you' experiencing it?",
+              "What remains when the personal expression of Magnetism falls away?",
+              "Have you touched a state beyond your individual consciousness?",
+              "Can you rest in the paradox of this frequency without needing to understand it?"
+            ]
+          },
+          "shadow": "Dullness",
+          "shadow_description": "The shadow frequency represents the unconscious pattern that creates limitation and suffering in this area of life.",
+          "siddhi": "Magnetism",
+          "siddhi_description": "The siddhi frequency embodies the highest potential of human consciousness in this archetypal pattern.",
+          "suggested_frequency": "Siddhi"
+        },
+        {
+          "gene_key": 10,
+          "gift": "Naturalness",
+          "gift_description": "The gift frequency expresses the balanced state of consciousness that serves the collective good.",
+          "name": "Gene Key 10",
+          "recognition_prompts": {
+            "gift": [
+              "When do you experience Naturalness arising naturally, without effort?",
+              "Can you notice the space between the Self-Obsession pattern and the emergence of Naturalness?",
+              "What happens when Naturalness flows through you? How does it feel different from the shadow?",
+              "When this gift is active, who are you serving? What opens?",
+              "Does this quality arise more often now than in the past?"
+            ],
+            "shadow": [
+              "Do you notice yourself reacting unconsciously through the pattern of Self-Obsession?",
+              "When Self-Obsession arises, can you feel the contraction or resistance in your body?",
+              "Do you find yourself caught in Self-Obsession without realizing it until later?",
+              "What triggers this pattern? When does it feel most intense?",
+              "Can you witness the pattern without trying to change or fix it?"
+            ],
+            "siddhi": [
+              "Have you had moments where Naturalness dissolved into Being?",
+              "When Being is present, is there still a 'you' experiencing it?",
+              "What remains when the personal expression of Naturalness falls away?",
+              "Have you touched a state beyond your individual consciousness?",
+              "Can you rest in the paradox of this frequency without needing to understand it?"
+            ]
+          },
+          "shadow": "Self-Obsession",
+          "shadow_description": "The shadow frequency represents the unconscious pattern that creates limitation and suffering in this area of life.",
+          "siddhi": "Being",
+          "siddhi_description": "The siddhi frequency embodies the highest potential of human consciousness in this archetypal pattern.",
+          "suggested_frequency": "Siddhi"
+        }
+      ]
+    },
+    "witness_prompt": "Beyond the personal purpose of Acceptance and Naturalness, what transcendent awareness is seeking recognition? When the siddhis of Acceptance (Gene Key 25) and Being (Gene Key 10) dissolve into unity, what remains? How does Resourcefulness (Gene Key 46) become a doorway to the infinite expressing as the finite?",
+    "consciousness_level": 5,
+    "metadata": {
+      "calculation_time_ms": 1.451761,
+      "backend": "hd-derived",
+      "precision_achieved": "Standard",
+      "cached": false,
+      "timestamp": "2026-09-08T00:21:27.259243125Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "Beyond the personal purpose of Acceptance and Naturalness, what transcendent awareness is seeking recognition? When the siddhis of Acceptance (Gene Key 25) and Being (Gene Key 10) dissolve into unity, what remains? How does Resourcefulness (Gene Key 46) become a doorway to the infinite expressing as the finite?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:21:27.259243125+00:00",
+    "processing_time_ms": 1.451761
+  }
+}

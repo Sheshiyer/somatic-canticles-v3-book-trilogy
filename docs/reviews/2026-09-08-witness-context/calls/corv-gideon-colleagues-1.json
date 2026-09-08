@@ -1,0 +1,22 @@
+{
+  "job": "corv-gideon-colleagues",
+  "pass_index": 1,
+  "provider_gateway": "omniroute",
+  "requested_model": "noesis-observe",
+  "returned_model": "composer-2.5",
+  "resolved_provider": null,
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 14442,
+    "completion_tokens": 3356,
+    "total_tokens": 17798,
+    "completion_tokens_details": {
+      "reasoning_tokens": 449
+    },
+    "estimated": true
+  },
+  "latency_ms": 87184,
+  "input_sha256": "7a8a19ed841560e6c4706cf69819e40fab921163c96cc151d9649eae5b70afb4",
+  "output_sha256": "4ba37099a79daa589fa0103544cc41903939f7f975fbb642ecec44048306ce5d",
+  "failures": []
+}

@@ -1,0 +1,193 @@
+{
+  "id": "gideon-biorhythm-book1",
+  "input_status": "PROPOSED FICTIONAL CALCULATION INPUTS - NOT CANON",
+  "requested_engine": "biorhythm",
+  "requested_at": "2026-09-08T00:21:27.634340+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Gideon Seter",
+      "date": "1981-09-24",
+      "time": "13:35",
+      "latitude": 32.794,
+      "longitude": 34.9896,
+      "timezone": "Asia/Jerusalem"
+    },
+    "current_time": "2027-02-01T06:00:00Z",
+    "location": {
+      "latitude": 32.794,
+      "longitude": 34.9896
+    },
+    "precision": "standard",
+    "options": {}
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "biorhythm",
+    "result": {
+      "aesthetic": {
+        "cycle_day": 11,
+        "days_until_critical": 11,
+        "days_until_peak": 43,
+        "is_critical": false,
+        "percentage": 99.96664241851236,
+        "phase": "Peak",
+        "value": 0.9993328483702473
+      },
+      "critical_days": [
+        "2027-02-02",
+        "2027-02-06",
+        "2027-02-07"
+      ],
+      "days_alive": 16566,
+      "emotional": {
+        "cycle_day": 18,
+        "days_until_critical": 10,
+        "days_until_peak": 17,
+        "is_critical": false,
+        "percentage": 10.908425876610888,
+        "phase": "Falling",
+        "value": -0.7818314824677822
+      },
+      "forecast": [
+        {
+          "aesthetic": 99.16828384147254,
+          "date": "2027-02-02",
+          "days_alive": 16567,
+          "emotional": 4.951556604882917,
+          "intellectual": 59.46256221801104,
+          "intuitive": 41.77027048596862,
+          "overall_energy": 54.506527220638155,
+          "physical": 97.11304610594931,
+          "spiritual": 24.57344406754452
+        },
+        {
+          "aesthetic": 97.32198865788159,
+          "date": "2027-02-03",
+          "days_alive": 16568,
+          "emotional": 1.253604390908375,
+          "intellectual": 68.58312278301538,
+          "intuitive": 50.00000000000745,
+          "overall_energy": 54.61120053189804,
+          "physical": 90.84849465050816,
+          "spiritual": 19.659992709067282
+        },
+        {
+          "aesthetic": 94.46710744413105,
+          "date": "2027-02-04",
+          "days_alive": 16569,
+          "emotional": 0.0,
+          "intellectual": 77.03204087276707,
+          "intuitive": 58.22972951402365,
+          "overall_energy": 54.40928726568243,
+          "physical": 81.55439721631652,
+          "spiritual": 15.172448546856332
+        },
+        {
+          "aesthetic": 90.66448703677601,
+          "date": "2027-02-05",
+          "days_alive": 16570,
+          "emotional": 1.2536043909090633,
+          "intellectual": 84.50395057410078,
+          "intuitive": 66.23497346022363,
+          "overall_energy": 53.95847946973981,
+          "physical": 69.92005449232535,
+          "spiritual": 11.173806864104002
+        },
+        {
+          "aesthetic": 85.99517368790244,
+          "date": "2027-02-06",
+          "days_alive": 16571,
+          "emotional": 4.951556604874396,
+          "intellectual": 90.72879760251791,
+          "intuitive": 73.79736965184568,
+          "overall_energy": 53.333571637812014,
+          "physical": 56.80833245482329,
+          "spiritual": 7.720199824908397
+        },
+        {
+          "aesthetic": 80.55868570490156,
+          "date": "2027-02-07",
+          "days_alive": 16572,
+          "emotional": 10.908425876584465,
+          "intellectual": 95.48159976772084,
+          "intuitive": 80.71063563447784,
+          "overall_energy": 52.618520505099646,
+          "physical": 43.19166754519525,
+          "spiritual": 4.860108501717941
+        },
+        {
+          "aesthetic": 74.47089239055119,
+          "date": "2027-02-08",
+          "days_alive": 16573,
+          "emotional": 18.825509907054254,
+          "intellectual": 98.59057841617623,
+          "intuitive": 86.78619553365323,
+          "overall_energy": 51.897800677069604,
+          "physical": 30.079945507691814,
+          "spiritual": 2.633682307290952
+        }
+      ],
+      "intellectual": {
+        "cycle_day": 0,
+        "days_until_critical": 17,
+        "days_until_peak": 9,
+        "is_critical": true,
+        "percentage": 49.999999999981775,
+        "phase": "Critical",
+        "value": -3.645390687928283e-13
+      },
+      "intuitive": {
+        "cycle_day": 36,
+        "days_until_critical": 3,
+        "days_until_peak": 12,
+        "is_critical": false,
+        "percentage": 33.76502653974745,
+        "phase": "Rising",
+        "value": -0.32469946920505083
+      },
+      "mastery": 74.94171922975532,
+      "overall_energy": 54.06122697166461,
+      "passion": 55.39593216806988,
+      "physical": {
+        "cycle_day": 6,
+        "days_until_critical": 6,
+        "days_until_peak": 23,
+        "is_critical": false,
+        "percentage": 99.88343845952888,
+        "phase": "Peak",
+        "value": 0.9976687691905776
+      },
+      "spiritual": {
+        "cycle_day": 30,
+        "days_until_critical": 23,
+        "days_until_peak": 37,
+        "is_critical": false,
+        "percentage": 29.843828535606278,
+        "phase": "Falling",
+        "value": -0.4031234292878744
+      },
+      "target_date": "2027-02-01",
+      "wisdom": 30.45421293829633
+    },
+    "witness_prompt": "Your aesthetic cycle is at 100% while emotional is at 11%. Today holds a critical crossing \u2014 a threshold moment. What old pattern is completing, and what new rhythm wants to begin?",
+    "consciousness_level": 0,
+    "metadata": {
+      "calculation_time_ms": 0.125053,
+      "backend": "native-rust",
+      "precision_achieved": "Standard",
+      "cached": false,
+      "timestamp": "2026-09-08T00:21:27.610995544Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "Your aesthetic cycle is at 100% while emotional is at 11%. Today holds a critical crossing \u2014 a threshold moment. What old pattern is completing, and what new rhythm wants to begin?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:21:27.610995544+00:00",
+    "processing_time_ms": 0.125053
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "id": "team-nadabrahman-book3",
+  "input_status": "PROPOSED FICTIONAL CALCULATION INPUTS - NOT CANON",
+  "requested_engine": "nadabrahman",
+  "requested_at": "2026-09-08T00:23:27.178234+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Corvan Luminth",
+      "date": "1984-11-03",
+      "time": "07:20",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "timezone": "UTC"
+    },
+    "current_time": "2027-03-22T06:00:00Z",
+    "location": {
+      "latitude": 12.9716,
+      "longitude": 77.5946
+    },
+    "precision": "standard",
+    "options": {}
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "nadabrahman",
+    "result": {
+      "recommendations": [
+        {
+          "arohanam": [
+            "sa",
+            "ri1",
+            "ga3",
+            "ma1",
+            "pa",
+            "dha1",
+            "ni3",
+            "sa"
+          ],
+          "avarohanam": [
+            "sa",
+            "ni3",
+            "dha1",
+            "pa",
+            "ma1",
+            "ga3",
+            "ri1",
+            "sa"
+          ],
+          "mood": "auspicious",
+          "raga_name": "Mayamalavagowla",
+          "raga_number": 15,
+          "reason": "Traditional beginner raga, auspicious morning scale with powerful awakening quality",
+          "score": 1.0,
+          "therapeutic_qualities": [
+            "purification",
+            "awakening",
+            "clarity"
+          ]
+        },
+        {
+          "arohanam": [
+            "sa",
+            "ri2",
+            "ga3",
+            "ma1",
+            "pa",
+            "dha2",
+            "ni3",
+            "sa"
+          ],
+          "avarohanam": [
+            "sa",
+            "ni3",
+            "dha2",
+            "pa",
+            "ma1",
+            "ga3",
+            "ri2",
+            "sa"
+          ],
+          "mood": "majestic",
+          "raga_name": "Dheerasankarabharanam",
+          "raga_number": 29,
+          "reason": "Major scale equivalent, bright and uplifting for morning energy",
+          "score": 0.95,
+          "therapeutic_qualities": [
+            "confidence",
+            "completeness",
+            "balance"
+          ]
+        },
+        {
+          "arohanam": [
+            "sa",
+            "ri2",
+            "ga2",
+            "ma1",
+            "pa",
+            "dha2",
+            "ni2",
+            "sa"
+          ],
+          "avarohanam": [
+            "sa",
+            "ni2",
+            "dha2",
+            "pa",
+            "ma1",
+            "ga2",
+            "ri2",
+            "sa"
+          ],
+          "mood": "devotional",
+          "raga_name": "Kharaharapriya",
+          "raga_number": 22,
+          "reason": "Versatile raga with natural minor feel, supports morning contemplation",
+          "score": 0.9,
+          "therapeutic_qualities": [
+            "devotion",
+            "emotional_balance",
+            "versatility"
+          ]
+        },
+        {
+          "arohanam": [
+            "sa",
+            "ri1",
+            "ga2",
+            "ma1",
+            "pa",
+            "dha1",
+            "ni2",
+            "sa"
+          ],
+          "avarohanam": [
+            "sa",
+            "ni2",
+            "dha1",
+            "pa",
+            "ma1",
+            "ga2",
+            "ri1",
+            "sa"
+          ],
+          "mood": "melancholic",
+          "raga_name": "Hanumatodi",
+          "raga_number": 8,
+          "reason": "Secondary recommendation for this time period",
+          "score": 0.7,
+          "therapeutic_qualities": [
+            "emotional_release",
+            "catharsis",
+            "introspection"
+          ]
+        },
+        {
+          "arohanam": [
+            "sa",
+            "ri2",
+            "ga3",
+            "ma1",
+            "pa",
+            "dha2",
+            "ni2",
+            "sa"
+          ],
+          "avarohanam": [
+            "sa",
+            "ni2",
+            "dha2",
+            "pa",
+            "ma1",
+            "ga3",
+            "ri2",
+            "sa"
+          ],
+          "mood": "joyful",
+          "raga_name": "Harikambhoji",
+          "raga_number": 28,
+          "reason": "Secondary recommendation for this time period",
+          "score": 0.6,
+          "therapeutic_qualities": [
+            "happiness",
+            "celebration",
+            "vitality"
+          ]
+        }
+      ],
+      "time_recommendation": {
+        "dosha_dominance": "kapha",
+        "energy_quality": "ascending",
+        "prahar_name": "Pratah (Morning)",
+        "prahar_number": 1,
+        "primary_raga": {
+          "raga_name": "Mayamalavagowla",
+          "raga_number": 15,
+          "reason": "Traditional beginner raga, auspicious morning scale with powerful awakening quality"
+        },
+        "time_range": "06:00-09:00"
+      }
+    },
+    "witness_prompt": "As the day begins, what sounds surround you right now? Without naming them, can you feel their texture and quality? The raga Mayamalavagowla carries a particular emotional quality. If you were to hum a single note right now, what pitch would your body choose? What feeling arises with that tone? If your entire being \u2014 body, breath, and awareness \u2014 were a musical instrument, what is it playing right now? Listen without changing the melody.",
+    "consciousness_level": 5,
+    "metadata": {
+      "calculation_time_ms": 0.021776,
+      "backend": "native",
+      "precision_achieved": "standard",
+      "cached": false,
+      "timestamp": "2026-09-08T00:23:27.151283140Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "As the day begins, what sounds surround you right now? Without naming them, can you feel their texture and quality? The raga Mayamalavagowla carries a particular emotional quality. If you were to hum a single note right now, what pitch would your body choose? What feeling arises with that tone? If your entire being \u2014 body, breath, and awareness \u2014 were a musical instrument, what is it playing right now? Listen without changing the melody.",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:23:27.151283140+00:00",
+    "processing_time_ms": 0.021776
+  }
+}

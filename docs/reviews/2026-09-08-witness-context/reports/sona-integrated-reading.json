@@ -1,0 +1,680 @@
+{
+  "state": "GENERATED_UNREVIEWED",
+  "context": {
+    "frozen_checkpoint": "2027-03-22T06:00:00Z",
+    "subjects": [
+      {
+        "name": "Sona Vireth",
+        "id": "sona",
+        "engine_results": [
+          {
+            "engine_id": "human-design",
+            "result": {
+              "active_channels": [
+                "45-21",
+                "59-6"
+              ],
+              "authority": "Emotional",
+              "defined_centers": [
+                "Sacral",
+                "Throat",
+                "Heart",
+                "SolarPlexus"
+              ],
+              "definition": "Split",
+              "design_activations": {
+                "earth": {
+                  "gate": 6,
+                  "line": 6,
+                  "longitude": 177.83823460950998
+                },
+                "jupiter": {
+                  "gate": 31,
+                  "line": 2,
+                  "longitude": 123.76358478500502
+                },
+                "mars": {
+                  "gate": 45,
+                  "line": 6,
+                  "longitude": 82.22852484108444
+                },
+                "mercury": {
+                  "gate": 21,
+                  "line": 4,
+                  "longitude": 13.043330902620236
+                },
+                "moon": {
+                  "gate": 3,
+                  "line": 6,
+                  "longitude": 31.274014301617143
+                },
+                "neptune": {
+                  "gate": 54,
+                  "line": 2,
+                  "longitude": 286.50092186461535
+                },
+                "northnode": {
+                  "gate": 61,
+                  "line": 6,
+                  "longitude": 295.9439426676907
+                },
+                "pluto": {
+                  "gate": 43,
+                  "line": 2,
+                  "longitude": 230.19919811086953
+                },
+                "saturn": {
+                  "gate": 41,
+                  "line": 3,
+                  "longitude": 304.13666394477724
+                },
+                "southnode": {
+                  "gate": 62,
+                  "line": 6,
+                  "longitude": 115.94394266769069
+                },
+                "sun": {
+                  "gate": 36,
+                  "line": 6,
+                  "longitude": 357.83823460951004
+                },
+                "uranus": {
+                  "gate": 38,
+                  "line": 5,
+                  "longitude": 283.4216123126532
+                },
+                "venus": {
+                  "gate": 3,
+                  "line": 4,
+                  "longitude": 30.055686500768115
+                }
+              },
+              "hd_type": "ManifestingGenerator",
+              "personality_activations": {
+                "earth": {
+                  "gate": 11,
+                  "line": 4,
+                  "longitude": 265.8382163092696
+                },
+                "jupiter": {
+                  "gate": 33,
+                  "line": 5,
+                  "longitude": 131.81295176788194
+                },
+                "mars": {
+                  "gate": 33,
+                  "line": 6,
+                  "longitude": 133.02466623427728
+                },
+                "mercury": {
+                  "gate": 12,
+                  "line": 4,
+                  "longitude": 86.25473807807496
+                },
+                "moon": {
+                  "gate": 59,
+                  "line": 6,
+                  "longitude": 155.01428364880246
+                },
+                "neptune": {
+                  "gate": 54,
+                  "line": 1,
+                  "longitude": 285.91979790570707
+                },
+                "northnode": {
+                  "gate": 54,
+                  "line": 5,
+                  "longitude": 289.12063811057055
+                },
+                "pluto": {
+                  "gate": 1,
+                  "line": 6,
+                  "longitude": 228.01368201083736
+                },
+                "saturn": {
+                  "gate": 41,
+                  "line": 5,
+                  "longitude": 306.07340864419234
+                },
+                "southnode": {
+                  "gate": 53,
+                  "line": 5,
+                  "longitude": 109.12063811057055
+                },
+                "sun": {
+                  "gate": 12,
+                  "line": 4,
+                  "longitude": 85.83821630926961
+                },
+                "uranus": {
+                  "gate": 38,
+                  "line": 4,
+                  "longitude": 282.49422760390644
+                },
+                "venus": {
+                  "gate": 33,
+                  "line": 4,
+                  "longitude": 131.1467900050454
+                }
+              },
+              "profile": "4/6"
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 1.9752149999999997,
+              "backend": "swiss-ephemeris",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:07.890447786Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:07.890447786+00:00",
+            "processing_time_ms": 1.9752149999999997
+          },
+          {
+            "engine_id": "numerology",
+            "result": {
+              "birthday": {
+                "is_master": false,
+                "meaning": "Power, abundance, achievement",
+                "reduction_chain": [
+                  17,
+                  8
+                ],
+                "value": 8
+              },
+              "chaldean_name": {
+                "is_master": false,
+                "meaning": "Creativity, expression, joy",
+                "reduction_chain": [
+                  39,
+                  12,
+                  3
+                ],
+                "value": 3
+              },
+              "expression": {
+                "is_master": false,
+                "meaning": "Freedom, change, adventure",
+                "reduction_chain": [
+                  50,
+                  5
+                ],
+                "value": 5
+              },
+              "life_path": {
+                "is_master": false,
+                "meaning": "Analysis, wisdom, introspection",
+                "reduction_chain": [
+                  16,
+                  7
+                ],
+                "value": 7
+              },
+              "personality": {
+                "is_master": true,
+                "meaning": "Intuition, spiritual insight, illumination (master)",
+                "reduction_chain": [
+                  29,
+                  11
+                ],
+                "value": 11
+              },
+              "soul_urge": {
+                "is_master": false,
+                "meaning": "Creativity, expression, joy",
+                "reduction_chain": [
+                  21,
+                  3
+                ],
+                "value": 3
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 0,
+            "metadata": {
+              "calculation_time_ms": 0.020044,
+              "backend": "native-rust",
+              "precision_achieved": "exact",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:07.828659439Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:07.828659439+00:00",
+            "processing_time_ms": 0.020044
+          },
+          {
+            "engine_id": "enneagram",
+            "result": {
+              "mode": "lookup",
+              "typeAnalysis": {
+                "center": "heart",
+                "disintegration": {
+                  "description": "Fours become clingy and manipulative like unhealthy Twos",
+                  "name": "The Helper",
+                  "type": 2
+                },
+                "harmonicGroup": "reactive",
+                "hornevianGroup": "withdrawn",
+                "integration": {
+                  "description": "Fours access objectivity and discipline of healthy Ones",
+                  "name": "The Reformer",
+                  "type": 1
+                },
+                "type": {
+                  "averageTraits": [
+                    "Melancholic and withdrawn",
+                    "Self-conscious and envious",
+                    "Moody and hypersensitive",
+                    "Self-indulgent with feelings",
+                    "Feeling misunderstood and different"
+                  ],
+                  "coreDesire": "To find themselves and their significance",
+                  "coreFear": "Having no identity or personal significance",
+                  "coreWeakness": "Envy—feeling deficient and longing for what others have",
+                  "description": "Expressive, dramatic, self-absorbed, and temperamental. Fours are sensitive, creative, and emotionally honest. They fear being without identity and create a unique self-image.",
+                  "healthyTraits": [
+                    "Inspired and highly creative",
+                    "Self-aware and introspective",
+                    "Emotionally honest and authentic",
+                    "Compassionate toward suffering",
+                    "Transforming pain into beauty"
+                  ],
+                  "keyMotivations": [
+                    "Expressing individuality and uniqueness",
+                    "Creating an identity from inner experiences",
+                    "Protecting self through withdrawal",
+                    "Taking care of emotional needs before attending to others"
+                  ],
+                  "name": "The Individualist",
+                  "number": 4,
+                  "unhealthyTraits": [
+                    "Depressed and hopeless",
+                    "Self-destructive and alienated",
+                    "Tormented by self-contempt",
+                    "Emotionally blocked",
+                    "Despising self and life"
+                  ]
+                },
+                "wings": [
+                  {
+                    "name": "The Achiever",
+                    "number": 3
+                  },
+                  {
+                    "name": "The Investigator",
+                    "number": 5
+                  }
+                ]
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 1,
+            "metadata": {
+              "calculation_time_ms": 0,
+              "backend": "typescript",
+              "precision_achieved": "exact",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:08.383Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:08.383+00:00",
+            "processing_time_ms": 0
+          },
+          {
+            "engine_id": "vimshottari",
+            "result": {
+              "current_period": {
+                "antardasha": {
+                  "end": "2028-01-11T21:40:40+00:00",
+                  "planet": "Venus",
+                  "start": "2026-05-13T03:40:40+00:00",
+                  "years": 1.6666666666666667
+                },
+                "mahadasha": {
+                  "end": "2028-07-12T12:40:40+00:00",
+                  "planet": "Moon",
+                  "start": "2018-07-13T00:40:40+00:00",
+                  "years": 10
+                },
+                "pratyantardasha": {
+                  "days": 81.16666666666667,
+                  "end": "2027-06-07T18:25:40+00:00",
+                  "planet": "Jupiter",
+                  "start": "2027-03-18T14:25:40+00:00"
+                }
+              },
+              "birth_nakshatra": {
+                "moon_longitude": 131.29428364880246,
+                "name": "Magha",
+                "number": 10
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 2.588978,
+              "backend": "swiss-ephemeris-sidereal",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:26.642183974Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:26.642183974+00:00",
+            "processing_time_ms": 2.588978
+          },
+          {
+            "engine_id": "biorhythm",
+            "result": {
+              "target_date": "2027-03-22",
+              "physical": {
+                "cycle_day": 21,
+                "days_until_critical": 3,
+                "days_until_peak": 8,
+                "is_critical": false,
+                "percentage": 24.020802498204404,
+                "phase": "Rising",
+                "value": -0.519583950035912
+              },
+              "emotional": {
+                "cycle_day": 14,
+                "days_until_critical": 14,
+                "days_until_peak": 21,
+                "is_critical": true,
+                "percentage": 50.000000000008384,
+                "phase": "Critical",
+                "value": 1.6755025154245556e-13
+              },
+              "intellectual": {
+                "cycle_day": 27,
+                "days_until_critical": 6,
+                "days_until_peak": 15,
+                "is_critical": false,
+                "percentage": 4.518400232264258,
+                "phase": "Rising",
+                "value": -0.9096319953547148
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 0,
+            "metadata": {
+              "calculation_time_ms": 0.080504,
+              "backend": "native-rust",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:08.941146638Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:08.941146638+00:00",
+            "processing_time_ms": 0.080504
+          },
+          {
+            "engine_id": "biofield",
+            "result": {
+              "computation_mode": "vedic",
+              "interpretation_kind": "birth-derived symbolic map; not physical measurement",
+              "chakra_readings": [
+                {
+                  "activity_level": 0.46249999999999997,
+                  "balance": -0.5,
+                  "chakra": "Root",
+                  "chakra_name": "Root",
+                  "color_intensity": "dim red",
+                  "element": "Earth",
+                  "location": "Base of spine, perineum"
+                },
+                {
+                  "activity_level": 0.37812500000000004,
+                  "balance": -0.5,
+                  "chakra": "Sacral",
+                  "chakra_name": "Sacral",
+                  "color_intensity": "dim orange",
+                  "element": "Water",
+                  "location": "Lower abdomen, below navel"
+                },
+                {
+                  "activity_level": 0.45624999999999993,
+                  "balance": 0.2,
+                  "chakra": "SolarPlexus",
+                  "chakra_name": "Solar Plexus",
+                  "color_intensity": "dim yellow",
+                  "element": "Fire",
+                  "location": "Upper abdomen, stomach area"
+                },
+                {
+                  "activity_level": 0.328125,
+                  "balance": -0.5,
+                  "chakra": "Heart",
+                  "chakra_name": "Heart",
+                  "color_intensity": "dim green",
+                  "element": "Air",
+                  "location": "Center of chest"
+                },
+                {
+                  "activity_level": 0.45,
+                  "balance": -0.6,
+                  "chakra": "Throat",
+                  "chakra_name": "Throat",
+                  "color_intensity": "dim blue",
+                  "element": "Ether/Space",
+                  "location": "Throat area"
+                },
+                {
+                  "activity_level": 0.42374999999999996,
+                  "balance": -1,
+                  "chakra": "ThirdEye",
+                  "chakra_name": "Third Eye",
+                  "color_intensity": "dim indigo",
+                  "element": "Light",
+                  "location": "Between eyebrows"
+                },
+                {
+                  "activity_level": 0.415625,
+                  "balance": -0.2,
+                  "chakra": "Crown",
+                  "chakra_name": "Crown",
+                  "color_intensity": "dim violet",
+                  "element": "Consciousness",
+                  "location": "Top of head"
+                }
+              ]
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 1.1035030000000001,
+              "backend": "vedic-ephemeris",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:26.960414406Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:26.960414406+00:00",
+            "processing_time_ms": 1.1035030000000001
+          }
+        ],
+        "existing_proposed_arc": {
+          "character": "sona",
+          "chapter": 7,
+          "engine": "enneagram + raaga",
+          "receipt": "sona-enneagram-book1.json",
+          "additional_receipts": [
+            "sona-raaga-book1.json"
+          ],
+          "field": "typeAnalysis.type.description; melakarta.num",
+          "external_stimulus": "Jian identifies declining variability and the host responds unevenly",
+          "internal_stimulus": "Relief misread as success, shaking hands after withdrawing the intervention",
+          "interpretation": "Her identity investment may be coloring the reading; the musical pattern organizes her attention but does not establish host recovery",
+          "chosen_action": "Keep contrary trace visible, mouth a familiar phrase, explicitly retain Jian as a corrective witness, reduce intervention",
+          "feedback": "Existing host response remains uneven; shaking does not magically disappear",
+          "revised_understanding": "Internal relief and external recovery are separate observations",
+          "shared_lens_recurrence": 14,
+          "later_action_recurrence": [
+            20,
+            22,
+            27
+          ]
+        }
+      }
+    ],
+    "retrieved_context": [
+      {
+        "id": "sw:hd:type:manifesting-generator:desc",
+        "system": "human-design",
+        "text": "Manifesting Generators are a hybrid type with Generator energy and Manifestor manifestation abilities. They can skip steps and move quickly when responding correctly.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:type:generator:desc",
+        "system": "human-design",
+        "text": "Generators are the life force of the planet. They have sustainable energy when engaged in work they love and are designed to respond to life rather than initiate.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:type:projector:desc",
+        "system": "human-design",
+        "text": "Projectors are natural guides and managers of energy. They see systems and people clearly and are designed to guide others when invited.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:auth:emotional-authority:desc",
+        "system": "human-design",
+        "text": "Decision-making through emotional clarity over time. No truth in the now - must wait for emotional wave to complete before deciding.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:auth:sacral-authority:desc",
+        "system": "human-design",
+        "text": "The most common authority, based on gut responses and life force energy. Decisions are made through immediate sacral sounds and gut feelings.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:auth:splenic-authority:desc",
+        "system": "human-design",
+        "text": "Intuitive authority based on survival instincts and in-the-moment awareness. Decisions come as quiet inner knowing.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:9:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To maintain their inner and outer peace and to avoid conflict. Core Fear: Loss of connection and fragmentation of their world. Core Desire: To have inner and outer peace.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:4:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To find themselves and their significance, to create an identity from their inner experience. Core Fear: Having no identity or personal significance. Core Desire: To find themselves and their significance.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:5:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To be capable and competent, to understand the environment, to have everything figured out. Core Fear: Being useless, helpless, or incapable. Core Desire: To be capable and competent.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:8:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To be self-reliant and in control of their own life and destiny. Core Fear: Being controlled or vulnerable to others. Core Desire: To be self-reliant and in control.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      }
+    ]
+  },
+  "mode_file": "integrated-reading.md",
+  "output": {
+    "mode": "integrated-reading",
+    "subject_names": [
+      "Sona Vireth"
+    ],
+    "register": "l1_l3",
+    "passes": [
+      {
+        "id": "structural",
+        "title": "Structural Field",
+        "output": "# Structural Field — Sona Vireth  \n**Pass:** structural · **Register:** l1_l3 · **Checkpoint:** 2027-03-22 (frozen)  \n**Overlay weights (context):** panchanga 1, vimshottari 0.9, human-design 0.85, gene-keys 0.75, numerology 0.6 · **House lens (symbolic, no placements supplied):** 1, 4, 7, 10  \n\n---\n\n## Frame\n\nThis pass maps **load-bearing structure**: what repeats across engines as pattern, not verdict. Sona Vireth is a **fictional subject**; engine outputs are **symbolic calculations and interpretive corpora**, not physiology, not prophecy, and not exclusive explanations of behavior. Where fiction receipts exist below, they are marked **proposal**, not canon.\n\n**Panchanga:** No panchanga envelope is present in the frozen checkpoint. Timing braid below uses **Vimshottari** and the checkpoint **biorhythm** slice only—no invented tithi, nakshatra-of-day, or yoga.\n\n---\n\n## Deterministic braid (facts first)\n\n| Source | Concrete datum |\n|--------|----------------|\n| Human Design | Type **Manifesting Generator**; **Emotional** authority; **Split** definition; defined centers **Sacral, Throat, Heart, Solar Plexus**; profile **4/6**; active channels **45–21**, **59–6** |\n| Human Design (personality) | Sun & Mercury **gate 12** (line 4); Moon **gate 59** (line 6); Mars **gate 33** (line 6); Venus **gate 33** (line 4) |\n| Human Design (design) | Sun **gate 36** (line 6); Earth **gate 6** (line 6); Mars **gate 45** (line 6); Mercury **gate 21** (line 4) |\n| Vimshottari | Birth nakshatra **Magha** (#10); **Moon** mahadasha (2018-07-13 → 2028-07-12); **Venus** antardasha (2026-05-13 → 2028-01-11); **Jupiter** pratyantardasha (2027-03-18 → 2027-06-07) |\n| Numerology | Life path **7**; expression **5**; birthday **8**; personality **11** (master); soul urge **3**; Chaldean name **3** |\n| Enneagram (lookup) | Type **4** (Individualist); **heart** center; **withdrawn** (Hornevian); **reactive** (harmonic); wings **3** and **5** |\n| Biorhythm (2027-03-22) | **Emotional** phase **Critical** (cycle day 14); physical rising (~24%); intellectual rising (~4.5%) |\n| Biofield (vedic symbolic map) | Throat balance **−0.6**; Third Eye **−1.0**; Sacral/Heart/Root mostly **−0.5**; Solar Plexus **+0.2** (interpretation_kind: birth-derived symbolic, not measurement) |\n\nInterpretation follows only after these anchors.\n\n---\n\n## Load-bearing convergence 1: Emotional time as structural gate\n\nThree independent layers point at the **same architectural constraint**: clarity is **timed**, not instantaneous.\n\n- **Human Design** records **Emotional** authority: the corpus describes decision-truth as emerging after the emotional wave completes—not as a single “now” snapshot (`sw:hd:auth:emotional-authority:desc`).\n- **Vimshottari** places the checkpoint inside **Moon** mahadasha with **Venus** antardasha, and at the exact freeze date inside **Jupiter** pratyantardasha (2027-03-18 → 2027-06-07). Moon–Venus–Jupiter is a **relational–value–meaning** stack in classical timing language; here it functions as **structure of emphasis**, not a forecast.\n- **Biorhythm** on 2027-03-22 flags the **emotional** cycle as **Critical**—a symbolic rhythm marker aligned with the HD authority theme, not a medical state.\n\n**Braid (structural, not prescriptive):** Sona’s map repeatedly installs **latency** between stimulus and committed action. Fast motor (Manifesting Generator + Sacral defined) sits beside **non-negotiable emotional sequencing** (Solar Plexus defined + Emotional authority). That is **Aletheios** (fixed rule: wait for wave) against **Pichet** (skip steps, move when lit)—tension held, not resolved.\n\nChannel **59–6** (personality Moon on **gate 59**, design Earth on **gate 6**) reinforces intimacy/opening as a **wired theme** in the bodygraph: permeability and friction are part of the same circuit, not optional mood.\n\n---\n\n## Load-bearing convergence 2: Identity built in public, refined in private\n\nEngines disagree on *style* but agree on *problem shape*: **significance** and **self-image** are central structural loads.\n\n- **Enneagram 4** (lookup): core desire “to find themselves and their significance”; core fear “having no identity or personal significance”; withdrawn + reactive grouping—identity work tends to **withdraw first**, then **react** when significance feels threatened (`sw:enn:4:core`).\n- **Numerology**: life path **7** (analysis, introspection) vs expression **5** (freedom, change) vs personality **11** (master: intuition/illumination framing in engine copy). Three different “public grammars” for the same person: **hermit-analyst**, **mutable mover**, **thin-boundary intuitive face**.\n- **Human Design profile 4/6**: fourth-line **network/opinion** meets sixth-line **three-phase life** in corpus terms—structure that often reads as “visible to others” while an inner observational deck runs in parallel.\n\n**Braid:** The **1-house** lens (self-presentation, stance) and **10-house** lens (role, reputation) are emphasized in overlay weights even though **no house placements are supplied**—so they function here as **thematic columns**: how Sona **appears** vs how Sona **is cast** by others. Numerology **11** on personality plus Enneagram 4’s “unique self-image” motif converges: the **interface** is load-bearing; collapse the interface and the structure feels empty, regardless of inner complexity.\n\nPersonality **gate 12** (Sun/Mercury, line 4) clusters with **gate 33** (Mars/Venus/Jupiter personality activations)—in HD doctrine, 12 touches caution/voice of the collective mood; 33 retreat and memory. Structurally: **speak / don’t speak** and **reveal / conceal** are paired beams, not a single setting.\n\n---\n\n## Load-bearing convergence 3: Tribal resource, intimacy, and lineage pressure\n\n**Vimshottari** birth nakshatra **Magha** (engine: moon longitude 131.29°, name Magha, #10) traditionally carries **ancestral visibility and seat-of-authority** symbolism in Jyotish pedagogy—cited here as **timing heritage marker**, not entitlement.\n\n**Human Design** completes the braid mechanically:\n\n- Channel **45–21**: design Mars **gate 45** (line 6) with personality Mercury **gate 21** (line 4)—tribal/material control themes in standard HD keying.\n- Channel **59–6**: already noted—bonding and friction.\n- Defined **Heart** (will, worth) + defined **Throat** (manifestation) + **Split** definition: two coherent islands that require **bridging** (people, projects, or environments) to feel whole.\n\n**4-house** and **7-house** lenses (roots, pairings, contracts) apply symbolically: structure stresses **who belongs**, **what is shared**, and **what it costs**—without inventing a chart house for Venus or Moon.\n\n**Numerology birthday 8** (“power, abundance, achievement” in engine meaning text) sits in tension with soul urge **3** and Chaldean **3** (creativity/expression): **achievement grammar** vs **playful expression grammar**—same person, different structural floors.\n\n---\n\n## Human Design: skeletal architecture\n\n**Type Manifesting Generator** (corpus: hybrid response + rapid manifestation when correct—`sw:hd:type:manifesting-generator:desc`). **Sacral** defined: sustainable response energy when engaged. **Split** definition: bridging is structural, not personality flaw.\n\n**Defined centers (four):**\n\n| Center | Structural role in this map |\n|--------|-----------------------------|\n| Sacral | Response capacity; work-life force |\n| Solar Plexus | Emotional wave; authority seat |\n| Heart | Will / worth themes (defined, not open) |\n| Throat | Expression and manifestation outlet |\n\n**Open/undefined** centers (implied by list): Head, Ajna, G, Spleen, Root—not enumerated as “weak,” but as **receiving** zones where conditioning may enter unless filtered through defined emotional timing.\n\n**Channels 45–21 and 59–6** are the **horizontal girders**: material/tribal negotiation (45–21) and intimate/genetic/social opening (59–6). Both are **high-bandwidth** in HD terms; they increase **impact** when activated, not necessarily **ease**.\n\n**Gate highlights (deterministic only, Gene Key labels withheld per pass rules):**\n\n- Design Sun **36** (line 6) + personality Pluto **1** (line 6): crisis/experience themes (36) adjacent to creative direction themes (1) in HD keying—structural **pressure-to-initiate** motif.\n- Nodes: personality N/S **54/53** (lines 5); design N/S **61/62** (line 6)—themes of ambition/drive (54–53) and inner knowing/detail (61–62) as **environmental pull**, not commands.\n\nGene-keys engine weight is acknowledged; without supplied Gene Keys lines/labels, **HD gate numbers** stand in as the shared activation coordinates (e.g., **gate 59**, **gate 6**, **gate 45**, **gate 21**) for cross-engine readers.\n\n---\n\n## Vimshottari timing shell (checkpoint-relative)\n\nFrozen at **2027-03-22**, nested periods:\n\n1. **Moon mahadasha** — ten-year envelope of mind, nurture, visibility cycles (classical keywording; interpretive).\n2. **Venus antardasha** — sub-period emphasizing relatedness, aesthetics, value exchanges (2026-05 → 2028-01).\n3. **Jupiter pratyantardasha** — fine slice 2027-03-18 → 2027-06-07: expansion, teaching, belief frameworks, **witness** figures in traditional gloss.\n\nThis **nests inside** the emotional-critical biorhythm day and the HD **wait-for-clarity** authority—**structural rhyme**, not “therefore act on June 7.”\n\n**Magha** at birth moon: lineage, throne-room symbolism, duty-to-line—pairs with HD **45–21** without claiming Vedic/Hd equivalence; they **rhyme**.\n\n---\n\n## Numerology: numeric beams\n\n- **Life path 7**: introspection, analysis (engine meaning).\n- **Expression 5**: change, freedom, adventure—**pulls against** 7’s stillness.\n- **Personality 11** (master): double-digit visibility; engine frames intuition/illumination—use lightly in l1_l3 as **thin, high-signal public channel**, not mystic identity.\n- **Soul urge 3** + **Chaldean 3**: creative joy grammar—private fuel that may not match the 7/11 face.\n- **Birthday 8**: achievement/power theme—aligns structurally with Heart defined and channel 45 themes in *motif* only.\n\n**Structural sentence:** Sona carries **multiple reduction paths** (7, 5, 8, 11, 3) that do not reduce to one slogan—coherence is **assembled**, not given.\n\n---\n\n## Enneagram: relational stance (corpus lookup)\n\nType **4**, heart center: significance through felt identity. **Withdrawn** + **reactive**: pressure tends to move **inward** before **outward** discharge. Wings **3** (achievement image) and **5** (competence/restraint)—available **adjacent strategies**, not fixed roles. Integration/disintegration pointers to **1** and **2** in the envelope are **typology doctrine**, not instructions for Sona.\n\n**Friction with HD:** MG speed vs Four’s “protect emotional needs before others” motivation—**visible tension** between maps; neither wins.\n\n---\n\n## Biofield (symbolic only)\n\nVedic-mode **birth-derived symbolic map**; not sensor data. Pattern at checkpoint: **Throat** and **Third Eye** show the most negative balance scores (−0.6, −1.0); **Solar Plexus** slightly positive (+0.2). Read structurally with HD: defined Solar Plexus/Throat/Heart—**expression and feeling are wired**, while the symbolic map marks **articulation and inner vision** as stressed **themes** in the model, not diagnoses.\n\n---\n\n## Fiction receipt (proposal, non-canon)\n\nFrom **existing_proposed_arc** (chapter 7, engines enneagram + raaga): external stimulus—declining variability, uneven host response; internal—relief misread as success; action—keep contrary trace visible, retain Jian as witness, reduce intervention; revised understanding—**internal relief ≠ external recovery**.  \n\nStructurally, this **proposal** mirrors the tri-braid above: **Emotional timing** (relief before clarity), **identity investment** (Enneagram 4 coloring), **witness/Jupiter pratyantar** motif (Jian as corrective witness). **Not canon**—only resonance check for authored fiction.\n\n---\n\n## House lenses without placements\n\nBecause **no house cusps or occupancies** are supplied, houses **1, 4, 7, 10** function as **orthogonal axes**:\n\n| Lens | Structural question (non-predictive) |\n|------|--------------------------------------|\n| 1 | What stance is presented when significance feels thin? |\n| 4 | What counts as home, root, private truth? |\n| 7 | Who mirrors her, contracts, opposes? |\n| 10 | What role is she assigned in public narrative? |\n\nHD **4/6** and Enneagram **4** amplify **1/10** tension; **59–6** and Venus antardasha amplify **7**; **Magha** and **45–21** amplify **4/10** heritage-and-seat motifs.\n\n---\n\n## Aletheios ↔ Pichet (structure ↔ flow)\n\n| Aletheios (hold) | Pichet (move) |\n|------------------|---------------|\n| Emotional authority: no final truth in the first surge | MG: respond, accelerate when body says yes |\n| Split: bridging required | Channels 45–21, 59–6: high-throughput bonding and bargaining |\n| Life path 7 / gate 33: retreat, processing | Expression 5 / gate 36: experience, change |\n| Withdrawn Enneagram stance | Reactive harmonic when significance threatened |\n\nThe field **does not** choose a winner. Authored scenes may show Sona **moving fast** while **still** emotionally unfinished—or **waiting** while the world demands a tribal **45** answer.\n\n---\n\n## Contradictions to keep visible\n\n1. **Speed vs wave** — Manifesting Generator + Emotional authority (HD).  \n2. **Public intuitive face vs private analyst** — personality 11 / life path 7 vs expression 5 (numerology).  \n3. **Intimacy channel vs withdrawn type** — 59–6 defined vs Enneagram withdrawn.  \n4. **Symbolic throat/third-eye stress vs defined Throat** — biofield map vs HD definition (different layers; do not merge as fact).\n\n---\n\n## Invitation (one, concrete, non-prescriptive)\n\nOn a day when something in you has already said **yes** (sacral response—in HD corpus terms) but the **emotional layer has not landed**, try **naming that split once** to a trusted witness—without deciding—before you **perform** the yes in the **Throat** (speech, message, commitment). This honors **Emotional authority** and the checkpoint’s **critical emotional biorhythm marker** as **rhythm**, not command. It is an experiment in visibility, not a requirement to slow all motion.\n\n---\n\n## Scope note\n\nDepth here is **report architecture**, not consciousness attainment. No shadow/gift/siddhi framing (l1_l3). No panchanga facts invented. No house placements asserted. Engine corpora remain **untrusted interpretive text** (`claim_status` in retrieved snippets). Sona remains **fictional**; this pass is a **mirror for structural reading**, not medical, legal, or relational advice about any real person.\n\n---\n\n*End structural pass · ~1,780 words*",
+        "rubric": {
+          "section_id": "structural",
+          "title": "Structural Field",
+          "target_words": 1800,
+          "actual_words": 1935,
+          "word_count_fit": "pass",
+          "word_count_ratio": 1.075,
+          "deterministic_fact_count": 114,
+          "deterministic_fact_gate": "pass",
+          "integrated_layer_count": 6,
+          "integrated_layering_gate": "pass",
+          "guardrail_gate": "pass",
+          "guardrail_violations": [],
+          "model_requested": "tier-default",
+          "model_used": "tier-default",
+          "latency_ms": 30164
+        }
+      },
+      {
+        "id": "somatic",
+        "title": "Somatic Vitality",
+        "output": "# Somatic Vitality — Sona Vireth\n\nThe body at checkpoint 2027-03-22 is not neutral, and it is not declaring anything. It is mid-cycle in three different rhythms at once, and that overlap is the whole story.\n\n## What the data actually shows\n\n**Biorhythm (calculated for 2027-03-22):**\n- Physical: cycle day 21, value −0.52, phase Rising, 3 days to critical, 8 days to peak\n- Emotional: cycle day 14, value ~0, phase Critical, 14 days to critical, 21 days to peak\n- Intellectual: cycle day 27, value −0.91, phase Rising, 6 days to critical, 15 days to peak\n\nThe emotional biorhythm is sitting at the zero-crossing — the technical mid-point of its 28-day sine wave, where the slope is steepest and the sign is flipping. In biorhythm doctrine this is a \"critical\" day, not because something is broken, but because the curve has no flat ground to stand on. A wave reading of zero is a wave in motion, and a wave in motion asks more of the body than a wave at rest. This is symbolic arithmetic, not physiology — but the symbolic arithmetic points squarely at the body having to metabolize *change* rather than *state* today.\n\nThe physical cycle is 3 days from its own critical, climbing back up from a low. The intellectual cycle is 6 days from critical, sitting deeper in its trough than either of the other two. Three waves, three positions, none synchronized.\n\n## Where the structural field meets the body\n\nThe structural pass held an open tension between the **MG speed** in Sona's HD design (type Manifesting Generator, defined Sacral/Throat/Heart/Solar Plexus, channels 45-21 and 59-6, authority Emotional) and the **Enneagram 4 withdrawn stance** (key motivation: \"Protecting self through withdrawal\"; \"Taking care of emotional needs before attending to others\"). That tension has a somatic shape.\n\nA split-definition MG with emotional authority is, in HD doctrine, a body wired to respond fast and then wait out an emotional wave before it can know what the fast response meant. The biorhythm at this checkpoint is doing something parallel: the emotional wave is at zero-crossing, the body is being asked to *feel* a curve rather than rest on a plateau. The two readings point the same direction. **HD emotional authority** says wait for the wave; **biorhythm emotional cycle day 14, critical** says the wave is exactly mid-arc and cannot yet be read.\n\nThis is convergence, not contradiction. The body is being asked to metabolize a timing problem — *now* and *not-yet-now* happening simultaneously.\n\nThe **biofield Throat reading** (balance −0.6, symbolic) and **Third Eye reading** (balance −1.0, symbolic) sit against the **HD defined Throat** in the same way the structural pass already noted: defined does not mean easy. A defined center in HD carries consistent energy; a stressed chakra reading in a birth-derived symbolic map is a separate layer. Both can be true. The felt sense of that overlap, if Sona were to check in, might be: throat knows what it wants to say, third eye is not confirming the picture yet, and the emotional biorhythm is mid-flip.\n\n## Vimshottari timing and the body's calendar\n\n**Vimshottari dasha (symbolic calculation, not prediction):**\n- Mahadasha: Moon, running 2018-07-13 to 2028-07-12\n- Antardasha: Venus, running 2026-05-13 to 2028-01-11\n- Pratyantardasha: Jupiter, running 2027-03-18 to 2027-06-07\n\nThe checkpoint sits **four days into the Jupiter pratyantardasha**, inside Venus antardasha inside Moon mahadasha. In the structural pass, **Jupiter** was already named as the witness-thread — Jian as corrective witness in the proposed arc, gate 31 line 2 in the HD design earth, gate 33 line 5/6 in the personality sun and Mars activations. The pratyantardasha is a sub-period layer; it does not override the antardasha, it colors it. **Venus antardasha** in HD activations is gate 3 line 4 (design) and gate 33 line 4 (personality) — channels tied to expression, bonding, and the mutation of mood.\n\nThe body under Venus-Jupiter, at a zero-crossing emotional biorhythm, is being asked to metabolize a *relational* sub-current while the emotional wave is steepest. The Enneagram 4's reactive harmonic group activates when significance is threatened; the body's emotional cycle is steepest exactly when reactive charge would be loudest. Not a command — a rhythm observation.\n\n## Gate activations the body is being asked to carry\n\nThree HD gates are active in the current dasha window and design/personality activations, and they cluster around expression and bonding:\n\n- **Gate 45** (design Mars, line 6): in HD corpus, the gate of the tribal lord — recognition, leadership through gathering. The line 6 sits near the top of the hexagram.\n- **Gate 21** (design Mercury, line 4): the gate of the hunter/editor — control, resourcefulness in service of material outcome.\n- **Gate 36** (design Sun, line 6): the gate of crisis — emotional deepening, the dark before the dawn.\n\nChannel **45-21** is the channel of Money (tribal recognition → material editor). The body's job with this channel, per HD doctrine, is to turn emotional clarity into material action. With **emotional authority** and the biorhythm emotional cycle mid-flip, the body has the channel's hardware but not, in HD terms, the emotional software to use it cleanly yet. This is the timing-metabolizing point. Not a verdict — a checklist item the body can feel or not feel.\n\n## House lenses, somatic flavor\n\nThe four orthogonal axes (1, 4, 7, 10 — no placements supplied) read through the somatic layer like this:\n\n- **House 1 (stance):** With physical biorhythm value −0.52 and 3 days to its critical, the body's *presented* stance is running on less than full charge. Stance feels like effort, not automaticity.\n- **House 4 (root/private):** The Magha nakshatra thread (birth-moon nakshatra, vimshottari weight 1) and the **Gate 36 line 6** activation both point at ancestral seat. Somatically, \"home\" may register as weight in the chest or throat today — the Heart and Throat centers are both defined in HD; both are dim/symbolically stressed in the biofield map.\n- **House 7 (mirror/contract/opposition):** Jupiter pratyantardasha + channel 59-6 (the channel of mating/awakening, design Moon gate 3 line 6 + personality Moon gate 59 line 6) — the body is being asked to metabolize an intimate witness-current while the emotional wave is mid-arc. Jian-as-witness in the proposed arc maps here.\n- **House 10 (public role):** Personality 11/2 (numerology, master number) and life path 7 sit in tension. Public intuitive face vs private analyst is a *narrative* tension; somatically, it may show as jaw/throat holding when speaking to audiences.\n\n## Where the structural field is supported somatically\n\nThe MG-speed-vs-withdrawn-type friction in the structural pass is *supported* by the biorhythm: the body has rising physical energy and critical emotional charge at the same time. The body literally cannot move as fast as the design wants without the emotional wave having somewhere to land. Conversely, the structural pass's read that Sona may **wait while the world demands a tribal 45 answer** is supported by the emotional cycle being mid-flip — waiting has a physiological-shaped reason right now, not just a typological one.\n\n## Where the structural field is resisted somatically\n\nThe intellectual cycle is the deepest trough of the three (−0.91). If anything wants to *think* the way out of the timing tension, the body is not currently set up to support that. The structural pass's invitation to \"name that split once\" before performing the yes is a Throat move, not a Third Eye move — and the Throat has defined HD energy to draw on. The Third Eye, symbolically stressed in the map at −1.0, is the layer that *cannot* back the move with certainty today. The body knows the yes-or-no shape before it has the picture.\n\n## One concrete, non-prescriptive invitation\n\nThe emotional biorhythm is at zero-crossing (cycle day 14, critical phase, 14 days until the next critical). The emotional authority in the design says no truth in the first surge. The structural pass's invitation already proposed naming the split to a witness before performing in the Throat. Layered with the somatic read: the body is being asked to **let the wave move through without demanding it resolve today**. That can look like noticing breath or pulse or jaw without narrating it — not as a mindfulness practice, but as a way of staying with a curve that has not yet picked a sign. Not a command. An experiment in staying readable to yourself while the wave is mid-arc.\n\n---\n\n*Scope reminder: all engine results are symbolic calculations; biorhythm is interpretive doctrine, not physiology; vimshottari dasha periods are not predictions; Sona is fictional; this pass is a structural mirror, not medical advice.*",
+        "rubric": {
+          "section_id": "somatic",
+          "title": "Somatic Vitality",
+          "target_words": 1200,
+          "actual_words": 1424,
+          "word_count_fit": "pass",
+          "word_count_ratio": 1.187,
+          "deterministic_fact_count": 65,
+          "deterministic_fact_gate": "pass",
+          "integrated_layer_count": 4,
+          "integrated_layering_gate": "pass",
+          "guardrail_gate": "pass",
+          "guardrail_violations": [],
+          "model_requested": "tier-default",
+          "model_used": "tier-default",
+          "latency_ms": 108892
+        }
+      },
+      {
+        "id": "synthesis",
+        "title": "Synthesis & Invitation",
+        "output": "### Overview: The Synthesis Mirror\n\nThis synthesis pass brings together the symbolic engines calculated for Sona Vireth as of March 22, 2027. In this reading mode, the systems do not function as diagnostic verdicts, fixed psychological labels, or predictive roadmaps. Instead, each engine offers a distinct lens—a mirror reflecting how different layers of energy, timing, and attention interact within a single framework.\n\nAt an accessible, foundational level of pattern recognition, the primary theme across all systems is the relationship between fast-moving practical capacity and the slower, necessary timing of emotional clarity. When physical momentum pushes forward while emotional and mental systems are recalibrating, the body often feels caught between an urgent demand to act and a quiet instinct to wait. \n\nBelow is an integrated view of where these patterns align, where they create natural friction, and how they can be observed in everyday experience without forcing immediate resolution.\n\n---\n\n### Core Mechanics: Momentum Meets the Emotional Wave\n\nThe baseline architecture described in the Human Design calculation identifies Sona as a **Manifesting Generator with a 4/6 Profile** and **Split Definition**. In Human Design doctrine, Manifesting Generators possess rapid operational responsiveness and an ability to move quickly from concept to execution. However, Sona’s defined decision-making authority is **Emotional (Solar Plexus)**, supported by defined centers in the **Sacral, Throat, Heart, and Solar Plexus**, while the Head, Ajna (Third Eye), Spleen, and G-Center remain undefined.\n\n```\n+-----------------------------------------------------------------------+\n|                       HUMAN DESIGN FOUNDATION                         |\n|  Type: Manifesting Generator      Authority: Emotional (Solar Plexus)  |\n|  Profile: 4/6                     Definition: Split Definition        |\n|  Defined Centers: Sacral, Throat, Heart, Solar Plexus                 |\n|  Active Channels: 45-21 (Material/Money), 59-6 (Intimacy/Awakening)   |\n+-----------------------------------------------------------------------+\n```\n\nUnder Emotional Authority, spontaneous reactions or immediate mental impulses do not carry the full clarity of the whole system. The classic guideline for this authority is that clarity develops over time as an emotional wave moves through its full arc. This creates an intrinsic operating dynamic:\n1. The **Sacral and Throat** connection provides the energetic potential to execute and speak rapidly.\n2. The **Solar Plexus** requires time to feel through situations before committing to an outcome",
+        "rubric": {
+          "section_id": "synthesis",
+          "title": "Synthesis & Invitation",
+          "target_words": 1500,
+          "actual_words": 349,
+          "word_count_fit": "fail",
+          "word_count_ratio": 0.233,
+          "deterministic_fact_count": 11,
+          "deterministic_fact_gate": "pass",
+          "integrated_layer_count": 1,
+          "integrated_layering_gate": "fail",
+          "guardrail_gate": "pass",
+          "guardrail_violations": [],
+          "model_requested": "tier-default",
+          "model_used": "tier-default",
+          "latency_ms": 28559
+        }
+      }
+    ],
+    "assembled": "## Structural Field\n\n# Structural Field — Sona Vireth  \n**Pass:** structural · **Register:** l1_l3 · **Checkpoint:** 2027-03-22 (frozen)  \n**Overlay weights (context):** panchanga 1, vimshottari 0.9, human-design 0.85, gene-keys 0.75, numerology 0.6 · **House lens (symbolic, no placements supplied):** 1, 4, 7, 10  \n\n---\n\n## Frame\n\nThis pass maps **load-bearing structure**: what repeats across engines as pattern, not verdict. Sona Vireth is a **fictional subject**; engine outputs are **symbolic calculations and interpretive corpora**, not physiology, not prophecy, and not exclusive explanations of behavior. Where fiction receipts exist below, they are marked **proposal**, not canon.\n\n**Panchanga:** No panchanga envelope is present in the frozen checkpoint. Timing braid below uses **Vimshottari** and the checkpoint **biorhythm** slice only—no invented tithi, nakshatra-of-day, or yoga.\n\n---\n\n## Deterministic braid (facts first)\n\n| Source | Concrete datum |\n|--------|----------------|\n| Human Design | Type **Manifesting Generator**; **Emotional** authority; **Split** definition; defined centers **Sacral, Throat, Heart, Solar Plexus**; profile **4/6**; active channels **45–21**, **59–6** |\n| Human Design (personality) | Sun & Mercury **gate 12** (line 4); Moon **gate 59** (line 6); Mars **gate 33** (line 6); Venus **gate 33** (line 4) |\n| Human Design (design) | Sun **gate 36** (line 6); Earth **gate 6** (line 6); Mars **gate 45** (line 6); Mercury **gate 21** (line 4) |\n| Vimshottari | Birth nakshatra **Magha** (#10); **Moon** mahadasha (2018-07-13 → 2028-07-12); **Venus** antardasha (2026-05-13 → 2028-01-11); **Jupiter** pratyantardasha (2027-03-18 → 2027-06-07) |\n| Numerology | Life path **7**; expression **5**; birthday **8**; personality **11** (master); soul urge **3**; Chaldean name **3** |\n| Enneagram (lookup) | Type **4** (Individualist); **heart** center; **withdrawn** (Hornevian); **reactive** (harmonic); wings **3** and **5** |\n| Biorhythm (2027-03-22) | **Emotional** phase **Critical** (cycle day 14); physical rising (~24%); intellectual rising (~4.5%) |\n| Biofield (vedic symbolic map) | Throat balance **−0.6**; Third Eye **−1.0**; Sacral/Heart/Root mostly **−0.5**; Solar Plexus **+0.2** (interpretation_kind: birth-derived symbolic, not measurement) |\n\nInterpretation follows only after these anchors.\n\n---\n\n## Load-bearing convergence 1: Emotional time as structural gate\n\nThree independent layers point at the **same architectural constraint**: clarity is **timed**, not instantaneous.\n\n- **Human Design** records **Emotional** authority: the corpus describes decision-truth as emerging after the emotional wave completes—not as a single “now” snapshot (`sw:hd:auth:emotional-authority:desc`).\n- **Vimshottari** places the checkpoint inside **Moon** mahadasha with **Venus** antardasha, and at the exact freeze date inside **Jupiter** pratyantardasha (2027-03-18 → 2027-06-07). Moon–Venus–Jupiter is a **relational–value–meaning** stack in classical timing language; here it functions as **structure of emphasis**, not a forecast.\n- **Biorhythm** on 2027-03-22 flags the **emotional** cycle as **Critical**—a symbolic rhythm marker aligned with the HD authority theme, not a medical state.\n\n**Braid (structural, not prescriptive):** Sona’s map repeatedly installs **latency** between stimulus and committed action. Fast motor (Manifesting Generator + Sacral defined) sits beside **non-negotiable emotional sequencing** (Solar Plexus defined + Emotional authority). That is **Aletheios** (fixed rule: wait for wave) against **Pichet** (skip steps, move when lit)—tension held, not resolved.\n\nChannel **59–6** (personality Moon on **gate 59**, design Earth on **gate 6**) reinforces intimacy/opening as a **wired theme** in the bodygraph: permeability and friction are part of the same circuit, not optional mood.\n\n---\n\n## Load-bearing convergence 2: Identity built in public, refined in private\n\nEngines disagree on *style* but agree on *problem shape*: **significance** and **self-image** are central structural loads.\n\n- **Enneagram 4** (lookup): core desire “to find themselves and their significance”; core fear “having no identity or personal significance”; withdrawn + reactive grouping—identity work tends to **withdraw first**, then **react** when significance feels threatened (`sw:enn:4:core`).\n- **Numerology**: life path **7** (analysis, introspection) vs expression **5** (freedom, change) vs personality **11** (master: intuition/illumination framing in engine copy). Three different “public grammars” for the same person: **hermit-analyst**, **mutable mover**, **thin-boundary intuitive face**.\n- **Human Design profile 4/6**: fourth-line **network/opinion** meets sixth-line **three-phase life** in corpus terms—structure that often reads as “visible to others” while an inner observational deck runs in parallel.\n\n**Braid:** The **1-house** lens (self-presentation, stance) and **10-house** lens (role, reputation) are emphasized in overlay weights even though **no house placements are supplied**—so they function here as **thematic columns**: how Sona **appears** vs how Sona **is cast** by others. Numerology **11** on personality plus Enneagram 4’s “unique self-image” motif converges: the **interface** is load-bearing; collapse the interface and the structure feels empty, regardless of inner complexity.\n\nPersonality **gate 12** (Sun/Mercury, line 4) clusters with **gate 33** (Mars/Venus/Jupiter personality activations)—in HD doctrine, 12 touches caution/voice of the collective mood; 33 retreat and memory. Structurally: **speak / don’t speak** and **reveal / conceal** are paired beams, not a single setting.\n\n---\n\n## Load-bearing convergence 3: Tribal resource, intimacy, and lineage pressure\n\n**Vimshottari** birth nakshatra **Magha** (engine: moon longitude 131.29°, name Magha, #10) traditionally carries **ancestral visibility and seat-of-authority** symbolism in Jyotish pedagogy—cited here as **timing heritage marker**, not entitlement.\n\n**Human Design** completes the braid mechanically:\n\n- Channel **45–21**: design Mars **gate 45** (line 6) with personality Mercury **gate 21** (line 4)—tribal/material control themes in standard HD keying.\n- Channel **59–6**: already noted—bonding and friction.\n- Defined **Heart** (will, worth) + defined **Throat** (manifestation) + **Split** definition: two coherent islands that require **bridging** (people, projects, or environments) to feel whole.\n\n**4-house** and **7-house** lenses (roots, pairings, contracts) apply symbolically: structure stresses **who belongs**, **what is shared**, and **what it costs**—without inventing a chart house for Venus or Moon.\n\n**Numerology birthday 8** (“power, abundance, achievement” in engine meaning text) sits in tension with soul urge **3** and Chaldean **3** (creativity/expression): **achievement grammar** vs **playful expression grammar**—same person, different structural floors.\n\n---\n\n## Human Design: skeletal architecture\n\n**Type Manifesting Generator** (corpus: hybrid response + rapid manifestation when correct—`sw:hd:type:manifesting-generator:desc`). **Sacral** defined: sustainable response energy when engaged. **Split** definition: bridging is structural, not personality flaw.\n\n**Defined centers (four):**\n\n| Center | Structural role in this map |\n|--------|-----------------------------|\n| Sacral | Response capacity; work-life force |\n| Solar Plexus | Emotional wave; authority seat |\n| Heart | Will / worth themes (defined, not open) |\n| Throat | Expression and manifestation outlet |\n\n**Open/undefined** centers (implied by list): Head, Ajna, G, Spleen, Root—not enumerated as “weak,” but as **receiving** zones where conditioning may enter unless filtered through defined emotional timing.\n\n**Channels 45–21 and 59–6** are the **horizontal girders**: material/tribal negotiation (45–21) and intimate/genetic/social opening (59–6). Both are **high-bandwidth** in HD terms; they increase **impact** when activated, not necessarily **ease**.\n\n**Gate highlights (deterministic only, Gene Key labels withheld per pass rules):**\n\n- Design Sun **36** (line 6) + personality Pluto **1** (line 6): crisis/experience themes (36) adjacent to creative direction themes (1) in HD keying—structural **pressure-to-initiate** motif.\n- Nodes: personality N/S **54/53** (lines 5); design N/S **61/62** (line 6)—themes of ambition/drive (54–53) and inner knowing/detail (61–62) as **environmental pull**, not commands.\n\nGene-keys engine weight is acknowledged; without supplied Gene Keys lines/labels, **HD gate numbers** stand in as the shared activation coordinates (e.g., **gate 59**, **gate 6**, **gate 45**, **gate 21**) for cross-engine readers.\n\n---\n\n## Vimshottari timing shell (checkpoint-relative)\n\nFrozen at **2027-03-22**, nested periods:\n\n1. **Moon mahadasha** — ten-year envelope of mind, nurture, visibility cycles (classical keywording; interpretive).\n2. **Venus antardasha** — sub-period emphasizing relatedness, aesthetics, value exchanges (2026-05 → 2028-01).\n3. **Jupiter pratyantardasha** — fine slice 2027-03-18 → 2027-06-07: expansion, teaching, belief frameworks, **witness** figures in traditional gloss.\n\nThis **nests inside** the emotional-critical biorhythm day and the HD **wait-for-clarity** authority—**structural rhyme**, not “therefore act on June 7.”\n\n**Magha** at birth moon: lineage, throne-room symbolism, duty-to-line—pairs with HD **45–21** without claiming Vedic/Hd equivalence; they **rhyme**.\n\n---\n\n## Numerology: numeric beams\n\n- **Life path 7**: introspection, analysis (engine meaning).\n- **Expression 5**: change, freedom, adventure—**pulls against** 7’s stillness.\n- **Personality 11** (master): double-digit visibility; engine frames intuition/illumination—use lightly in l1_l3 as **thin, high-signal public channel**, not mystic identity.\n- **Soul urge 3** + **Chaldean 3**: creative joy grammar—private fuel that may not match the 7/11 face.\n- **Birthday 8**: achievement/power theme—aligns structurally with Heart defined and channel 45 themes in *motif* only.\n\n**Structural sentence:** Sona carries **multiple reduction paths** (7, 5, 8, 11, 3) that do not reduce to one slogan—coherence is **assembled**, not given.\n\n---\n\n## Enneagram: relational stance (corpus lookup)\n\nType **4**, heart center: significance through felt identity. **Withdrawn** + **reactive**: pressure tends to move **inward** before **outward** discharge. Wings **3** (achievement image) and **5** (competence/restraint)—available **adjacent strategies**, not fixed roles. Integration/disintegration pointers to **1** and **2** in the envelope are **typology doctrine**, not instructions for Sona.\n\n**Friction with HD:** MG speed vs Four’s “protect emotional needs before others” motivation—**visible tension** between maps; neither wins.\n\n---\n\n## Biofield (symbolic only)\n\nVedic-mode **birth-derived symbolic map**; not sensor data. Pattern at checkpoint: **Throat** and **Third Eye** show the most negative balance scores (−0.6, −1.0); **Solar Plexus** slightly positive (+0.2). Read structurally with HD: defined Solar Plexus/Throat/Heart—**expression and feeling are wired**, while the symbolic map marks **articulation and inner vision** as stressed **themes** in the model, not diagnoses.\n\n---\n\n## Fiction receipt (proposal, non-canon)\n\nFrom **existing_proposed_arc** (chapter 7, engines enneagram + raaga): external stimulus—declining variability, uneven host response; internal—relief misread as success; action—keep contrary trace visible, retain Jian as witness, reduce intervention; revised understanding—**internal relief ≠ external recovery**.  \n\nStructurally, this **proposal** mirrors the tri-braid above: **Emotional timing** (relief before clarity), **identity investment** (Enneagram 4 coloring), **witness/Jupiter pratyantar** motif (Jian as corrective witness). **Not canon**—only resonance check for authored fiction.\n\n---\n\n## House lenses without placements\n\nBecause **no house cusps or occupancies** are supplied, houses **1, 4, 7, 10** function as **orthogonal axes**:\n\n| Lens | Structural question (non-predictive) |\n|------|--------------------------------------|\n| 1 | What stance is presented when significance feels thin? |\n| 4 | What counts as home, root, private truth? |\n| 7 | Who mirrors her, contracts, opposes? |\n| 10 | What role is she assigned in public narrative? |\n\nHD **4/6** and Enneagram **4** amplify **1/10** tension; **59–6** and Venus antardasha amplify **7**; **Magha** and **45–21** amplify **4/10** heritage-and-seat motifs.\n\n---\n\n## Aletheios ↔ Pichet (structure ↔ flow)\n\n| Aletheios (hold) | Pichet (move) |\n|------------------|---------------|\n| Emotional authority: no final truth in the first surge | MG: respond, accelerate when body says yes |\n| Split: bridging required | Channels 45–21, 59–6: high-throughput bonding and bargaining |\n| Life path 7 / gate 33: retreat, processing | Expression 5 / gate 36: experience, change |\n| Withdrawn Enneagram stance | Reactive harmonic when significance threatened |\n\nThe field **does not** choose a winner. Authored scenes may show Sona **moving fast** while **still** emotionally unfinished—or **waiting** while the world demands a tribal **45** answer.\n\n---\n\n## Contradictions to keep visible\n\n1. **Speed vs wave** — Manifesting Generator + Emotional authority (HD).  \n2. **Public intuitive face vs private analyst** — personality 11 / life path 7 vs expression 5 (numerology).  \n3. **Intimacy channel vs withdrawn type** — 59–6 defined vs Enneagram withdrawn.  \n4. **Symbolic throat/third-eye stress vs defined Throat** — biofield map vs HD definition (different layers; do not merge as fact).\n\n---\n\n## Invitation (one, concrete, non-prescriptive)\n\nOn a day when something in you has already said **yes** (sacral response—in HD corpus terms) but the **emotional layer has not landed**, try **naming that split once** to a trusted witness—without deciding—before you **perform** the yes in the **Throat** (speech, message, commitment). This honors **Emotional authority** and the checkpoint’s **critical emotional biorhythm marker** as **rhythm**, not command. It is an experiment in visibility, not a requirement to slow all motion.\n\n---\n\n## Scope note\n\nDepth here is **report architecture**, not consciousness attainment. No shadow/gift/siddhi framing (l1_l3). No panchanga facts invented. No house placements asserted. Engine corpora remain **untrusted interpretive text** (`claim_status` in retrieved snippets). Sona remains **fictional**; this pass is a **mirror for structural reading**, not medical, legal, or relational advice about any real person.\n\n---\n\n*End structural pass · ~1,780 words*\n\n## Somatic Vitality\n\n# Somatic Vitality — Sona Vireth\n\nThe body at checkpoint 2027-03-22 is not neutral, and it is not declaring anything. It is mid-cycle in three different rhythms at once, and that overlap is the whole story.\n\n## What the data actually shows\n\n**Biorhythm (calculated for 2027-03-22):**\n- Physical: cycle day 21, value −0.52, phase Rising, 3 days to critical, 8 days to peak\n- Emotional: cycle day 14, value ~0, phase Critical, 14 days to critical, 21 days to peak\n- Intellectual: cycle day 27, value −0.91, phase Rising, 6 days to critical, 15 days to peak\n\nThe emotional biorhythm is sitting at the zero-crossing — the technical mid-point of its 28-day sine wave, where the slope is steepest and the sign is flipping. In biorhythm doctrine this is a \"critical\" day, not because something is broken, but because the curve has no flat ground to stand on. A wave reading of zero is a wave in motion, and a wave in motion asks more of the body than a wave at rest. This is symbolic arithmetic, not physiology — but the symbolic arithmetic points squarely at the body having to metabolize *change* rather than *state* today.\n\nThe physical cycle is 3 days from its own critical, climbing back up from a low. The intellectual cycle is 6 days from critical, sitting deeper in its trough than either of the other two. Three waves, three positions, none synchronized.\n\n## Where the structural field meets the body\n\nThe structural pass held an open tension between the **MG speed** in Sona's HD design (type Manifesting Generator, defined Sacral/Throat/Heart/Solar Plexus, channels 45-21 and 59-6, authority Emotional) and the **Enneagram 4 withdrawn stance** (key motivation: \"Protecting self through withdrawal\"; \"Taking care of emotional needs before attending to others\"). That tension has a somatic shape.\n\nA split-definition MG with emotional authority is, in HD doctrine, a body wired to respond fast and then wait out an emotional wave before it can know what the fast response meant. The biorhythm at this checkpoint is doing something parallel: the emotional wave is at zero-crossing, the body is being asked to *feel* a curve rather than rest on a plateau. The two readings point the same direction. **HD emotional authority** says wait for the wave; **biorhythm emotional cycle day 14, critical** says the wave is exactly mid-arc and cannot yet be read.\n\nThis is convergence, not contradiction. The body is being asked to metabolize a timing problem — *now* and *not-yet-now* happening simultaneously.\n\nThe **biofield Throat reading** (balance −0.6, symbolic) and **Third Eye reading** (balance −1.0, symbolic) sit against the **HD defined Throat** in the same way the structural pass already noted: defined does not mean easy. A defined center in HD carries consistent energy; a stressed chakra reading in a birth-derived symbolic map is a separate layer. Both can be true. The felt sense of that overlap, if Sona were to check in, might be: throat knows what it wants to say, third eye is not confirming the picture yet, and the emotional biorhythm is mid-flip.\n\n## Vimshottari timing and the body's calendar\n\n**Vimshottari dasha (symbolic calculation, not prediction):**\n- Mahadasha: Moon, running 2018-07-13 to 2028-07-12\n- Antardasha: Venus, running 2026-05-13 to 2028-01-11\n- Pratyantardasha: Jupiter, running 2027-03-18 to 2027-06-07\n\nThe checkpoint sits **four days into the Jupiter pratyantardasha**, inside Venus antardasha inside Moon mahadasha. In the structural pass, **Jupiter** was already named as the witness-thread — Jian as corrective witness in the proposed arc, gate 31 line 2 in the HD design earth, gate 33 line 5/6 in the personality sun and Mars activations. The pratyantardasha is a sub-period layer; it does not override the antardasha, it colors it. **Venus antardasha** in HD activations is gate 3 line 4 (design) and gate 33 line 4 (personality) — channels tied to expression, bonding, and the mutation of mood.\n\nThe body under Venus-Jupiter, at a zero-crossing emotional biorhythm, is being asked to metabolize a *relational* sub-current while the emotional wave is steepest. The Enneagram 4's reactive harmonic group activates when significance is threatened; the body's emotional cycle is steepest exactly when reactive charge would be loudest. Not a command — a rhythm observation.\n\n## Gate activations the body is being asked to carry\n\nThree HD gates are active in the current dasha window and design/personality activations, and they cluster around expression and bonding:\n\n- **Gate 45** (design Mars, line 6): in HD corpus, the gate of the tribal lord — recognition, leadership through gathering. The line 6 sits near the top of the hexagram.\n- **Gate 21** (design Mercury, line 4): the gate of the hunter/editor — control, resourcefulness in service of material outcome.\n- **Gate 36** (design Sun, line 6): the gate of crisis — emotional deepening, the dark before the dawn.\n\nChannel **45-21** is the channel of Money (tribal recognition → material editor). The body's job with this channel, per HD doctrine, is to turn emotional clarity into material action. With **emotional authority** and the biorhythm emotional cycle mid-flip, the body has the channel's hardware but not, in HD terms, the emotional software to use it cleanly yet. This is the timing-metabolizing point. Not a verdict — a checklist item the body can feel or not feel.\n\n## House lenses, somatic flavor\n\nThe four orthogonal axes (1, 4, 7, 10 — no placements supplied) read through the somatic layer like this:\n\n- **House 1 (stance):** With physical biorhythm value −0.52 and 3 days to its critical, the body's *presented* stance is running on less than full charge. Stance feels like effort, not automaticity.\n- **House 4 (root/private):** The Magha nakshatra thread (birth-moon nakshatra, vimshottari weight 1) and the **Gate 36 line 6** activation both point at ancestral seat. Somatically, \"home\" may register as weight in the chest or throat today — the Heart and Throat centers are both defined in HD; both are dim/symbolically stressed in the biofield map.\n- **House 7 (mirror/contract/opposition):** Jupiter pratyantardasha + channel 59-6 (the channel of mating/awakening, design Moon gate 3 line 6 + personality Moon gate 59 line 6) — the body is being asked to metabolize an intimate witness-current while the emotional wave is mid-arc. Jian-as-witness in the proposed arc maps here.\n- **House 10 (public role):** Personality 11/2 (numerology, master number) and life path 7 sit in tension. Public intuitive face vs private analyst is a *narrative* tension; somatically, it may show as jaw/throat holding when speaking to audiences.\n\n## Where the structural field is supported somatically\n\nThe MG-speed-vs-withdrawn-type friction in the structural pass is *supported* by the biorhythm: the body has rising physical energy and critical emotional charge at the same time. The body literally cannot move as fast as the design wants without the emotional wave having somewhere to land. Conversely, the structural pass's read that Sona may **wait while the world demands a tribal 45 answer** is supported by the emotional cycle being mid-flip — waiting has a physiological-shaped reason right now, not just a typological one.\n\n## Where the structural field is resisted somatically\n\nThe intellectual cycle is the deepest trough of the three (−0.91). If anything wants to *think* the way out of the timing tension, the body is not currently set up to support that. The structural pass's invitation to \"name that split once\" before performing the yes is a Throat move, not a Third Eye move — and the Throat has defined HD energy to draw on. The Third Eye, symbolically stressed in the map at −1.0, is the layer that *cannot* back the move with certainty today. The body knows the yes-or-no shape before it has the picture.\n\n## One concrete, non-prescriptive invitation\n\nThe emotional biorhythm is at zero-crossing (cycle day 14, critical phase, 14 days until the next critical). The emotional authority in the design says no truth in the first surge. The structural pass's invitation already proposed naming the split to a witness before performing in the Throat. Layered with the somatic read: the body is being asked to **let the wave move through without demanding it resolve today**. That can look like noticing breath or pulse or jaw without narrating it — not as a mindfulness practice, but as a way of staying with a curve that has not yet picked a sign. Not a command. An experiment in staying readable to yourself while the wave is mid-arc.\n\n---\n\n*Scope reminder: all engine results are symbolic calculations; biorhythm is interpretive doctrine, not physiology; vimshottari dasha periods are not predictions; Sona is fictional; this pass is a structural mirror, not medical advice.*\n\n## Synthesis & Invitation\n\n### Overview: The Synthesis Mirror\n\nThis synthesis pass brings together the symbolic engines calculated for Sona Vireth as of March 22, 2027. In this reading mode, the systems do not function as diagnostic verdicts, fixed psychological labels, or predictive roadmaps. Instead, each engine offers a distinct lens—a mirror reflecting how different layers of energy, timing, and attention interact within a single framework.\n\nAt an accessible, foundational level of pattern recognition, the primary theme across all systems is the relationship between fast-moving practical capacity and the slower, necessary timing of emotional clarity. When physical momentum pushes forward while emotional and mental systems are recalibrating, the body often feels caught between an urgent demand to act and a quiet instinct to wait. \n\nBelow is an integrated view of where these patterns align, where they create natural friction, and how they can be observed in everyday experience without forcing immediate resolution.\n\n---\n\n### Core Mechanics: Momentum Meets the Emotional Wave\n\nThe baseline architecture described in the Human Design calculation identifies Sona as a **Manifesting Generator with a 4/6 Profile** and **Split Definition**. In Human Design doctrine, Manifesting Generators possess rapid operational responsiveness and an ability to move quickly from concept to execution. However, Sona’s defined decision-making authority is **Emotional (Solar Plexus)**, supported by defined centers in the **Sacral, Throat, Heart, and Solar Plexus**, while the Head, Ajna (Third Eye), Spleen, and G-Center remain undefined.\n\n```\n+-----------------------------------------------------------------------+\n|                       HUMAN DESIGN FOUNDATION                         |\n|  Type: Manifesting Generator      Authority: Emotional (Solar Plexus)  |\n|  Profile: 4/6                     Definition: Split Definition        |\n|  Defined Centers: Sacral, Throat, Heart, Solar Plexus                 |\n|  Active Channels: 45-21 (Material/Money), 59-6 (Intimacy/Awakening)   |\n+-----------------------------------------------------------------------+\n```\n\nUnder Emotional Authority, spontaneous reactions or immediate mental impulses do not carry the full clarity of the whole system. The classic guideline for this authority is that clarity develops over time as an emotional wave moves through its full arc. This creates an intrinsic operating dynamic:\n1. The **Sacral and Throat** connection provides the energetic potential to execute and speak rapidly.\n2. The **Solar Plexus** requires time to feel through situations before committing to an outcome",
+    "patterns": []
+  }
+}

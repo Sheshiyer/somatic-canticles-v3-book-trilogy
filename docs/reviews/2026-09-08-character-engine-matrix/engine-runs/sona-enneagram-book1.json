@@ -1,0 +1,112 @@
+{
+  "id": "sona-enneagram-book1",
+  "input_status": "PROPOSED FICTIONAL CALCULATION INPUTS - NOT CANON",
+  "requested_engine": "enneagram",
+  "requested_at": "2026-09-08T00:21:24.264292+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Sona Vireth",
+      "date": "1991-06-17",
+      "time": "18:10",
+      "latitude": 22.5726,
+      "longitude": 88.3639,
+      "timezone": "Asia/Kolkata"
+    },
+    "current_time": "2027-02-01T06:00:00Z",
+    "location": {
+      "latitude": 22.5726,
+      "longitude": 88.3639
+    },
+    "precision": "standard",
+    "options": {
+      "type": 4
+    }
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "enneagram",
+    "result": {
+      "mode": "lookup",
+      "typeAnalysis": {
+        "center": "heart",
+        "disintegration": {
+          "description": "Fours become clingy and manipulative like unhealthy Twos",
+          "name": "The Helper",
+          "type": 2
+        },
+        "harmonicGroup": "reactive",
+        "hornevianGroup": "withdrawn",
+        "integration": {
+          "description": "Fours access objectivity and discipline of healthy Ones",
+          "name": "The Reformer",
+          "type": 1
+        },
+        "type": {
+          "averageTraits": [
+            "Melancholic and withdrawn",
+            "Self-conscious and envious",
+            "Moody and hypersensitive",
+            "Self-indulgent with feelings",
+            "Feeling misunderstood and different"
+          ],
+          "coreDesire": "To find themselves and their significance",
+          "coreFear": "Having no identity or personal significance",
+          "coreWeakness": "Envy\u2014feeling deficient and longing for what others have",
+          "description": "Expressive, dramatic, self-absorbed, and temperamental. Fours are sensitive, creative, and emotionally honest. They fear being without identity and create a unique self-image.",
+          "healthyTraits": [
+            "Inspired and highly creative",
+            "Self-aware and introspective",
+            "Emotionally honest and authentic",
+            "Compassionate toward suffering",
+            "Transforming pain into beauty"
+          ],
+          "keyMotivations": [
+            "Expressing individuality and uniqueness",
+            "Creating an identity from inner experiences",
+            "Protecting self through withdrawal",
+            "Taking care of emotional needs before attending to others"
+          ],
+          "name": "The Individualist",
+          "number": 4,
+          "unhealthyTraits": [
+            "Depressed and hopeless",
+            "Self-destructive and alienated",
+            "Tormented by self-contempt",
+            "Emotionally blocked",
+            "Despising self and life"
+          ]
+        },
+        "wings": [
+          {
+            "name": "The Achiever",
+            "number": 3
+          },
+          {
+            "name": "The Investigator",
+            "number": 5
+          }
+        ]
+      }
+    },
+    "witness_prompt": "Where do you notice the pattern of having no identity or personal significance arising in your life?",
+    "consciousness_level": 1,
+    "metadata": {
+      "calculation_time_ms": 1.0,
+      "backend": "typescript",
+      "precision_achieved": "exact",
+      "cached": false,
+      "timestamp": "2026-09-08T00:21:24.230Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "Where do you notice the pattern of having no identity or personal significance arising in your life?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:21:24.230+00:00",
+    "processing_time_ms": 1.0
+  }
+}

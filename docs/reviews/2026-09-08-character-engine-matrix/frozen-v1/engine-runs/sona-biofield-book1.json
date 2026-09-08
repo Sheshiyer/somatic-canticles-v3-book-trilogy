@@ -1,0 +1,146 @@
+{
+  "id": "sona-biofield-book1",
+  "input_status": "FROZEN EDITORIAL CALCULATION BASELINE v1 \u2014 fictional Earth-equivalent dates; not a manuscript rewrite",
+  "requested_engine": "biofield",
+  "requested_at": "2026-09-08T00:43:26.748564+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Sona Vireth",
+      "date": "1991-06-17",
+      "time": "18:10",
+      "latitude": 22.5726,
+      "longitude": 88.3639,
+      "timezone": "Asia/Kolkata"
+    },
+    "current_time": "2027-02-08T00:00:00Z",
+    "location": {
+      "latitude": 22.5726,
+      "longitude": 88.3639
+    },
+    "precision": "standard",
+    "options": {}
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "biofield",
+    "result": {
+      "areas_of_attention": [
+        "Root chakra shows left-dominant pattern",
+        "Svadhisthana (Sacral) (Lower abdomen, below navel) - lower activity linked to Venus placement",
+        "Sacral chakra shows left-dominant pattern",
+        "Anahata (Heart) (Center of chest) - lower activity linked to Venus placement",
+        "Heart chakra shows left-dominant pattern",
+        "Throat chakra shows left-dominant pattern",
+        "Ajna (Third Eye) (Between eyebrows) - lower activity linked to Saturn placement",
+        "Third Eye chakra shows left-dominant pattern",
+        "Overall coherence may benefit from grounding practices",
+        "Venus in Leo shows lower strength - related chakras may need attention"
+      ],
+      "chakra_readings": [
+        {
+          "activity_level": 0.46249999999999997,
+          "balance": -0.5,
+          "chakra": "Root",
+          "chakra_name": "Root",
+          "color_intensity": "dim red",
+          "element": "Earth",
+          "location": "Base of spine, perineum"
+        },
+        {
+          "activity_level": 0.328125,
+          "balance": -0.5,
+          "chakra": "Sacral",
+          "chakra_name": "Sacral",
+          "color_intensity": "dim orange",
+          "element": "Water",
+          "location": "Lower abdomen, below navel"
+        },
+        {
+          "activity_level": 0.45624999999999993,
+          "balance": 0.2,
+          "chakra": "SolarPlexus",
+          "chakra_name": "Solar Plexus",
+          "color_intensity": "dim yellow",
+          "element": "Fire",
+          "location": "Upper abdomen, stomach area"
+        },
+        {
+          "activity_level": 0.328125,
+          "balance": -0.5,
+          "chakra": "Heart",
+          "chakra_name": "Heart",
+          "color_intensity": "dim green",
+          "element": "Air",
+          "location": "Center of chest"
+        },
+        {
+          "activity_level": 0.45,
+          "balance": -0.6,
+          "chakra": "Throat",
+          "chakra_name": "Throat",
+          "color_intensity": "dim blue",
+          "element": "Ether/Space",
+          "location": "Throat area"
+        },
+        {
+          "activity_level": 0.3737499999999999,
+          "balance": -1.0,
+          "chakra": "ThirdEye",
+          "chakra_name": "Third Eye",
+          "color_intensity": "dim indigo",
+          "element": "Light",
+          "location": "Between eyebrows"
+        },
+        {
+          "activity_level": 0.415625,
+          "balance": -0.2,
+          "chakra": "Crown",
+          "chakra_name": "Crown",
+          "color_intensity": "dim violet",
+          "element": "Consciousness",
+          "location": "Top of head"
+        }
+      ],
+      "computation_mode": "vedic",
+      "interpretation": "Vitality may benefit from attention. Ketu in Cancer provides the strongest planetary influence in your biofield. Your Muladhara (Root) shows the highest activity, supported by Mars energy. Coherence patterns suggest potential for more integration. Left-right balance shows some asymmetry worth observing.",
+      "is_mock_data": false,
+      "metrics": {
+        "coherence": 0.24250000000000002,
+        "entropy": 0.6748695265737605,
+        "fractal_dimension": 1.36,
+        "symmetry": 0.38276422764227636,
+        "timestamp": "2027-02-08T00:00:00Z",
+        "vitality_index": 0.3922767508432074
+      },
+      "witness_layer": {
+        "aletheios": {
+          "perspective": "One side of your field is quieter than the other. That quieter side is not broken \u2014 it is waiting. What has it been waiting to say?"
+        },
+        "pichet": {
+          "perspective": "The field is dynamic \u2014 entropy at 67%. Pichet sees this as aliveness, not chaos. What one action, even tiny, would honor the energy that is moving right now?"
+        },
+        "synthesis": "The field is asking for rest and truth at once. The synthesis question: what would full permission feel like, right now?"
+      }
+    },
+    "witness_prompt": "What sensations do you notice in your body right now? Without trying to change anything, simply observe what is present. Your Root chakra shows strong Mars energy today. What sensations do you notice in the base of your spine? Bring gentle attention to your lower belly, below your navel. What is present there? If this area could speak, what might it want to express? What does your body need most right now? Not what you think it should need, but what it is actually asking for.",
+    "consciousness_level": 5,
+    "metadata": {
+      "calculation_time_ms": 1.041569,
+      "backend": "vedic-ephemeris",
+      "precision_achieved": "Standard",
+      "cached": false,
+      "timestamp": "2026-09-08T00:43:26.699822916Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "What sensations do you notice in your body right now? Without trying to change anything, simply observe what is present. Your Root chakra shows strong Mars energy today. What sensations do you notice in the base of your spine? Bring gentle attention to your lower belly, below your navel. What is present there? If this area could speak, what might it want to express? What does your body need most right now? Not what you think it should need, but what it is actually asking for.",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:43:26.699822916+00:00",
+    "processing_time_ms": 1.041569
+  }
+}

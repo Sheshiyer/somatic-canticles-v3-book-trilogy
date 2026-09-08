@@ -1,0 +1,128 @@
+{
+  "report_integrity": [
+    {
+      "report": "corv-birth-blueprint",
+      "output_limited_passes": [
+        0,
+        1
+      ],
+      "status": "CONTEXT_ONLY_NOT_VALIDATED"
+    },
+    {
+      "report": "corv-gideon-colleagues",
+      "output_limited_passes": [],
+      "status": "CONTEXT_ONLY_NOT_VALIDATED"
+    },
+    {
+      "report": "corv-integrated-reading",
+      "output_limited_passes": [
+        2
+      ],
+      "status": "CONTEXT_ONLY_NOT_VALIDATED"
+    },
+    {
+      "report": "corv-jian-colleagues",
+      "output_limited_passes": [],
+      "status": "CONTEXT_ONLY_NOT_VALIDATED"
+    },
+    {
+      "report": "corv-sona-colleagues",
+      "output_limited_passes": [],
+      "status": "CONTEXT_ONLY_NOT_VALIDATED"
+    },
+    {
+      "report": "gideon-birth-blueprint",
+      "output_limited_passes": [
+        0
+      ],
+      "status": "CONTEXT_ONLY_NOT_VALIDATED"
+    },
+    {
+      "report": "gideon-integrated-reading",
+      "output_limited_passes": [],
+      "status": "CONTEXT_ONLY_NOT_VALIDATED"
+    },
+    {
+      "report": "jian-birth-blueprint",
+      "output_limited_passes": [],
+      "status": "CONTEXT_ONLY_NOT_VALIDATED"
+    },
+    {
+      "report": "jian-gideon-colleagues",
+      "output_limited_passes": [],
+      "status": "CONTEXT_ONLY_NOT_VALIDATED"
+    },
+    {
+      "report": "jian-integrated-reading",
+      "output_limited_passes": [
+        2
+      ],
+      "status": "CONTEXT_ONLY_NOT_VALIDATED"
+    },
+    {
+      "report": "sona-birth-blueprint",
+      "output_limited_passes": [],
+      "status": "CONTEXT_ONLY_NOT_VALIDATED"
+    },
+    {
+      "report": "sona-gideon-colleagues",
+      "output_limited_passes": [],
+      "status": "CONTEXT_ONLY_NOT_VALIDATED"
+    },
+    {
+      "report": "sona-integrated-reading",
+      "output_limited_passes": [
+        2
+      ],
+      "status": "CONTEXT_ONLY_NOT_VALIDATED"
+    },
+    {
+      "report": "sona-jian-colleagues",
+      "output_limited_passes": [],
+      "status": "CONTEXT_ONLY_NOT_VALIDATED"
+    }
+  ],
+  "reports_generated": 14,
+  "passes_completed": 44,
+  "models_returned": {
+    "gemini-3.7-flash": 6,
+    "composer-2.5": 28,
+    "gpt-5.3-codex-spark": 8,
+    "MiniMaxAI/MiniMax-M3": 2
+  },
+  "finish_reasons": {
+    "length": 6,
+    "stop": 38
+  },
+  "rubric_word_count_fit": {
+    "fail": 8,
+    "pass": 24,
+    "warn": 12
+  },
+  "rubric_guardrail_gate": {
+    "pass": 44
+  },
+  "rubric_fact_gate": {
+    "pass": 43,
+    "fail": 1
+  },
+  "report_state": "CONTEXT_ONLY; not all prose fact checked",
+  "reviewed_mapping": "reviewed-mapping.json",
+  "patterns_remote_upserted": 0,
+  "source_report_sha256": {
+    "corv-birth-blueprint.json": "1ceb9a82f6a12ec8b90ac68f3df9cd018ccc36f14610f3b0fb73d0e2a4e12563",
+    "corv-gideon-colleagues.json": "f237971165a7f26b9d979100a80b07bfc53dc1d7484c4f4538cb7f70a3b5d690",
+    "corv-integrated-reading.json": "6c306930040032b49ea324eb2b0b16e3aef34af393e001286247bc26bdca7b91",
+    "corv-jian-colleagues.json": "945bfd0704d1805c27b89e84eb01548e30952d7d6a5e8897e80390a3641b40f8",
+    "corv-sona-colleagues.json": "812ae6d82ed43fdb3ddd86d6f7caec62de2fbbefcd7c7fdcaf144e9fe1b76f96",
+    "gideon-birth-blueprint.json": "2e9ce31795c57b564bef09da7e902527d3a0dea486ba7f2d4e088d5aac2d276d",
+    "gideon-integrated-reading.json": "de7e1b73d3d87ad18d8e9681b57ae2f4191d10c970ffb6c1d11af7c2da9ccf64",
+    "jian-birth-blueprint.json": "a474ce5ba0d3443879ddb04dbcb63427f9d1b5f19a99093c4bae41a3e89556bc",
+    "jian-gideon-colleagues.json": "bb0a7f36f7d1339ff2bf3e804e2a29f2503fabbe1208433ffbdf9f71c3496acb",
+    "jian-integrated-reading.json": "209ebee11d080436b8c30d916e52a7ccc5c221700a51e95d5386a463fd9af204",
+    "sona-birth-blueprint.json": "05901b5e4d911fe1c7ec6ed3def8d8b163c86aa5d3a47cbb56a7f83b82477b31",
+    "sona-gideon-colleagues.json": "660cfb1f104e8590c626ae9ee78ccbbf876eb3cedaba4fb4ff7ce300e2bafda6",
+    "sona-integrated-reading.json": "7918bfa69ff4977614fde8630de641fb256175082bc0c88f2ad3c55b633eda56",
+    "sona-jian-colleagues.json": "ba6394a39d98d7158da39a930302d4ab67071fe016a2fb0458f40848037d6170"
+  }
+}

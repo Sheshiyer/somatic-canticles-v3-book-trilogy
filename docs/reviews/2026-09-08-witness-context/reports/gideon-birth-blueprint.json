@@ -1,0 +1,477 @@
+{
+  "state": "GENERATED_UNREVIEWED",
+  "context": {
+    "frozen_checkpoint": "natal facts only",
+    "subjects": [
+      {
+        "name": "Gideon Seter",
+        "id": "gideon",
+        "engine_results": [
+          {
+            "engine_id": "human-design",
+            "result": {
+              "active_channels": [
+                "11-56",
+                "10-57"
+              ],
+              "authority": "Splenic",
+              "defined_centers": [
+                "G",
+                "Ajna",
+                "Spleen",
+                "Throat"
+              ],
+              "definition": "Split",
+              "design_activations": {
+                "earth": {
+                  "gate": 10,
+                  "line": 6,
+                  "longitude": 273.32627323857605
+                },
+                "jupiter": {
+                  "gate": 46,
+                  "line": 4,
+                  "longitude": 181.60689318975108
+                },
+                "mars": {
+                  "gate": 35,
+                  "line": 3,
+                  "longitude": 73.93910341374912
+                },
+                "mercury": {
+                  "gate": 15,
+                  "line": 1,
+                  "longitude": 88.883722493406
+                },
+                "moon": {
+                  "gate": 25,
+                  "line": 3,
+                  "longitude": 0.6554814561248183
+                },
+                "neptune": {
+                  "gate": 11,
+                  "line": 1,
+                  "longitude": 263.20675356896123
+                },
+                "northnode": {
+                  "gate": 56,
+                  "line": 6,
+                  "longitude": 121.99491603581846
+                },
+                "pluto": {
+                  "gate": 32,
+                  "line": 1,
+                  "longitude": 201.54668733142137
+                },
+                "saturn": {
+                  "gate": 46,
+                  "line": 6,
+                  "longitude": 183.32771939942552
+                },
+                "southnode": {
+                  "gate": 60,
+                  "line": 6,
+                  "longitude": 301.99491603581845
+                },
+                "sun": {
+                  "gate": 15,
+                  "line": 6,
+                  "longitude": 93.32627323857605
+                },
+                "uranus": {
+                  "gate": 14,
+                  "line": 3,
+                  "longitude": 236.70873990388
+                },
+                "venus": {
+                  "gate": 62,
+                  "line": 4,
+                  "longitude": 114.06831469723471
+                }
+              },
+              "hd_type": "Projector",
+              "personality_activations": {
+                "earth": {
+                  "gate": 25,
+                  "line": 4,
+                  "longitude": 1.326334549851822
+                },
+                "jupiter": {
+                  "gate": 57,
+                  "line": 2,
+                  "longitude": 196.50073934098089
+                },
+                "mars": {
+                  "gate": 7,
+                  "line": 1,
+                  "longitude": 134.02309731264648
+                },
+                "mercury": {
+                  "gate": 50,
+                  "line": 2,
+                  "longitude": 207.44974590933185
+                },
+                "moon": {
+                  "gate": 7,
+                  "line": 5,
+                  "longitude": 137.48308140965614
+                },
+                "neptune": {
+                  "gate": 26,
+                  "line": 6,
+                  "longitude": 262.2075155143627
+                },
+                "northnode": {
+                  "gate": 56,
+                  "line": 4,
+                  "longitude": 119.99453869260068
+                },
+                "pluto": {
+                  "gate": 32,
+                  "line": 3,
+                  "longitude": 203.35703390985395
+                },
+                "saturn": {
+                  "gate": 48,
+                  "line": 3,
+                  "longitude": 191.40111710147
+                },
+                "southnode": {
+                  "gate": 60,
+                  "line": 4,
+                  "longitude": 299.9945386926007
+                },
+                "sun": {
+                  "gate": 46,
+                  "line": 4,
+                  "longitude": 181.3263345498518
+                },
+                "uranus": {
+                  "gate": 14,
+                  "line": 3,
+                  "longitude": 237.14226063993593
+                },
+                "venus": {
+                  "gate": 1,
+                  "line": 1,
+                  "longitude": 223.40189118380576
+                }
+              },
+              "profile": "4/6"
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 4.036218,
+              "backend": "swiss-ephemeris",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:10.693594223Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:10.693594223+00:00",
+            "processing_time_ms": 4.036218
+          },
+          {
+            "engine_id": "numerology",
+            "result": {
+              "birthday": {
+                "is_master": false,
+                "meaning": "Responsibility, nurturing, harmony",
+                "reduction_chain": [
+                  24,
+                  6
+                ],
+                "value": 6
+              },
+              "chaldean_name": {
+                "is_master": false,
+                "meaning": "Power, abundance, achievement",
+                "reduction_chain": [
+                  44,
+                  8
+                ],
+                "value": 8
+              },
+              "expression": {
+                "is_master": false,
+                "meaning": "Structure, discipline, foundation",
+                "reduction_chain": [
+                  58,
+                  13,
+                  4
+                ],
+                "value": 4
+              },
+              "life_path": {
+                "is_master": false,
+                "meaning": "Analysis, wisdom, introspection",
+                "reduction_chain": [
+                  16,
+                  7
+                ],
+                "value": 7
+              },
+              "personality": {
+                "is_master": false,
+                "meaning": "Leadership, independence, pioneering",
+                "reduction_chain": [
+                  28,
+                  10,
+                  1
+                ],
+                "value": 1
+              },
+              "soul_urge": {
+                "is_master": false,
+                "meaning": "Creativity, expression, joy",
+                "reduction_chain": [
+                  30,
+                  3
+                ],
+                "value": 3
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 0,
+            "metadata": {
+              "calculation_time_ms": 0.021646,
+              "backend": "native-rust",
+              "precision_achieved": "exact",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:10.669874589Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:10.669874589+00:00",
+            "processing_time_ms": 0.021646
+          },
+          {
+            "engine_id": "enneagram",
+            "result": {
+              "mode": "lookup",
+              "typeAnalysis": {
+                "center": "gut",
+                "disintegration": {
+                  "description": "Eights become withdrawn and fearful like unhealthy Fives",
+                  "name": "The Investigator",
+                  "type": 5
+                },
+                "harmonicGroup": "reactive",
+                "hornevianGroup": "assertive",
+                "integration": {
+                  "description": "Eights access openheartedness and care of healthy Twos",
+                  "name": "The Helper",
+                  "type": 2
+                },
+                "type": {
+                  "averageTraits": [
+                    "Dominating and confrontational",
+                    "Proud and egocentric",
+                    "Willful and defiant",
+                    "Intimidating and threatening",
+                    "Struggling for control"
+                  ],
+                  "coreDesire": "To protect self and determine own direction",
+                  "coreFear": "Being harmed or controlled by others",
+                  "coreWeakness": "Lust—wanting to be against the world and prove strength",
+                  "description": "Self-confident, decisive, confrontational, and dominating. Eights are strong, resourceful, and protective. They fear being controlled and assert themselves powerfully.",
+                  "healthyTraits": [
+                    "Magnanimous and heroic",
+                    "Self-mastering and empowering",
+                    "Courageous and protective",
+                    "Resourceful and decisive",
+                    "Authoritative and leading"
+                  ],
+                  "keyMotivations": [
+                    "Being self-reliant and strong",
+                    "Resisting weakness and vulnerability",
+                    "Being important in their world",
+                    "Dominating the environment and controlling resources"
+                  ],
+                  "name": "The Challenger",
+                  "number": 8,
+                  "unhealthyTraits": [
+                    "Ruthless and dictatorial",
+                    "Destroying before being destroyed",
+                    "Terrorizing and violent",
+                    "Sociopathic and delusional",
+                    "Megalomania and revenge-seeking"
+                  ]
+                },
+                "wings": [
+                  {
+                    "name": "The Enthusiast",
+                    "number": 7
+                  },
+                  {
+                    "name": "The Peacemaker",
+                    "number": 9
+                  }
+                ]
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 1,
+            "metadata": {
+              "calculation_time_ms": 0,
+              "backend": "typescript",
+              "precision_achieved": "exact",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:11.099Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:11.099+00:00",
+            "processing_time_ms": 0
+          }
+        ],
+        "existing_proposed_arc": {
+          "character": "gideon",
+          "chapter": 3,
+          "engine": "biofield",
+          "receipt": "gideon-biofield-book1.json",
+          "field": "chakra_readings[Root].activity_level",
+          "external_stimulus": "Membrane seam flexes under load and Sona chooses her position",
+          "internal_stimulus": "Tight jaw and urge to direct her stance",
+          "interpretation": "Root emphasis is a symbolic prompt to notice bracing; it cannot establish load-bearing safety",
+          "chosen_action": "Point out the edge, ask rather than command, plan cover around her position",
+          "feedback": "Sona has room to turn",
+          "revised_understanding": "The same observed motion can prompt closure or protection of a passage",
+          "shared_lens_recurrence": 14,
+          "later_action_recurrence": [
+            9,
+            16,
+            26,
+            27
+          ]
+        }
+      }
+    ],
+    "retrieved_context": [
+      {
+        "id": "sw:hd:type:manifesting-generator:desc",
+        "system": "human-design",
+        "text": "Manifesting Generators are a hybrid type with Generator energy and Manifestor manifestation abilities. They can skip steps and move quickly when responding correctly.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:type:generator:desc",
+        "system": "human-design",
+        "text": "Generators are the life force of the planet. They have sustainable energy when engaged in work they love and are designed to respond to life rather than initiate.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:type:projector:desc",
+        "system": "human-design",
+        "text": "Projectors are natural guides and managers of energy. They see systems and people clearly and are designed to guide others when invited.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:auth:emotional-authority:desc",
+        "system": "human-design",
+        "text": "Decision-making through emotional clarity over time. No truth in the now - must wait for emotional wave to complete before deciding.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:auth:sacral-authority:desc",
+        "system": "human-design",
+        "text": "The most common authority, based on gut responses and life force energy. Decisions are made through immediate sacral sounds and gut feelings.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:auth:splenic-authority:desc",
+        "system": "human-design",
+        "text": "Intuitive authority based on survival instincts and in-the-moment awareness. Decisions come as quiet inner knowing.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:9:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To maintain their inner and outer peace and to avoid conflict. Core Fear: Loss of connection and fragmentation of their world. Core Desire: To have inner and outer peace.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:4:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To find themselves and their significance, to create an identity from their inner experience. Core Fear: Having no identity or personal significance. Core Desire: To find themselves and their significance.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:5:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To be capable and competent, to understand the environment, to have everything figured out. Core Fear: Being useless, helpless, or incapable. Core Desire: To be capable and competent.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:8:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To be self-reliant and in control of their own life and destiny. Core Fear: Being controlled or vulnerable to others. Core Desire: To be self-reliant and in control.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      }
+    ]
+  },
+  "mode_file": "birth-blueprint.md",
+  "output": {
+    "mode": "birth-blueprint",
+    "subject_names": [
+      "Gideon Seter"
+    ],
+    "register": "l1_l3",
+    "passes": [
+      {
+        "id": "natal",
+        "title": "Natal Field",
+        "output": "### Natal Field: Gideon Seter\n\nThis document provides a descriptive baseline of the symbolic natal architecture for Gideon Seter. All references derive strictly from the static snapshot recorded at the moment of birth. These patterns represent symbolic frameworks and analytical coordinates rather than physiological measurements, concrete behavioral limits, or unalterable destiny.\n\n```\n+-----------------------------------------------------------------------+\n| NATAL CONFIGURATION SNAPSHOT                                          |\n| Subject: Gideon Seter | Pass: Natal Field | Blueprint Mode: Static   |\n+-----------------------------------------------------------------------+\n| Human Design: Projector | Profile: 4/6 | Authority: Splenic           |\n| Defined Centers: Spleen, G Center, Ajna, Throat | Definition: Split   |\n| Channels: 10-57 (Perfected Form), 11-56 (Curiosity / Storyteller)     |\n| Enneagram: Type 8 (Gut / Assertive / Reactive)                        |\n| Numerology: Life Path 7 | Expression 4 | Personality 1 | Soul Urge 3  |\n| Primary House Anchors: 1st House, 4th House, 10th House               |\n+-----------------------------------------------------------------------+\n```\n\n---\n\n### 1. The Core Structural Signature\n\nThe primary structural signature at birth is defined by an acute, instinctual awareness coupled with a dual-circuit processing style. Within the Human Design calculation, Gideon is configured as a Projector with Splenic Authority and a Split Definition. \n\n```\n  [Ajna Center] ===== Channel 11-56 ===== [Throat Center]\n        |                                       |\n    (Mental Ideation)                      (Verbal Output)\n  --------------------------------------------------------\n        |                                       |\n  [G-Center]    ===== Channel 10-57 ===== [Spleen Center]\n    (Identity / Direction)                 (Instinct / Survival)\n```\n\nIn this configuration, energy operates through two distinct islands:\n1. **The Upper Island (Ajna–Throat):** Defined through the 11-56 channel of mental curiosity and conceptual structuring, allowing ideas, narratives, and observations to formulate cleanly into verbal articulation.\n2. **The Lower Island (G-Center–Spleen):** Defined through the 10-57 channel, linking individual behavior and personal direction directly to immediate, moment-to-moment acoustic and instinctual splenic alerts.\n\nBecause the Sacral, Solar Plexus, Heart, and Root centers remain undefined in this blueprint, Gideon is not structured around continuous, mechanical energy generation. Instead, the design functions by observing, evaluating, and guiding external movement. The Splenic Authority acts in real time as an instinctive, quiet recognition of safety, alignment, or environmental instability.\n\n---\n\n### 2. Interlocking Deterministic Patterns\n\nWhen the Human Design data is read alongside the Enneagram and Numerological calculations, three distinct structural facts interlock:\n\n```\n+-----------------------------------------------------------------------+\n| INTERLOCKING DYNAMICS                                                 |\n+-----------------------+-----------------------------------------------+\n| System                | Observed Natal Fact                           |\n+-----------------------+",
+        "rubric": {
+          "section_id": "natal",
+          "title": "Natal Field",
+          "target_words": 900,
+          "actual_words": 372,
+          "word_count_fit": "fail",
+          "word_count_ratio": 0.413,
+          "deterministic_fact_count": 22,
+          "deterministic_fact_gate": "pass",
+          "integrated_layer_count": 2,
+          "integrated_layering_gate": "warn",
+          "guardrail_gate": "pass",
+          "guardrail_violations": [],
+          "model_requested": "tier-default",
+          "model_used": "tier-default",
+          "latency_ms": 29357
+        }
+      },
+      {
+        "id": "invitation",
+        "title": "One Living Invitation",
+        "output": "## One Living Invitation — Gideon Seter\n\n*Birth-blueprint pass (natal snapshot only). Fictional editorial context; not a diagnosis, prophecy, or canon claim.*\n\n---\n\nThe natal picture for Gideon Seter is built around **two separate circuits that both work well on their own**, and a decision style that favors **quiet, immediate knowing** rather than grinding things out or riding a long emotional wave.\n\nIn the symbolic Human Design layout, he is calculated as a **Projector** with **Splenic Authority** and **Split Definition**. Four centers are defined at birth: **Spleen, G Center, Ajna, and Throat**. The Sacral, Solar Plexus, Heart, and Root are undefined in this snapshot—so the blueprint does not describe someone whose native rhythm is “always on” fuel or steady inner push. It describes someone who **reads situations**, **names patterns**, and **orients**—especially when life actually asks for that kind of attention.\n\n**Split Definition** means energy moves in two islands:\n\n1. **Ajna ↔ Throat (channel 11–56)** — curiosity, ideas, and stories that can move cleanly into speech. This is the “I see it, I can say it” bridge: observation becoming language.\n\n2. **G Center ↔ Spleen (channel 10–57)** — direction and identity tied to **splenic** signals: subtle alerts about safety, fit, and “this is off” in the present moment.\n\nThose islands do not automatically share one continuous inner highway. A mind that can **articulate** may run ahead of—or lag behind—a body that **knows in a flash**. The invitation is not to force them into one voice, but to notice when the story and the instinct are **in the same room**.\n\n**Splenic Authority** (interpretive doctrine, not a command) points to decisions that arrive as **small, now-time recognitions**—often easy to miss if life is loud. That sits in interesting tension with the Enneagram **Type 8** pattern in the supplied data: gut-centered, assertive, reactive; core desire described as **protecting the self and choosing one’s own direction**; core fear described as **being harmed or controlled**. In fiction as in life, that pairing can look like: the armor moves fast, while the quiet “no” or “yes” was already there a breath earlier.\n\nNumerology in the snapshot adds texture without overriding the above: **Life Path 7** (analysis, introspection), **Expression 4** (structure, foundation), **Personality 1** (independence, leading), **Soul Urge 3** (creativity, expression). A plausible lived friction—again, symbolic, not prescribed—is wanting **clear form and forward motion** (4 and 1) while the deeper path favors **stepping back to understand** (7), with a creative pulse underneath (3).\n\nThe Enneagram corpus also names integration toward **openhearted care** (Type 2) and disintegration toward **withdrawal and hyper-vigilant analysis** (Type 5). Those are interpretive maps, not fate. They simply suggest that when control feels threatened, Gideon’s pattern may swing between **hard charge** and **cold distance**—while the natal HD emphasis still asks: *what did the spleen already know before the swing?*\n\n**The single most alive invitation** in this static field is not “be softer” or “be stronger.” It is **permission to treat the first quiet splenic signal as data worth honoring before the 8-shaped reflex writes the scene**—and **permission to speak the 11–56 truth only when the moment genuinely invites guidance** (Projector theme in the corpus), rather than narrating reality into compliance.\n\nThat is a proposal, not canon: in authored scenes, he may still choose command, charm, or silence. The blueprint only highlights a recurring fork—**instinct vs. storyline**, **invitation vs. takeover**—where small choices change what others experience.\n\n---\n\n**Micro-practice (meeting the pattern):**  \nOnce today, at the first hint of urgency—jaw set, heat in the chest, urge to steer—**pause one full exhale** and locate the **smallest bodily yes or no** (a loosening, a tightening, a pull away). Do not explain it yet. Let the story channel wait.\n\n**Question (let it live in the body):**  \n*Right now, underneath whatever you are about to say or do, is there a quiet “this”—and will you let that “this” count as enough to act on before you perform strength?*",
+        "rubric": {
+          "section_id": "invitation",
+          "title": "One Living Invitation",
+          "target_words": 700,
+          "actual_words": 647,
+          "word_count_fit": "pass",
+          "word_count_ratio": 0.924,
+          "deterministic_fact_count": 12,
+          "deterministic_fact_gate": "pass",
+          "integrated_layer_count": 1,
+          "integrated_layering_gate": "fail",
+          "guardrail_gate": "pass",
+          "guardrail_violations": [],
+          "model_requested": "tier-default",
+          "model_used": "tier-default",
+          "latency_ms": 13717
+        }
+      }
+    ],
+    "assembled": "## Natal Field\n\n### Natal Field: Gideon Seter\n\nThis document provides a descriptive baseline of the symbolic natal architecture for Gideon Seter. All references derive strictly from the static snapshot recorded at the moment of birth. These patterns represent symbolic frameworks and analytical coordinates rather than physiological measurements, concrete behavioral limits, or unalterable destiny.\n\n```\n+-----------------------------------------------------------------------+\n| NATAL CONFIGURATION SNAPSHOT                                          |\n| Subject: Gideon Seter | Pass: Natal Field | Blueprint Mode: Static   |\n+-----------------------------------------------------------------------+\n| Human Design: Projector | Profile: 4/6 | Authority: Splenic           |\n| Defined Centers: Spleen, G Center, Ajna, Throat | Definition: Split   |\n| Channels: 10-57 (Perfected Form), 11-56 (Curiosity / Storyteller)     |\n| Enneagram: Type 8 (Gut / Assertive / Reactive)                        |\n| Numerology: Life Path 7 | Expression 4 | Personality 1 | Soul Urge 3  |\n| Primary House Anchors: 1st House, 4th House, 10th House               |\n+-----------------------------------------------------------------------+\n```\n\n---\n\n### 1. The Core Structural Signature\n\nThe primary structural signature at birth is defined by an acute, instinctual awareness coupled with a dual-circuit processing style. Within the Human Design calculation, Gideon is configured as a Projector with Splenic Authority and a Split Definition. \n\n```\n  [Ajna Center] ===== Channel 11-56 ===== [Throat Center]\n        |                                       |\n    (Mental Ideation)                      (Verbal Output)\n  --------------------------------------------------------\n        |                                       |\n  [G-Center]    ===== Channel 10-57 ===== [Spleen Center]\n    (Identity / Direction)                 (Instinct / Survival)\n```\n\nIn this configuration, energy operates through two distinct islands:\n1. **The Upper Island (Ajna–Throat):** Defined through the 11-56 channel of mental curiosity and conceptual structuring, allowing ideas, narratives, and observations to formulate cleanly into verbal articulation.\n2. **The Lower Island (G-Center–Spleen):** Defined through the 10-57 channel, linking individual behavior and personal direction directly to immediate, moment-to-moment acoustic and instinctual splenic alerts.\n\nBecause the Sacral, Solar Plexus, Heart, and Root centers remain undefined in this blueprint, Gideon is not structured around continuous, mechanical energy generation. Instead, the design functions by observing, evaluating, and guiding external movement. The Splenic Authority acts in real time as an instinctive, quiet recognition of safety, alignment, or environmental instability.\n\n---\n\n### 2. Interlocking Deterministic Patterns\n\nWhen the Human Design data is read alongside the Enneagram and Numerological calculations, three distinct structural facts interlock:\n\n```\n+-----------------------------------------------------------------------+\n| INTERLOCKING DYNAMICS                                                 |\n+-----------------------+-----------------------------------------------+\n| System                | Observed Natal Fact                           |\n+-----------------------+\n\n## One Living Invitation\n\n## One Living Invitation — Gideon Seter\n\n*Birth-blueprint pass (natal snapshot only). Fictional editorial context; not a diagnosis, prophecy, or canon claim.*\n\n---\n\nThe natal picture for Gideon Seter is built around **two separate circuits that both work well on their own**, and a decision style that favors **quiet, immediate knowing** rather than grinding things out or riding a long emotional wave.\n\nIn the symbolic Human Design layout, he is calculated as a **Projector** with **Splenic Authority** and **Split Definition**. Four centers are defined at birth: **Spleen, G Center, Ajna, and Throat**. The Sacral, Solar Plexus, Heart, and Root are undefined in this snapshot—so the blueprint does not describe someone whose native rhythm is “always on” fuel or steady inner push. It describes someone who **reads situations**, **names patterns**, and **orients**—especially when life actually asks for that kind of attention.\n\n**Split Definition** means energy moves in two islands:\n\n1. **Ajna ↔ Throat (channel 11–56)** — curiosity, ideas, and stories that can move cleanly into speech. This is the “I see it, I can say it” bridge: observation becoming language.\n\n2. **G Center ↔ Spleen (channel 10–57)** — direction and identity tied to **splenic** signals: subtle alerts about safety, fit, and “this is off” in the present moment.\n\nThose islands do not automatically share one continuous inner highway. A mind that can **articulate** may run ahead of—or lag behind—a body that **knows in a flash**. The invitation is not to force them into one voice, but to notice when the story and the instinct are **in the same room**.\n\n**Splenic Authority** (interpretive doctrine, not a command) points to decisions that arrive as **small, now-time recognitions**—often easy to miss if life is loud. That sits in interesting tension with the Enneagram **Type 8** pattern in the supplied data: gut-centered, assertive, reactive; core desire described as **protecting the self and choosing one’s own direction**; core fear described as **being harmed or controlled**. In fiction as in life, that pairing can look like: the armor moves fast, while the quiet “no” or “yes” was already there a breath earlier.\n\nNumerology in the snapshot adds texture without overriding the above: **Life Path 7** (analysis, introspection), **Expression 4** (structure, foundation), **Personality 1** (independence, leading), **Soul Urge 3** (creativity, expression). A plausible lived friction—again, symbolic, not prescribed—is wanting **clear form and forward motion** (4 and 1) while the deeper path favors **stepping back to understand** (7), with a creative pulse underneath (3).\n\nThe Enneagram corpus also names integration toward **openhearted care** (Type 2) and disintegration toward **withdrawal and hyper-vigilant analysis** (Type 5). Those are interpretive maps, not fate. They simply suggest that when control feels threatened, Gideon’s pattern may swing between **hard charge** and **cold distance**—while the natal HD emphasis still asks: *what did the spleen already know before the swing?*\n\n**The single most alive invitation** in this static field is not “be softer” or “be stronger.” It is **permission to treat the first quiet splenic signal as data worth honoring before the 8-shaped reflex writes the scene**—and **permission to speak the 11–56 truth only when the moment genuinely invites guidance** (Projector theme in the corpus), rather than narrating reality into compliance.\n\nThat is a proposal, not canon: in authored scenes, he may still choose command, charm, or silence. The blueprint only highlights a recurring fork—**instinct vs. storyline**, **invitation vs. takeover**—where small choices change what others experience.\n\n---\n\n**Micro-practice (meeting the pattern):**  \nOnce today, at the first hint of urgency—jaw set, heat in the chest, urge to steer—**pause one full exhale** and locate the **smallest bodily yes or no** (a loosening, a tightening, a pull away). Do not explain it yet. Let the story channel wait.\n\n**Question (let it live in the body):**  \n*Right now, underneath whatever you are about to say or do, is there a quiet “this”—and will you let that “this” count as enough to act on before you perform strength?*",
+    "patterns": []
+  }
+}

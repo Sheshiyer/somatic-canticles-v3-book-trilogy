@@ -1,0 +1,147 @@
+{
+  "id": "team-vedic-clock-book1",
+  "input_status": "FROZEN EDITORIAL CALCULATION BASELINE v1 \u2014 fictional Earth-equivalent dates; not a manuscript rewrite",
+  "requested_engine": "vedic-clock",
+  "requested_at": "2026-09-08T00:43:28.557145+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Corvan Luminth",
+      "date": "1984-11-03",
+      "time": "07:20",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "timezone": "UTC"
+    },
+    "current_time": "2027-02-08T00:00:00Z",
+    "location": {
+      "latitude": 12.9716,
+      "longitude": 77.5946
+    },
+    "precision": "standard",
+    "options": {
+      "timezone_offset": 330
+    }
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "vedic-clock",
+    "result": {
+      "calculated_for": "2027-02-08T00:00:00+00:00",
+      "current_dosha": {
+        "dosha": "Vata",
+        "qualities": [
+          "Movement",
+          "Creativity",
+          "Lightness",
+          "Variability",
+          "Spiritual sensitivity"
+        ]
+      },
+      "current_organ": {
+        "associated_emotion": "Letting go (balanced) / Holding on (imbalanced)",
+        "element": "Metal",
+        "organ": "LargeIntestine",
+        "peak_energy": "Time of release and elimination",
+        "recommended_activities": [
+          "Bowel movement",
+          "Drinking warm water",
+          "Light stretching",
+          "Morning hygiene routine",
+          "Release of what no longer serves"
+        ],
+        "time_window": "5 AM - 7 AM"
+      },
+      "recommendation": {
+        "activities": [
+          {
+            "activity": "Bowel movement",
+            "quality": "neutral",
+            "reason": "Large Intestine time (Metal) - Time of release and elimination energy"
+          },
+          {
+            "activity": "Drinking warm water",
+            "quality": "neutral",
+            "reason": "Large Intestine time (Metal) - Time of release and elimination energy"
+          },
+          {
+            "activity": "Light stretching",
+            "quality": "neutral",
+            "reason": "Large Intestine time (Metal) - Time of release and elimination energy"
+          },
+          {
+            "activity": "Morning hygiene routine",
+            "quality": "neutral",
+            "reason": "Large Intestine time (Metal) - Time of release and elimination energy"
+          },
+          {
+            "activity": "Release of what no longer serves",
+            "quality": "neutral",
+            "reason": "Large Intestine time (Metal) - Time of release and elimination energy"
+          }
+        ],
+        "dosha": "Vata",
+        "organ": "LargeIntestine",
+        "panchanga_quality": null,
+        "time_window": "5 AM - 7 AM"
+      },
+      "synthesis": "Large Intestine (Metal) time during Vata period - harmonious energy. Time of release and elimination",
+      "timezone": {
+        "local_hour": 5,
+        "offset_minutes": 330,
+        "source": "options.timezone_offset"
+      },
+      "upcoming_transitions": [
+        {
+          "description": "Kapha period begins",
+          "new_dosha": "Kapha",
+          "new_organ": null,
+          "time": "6:00"
+        },
+        {
+          "description": "Stomach time begins",
+          "new_dosha": null,
+          "new_organ": "Stomach",
+          "time": "7:00"
+        },
+        {
+          "description": "Spleen time begins",
+          "new_dosha": null,
+          "new_organ": "Spleen",
+          "time": "9:00"
+        },
+        {
+          "description": "Pitta period begins",
+          "new_dosha": "Pitta",
+          "new_organ": null,
+          "time": "10:00"
+        },
+        {
+          "description": "Heart time begins",
+          "new_dosha": null,
+          "new_organ": "Heart",
+          "time": "11:00"
+        }
+      ]
+    },
+    "witness_prompt": "What releases when there is no one holding on?",
+    "consciousness_level": 5,
+    "metadata": {
+      "calculation_time_ms": 0.074341,
+      "backend": "native",
+      "precision_achieved": "Standard",
+      "cached": false,
+      "timestamp": "2026-09-08T00:43:28.479879988Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "What releases when there is no one holding on?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:43:28.479879988+00:00",
+    "processing_time_ms": 0.074341
+  }
+}

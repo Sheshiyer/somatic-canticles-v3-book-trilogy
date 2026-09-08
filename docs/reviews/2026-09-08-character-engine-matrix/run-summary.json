@@ -1,0 +1,270 @@
+{
+  "total": 66,
+  "http_200": 66,
+  "receipts": [
+    {
+      "id": "corv-biofield-book1",
+      "status": 200
+    },
+    {
+      "id": "corv-biorhythm-book1",
+      "status": 200
+    },
+    {
+      "id": "corv-biorhythm-book2",
+      "status": 200
+    },
+    {
+      "id": "corv-biorhythm-book3",
+      "status": 200
+    },
+    {
+      "id": "corv-enneagram-book1",
+      "status": 200
+    },
+    {
+      "id": "corv-gene-keys-book1",
+      "status": 200
+    },
+    {
+      "id": "corv-human-design-book1",
+      "status": 200
+    },
+    {
+      "id": "corv-numerology-book1",
+      "status": 200
+    },
+    {
+      "id": "corv-transits-book1",
+      "status": 200
+    },
+    {
+      "id": "corv-transits-book2",
+      "status": 200
+    },
+    {
+      "id": "corv-transits-book3",
+      "status": 200
+    },
+    {
+      "id": "corv-vimshottari-book1",
+      "status": 200
+    },
+    {
+      "id": "corv-vimshottari-book2",
+      "status": 200
+    },
+    {
+      "id": "corv-vimshottari-book3",
+      "status": 200
+    },
+    {
+      "id": "gideon-biofield-book1",
+      "status": 200
+    },
+    {
+      "id": "gideon-biorhythm-book1",
+      "status": 200
+    },
+    {
+      "id": "gideon-biorhythm-book2",
+      "status": 200
+    },
+    {
+      "id": "gideon-biorhythm-book3",
+      "status": 200
+    },
+    {
+      "id": "gideon-enneagram-book1",
+      "status": 200
+    },
+    {
+      "id": "gideon-gene-keys-book1",
+      "status": 200
+    },
+    {
+      "id": "gideon-human-design-book1",
+      "status": 200
+    },
+    {
+      "id": "gideon-numerology-book1",
+      "status": 200
+    },
+    {
+      "id": "gideon-transits-book1",
+      "status": 200
+    },
+    {
+      "id": "gideon-transits-book2",
+      "status": 200
+    },
+    {
+      "id": "gideon-transits-book3",
+      "status": 200
+    },
+    {
+      "id": "gideon-vimshottari-book1",
+      "status": 200
+    },
+    {
+      "id": "gideon-vimshottari-book2",
+      "status": 200
+    },
+    {
+      "id": "gideon-vimshottari-book3",
+      "status": 200
+    },
+    {
+      "id": "jian-biofield-book1",
+      "status": 200
+    },
+    {
+      "id": "jian-biorhythm-book1",
+      "status": 200
+    },
+    {
+      "id": "jian-biorhythm-book2",
+      "status": 200
+    },
+    {
+      "id": "jian-biorhythm-book3",
+      "status": 200
+    },
+    {
+      "id": "jian-enneagram-book1",
+      "status": 200
+    },
+    {
+      "id": "jian-gene-keys-book1",
+      "status": 200
+    },
+    {
+      "id": "jian-human-design-book1",
+      "status": 200
+    },
+    {
+      "id": "jian-numerology-book1",
+      "status": 200
+    },
+    {
+      "id": "jian-transits-book1",
+      "status": 200
+    },
+    {
+      "id": "jian-transits-book2",
+      "status": 200
+    },
+    {
+      "id": "jian-transits-book3",
+      "status": 200
+    },
+    {
+      "id": "jian-vimshottari-book1",
+      "status": 200
+    },
+    {
+      "id": "jian-vimshottari-book2",
+      "status": 200
+    },
+    {
+      "id": "jian-vimshottari-book3",
+      "status": 200
+    },
+    {
+      "id": "sona-biofield-book1",
+      "status": 200
+    },
+    {
+      "id": "sona-biorhythm-book1",
+      "status": 200
+    },
+    {
+      "id": "sona-biorhythm-book2",
+      "status": 200
+    },
+    {
+      "id": "sona-biorhythm-book3",
+      "status": 200
+    },
+    {
+      "id": "sona-enneagram-book1",
+      "status": 200
+    },
+    {
+      "id": "sona-gene-keys-book1",
+      "status": 200
+    },
+    {
+      "id": "sona-human-design-book1",
+      "status": 200
+    },
+    {
+      "id": "sona-numerology-book1",
+      "status": 200
+    },
+    {
+      "id": "sona-raaga-book1",
+      "status": 200
+    },
+    {
+      "id": "sona-transits-book1",
+      "status": 200
+    },
+    {
+      "id": "sona-transits-book2",
+      "status": 200
+    },
+    {
+      "id": "sona-transits-book3",
+      "status": 200
+    },
+    {
+      "id": "sona-vimshottari-book1",
+      "status": 200
+    },
+    {
+      "id": "sona-vimshottari-book2",
+      "status": 200
+    },
+    {
+      "id": "sona-vimshottari-book3",
+      "status": 200
+    },
+    {
+      "id": "team-nadabrahman-book1",
+      "status": 200
+    },
+    {
+      "id": "team-nadabrahman-book2",
+      "status": 200
+    },
+    {
+      "id": "team-nadabrahman-book3",
+      "status": 200
+    },
+    {
+      "id": "team-panchanga-book1",
+      "status": 200
+    },
+    {
+      "id": "team-panchanga-book2",
+      "status": 200
+    },
+    {
+      "id": "team-panchanga-book3",
+      "status": 200
+    },
+    {
+      "id": "team-vedic-clock-book1",
+      "status": 200
+    },
+    {
+      "id": "team-vedic-clock-book2",
+      "status": 200
+    },
+    {
+      "id": "team-vedic-clock-book3",
+      "status": 200
+    }
+  ]
+}

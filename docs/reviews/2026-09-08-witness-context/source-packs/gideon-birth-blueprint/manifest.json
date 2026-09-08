@@ -1,0 +1,19 @@
+{
+  "person_id": "gideon-birth-blueprint",
+  "created_at": "2026-09-08T01:34:30.810Z",
+  "reading_length": 7583,
+  "engines": [
+    "human-design",
+    "numerology",
+    "enneagram"
+  ],
+  "quality": {
+    "facts_count": 3,
+    "gate_status": "ready",
+    "pattern_learning": {
+      "extracted": 0,
+      "upserted": 0,
+      "skipped": 0
+    }
+  }
+}

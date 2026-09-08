@@ -1,0 +1,14 @@
+{
+  "matrix_cells": 108,
+  "chapters": 27,
+  "engines": 19,
+  "pairs": 6,
+  "http_200_calculations": 66,
+  "canonical_chapter_hashes_match": true,
+  "natal_channel_sets_consistent": 4,
+  "credential_scan": "pass",
+  "writer_mirror_files_identical": 16,
+  "dates_frozen": false,
+  "final_reports_generated": false,
+  "remote_storage_written": false
+}

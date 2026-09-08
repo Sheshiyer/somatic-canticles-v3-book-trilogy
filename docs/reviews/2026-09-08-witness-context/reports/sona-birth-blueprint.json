@@ -1,0 +1,499 @@
+{
+  "state": "GENERATED_UNREVIEWED",
+  "context": {
+    "frozen_checkpoint": "natal facts only",
+    "subjects": [
+      {
+        "name": "Sona Vireth",
+        "id": "sona",
+        "engine_results": [
+          {
+            "engine_id": "human-design",
+            "result": {
+              "active_channels": [
+                "45-21",
+                "59-6"
+              ],
+              "authority": "Emotional",
+              "defined_centers": [
+                "Sacral",
+                "Throat",
+                "Heart",
+                "SolarPlexus"
+              ],
+              "definition": "Split",
+              "design_activations": {
+                "earth": {
+                  "gate": 6,
+                  "line": 6,
+                  "longitude": 177.83823460950998
+                },
+                "jupiter": {
+                  "gate": 31,
+                  "line": 2,
+                  "longitude": 123.76358478500502
+                },
+                "mars": {
+                  "gate": 45,
+                  "line": 6,
+                  "longitude": 82.22852484108444
+                },
+                "mercury": {
+                  "gate": 21,
+                  "line": 4,
+                  "longitude": 13.043330902620236
+                },
+                "moon": {
+                  "gate": 3,
+                  "line": 6,
+                  "longitude": 31.274014301617143
+                },
+                "neptune": {
+                  "gate": 54,
+                  "line": 2,
+                  "longitude": 286.50092186461535
+                },
+                "northnode": {
+                  "gate": 61,
+                  "line": 6,
+                  "longitude": 295.9439426676907
+                },
+                "pluto": {
+                  "gate": 43,
+                  "line": 2,
+                  "longitude": 230.19919811086953
+                },
+                "saturn": {
+                  "gate": 41,
+                  "line": 3,
+                  "longitude": 304.13666394477724
+                },
+                "southnode": {
+                  "gate": 62,
+                  "line": 6,
+                  "longitude": 115.94394266769069
+                },
+                "sun": {
+                  "gate": 36,
+                  "line": 6,
+                  "longitude": 357.83823460951004
+                },
+                "uranus": {
+                  "gate": 38,
+                  "line": 5,
+                  "longitude": 283.4216123126532
+                },
+                "venus": {
+                  "gate": 3,
+                  "line": 4,
+                  "longitude": 30.055686500768115
+                }
+              },
+              "hd_type": "ManifestingGenerator",
+              "personality_activations": {
+                "earth": {
+                  "gate": 11,
+                  "line": 4,
+                  "longitude": 265.8382163092696
+                },
+                "jupiter": {
+                  "gate": 33,
+                  "line": 5,
+                  "longitude": 131.81295176788194
+                },
+                "mars": {
+                  "gate": 33,
+                  "line": 6,
+                  "longitude": 133.02466623427728
+                },
+                "mercury": {
+                  "gate": 12,
+                  "line": 4,
+                  "longitude": 86.25473807807496
+                },
+                "moon": {
+                  "gate": 59,
+                  "line": 6,
+                  "longitude": 155.01428364880246
+                },
+                "neptune": {
+                  "gate": 54,
+                  "line": 1,
+                  "longitude": 285.91979790570707
+                },
+                "northnode": {
+                  "gate": 54,
+                  "line": 5,
+                  "longitude": 289.12063811057055
+                },
+                "pluto": {
+                  "gate": 1,
+                  "line": 6,
+                  "longitude": 228.01368201083736
+                },
+                "saturn": {
+                  "gate": 41,
+                  "line": 5,
+                  "longitude": 306.07340864419234
+                },
+                "southnode": {
+                  "gate": 53,
+                  "line": 5,
+                  "longitude": 109.12063811057055
+                },
+                "sun": {
+                  "gate": 12,
+                  "line": 4,
+                  "longitude": 85.83821630926961
+                },
+                "uranus": {
+                  "gate": 38,
+                  "line": 4,
+                  "longitude": 282.49422760390644
+                },
+                "venus": {
+                  "gate": 33,
+                  "line": 4,
+                  "longitude": 131.1467900050454
+                }
+              },
+              "profile": "4/6"
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 1.9752149999999997,
+              "backend": "swiss-ephemeris",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:07.890447786Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:07.890447786+00:00",
+            "processing_time_ms": 1.9752149999999997
+          },
+          {
+            "engine_id": "numerology",
+            "result": {
+              "birthday": {
+                "is_master": false,
+                "meaning": "Power, abundance, achievement",
+                "reduction_chain": [
+                  17,
+                  8
+                ],
+                "value": 8
+              },
+              "chaldean_name": {
+                "is_master": false,
+                "meaning": "Creativity, expression, joy",
+                "reduction_chain": [
+                  39,
+                  12,
+                  3
+                ],
+                "value": 3
+              },
+              "expression": {
+                "is_master": false,
+                "meaning": "Freedom, change, adventure",
+                "reduction_chain": [
+                  50,
+                  5
+                ],
+                "value": 5
+              },
+              "life_path": {
+                "is_master": false,
+                "meaning": "Analysis, wisdom, introspection",
+                "reduction_chain": [
+                  16,
+                  7
+                ],
+                "value": 7
+              },
+              "personality": {
+                "is_master": true,
+                "meaning": "Intuition, spiritual insight, illumination (master)",
+                "reduction_chain": [
+                  29,
+                  11
+                ],
+                "value": 11
+              },
+              "soul_urge": {
+                "is_master": false,
+                "meaning": "Creativity, expression, joy",
+                "reduction_chain": [
+                  21,
+                  3
+                ],
+                "value": 3
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 0,
+            "metadata": {
+              "calculation_time_ms": 0.020044,
+              "backend": "native-rust",
+              "precision_achieved": "exact",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:07.828659439Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:07.828659439+00:00",
+            "processing_time_ms": 0.020044
+          },
+          {
+            "engine_id": "enneagram",
+            "result": {
+              "mode": "lookup",
+              "typeAnalysis": {
+                "center": "heart",
+                "disintegration": {
+                  "description": "Fours become clingy and manipulative like unhealthy Twos",
+                  "name": "The Helper",
+                  "type": 2
+                },
+                "harmonicGroup": "reactive",
+                "hornevianGroup": "withdrawn",
+                "integration": {
+                  "description": "Fours access objectivity and discipline of healthy Ones",
+                  "name": "The Reformer",
+                  "type": 1
+                },
+                "type": {
+                  "averageTraits": [
+                    "Melancholic and withdrawn",
+                    "Self-conscious and envious",
+                    "Moody and hypersensitive",
+                    "Self-indulgent with feelings",
+                    "Feeling misunderstood and different"
+                  ],
+                  "coreDesire": "To find themselves and their significance",
+                  "coreFear": "Having no identity or personal significance",
+                  "coreWeakness": "Envy—feeling deficient and longing for what others have",
+                  "description": "Expressive, dramatic, self-absorbed, and temperamental. Fours are sensitive, creative, and emotionally honest. They fear being without identity and create a unique self-image.",
+                  "healthyTraits": [
+                    "Inspired and highly creative",
+                    "Self-aware and introspective",
+                    "Emotionally honest and authentic",
+                    "Compassionate toward suffering",
+                    "Transforming pain into beauty"
+                  ],
+                  "keyMotivations": [
+                    "Expressing individuality and uniqueness",
+                    "Creating an identity from inner experiences",
+                    "Protecting self through withdrawal",
+                    "Taking care of emotional needs before attending to others"
+                  ],
+                  "name": "The Individualist",
+                  "number": 4,
+                  "unhealthyTraits": [
+                    "Depressed and hopeless",
+                    "Self-destructive and alienated",
+                    "Tormented by self-contempt",
+                    "Emotionally blocked",
+                    "Despising self and life"
+                  ]
+                },
+                "wings": [
+                  {
+                    "name": "The Achiever",
+                    "number": 3
+                  },
+                  {
+                    "name": "The Investigator",
+                    "number": 5
+                  }
+                ]
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 1,
+            "metadata": {
+              "calculation_time_ms": 0,
+              "backend": "typescript",
+              "precision_achieved": "exact",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:08.383Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:08.383+00:00",
+            "processing_time_ms": 0
+          }
+        ],
+        "existing_proposed_arc": {
+          "character": "sona",
+          "chapter": 7,
+          "engine": "enneagram + raaga",
+          "receipt": "sona-enneagram-book1.json",
+          "additional_receipts": [
+            "sona-raaga-book1.json"
+          ],
+          "field": "typeAnalysis.type.description; melakarta.num",
+          "external_stimulus": "Jian identifies declining variability and the host responds unevenly",
+          "internal_stimulus": "Relief misread as success, shaking hands after withdrawing the intervention",
+          "interpretation": "Her identity investment may be coloring the reading; the musical pattern organizes her attention but does not establish host recovery",
+          "chosen_action": "Keep contrary trace visible, mouth a familiar phrase, explicitly retain Jian as a corrective witness, reduce intervention",
+          "feedback": "Existing host response remains uneven; shaking does not magically disappear",
+          "revised_understanding": "Internal relief and external recovery are separate observations",
+          "shared_lens_recurrence": 14,
+          "later_action_recurrence": [
+            20,
+            22,
+            27
+          ]
+        }
+      }
+    ],
+    "retrieved_context": [
+      {
+        "id": "sw:hd:type:manifesting-generator:desc",
+        "system": "human-design",
+        "text": "Manifesting Generators are a hybrid type with Generator energy and Manifestor manifestation abilities. They can skip steps and move quickly when responding correctly.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:type:generator:desc",
+        "system": "human-design",
+        "text": "Generators are the life force of the planet. They have sustainable energy when engaged in work they love and are designed to respond to life rather than initiate.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:type:projector:desc",
+        "system": "human-design",
+        "text": "Projectors are natural guides and managers of energy. They see systems and people clearly and are designed to guide others when invited.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:auth:emotional-authority:desc",
+        "system": "human-design",
+        "text": "Decision-making through emotional clarity over time. No truth in the now - must wait for emotional wave to complete before deciding.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:auth:sacral-authority:desc",
+        "system": "human-design",
+        "text": "The most common authority, based on gut responses and life force energy. Decisions are made through immediate sacral sounds and gut feelings.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:auth:splenic-authority:desc",
+        "system": "human-design",
+        "text": "Intuitive authority based on survival instincts and in-the-moment awareness. Decisions come as quiet inner knowing.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:9:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To maintain their inner and outer peace and to avoid conflict. Core Fear: Loss of connection and fragmentation of their world. Core Desire: To have inner and outer peace.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:4:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To find themselves and their significance, to create an identity from their inner experience. Core Fear: Having no identity or personal significance. Core Desire: To find themselves and their significance.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:5:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To be capable and competent, to understand the environment, to have everything figured out. Core Fear: Being useless, helpless, or incapable. Core Desire: To be capable and competent.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:8:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To be self-reliant and in control of their own life and destiny. Core Fear: Being controlled or vulnerable to others. Core Desire: To be self-reliant and in control.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      }
+    ]
+  },
+  "mode_file": "birth-blueprint.md",
+  "output": {
+    "mode": "birth-blueprint",
+    "subject_names": [
+      "Sona Vireth"
+    ],
+    "register": "l1_l3",
+    "passes": [
+      {
+        "id": "natal",
+        "title": "Natal Field",
+        "output": "**Natal Field (Pass: natal, Register l1_l3) — Sona Vireth**\n\nThis map is restricted to birth-derived outputs only. No current transits are included, and no house placements are provided in the supplied fact set. As a result, this is an editorial natal map, not a personal diagnosis, and not a statement of certainty. It should be read as structured symbolic synthesis with a narrow data boundary. It also does not represent physiology, medical status, or lived scene truth.\n\nSource coverage is constrained. The requested overlay listed panchanga and vimshottari weights, but no panchanga/vimshottari payload is present in the supplied facts. Human Design, numerology, and Enneagram data are present; Enneagram is present without a numeric weight in the overlay. So the practical synthesis is: first read the Human Design core facts, then compare them to numerology and Enneagram as confirming or tension-revealing context. This is a methodological limit, not a flaw in the subject.\n\nThe dominant structural signature for Sona is clear enough to name: **Manifesting Generator with Emotional Authority and Split Definition**, plus defined Sacral, Throat, Heart, and Solar Plexus centers, with active channels **45-21** and **59-6**. That is the strongest stable anchor because it is direct and internally consistent in the Human Design payload.\n\nFrom a factual register, this means the system already has a dual-engine style of operation: energy and output appear structurally present together, while the emotional authority suggests timing is not instantaneous. Internal initiation is less a random surge and more a process that must settle through feeling-state before action is selected. With split definition, the system structure also implies that completion of inner pattern can depend on external context to feel “joined” rather than self-contained from the first impulse. This is not a personality verdict; it is a process pattern in the supplied architecture.\n\nThe strongest **interlocking facts** from deterministic layers are:\n\nFirst, the Manifesting Generator + Emotional Authority combination aligns with a specific workflow: rapid capability exists, but decision legitimacy depends on emotional processing. The defined centers (Sacral, Throat, Heart, Solar Plexus) give this a concrete channel path for execution, voice, persistence, and emotional valuation. In practical terms, there is support for visible action, yet not always in a flatly immediate way.\n\nSecond, the gate/activation pattern repeats in a way that strengthens the first point. In the personality layer, **gate 33 appears on Jupiter, Mars, and Venus** (lines 5, 6, and 4) and these are in close longitudinal grouping (~131.15 to 133.02). That is the clearest “tight conjunction” available in the dataset as a timing-concentration signal: not a literal physical body conjunction, but a concentrated recurrence in one symbolic zone at the moment of birth. It is a repeat motif where multiple channels load into a similar node. That density argues for recurring pattern quality rather than isolated traits.\n\nThird, profile **4/6** gives a repeatable social-structural orientation and supports a model where relational calibration matters and later-life correction loops become part of the person’s learning rhythm. It does not define a fixed personality outcome, but it supports why repeated signatures (like multiple gate activations around meaningful nodes) might matter for how the system expresses itself over time.\n\nNumerology contributes a second axis of convergence but with a narrower interpretive claim. The key values are: **Birthday 8**, **Life Path 7**, **Expression 5**, **Personality 11 (Master)**, and **Chaldean Name/Soul Urge 3**. These are not physiological facts; they are symbolic reductions. Still, they cluster around three known themes already present in HD and Enneagram: 7 (analysis/wisdom tone), 8 (achievement/prowess), and 11 (interpretive/illumination tone in personality channeling). So the numerology set does not contradict the HD frame; it gives a reinforcing texture. It narrows the map from “possible action pattern” to “meaning-weighted action pattern.”\n\nThe Enneagram layer points to **Type 4** with wings **3 and 5**, core motivation toward finding significance, core fear around identity erosion, and an emotional style marked by sensitivity, mood reactivity, and a risk of withdrawal. Its healthy direction emphasizes expressive creativity and emotional honesty; its unhealthy direction includes self-rejection and emotional narrowing. Compared against the HD structure, this is compatible rather than identical: HD already shows a system that needs emotional timing, while Enneagram 4 signals what that timing often carries meaningfully (identity, distinctiveness, emotional truthfulness). Again, this is interpreted relation, not deterministic fact.\n\nWhere these layers agree most is this: Sona’s natal pattern appears to move through a cycle of inner signal → outer demand → selected response → re-observed outcome. In that cycle, HD provides the mechanism (emotional authority and channels with split definition), numerology provides valence tendencies (analysis, expression, force), and Enneagram provides possible thematic pressure (meaning vs. self-image). This is the least speculative synthesis because it is shared language across engines: internal and external stimuli both shape output, then interpretation turns it into accountable action, and only observed feedback confirms whether it landed.\n\nThe provided house emphasis (**1, 4, 10**) is acknowledged as a framing lens, but it is not proven by exact natal house placements in this dataset. Therefore, house emphasis is best used as an editorial bracket: **1** can frame self-forming identity processes, **4** can frame foundation and emotional containment work, and **10** can frame visible role expression. This is a structural frame, not an evidence-backed natal house placement claim.\n\nKnown facts versus possibilities and contradictions should remain distinct:\n\n- **Known facts (from supplied engines):** manifesting generator type; emotional authority; split definition; defined centers; active channels 45-21 and 59-6; profile 4/6; numerology clusters around 8/7/11/5; enneagram type 4 with 3/5 wings.\n- **Strong possibility:** emotional intensity and identity sensitivity can produce visible competence that still feels delayed internally.\n- **Known contradiction:** one could read the 8/Manifesting channel as “go fast, produce concretely,” while Enneagram 4 style can read as “first test if this protects identity.” These are not mutually exclusive; they are a timing conflict between throughput and meaning-certainty.\n\nIt is also important to separate interpretation from canon. HD and Enneagram texts are doctrinal, not laws of behavior. They are hypotheses for pattern-reading and can be overfit if treated as fixed destiny statements.\n\n**Proposal:** If this map is used for real-world testing, apply one repeated protocol only—before any commitment that affects others, pause for one emotional-cycle of internal check, then compare that internal signal to one external cue (task urgency, relational context, impact), choose one clear action, and record the outcome after it lands; this single loop makes the signature observable rather than assumed.",
+        "rubric": {
+          "section_id": "natal",
+          "title": "Natal Field",
+          "target_words": 900,
+          "actual_words": 1066,
+          "word_count_fit": "pass",
+          "word_count_ratio": 1.184,
+          "deterministic_fact_count": 33,
+          "deterministic_fact_gate": "pass",
+          "integrated_layer_count": 5,
+          "integrated_layering_gate": "pass",
+          "guardrail_gate": "pass",
+          "guardrail_violations": [],
+          "model_requested": "tier-default",
+          "model_used": "tier-default",
+          "latency_ms": 70308
+        }
+      },
+      {
+        "id": "invitation",
+        "title": "One Living Invitation",
+        "output": "From the natal field, the single most alive invitation for **Sona Vireth** is this: **build a short inner-outer checkpoint before every meaningful commitment**, so action does not outrun emotional clarity.\n\nThe strongest shared signal across the supplied engines is timing.  \nKnown facts from the data:\n\n- Human Design: Manifesting Generator, emotional authority, Split definition, defined Sacral/Throat/Heart/Solar Plexus centers, active channels **45-21** and **59-6**, profile **4/6**.\n- Numerology: Birthday **8**, Life Path **7**, Expression **5**, Personality **11 (Master)**, Chaldean Name/Soul Urge **3**.\n- Enneagram: Type **4**, wings **3** and **5**.\n\nThese facts are symbolic outputs, not medical truths, not destiny laws, and not personal proof. HD and Enneagram wording is interpretive tradition, useful for pattern language, not a guarantee of how life must unfold.\n\nSo the invitation is not “becoming someone.” It is about sequencing what already appears in the map: when emotional timing and visible output do not sit together, the best next move is often slower integration, not stronger performance. In this case, emotional authority suggests that quick acting is possible, but emotional completion is what stabilizes result quality. Split definition supports that same idea: parts of the system often need a bridge moment before expression is coherent.\n\nThe two active channels can be read as a practical contrast-plus-combination: one channel carries administration and structured impact, the other connects through contact and intimacy patterns. With numerology’s **8** and **5**, there is a natural competence and movement streak; with **7** and **11**, reflective intelligence and meaning-making are also active; with **3** (personality and soul urge), expression and creativity show up as identity-signals. Enneagram Type 4 with 3/5 wings adds the lived emotional tone: significance and authenticity matter strongly. The combination can be powerful in public output and still feel internally provisional.\n\nA factual detail in the design details is worth naming carefully: there are repeated gate-line patterns in the map (notably repeated emphasis in key line locations and recurring nodes), which can be interpreted as recurring cycles of try → test → reset. This does not prove fate, but it gives a plausible reason why “wait, review, then move” feels truer than “move once, over-correct forever.” It also matches the earlier point about repeated signatures across meaningful nodes.\n\nA known distinction to hold:\n\n- **Known fact:** emotional signal, external demand, choice, and feedback are all part of the operational loop.\n- **Known possibility:** visible competence can appear quickly while inner confirmation arrives later.\n- **Known possibility:** a fast external result can become cleaner if it is paired with a short emotional check.\n- **Known tension:** Manifesting speed can conflict with Enneagram 4 caution (“is this really mine?”), which often feels like inner hesitation rather than incompetence.\n\nA useful way to keep this non-dramatic is to treat house labels like **1, 4, 10** as framing only. They are not proven by exact natal houses here, so they should not be asserted as strict placement facts.\n\n**Proposal:** For the next 30 days, test one repeated practice before commitments that affect others, deadlines, or public statements:\n\n1. Pause for one breath.  \n2. Name your internal signal in one word (example: “ready,” “heavy,” “tight,” “curious”).  \n3. Name one external cue in one word (example: “urgent,” “requested,” “risky,” “time-bound”).  \n4. Take **one** clear next action only.  \n5. Record one observable result before the next step.\n\nThis keeps the loop concrete: internal signal → external cue → action → observed feedback. No promise of fixed change is needed; the point is to create testable quality, not a perfect personality narrative.\n\nThe invitation stays alive because it preserves autonomy: it does not ask for certainty before movement, only a short, honest bridge before movement becomes irreversible. It asks not for more identity, but for cleaner translation.\n\nWhen your next strong impulse rises, what does your body feel in the chest or stomach **five seconds before** you speak or act?",
+        "rubric": {
+          "section_id": "invitation",
+          "title": "One Living Invitation",
+          "target_words": 700,
+          "actual_words": 642,
+          "word_count_fit": "pass",
+          "word_count_ratio": 0.917,
+          "deterministic_fact_count": 10,
+          "deterministic_fact_gate": "pass",
+          "integrated_layer_count": 2,
+          "integrated_layering_gate": "warn",
+          "guardrail_gate": "pass",
+          "guardrail_violations": [],
+          "model_requested": "tier-default",
+          "model_used": "tier-default",
+          "latency_ms": 9082
+        }
+      }
+    ],
+    "assembled": "## Natal Field\n\n**Natal Field (Pass: natal, Register l1_l3) — Sona Vireth**\n\nThis map is restricted to birth-derived outputs only. No current transits are included, and no house placements are provided in the supplied fact set. As a result, this is an editorial natal map, not a personal diagnosis, and not a statement of certainty. It should be read as structured symbolic synthesis with a narrow data boundary. It also does not represent physiology, medical status, or lived scene truth.\n\nSource coverage is constrained. The requested overlay listed panchanga and vimshottari weights, but no panchanga/vimshottari payload is present in the supplied facts. Human Design, numerology, and Enneagram data are present; Enneagram is present without a numeric weight in the overlay. So the practical synthesis is: first read the Human Design core facts, then compare them to numerology and Enneagram as confirming or tension-revealing context. This is a methodological limit, not a flaw in the subject.\n\nThe dominant structural signature for Sona is clear enough to name: **Manifesting Generator with Emotional Authority and Split Definition**, plus defined Sacral, Throat, Heart, and Solar Plexus centers, with active channels **45-21** and **59-6**. That is the strongest stable anchor because it is direct and internally consistent in the Human Design payload.\n\nFrom a factual register, this means the system already has a dual-engine style of operation: energy and output appear structurally present together, while the emotional authority suggests timing is not instantaneous. Internal initiation is less a random surge and more a process that must settle through feeling-state before action is selected. With split definition, the system structure also implies that completion of inner pattern can depend on external context to feel “joined” rather than self-contained from the first impulse. This is not a personality verdict; it is a process pattern in the supplied architecture.\n\nThe strongest **interlocking facts** from deterministic layers are:\n\nFirst, the Manifesting Generator + Emotional Authority combination aligns with a specific workflow: rapid capability exists, but decision legitimacy depends on emotional processing. The defined centers (Sacral, Throat, Heart, Solar Plexus) give this a concrete channel path for execution, voice, persistence, and emotional valuation. In practical terms, there is support for visible action, yet not always in a flatly immediate way.\n\nSecond, the gate/activation pattern repeats in a way that strengthens the first point. In the personality layer, **gate 33 appears on Jupiter, Mars, and Venus** (lines 5, 6, and 4) and these are in close longitudinal grouping (~131.15 to 133.02). That is the clearest “tight conjunction” available in the dataset as a timing-concentration signal: not a literal physical body conjunction, but a concentrated recurrence in one symbolic zone at the moment of birth. It is a repeat motif where multiple channels load into a similar node. That density argues for recurring pattern quality rather than isolated traits.\n\nThird, profile **4/6** gives a repeatable social-structural orientation and supports a model where relational calibration matters and later-life correction loops become part of the person’s learning rhythm. It does not define a fixed personality outcome, but it supports why repeated signatures (like multiple gate activations around meaningful nodes) might matter for how the system expresses itself over time.\n\nNumerology contributes a second axis of convergence but with a narrower interpretive claim. The key values are: **Birthday 8**, **Life Path 7**, **Expression 5**, **Personality 11 (Master)**, and **Chaldean Name/Soul Urge 3**. These are not physiological facts; they are symbolic reductions. Still, they cluster around three known themes already present in HD and Enneagram: 7 (analysis/wisdom tone), 8 (achievement/prowess), and 11 (interpretive/illumination tone in personality channeling). So the numerology set does not contradict the HD frame; it gives a reinforcing texture. It narrows the map from “possible action pattern” to “meaning-weighted action pattern.”\n\nThe Enneagram layer points to **Type 4** with wings **3 and 5**, core motivation toward finding significance, core fear around identity erosion, and an emotional style marked by sensitivity, mood reactivity, and a risk of withdrawal. Its healthy direction emphasizes expressive creativity and emotional honesty; its unhealthy direction includes self-rejection and emotional narrowing. Compared against the HD structure, this is compatible rather than identical: HD already shows a system that needs emotional timing, while Enneagram 4 signals what that timing often carries meaningfully (identity, distinctiveness, emotional truthfulness). Again, this is interpreted relation, not deterministic fact.\n\nWhere these layers agree most is this: Sona’s natal pattern appears to move through a cycle of inner signal → outer demand → selected response → re-observed outcome. In that cycle, HD provides the mechanism (emotional authority and channels with split definition), numerology provides valence tendencies (analysis, expression, force), and Enneagram provides possible thematic pressure (meaning vs. self-image). This is the least speculative synthesis because it is shared language across engines: internal and external stimuli both shape output, then interpretation turns it into accountable action, and only observed feedback confirms whether it landed.\n\nThe provided house emphasis (**1, 4, 10**) is acknowledged as a framing lens, but it is not proven by exact natal house placements in this dataset. Therefore, house emphasis is best used as an editorial bracket: **1** can frame self-forming identity processes, **4** can frame foundation and emotional containment work, and **10** can frame visible role expression. This is a structural frame, not an evidence-backed natal house placement claim.\n\nKnown facts versus possibilities and contradictions should remain distinct:\n\n- **Known facts (from supplied engines):** manifesting generator type; emotional authority; split definition; defined centers; active channels 45-21 and 59-6; profile 4/6; numerology clusters around 8/7/11/5; enneagram type 4 with 3/5 wings.\n- **Strong possibility:** emotional intensity and identity sensitivity can produce visible competence that still feels delayed internally.\n- **Known contradiction:** one could read the 8/Manifesting channel as “go fast, produce concretely,” while Enneagram 4 style can read as “first test if this protects identity.” These are not mutually exclusive; they are a timing conflict between throughput and meaning-certainty.\n\nIt is also important to separate interpretation from canon. HD and Enneagram texts are doctrinal, not laws of behavior. They are hypotheses for pattern-reading and can be overfit if treated as fixed destiny statements.\n\n**Proposal:** If this map is used for real-world testing, apply one repeated protocol only—before any commitment that affects others, pause for one emotional-cycle of internal check, then compare that internal signal to one external cue (task urgency, relational context, impact), choose one clear action, and record the outcome after it lands; this single loop makes the signature observable rather than assumed.\n\n## One Living Invitation\n\nFrom the natal field, the single most alive invitation for **Sona Vireth** is this: **build a short inner-outer checkpoint before every meaningful commitment**, so action does not outrun emotional clarity.\n\nThe strongest shared signal across the supplied engines is timing.  \nKnown facts from the data:\n\n- Human Design: Manifesting Generator, emotional authority, Split definition, defined Sacral/Throat/Heart/Solar Plexus centers, active channels **45-21** and **59-6**, profile **4/6**.\n- Numerology: Birthday **8**, Life Path **7**, Expression **5**, Personality **11 (Master)**, Chaldean Name/Soul Urge **3**.\n- Enneagram: Type **4**, wings **3** and **5**.\n\nThese facts are symbolic outputs, not medical truths, not destiny laws, and not personal proof. HD and Enneagram wording is interpretive tradition, useful for pattern language, not a guarantee of how life must unfold.\n\nSo the invitation is not “becoming someone.” It is about sequencing what already appears in the map: when emotional timing and visible output do not sit together, the best next move is often slower integration, not stronger performance. In this case, emotional authority suggests that quick acting is possible, but emotional completion is what stabilizes result quality. Split definition supports that same idea: parts of the system often need a bridge moment before expression is coherent.\n\nThe two active channels can be read as a practical contrast-plus-combination: one channel carries administration and structured impact, the other connects through contact and intimacy patterns. With numerology’s **8** and **5**, there is a natural competence and movement streak; with **7** and **11**, reflective intelligence and meaning-making are also active; with **3** (personality and soul urge), expression and creativity show up as identity-signals. Enneagram Type 4 with 3/5 wings adds the lived emotional tone: significance and authenticity matter strongly. The combination can be powerful in public output and still feel internally provisional.\n\nA factual detail in the design details is worth naming carefully: there are repeated gate-line patterns in the map (notably repeated emphasis in key line locations and recurring nodes), which can be interpreted as recurring cycles of try → test → reset. This does not prove fate, but it gives a plausible reason why “wait, review, then move” feels truer than “move once, over-correct forever.” It also matches the earlier point about repeated signatures across meaningful nodes.\n\nA known distinction to hold:\n\n- **Known fact:** emotional signal, external demand, choice, and feedback are all part of the operational loop.\n- **Known possibility:** visible competence can appear quickly while inner confirmation arrives later.\n- **Known possibility:** a fast external result can become cleaner if it is paired with a short emotional check.\n- **Known tension:** Manifesting speed can conflict with Enneagram 4 caution (“is this really mine?”), which often feels like inner hesitation rather than incompetence.\n\nA useful way to keep this non-dramatic is to treat house labels like **1, 4, 10** as framing only. They are not proven by exact natal houses here, so they should not be asserted as strict placement facts.\n\n**Proposal:** For the next 30 days, test one repeated practice before commitments that affect others, deadlines, or public statements:\n\n1. Pause for one breath.  \n2. Name your internal signal in one word (example: “ready,” “heavy,” “tight,” “curious”).  \n3. Name one external cue in one word (example: “urgent,” “requested,” “risky,” “time-bound”).  \n4. Take **one** clear next action only.  \n5. Record one observable result before the next step.\n\nThis keeps the loop concrete: internal signal → external cue → action → observed feedback. No promise of fixed change is needed; the point is to create testable quality, not a perfect personality narrative.\n\nThe invitation stays alive because it preserves autonomy: it does not ask for certainty before movement, only a short, honest bridge before movement becomes irreversible. It asks not for more identity, but for cleaner translation.\n\nWhen your next strong impulse rises, what does your body feel in the chest or stomach **five seconds before** you speak or act?",
+    "patterns": [
+      {
+        "id": "birth-blueprint:natal:v1",
+        "text": "**Natal Field (Pass: natal, Register l1_l3) — [SUBJECT]**\n\nThis map is restricted to birth-derived outputs only.",
+        "kind": "section-structure",
+        "source_section_id": "natal",
+        "source_rubric_score": 1,
+        "metadata": {
+          "mode": "birth-blueprint",
+          "report_level": "L1",
+          "language": "en",
+          "systems": [
+            "vedic",
+            "human-design",
+            "panchanga",
+            "vimshottari"
+          ],
+          "source": "post-report-extraction",
+          "version": "1"
+        }
+      }
+    ]
+  }
+}

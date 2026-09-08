@@ -1,0 +1,227 @@
+{
+  "id": "gideon-vimshottari-book3",
+  "input_status": "FROZEN EDITORIAL CALCULATION BASELINE v1 \u2014 fictional Earth-equivalent dates; not a manuscript rewrite",
+  "requested_engine": "vimshottari",
+  "requested_at": "2026-09-08T00:43:27.987578+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Gideon Seter",
+      "date": "1981-09-24",
+      "time": "13:35",
+      "latitude": 32.794,
+      "longitude": 34.9896,
+      "timezone": "Asia/Jerusalem"
+    },
+    "current_time": "2027-03-22T06:00:00Z",
+    "location": {
+      "latitude": 32.794,
+      "longitude": 34.9896
+    },
+    "precision": "standard",
+    "options": {}
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "vimshottari",
+    "result": {
+      "birth_nakshatra": {
+        "moon_longitude": 114.86348514285089,
+        "name": "Ashlesha",
+        "number": 9
+      },
+      "current_period": {
+        "antardasha": {
+          "end": "2028-07-12T22:06:48+00:00",
+          "planet": "Mercury",
+          "start": "2027-02-11T11:36:48+00:00",
+          "years": 1.4166666666666667
+        },
+        "mahadasha": {
+          "end": "2031-04-13T08:36:48+00:00",
+          "planet": "Moon",
+          "start": "2021-04-12T20:36:48+00:00",
+          "years": 10.0
+        },
+        "pratyantardasha": {
+          "days": 73.30364583333333,
+          "end": "2027-04-25T18:54:03+00:00",
+          "planet": "Mercury",
+          "start": "2027-02-11T11:36:48+00:00"
+        }
+      },
+      "period_enrichment": {
+        "antardasha_themes": [
+          "Communication",
+          "Learning",
+          "Business",
+          "Intellect"
+        ],
+        "challenges": [
+          "Mental restlessness",
+          "Overthinking",
+          "Superficiality",
+          "Communication breakdowns"
+        ],
+        "combined_description": "During Moon's Mahadasha (Emotions, Nurturing, Home and family, Intuition), within Mercury's Antardasha (Communication, Learning, Business, Intellect), the current Mercury Pratyantardasha brings Communication, Learning, Business, Intellect. Mercury's period emphasizes intellect, communication, and versatile learning. This is a time to develop skills, engage in commerce, and refine your powers of expression. The mind becomes sharp and curious. Watch for mental restlessness, overthinking, and scattered focus. Use this mercurial period to read, write, study, network, negotiate, and master the art of clear communication. Curiosity becomes your greatest teacher.",
+        "life_areas": [
+          "Education and study",
+          "Writing and speaking",
+          "Commerce and trade",
+          "Technology",
+          "Short travel"
+        ],
+        "mahadasha_themes": [
+          "Emotions",
+          "Nurturing",
+          "Home and family",
+          "Intuition"
+        ],
+        "opportunities": [
+          "Develop new skills",
+          "Improve communication",
+          "Start a business",
+          "Connect with siblings"
+        ],
+        "pratyantardasha_themes": [
+          "Communication",
+          "Learning",
+          "Business",
+          "Intellect"
+        ]
+      },
+      "timeline": {
+        "birth_date": "1981-09-24T13:35:00+00:00",
+        "mahadashas": [
+          {
+            "antardasha_count": 9,
+            "duration_years": 6.549056606591529,
+            "end_date": "1988-04-12T14:36:48+00:00",
+            "planet": "Mercury",
+            "start_date": "1981-09-24T13:35:00+00:00"
+          },
+          {
+            "antardasha_count": 9,
+            "duration_years": 7.0,
+            "end_date": "1995-04-13T08:36:48+00:00",
+            "planet": "Ketu",
+            "start_date": "1988-04-12T14:36:48+00:00"
+          },
+          {
+            "antardasha_count": 9,
+            "duration_years": 20.0,
+            "end_date": "2015-04-13T08:36:48+00:00",
+            "planet": "Venus",
+            "start_date": "1995-04-13T08:36:48+00:00"
+          },
+          {
+            "antardasha_count": 9,
+            "duration_years": 6.0,
+            "end_date": "2021-04-12T20:36:48+00:00",
+            "planet": "Sun",
+            "start_date": "2015-04-13T08:36:48+00:00"
+          },
+          {
+            "antardasha_count": 9,
+            "duration_years": 10.0,
+            "end_date": "2031-04-13T08:36:48+00:00",
+            "planet": "Moon",
+            "start_date": "2021-04-12T20:36:48+00:00"
+          },
+          {
+            "antardasha_count": 9,
+            "duration_years": 7.0,
+            "end_date": "2038-04-13T02:36:48+00:00",
+            "planet": "Mars",
+            "start_date": "2031-04-13T08:36:48+00:00"
+          },
+          {
+            "antardasha_count": 9,
+            "duration_years": 18.0,
+            "end_date": "2056-04-12T14:36:48+00:00",
+            "planet": "Rahu",
+            "start_date": "2038-04-13T02:36:48+00:00"
+          },
+          {
+            "antardasha_count": 9,
+            "duration_years": 16.0,
+            "end_date": "2072-04-12T14:36:48+00:00",
+            "planet": "Jupiter",
+            "start_date": "2056-04-12T14:36:48+00:00"
+          },
+          {
+            "antardasha_count": 9,
+            "duration_years": 19.0,
+            "end_date": "2091-04-13T08:36:48+00:00",
+            "planet": "Saturn",
+            "start_date": "2072-04-12T14:36:48+00:00"
+          },
+          {
+            "antardasha_count": 9,
+            "duration_years": 10.450943393408465,
+            "end_date": "2101-09-25T13:34:59+00:00",
+            "planet": "Mercury",
+            "start_date": "2091-04-13T08:36:48+00:00"
+          }
+        ],
+        "total_years": 120
+      },
+      "upcoming_transitions": [
+        {
+          "date": "2027-04-25T18:54:03+00:00",
+          "days_until": 34,
+          "from_planet": "Mercury",
+          "to_planet": "Ketu",
+          "type": "Pratyantardasha"
+        },
+        {
+          "date": "2027-05-25T23:18:48+00:00",
+          "days_until": 64,
+          "from_planet": "Ketu",
+          "to_planet": "Venus",
+          "type": "Pratyantardasha"
+        },
+        {
+          "date": "2027-08-20T05:03:48+00:00",
+          "days_until": 150,
+          "from_planet": "Venus",
+          "to_planet": "Sun",
+          "type": "Pratyantardasha"
+        },
+        {
+          "date": "2027-09-15T01:59:18+00:00",
+          "days_until": 176,
+          "from_planet": "Sun",
+          "to_planet": "Moon",
+          "type": "Pratyantardasha"
+        },
+        {
+          "date": "2027-10-28T04:51:48+00:00",
+          "days_until": 219,
+          "from_planet": "Moon",
+          "to_planet": "Mars",
+          "type": "Pratyantardasha"
+        }
+      ]
+    },
+    "witness_prompt": "You are in the conscious field of Mercury's influence, nested within Mercury's container, illuminated by Moon's immediate presence. What karmic patterns are ripening? What is seeking release through Mental restlessness and Overthinking and Superficiality and Communication breakdowns? Beyond the themes of Develop new skills, Improve communication, Start a business, Connect with siblings and Mental restlessness, Overthinking, Superficiality, Communication breakdowns, what wants to be witnessed in pure awareness? How does the approaching transition to Ketu (in 34 days) invite you to prepare your consciousness?",
+    "consciousness_level": 5,
+    "metadata": {
+      "calculation_time_ms": 0.5254949999999999,
+      "backend": "swiss-ephemeris-sidereal",
+      "precision_achieved": "Standard",
+      "cached": false,
+      "timestamp": "2026-09-08T00:43:27.951751970Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "You are in the conscious field of Mercury's influence, nested within Mercury's container, illuminated by Moon's immediate presence. What karmic patterns are ripening? What is seeking release through Mental restlessness and Overthinking and Superficiality and Communication breakdowns? Beyond the themes of Develop new skills, Improve communication, Start a business, Connect with siblings and Mental restlessness, Overthinking, Superficiality, Communication breakdowns, what wants to be witnessed in pure awareness? How does the approaching transition to Ketu (in 34 days) invite you to prepare your consciousness?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:43:27.951751970+00:00",
+    "processing_time_ms": 0.5254949999999999
+  }
+}

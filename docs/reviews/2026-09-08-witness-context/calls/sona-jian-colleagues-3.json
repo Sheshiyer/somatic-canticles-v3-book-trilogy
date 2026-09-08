@@ -1,0 +1,22 @@
+{
+  "job": "sona-jian-colleagues",
+  "pass_index": 3,
+  "provider_gateway": "omniroute",
+  "requested_model": "noesis-observe",
+  "returned_model": "composer-2.5",
+  "resolved_provider": null,
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 14460,
+    "completion_tokens": 1842,
+    "total_tokens": 16302,
+    "completion_tokens_details": {
+      "reasoning_tokens": 361
+    },
+    "estimated": true
+  },
+  "latency_ms": 12989,
+  "input_sha256": "14c02a1be085bc3b35696ea8bb3e1d80910dab365617399f26e0b943c20859c2",
+  "output_sha256": "39648827895cf2b342ae541cd7a226b671b3c81da9ab9d2bc7c542700c059093",
+  "failures": []
+}

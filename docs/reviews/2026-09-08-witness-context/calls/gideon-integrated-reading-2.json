@@ -1,0 +1,33 @@
+{
+  "job": "gideon-integrated-reading",
+  "pass_index": 2,
+  "provider_gateway": "command-code",
+  "requested_model": "MiniMaxAI/MiniMax-M3",
+  "returned_model": "MiniMaxAI/MiniMax-M3",
+  "resolved_provider": null,
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 4928,
+    "completion_tokens": 2390,
+    "total_tokens": 7318,
+    "prompt_tokens_details": {
+      "cached_tokens": 114,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0
+    },
+    "cache_creation_input_tokens": 0
+  },
+  "latency_ms": 40884,
+  "input_sha256": "e165cb15d2ed0698c481e32c3dcbebeb2ecbd5b5608ff343479cefcc4c9db50d",
+  "output_sha256": "c246eb7de85d1571e601a2e39c3c52e7c57ad7c37e3a6f061fd4dc0922aa32b6",
+  "failures": [
+    {
+      "provider": "omniroute",
+      "error": "Error"
+    }
+  ]
+}

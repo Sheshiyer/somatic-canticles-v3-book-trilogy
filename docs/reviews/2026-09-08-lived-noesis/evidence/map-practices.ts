@@ -1,0 +1,32 @@
+import { allChapters } from '/Volumes/madara/2026/Projects/tryambakam-noesis/somaticcanticles-aleph/src/lib/lore/chapter-content.ts';
+import { evaluateUnlock } from '/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-mobile-app/expo/lib/unlock-engine.ts';
+import { readFileSync, writeFileSync } from 'node:fs';
+import { createHash } from 'node:crypto';
+import { join } from 'node:path';
+
+const web='/Volumes/madara/2026/Projects/tryambakam-noesis/somaticcanticles-aleph';
+const mobile='/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-mobile-app';
+const sourceFiles=[web+'/src/lib/lore/chapter-content.ts',web+'/app/internal-api/chapters/_helpers.ts',web+'/app/internal-api/chapters/check-unlock/route.ts',web+'/app/internal-api/chapters/progress/route.ts',mobile+'/expo/lib/unlock-engine.ts',mobile+'/expo/lib/unlock-events.ts',mobile+'/expo/stores/chapters.ts',mobile+'/expo/assets/serpentine/data/chapters-v1.json'];
+const catalog=JSON.parse(readFileSync(sourceFiles.at(-1)!,'utf8')).chapters;
+const entries=allChapters.map(c=>({appId:c.id,manuscriptChapter:c.trilogySource.chapter,title:c.webappTitle,practice:c.practice.title,steps:c.practice.steps.length,reflections:c.reflection.prompts.length}));
+const developed=entries.filter(c=>c.steps>0&&c.reflections>0);
+const rows=catalog.map(c=>({chapter:c.number,title:c.title,existingPractices:developed.filter(p=>p.manuscriptChapter===c.number),placeholderIds:entries.filter(p=>p.manuscriptChapter===c.number&&!p.steps).map(p=>p.appId),mobileConditions:c.unlockConditions}));
+const high={physical:1,emotional:1,intellectual:1,spiritual:1};
+const low={physical:-1,emotional:-1,intellectual:-1,spiritual:-1};
+const ch2=catalog.find(c=>c.number===2);
+const before=evaluateUnlock(2,JSON.stringify(ch2.unlockConditions),high);
+const after=evaluateUnlock(2,JSON.stringify(ch2.unlockConditions),low);
+if(!before.isUnlocked||after.isUnlocked)throw Error('Observed mobile relock behavior changed; review source');
+// Execute the exact pure summary function, isolated from Next/Supabase imports.
+const helper=readFileSync(web+'/app/internal-api/chapters/_helpers.ts','utf8');
+const fn=helper.slice(helper.indexOf('export function toChapterSummary('));
+const js=new Bun.Transpiler({loader:'ts'}).transformSync(fn).replace('export function','function');
+const summarize=new Function(js+'; return toChapterSummary;')();
+const chapter={id:3,order:3,title:'fixture'};
+const webCases={missing:summarize(chapter).unlock_status,persistedUnlock:summarize(chapter,{unlocked_at:'2026-09-08'}).unlock_status,progressOnly:summarize(chapter,{completion_percentage:1}).unlock_status,secondDefault:summarize({...chapter,id:2,order:2}).unlock_status};
+if(webCases.missing!=='locked'||webCases.persistedUnlock!=='unlocked'||webCases.progressOnly!=='in-progress'||webCases.secondDefault!=='unlocked')throw Error('Web summary behavior changed');
+const result={scope:'Local content extraction and pure-function probes; no network/database/device verification',sources:sourceFiles.map(path=>({path,sha256:createHash('sha256').update(readFileSync(path)).digest('hex')})),counts:{catalog:catalog.length,entries:entries.length,developed:developed.length,placeholders:entries.length-developed.length,chaptersWithoutDevelopedPractice:rows.filter(r=>!r.existingPractices.length).length},probes:{mobileChapter2:{high:before,low:after},webSummary:webCases},rows};
+writeFileSync(join(import.meta.dir,'practice-map.json'),JSON.stringify(result,null,2)+'\n');
+const table=['| Manuscript chapter | Title | Developed practice (legacy web ID) | Status |','|---|---|---|---|',...rows.map(r=>`| ${r.chapter} | ${r.title} | ${r.existingPractices.map(p=>p.practice+' ('+p.appId+')').join('; ')||'—'} | ${r.existingPractices.length?'Existing candidate; review against v3':'No developed practice mapped; decide recurrence or new introduction'} |`)];
+writeFileSync(join(import.meta.dir,'chapter-practice-table.md'),table.join('\n')+'\n');
+console.log(JSON.stringify({counts:result.counts,probes:result.probes},null,2));

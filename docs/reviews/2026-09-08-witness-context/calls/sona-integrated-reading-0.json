@@ -1,0 +1,22 @@
+{
+  "job": "sona-integrated-reading",
+  "pass_index": 0,
+  "provider_gateway": "omniroute",
+  "requested_model": "noesis-observe",
+  "returned_model": "composer-2.5",
+  "resolved_provider": null,
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 9126,
+    "completion_tokens": 4097,
+    "total_tokens": 13223,
+    "completion_tokens_details": {
+      "reasoning_tokens": 489
+    },
+    "estimated": true
+  },
+  "latency_ms": 30162,
+  "input_sha256": "18a9821feac7a5f11329ecd44faa7e8f0efe8494c9e19523ab24e14ae27c604e",
+  "output_sha256": "a4f8125412dc5ffeb419b5cf7b1d9d6c08f977c1194dfadebdfd0bb97301da40",
+  "failures": []
+}

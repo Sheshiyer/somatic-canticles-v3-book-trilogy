@@ -18,6 +18,10 @@ That was what the telemetry promised.
 
 Six weeks earlier the team had left their last descent with no artifact, no coronation, only a harder discipline: distinct witnesses, shared field, disciplined exchange. Mira Verath's line on Tessari had become the first case strong enough to suggest that discipline might survive outside the chamber itself. If the recovery failed now, the failure would not stay private. The review Houses would treat it as proof that coherence could be induced inside a chamber and repossessed the moment ordinary life resumed.
 
+Gideon’s Vimshottari entry had changed since the last descent: the Moon’s long period continued, but Mercury had replaced Saturn in the period nested beneath it. Jian had flagged the change for their review. He had also watched Gideon reach for the same old perimeter settings that morning.
+
+Beside the period pane he kept the correction log. At yesterday’s review, Sona had asked for a pause. Jian had asked for one more reading. She had left the table. He had finished alone, and the neat report concealed that fact until he added it himself.
+
 Jian stood at his station in the Anamnesis Engine chamber, his Manas Interface, the Vedic witness vessel, painting the air before him with luminous threads of data. The harmonics that had once been jagged with inherited fear, those serrated waveforms that had cut through three generations of the Verath lineage, now held a sustained, breathable coherence. The healed passages glowed with the soft iridescence of Coherence Cultivation: stabilized belief systems, integrated trauma residue, liberated emotional pathways.
 
 The earliest wound on record belonged to Anvel Verath, the first of the line to make law out of injury. Three generations later, the law still ran beneath every healed passage like old plumbing under new tile. Jian had mapped it. He had not been able to remove it.

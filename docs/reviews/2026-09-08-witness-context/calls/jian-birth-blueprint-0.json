@@ -1,0 +1,21 @@
+{
+  "job": "jian-birth-blueprint",
+  "pass_index": 0,
+  "provider_gateway": "omniroute",
+  "requested_model": "noesis-observe",
+  "returned_model": "gpt-5.3-codex-spark",
+  "resolved_provider": null,
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 3668,
+    "completion_tokens": 11908,
+    "total_tokens": 15576,
+    "completion_tokens_details": {
+      "reasoning_tokens": 10306
+    }
+  },
+  "latency_ms": 12377,
+  "input_sha256": "c5c87de9178b8fa9d3ce549072fec8da5c49274f9d8aa10c977d362408e476fa",
+  "output_sha256": "8bb0b87e49aee5f62efb6352b39f36835487af5a7881e46172b2e18de77d93d4",
+  "failures": []
+}
