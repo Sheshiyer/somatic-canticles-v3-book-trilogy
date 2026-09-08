@@ -1,0 +1,227 @@
+{
+  "schema": "storyops.chapter-beat-allocation.v1",
+  "phase": "CR-03.03",
+  "created": "2026-09-08",
+  "rule": "Every retained/new beat has a function, owner, replacement target, recurrence, and no-engine-mention decision.",
+  "beats": [
+    {
+      "id": "B1C3-boundary-route",
+      "chapter": "book_1/ch03",
+      "owner": "Gideon",
+      "function": "Let protection preserve an opening rather than seal breach by default.",
+      "replaces": "Any simple safety/control framing.",
+      "recurs_in": [
+        "B1C6-klei-custody",
+        "B2C14-no-emergency-power",
+        "B3C27-guarding-passage"
+      ],
+      "no_new_engine_mention": true
+    },
+    {
+      "id": "B1C4-watermark-carrier",
+      "chapter": "book_1/ch04",
+      "owner": "Sona/Corv/Gideon/Jian",
+      "function": "Establish consent as reversible pause with carrier burden, not guarantee.",
+      "replaces": "Any cure/coronation implication.",
+      "recurs_in": [
+        "B1C6-shard-custody",
+        "B2C14-receiver-readiness",
+        "B3C24-body-cost-ledger"
+      ],
+      "no_new_engine_mention": true
+    },
+    {
+      "id": "B1C6-shard-custody",
+      "chapter": "book_1/ch06",
+      "owner": "Gideon plus group",
+      "function": "Separate retention, custody, and risk; objection changes action.",
+      "replaces": "Group vote silently assigning Klei burden.",
+      "recurs_in": [
+        "B2C14-receiver-readiness",
+        "B3C26-two-black-stones"
+      ],
+      "no_new_engine_mention": true
+    },
+    {
+      "id": "B1C7-stop-smoothing",
+      "chapter": "book_1/ch07",
+      "owner": "Sona/Jian",
+      "function": "Show consentful correction of a helpful gift becoming anesthesia.",
+      "replaces": "Healing succeeds because calm spreads.",
+      "recurs_in": [
+        "B2C14-receiver-readiness",
+        "B3C25-no-signal-required"
+      ],
+      "no_new_engine_mention": true
+    },
+    {
+      "id": "B1C8-orphan-route",
+      "chapter": "book_1/ch08",
+      "owner": "Jian/Corv",
+      "function": "Preserve private route memory without turning anomaly into public authority.",
+      "replaces": "Anomaly muted or fully disclosed.",
+      "recurs_in": [
+        "B3C24-moving-gap"
+      ],
+      "no_new_engine_mention": true
+    },
+    {
+      "id": "B2C12-pinch-payer",
+      "chapter": "book_2/ch12",
+      "owner": "TBD in Book 2 wave",
+      "function": "Clarify who pays for restoration without erasing compensations.",
+      "replaces": "Vague group-flavored burden.",
+      "recurs_in": [
+        "B2C14-receiver-readiness",
+        "B3C21-body-cost-ledger"
+      ],
+      "no_new_engine_mention": true
+    },
+    {
+      "id": "B2C13-compress-harmony",
+      "chapter": "book_2/ch13",
+      "owner": "Book 2 wave writer",
+      "function": "Reduce repeated successful harmonization while preserving late bodily escalation.",
+      "replaces": "Duplicate moral harmony beats.",
+      "recurs_in": [
+        "B2C14-second-handoff"
+      ],
+      "no_new_engine_mention": true
+    },
+    {
+      "id": "B2C14-second-handoff",
+      "chapter": "book_2/ch14",
+      "owner": "Jian/Sona/Gideon/Corv",
+      "function": "Transfer Chapter 6 lesson to receiver readiness under time pressure.",
+      "replaces": "Conceptual coordination without costly second handoff.",
+      "recurs_in": [
+        "B2C15-no-fusion",
+        "B3C19-dry-interval"
+      ],
+      "no_new_engine_mention": true
+    },
+    {
+      "id": "B2C15-no-singular-narrator",
+      "chapter": "book_2/ch15",
+      "owner": "Corv plus group",
+      "function": "Preserve distributed witness: no fusion, no solitary authority, no transcendence theater.",
+      "replaces": "Any merger-as-success implication.",
+      "recurs_in": [
+        "B3C22-beautiful-closure",
+        "B3C24-distinct-witnesses"
+      ],
+      "no_new_engine_mention": true
+    },
+    {
+      "id": "B3C16-six-week-cost",
+      "chapter": "book_3/ch16",
+      "owner": "Jian/Sona/Mira constraint",
+      "function": "Show recurrence in ordinary life; six weeks did not make growth irreversible.",
+      "replaces": "Clean jump from chamber success to relapse.",
+      "recurs_in": [
+        "B3C19-review-pressure",
+        "B3C20-mira-larger-than-method"
+      ],
+      "no_new_engine_mention": true
+    },
+    {
+      "id": "B3C19-dry-interval",
+      "chapter": "book_3/ch19",
+      "owner": "Group",
+      "function": "Make loss of speed/political confidence visible when bounded restraint is chosen.",
+      "replaces": "Beautiful compression without operational cost.",
+      "recurs_in": [
+        "B3C21-hostile-contact",
+        "B3C24-final-procedure"
+      ],
+      "no_new_engine_mention": true
+    },
+    {
+      "id": "B3C21-body-cost-ledger",
+      "chapter": "book_3/ch21",
+      "owner": "Group/Mira constraint",
+      "function": "Ensure test results do not authorize retrospective claims over Mira.",
+      "replaces": "One-second success as trophy.",
+      "recurs_in": [
+        "B3C24-no-redemption",
+        "B3C27-ordinary-life"
+      ],
+      "no_new_engine_mention": true
+    },
+    {
+      "id": "B3C22-beautiful-closure",
+      "chapter": "book_3/ch22",
+      "owner": "Corv/Sona/Gideon/Jian",
+      "function": "Show beauty and meaning as useful temptations that can become theft.",
+      "replaces": "Refusal as simple proof of growth.",
+      "recurs_in": [
+        "B3C24-no-redemption",
+        "B3C27-unclaimed-ending"
+      ],
+      "no_new_engine_mention": true
+    },
+    {
+      "id": "B3C23-maintainability-trap",
+      "chapter": "book_3/ch23",
+      "owner": "Gideon/Jian",
+      "function": "Expose care labels that reduce aliveness into maintainable range.",
+      "replaces": "Cartoon villainy or generic control.",
+      "recurs_in": [
+        "B3C24-edge-clarifier",
+        "B3C27-living-boundary"
+      ],
+      "no_new_engine_mention": true
+    },
+    {
+      "id": "B3C24-edge-clarifier",
+      "chapter": "book_3/ch24",
+      "owner": "Canon editor",
+      "function": "Clarify no pruneable edge for Gardener, not no living boundaries.",
+      "replaces": "Risky edge-erasure phrasing.",
+      "recurs_in": [
+        "B3C25-privacy",
+        "B3C27-living-boundary"
+      ],
+      "no_new_engine_mention": true
+    },
+    {
+      "id": "B3C25-privacy",
+      "chapter": "book_3/ch25",
+      "owner": "Group",
+      "function": "Show privacy without hiding and relation truer rather than safer.",
+      "replaces": "Shared field equals total access.",
+      "recurs_in": [
+        "B3C27-look-without-entering"
+      ],
+      "no_new_engine_mention": true
+    },
+    {
+      "id": "B3C26-two-black-stones",
+      "chapter": "book_3/ch26",
+      "owner": "Corv/continuity editor",
+      "function": "Resolve seed/sliver wording and keep two black stones from relic/trophy logic.",
+      "replaces": "Ambiguous Emperor’s Genome cross-reference.",
+      "recurs_in": [
+        "B3C27-fading-coordinate"
+      ],
+      "no_new_engine_mention": true
+    },
+    {
+      "id": "B3C27-ordinary-life",
+      "chapter": "book_3/ch27",
+      "owner": "All",
+      "function": "Let rest, water, jokes, boundaries, and silence carry transformation without crowning founders.",
+      "replaces": "Grand cosmological closure.",
+      "recurs_in": [
+        "companion-practice-compression"
+      ],
+      "no_new_engine_mention": true
+    }
+  ],
+  "verification": {
+    "all_have_function_owner_replacement": true,
+    "duplicate_moral_lecture_guard": "Replace explanation with action where possible; Chapter 13 and Chapter 14 are explicit compression watchpoints.",
+    "chapter16_time_passage_guard": "Six weeks, seven-day baseline, two-week joy-node memory, and yesterday review fracture remain separate time facts.",
+    "final_ordinary_life_guard": "Chapter 27 should not claim irreversible growth; ordinary habitability lowers the price of tomorrow."
+  }
+}

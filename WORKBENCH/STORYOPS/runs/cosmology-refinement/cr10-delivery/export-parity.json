@@ -1,0 +1,8 @@
+{
+  "schema": "storyops.export-parity.v1",
+  "created_at": "2026-09-08T13:37:14.684067+00:00",
+  "status": "deferred_no_canon_promotion",
+  "reason": "CR-10.01 requires accepted source revisions. This campaign produced review-only candidates and explicit release-candidate text, but did not promote chapters into CHAPTERS or regenerate COMPILED.",
+  "source_accounting": "27 chapter identities were frozen in CR-00 source-baseline and read in CR-01; export rebuild is intentionally blocked until acceptance.",
+  "baseline_export_receipt": "WORKBENCH/STORYOPS/plans/cosmology-refinement/evidence/export-parity.json"
+}

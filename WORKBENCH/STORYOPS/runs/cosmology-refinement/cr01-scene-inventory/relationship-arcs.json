@@ -1,0 +1,334 @@
+{
+  "schema": "storyops.relationship-arcs.v1",
+  "campaign": "cosmology-refinement",
+  "phase": "CR-01.04",
+  "created": "2026-09-08",
+  "principle": "Teamwork is non-conversion under pressure: each relation learns when to receive another lens without surrendering its own boundary.",
+  "pairs": [
+    {
+      "id": "jian_sona",
+      "characters": [
+        "Jian",
+        "Sona"
+      ],
+      "dynamic": "Timing meets felt interval. Their best work happens when Jian lets Sona’s sensory evidence alter the model and Sona refuses to become the model’s affective subsidy.",
+      "decision_rights": "Neither diagnostic readiness nor felt urgency alone decides timing.",
+      "invisible_labor": "Sona often carries body-cost first; Jian must record and later redistribute it.",
+      "repair_pattern": "Jian leaves ordinary detail in record; Sona lets him hold unresolved distinctions without forcing warmth.",
+      "risk": "Jian can finish alone and conceal interpersonal fracture; Sona can absorb shear before consent catches up.",
+      "anchors": [
+        {
+          "path": "CHAPTERS/book_1/Chapter-02-Signal-Transduction.md",
+          "line": 191,
+          "fact": "Sona diverts shear residue before a vote."
+        },
+        {
+          "path": "CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+          "line": 89,
+          "fact": "Readiness does not settle timing."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+          "line": 465,
+          "fact": "Jian records Sona’s ordinary precision internally."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+          "line": 23,
+          "fact": "Sona asked for pause; Jian finished alone and later added it."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+          "line": 41,
+          "fact": "Sona names wrong scale against Jian’s waveform focus."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+          "line": 47,
+          "fact": "Jian turns scanner toward Sona and tests her objection."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-07-The-Breathfield-Weaver.md",
+          "line": 46,
+          "fact": "Jian stops Sona’s over-smoothing."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-07-The-Breathfield-Weaver.md",
+          "line": 66,
+          "fact": "Sona asks Jian to keep stopping her when needed."
+        }
+      ],
+      "edit_implications": [
+        "Chapter 14 pilot should make receiver consent and sender readiness collide productively."
+      ]
+    },
+    {
+      "id": "jian_gideon",
+      "characters": [
+        "Jian",
+        "Gideon"
+      ],
+      "dynamic": "Model meets perimeter. Gideon interrupts procedural abstraction; Jian gives Gideon language precise enough to protect without hiding violence.",
+      "decision_rights": "Gideon can demand honest translation; Jian can set thresholds, but not redefine fear as data-only.",
+      "invisible_labor": "Gideon’s steadiness often disappears into system safety; Jian’s logs can either erase or honor it.",
+      "repair_pattern": "Translate honestly; hold openings without installing tyranny.",
+      "risk": "Together they can build elegant containment that delays, narrows, and calls it safety.",
+      "anchors": [
+        {
+          "path": "CHAPTERS/book_3/Chapter-19-The-Three-Point-Problem.md",
+          "line": 429,
+          "fact": "Gideon asks Jian to translate honestly, not procedurally."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-19-The-Three-Point-Problem.md",
+          "line": 437,
+          "fact": "Jian names the institutional pruning risk plainly."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-23-The-Flaw-in-the-Code.md",
+          "line": 293,
+          "fact": "Offered future delays Jian and narrows others as support."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 217,
+          "fact": "Rules can be proposed without becoming tyranny."
+        }
+      ],
+      "edit_implications": [
+        "Chapter 6 pilot should let Gideon question carrier risk in a way Jian must log."
+      ]
+    },
+    {
+      "id": "jian_corv",
+      "characters": [
+        "Jian",
+        "Corv"
+      ],
+      "dynamic": "Map meets witness. Jian protects sequence from vagueness; Corv protects sequence from becoming conquest or beautiful closure.",
+      "decision_rights": "Coordinates and records must remain subordinate to permission and non-claim.",
+      "invisible_labor": "Corv’s restraint can look like silence; Jian’s record can make silence legible without using it.",
+      "repair_pattern": "Jian stores the route; Corv warns about privacy and later refuses retrospective claim.",
+      "risk": "They can make a perfect explanation that steals the pain it organizes.",
+      "anchors": [
+        {
+          "path": "CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md",
+          "line": 183,
+          "fact": "Corv warns Jian to keep anomaly private."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md",
+          "line": 185,
+          "fact": "Jian stores AM-38 orphan route."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+          "line": 483,
+          "fact": "Corv’s offered sequence orders every wound."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-24-The-Final-Procedure.md",
+          "line": 325,
+          "fact": "Jian recognizes the AM-38 route at the moving gap."
+        }
+      ],
+      "edit_implications": [
+        "CR-09 Selemene route cards must preserve privacy and non-claim."
+      ]
+    },
+    {
+      "id": "sona_gideon",
+      "characters": [
+        "Sona",
+        "Gideon"
+      ],
+      "dynamic": "Feeling meets boundary. Their best work is shoreline: Sona can sense without flooding, Gideon can guard without sealing.",
+      "decision_rights": "Fear deserves room but does not become command; tone can shape climate without making pain illegal.",
+      "invisible_labor": "Sona’s affective labor and Gideon’s perimeter labor are both easy to mistake for default infrastructure.",
+      "repair_pattern": "Name fear; distinguish guarding passage from guarding against passage.",
+      "risk": "He can reduce her for her safety; she can soothe him into delaying anger.",
+      "anchors": [
+        {
+          "path": "CHAPTERS/book_3/Chapter-25-The-Void-of-Pure-Potential.md",
+          "line": 380,
+          "fact": "Gideon admits fear of losing them without edges."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 421,
+          "fact": "Sona meets rhythm at a boundary/shoreline."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 517,
+          "fact": "Sona clarifies guarding passage, not against passage."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 694,
+          "fact": "Gideon shifts closer as presence, not rescue."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+          "line": 244,
+          "fact": "Gideon gives load assessment, not refusal."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+          "line": 338,
+          "fact": "Gideon catches Sona’s elbow after the carrier burden."
+        }
+      ],
+      "edit_implications": [
+        "Chapter 6 pilot should not let Gideon silently become container for Sona/Corv/Jian’s decision."
+      ]
+    },
+    {
+      "id": "sona_corv",
+      "characters": [
+        "Sona",
+        "Corv"
+      ],
+      "dynamic": "Tone meets witness. Sona calls him back when story begins using everyone well; Corv learns to let feeling stay unconverted.",
+      "decision_rights": "A beautiful story must answer to present body cost and to the person it would explain.",
+      "invisible_labor": "Sona’s call-back can be absorbed as part of Corv’s beautiful arc unless he refuses that theft.",
+      "repair_pattern": "She calls; he admits wanting closure and refuses to assign Mira’s pain a useful reason.",
+      "risk": "They can aestheticize care into redemptive witness.",
+      "anchors": [
+        {
+          "path": "CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+          "line": 499,
+          "fact": "Sona calls Corv back."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+          "line": 501,
+          "fact": "The offer starts using Sona’s concern as part of Corv’s arc."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+          "line": 539,
+          "fact": "Corv refuses to make Mira safer through explanatory beauty."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 696,
+          "fact": "Corv does not expose Jian’s kindness workaround."
+        }
+      ],
+      "edit_implications": [
+        "Preserve Sona’s call-back as relational intervention, not muse function."
+      ]
+    },
+    {
+      "id": "gideon_corv",
+      "characters": [
+        "Gideon",
+        "Corv"
+      ],
+      "dynamic": "Perimeter meets meaning. Gideon can keep Corv from aesthetic danger by not rescuing him into a clean story; Corv can keep Gideon’s fear from becoming small.",
+      "decision_rights": "A rescue is not always care; a boundary is not always closure.",
+      "invisible_labor": "Gideon’s non-intervention and Corv’s non-translation are both active labor that may look like absence.",
+      "repair_pattern": "Stand beside the fear; refuse the clean rescue; guard passage.",
+      "risk": "Gideon can turn Corv into a managed witness; Corv can turn Gideon’s fear into noble protector imagery.",
+      "anchors": [
+        {
+          "path": "CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+          "line": 507,
+          "fact": "Gideon shifts but does not intervene, preventing a clean rescue story."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 501,
+          "fact": "Corv stands beside Gideon without asking a too-small fear question."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 503,
+          "fact": "Corv says a passage is not failure of protection."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 604,
+          "fact": "Corv stops watching when watching becomes possession."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+          "line": 667,
+          "fact": "Corv thanks Gideon for not rescuing him and not letting refusal invite prying."
+        }
+      ],
+      "edit_implications": [
+        "Late revisions should show non-action as trust, not passivity."
+      ]
+    }
+  ],
+  "group_history": {
+    "coalition_pattern": "The team begins as specialized instruments under shared danger and matures into differentiated relation under answerability. They do not become one mind; they become better at not conscripting one another into a dominant lens.",
+    "decision_rights": "Good decisions separate stimulus, interpretation, carrier, cost, and recurrence. Majority vote is insufficient when one person bears the object or body-cost.",
+    "invisible_labor_map": [
+      "Sona: affective load, interval, calming-without-anesthesia.",
+      "Gideon: perimeter, relation checks, carrier risk, non-patrol.",
+      "Jian: records, thresholds, unresolved notes, privacy custody.",
+      "Corv: witness restraint, coordinates, refusal to beautify harm."
+    ],
+    "teamwork_without_cliche": [
+      "Non-conversion is active care.",
+      "Dissent can remain after bounded agreement.",
+      "Humor proves refusal has not become tribunal.",
+      "Privacy can coexist with shared witness.",
+      "Rest, beauty, maps, and boundaries are accepted only when answerable to life.",
+      "The field may carry more than one valid observer only when each remains accountable for their own angle."
+    ],
+    "negative_group_risks": [
+      "Majority decision hiding individual carrier burden.",
+      "Shared field collapsing into shared observer.",
+      "Care becoming maintainability.",
+      "Engine/app outputs becoming proof rather than questions.",
+      "Symbolic closure using Mira, Anvel, or the shard as trophies.",
+      "Treating correction from another teammate as role capture instead of consentful, revocable care."
+    ],
+    "anchors": [
+      {
+        "path": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/scene-inventory.md",
+        "line": 47,
+        "fact": "Strongest teamwork is non-conversion."
+      },
+      {
+        "path": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/critique-reconciliation.md",
+        "line": 7,
+        "fact": "Chapter 6 pilot separates shard retention from carrier risk."
+      },
+      {
+        "path": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/canon-decisions.md",
+        "line": 70,
+        "fact": "Teamwork changes action when another person’s layer diverges from one’s explanation."
+      },
+      {
+        "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+        "line": 608,
+        "fact": "New reality does not need Sona to feel everything, Jian to map everything, Gideon to hold everything shut, or Corv to end everything."
+      },
+      {
+        "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+        "line": 613,
+        "fact": "It needs them in relation, which is harder."
+      },
+      {
+        "path": "CHAPTERS/book_2/Chapter-15-The-Witness-Integration.md",
+        "line": 127,
+        "fact": "Witness integration terms: no fusion, no solitary authority, no theater of transcendence."
+      }
+    ]
+  },
+  "verification": {
+    "chapter_prose_changed": false,
+    "source_files": [
+      "scene-inventory.md",
+      "critique-reconciliation.md",
+      "canon-decisions.md",
+      "continuity-ledger.json",
+      "selected CHAPTERS anchors"
+    ]
+  }
+}

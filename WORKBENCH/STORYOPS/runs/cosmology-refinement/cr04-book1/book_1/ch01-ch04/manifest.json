@@ -1,0 +1,40 @@
+{
+  "schema": "storyops.book1.ch01-ch04.wave.v1",
+  "phase": "CR-04.01",
+  "status": "review-only",
+  "chapters": [
+    {
+      "id": "ch01",
+      "source": "CHAPTERS/book_1/Chapter-01-The-Choroid-Plexus.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1/book_1/ch01-ch04/ch01/candidate.md",
+      "sha256": "76523ef71b92a247274a1a8b8b9291b1c8f1f8f0c6d5199ad59dc276878ac9e4",
+      "changed": false,
+      "rationale": "Protected baseline retained; CR-01 found this chapter already carries required function."
+    },
+    {
+      "id": "ch02",
+      "source": "CHAPTERS/book_1/Chapter-02-Signal-Transduction.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1/book_1/ch01-ch04/ch02/candidate.md",
+      "sha256": "cd0814a3539d6a5619b30e67b613116eb746f5f8f82f62c8524f0deea9f45c3f",
+      "changed": true,
+      "rationale": "Adds a small receipt for Sona diverting shear residue before a vote, preserving humor and making invisible labor visible without resolving it."
+    },
+    {
+      "id": "ch03",
+      "source": "CHAPTERS/book_1/Chapter-03-The-Blood-Brain-Barrier.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1/book_1/ch01-ch04/ch03/candidate.md",
+      "sha256": "dd68425fc609b045c066a0aebb3243d2aa9900eceb1d9a6619da13f4466f8d8c",
+      "changed": false,
+      "rationale": "Protected baseline retained; CR-01 found this chapter already carries required function."
+    },
+    {
+      "id": "ch04",
+      "source": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1/book_1/ch01-ch04/ch04/candidate.md",
+      "sha256": "4c2b17da2042bafbcc6f1d654f2b551ccffbc6941537a5688f125a3cc36e7e12",
+      "changed": false,
+      "rationale": "Protected baseline retained; CR-01 found this chapter already carries required function."
+    }
+  ],
+  "canon_mutation": false
+}

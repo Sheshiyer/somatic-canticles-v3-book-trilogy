@@ -1,0 +1,272 @@
+{
+  "version": "cosmology-plan-baseline-v1",
+  "entries": [
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_1/Chapter-01-The-Choroid-Plexus.md",
+      "sha256": "76523ef71b92a247274a1a8b8b9291b1c8f1f8f0c6d5199ad59dc276878ac9e4",
+      "bytes": 52403,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_1/Chapter-02-Signal-Transduction.md",
+      "sha256": "d54eac6bda9735560ee01b2e04be91618cc598023a8d94257eea1496f7596140",
+      "bytes": 25184,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_1/Chapter-03-The-Blood-Brain-Barrier.md",
+      "sha256": "dd68425fc609b045c066a0aebb3243d2aa9900eceb1d9a6619da13f4466f8d8c",
+      "bytes": 48554,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+      "sha256": "4c2b17da2042bafbcc6f1d654f2b551ccffbc6941537a5688f125a3cc36e7e12",
+      "bytes": 46713,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_1/Chapter-05-The-Endocrine-Dogma.md",
+      "sha256": "0379366a8f95dbaa29f903c24861cc60c06e234335814338fa7b5d27d6754c86",
+      "bytes": 49038,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+      "sha256": "a26ba8ca6feba9598ba7947d24991de91c51a34653a36ff25244125c04daa647",
+      "bytes": 18750,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_1/Chapter-07-The-Breathfield-Weaver.md",
+      "sha256": "b29aeb7d9b6d9ca12378d705feae0423fe67815ef04b4c4ae92d09722f5e6fb9",
+      "bytes": 65842,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md",
+      "sha256": "42970b3a4f3ea5ad57741d8105f30d4c097e6a97569039dd32a52a13327dfff6",
+      "bytes": 26526,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_2/Chapter-09-The-Sigil-Smith.md",
+      "sha256": "baff96f0f63b6d6186798068123be1f0dd019b98e12457a454af554002bebc18",
+      "bytes": 85327,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_2/Chapter-10-The-Debug-Protocol.md",
+      "sha256": "09144286845907c6faf2d0c843a85518dc1aede84bd937487edb14067c9aa6ec",
+      "bytes": 105200,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_2/Chapter-11-The-Avatar-Mutation.md",
+      "sha256": "ad27c171dfa35b9154fc41d780612b2b319ad5e8e3f60ff99ea79b8579eb139f",
+      "bytes": 78503,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_2/Chapter-12-The-Anamnesis-Engine.md",
+      "sha256": "d08544cd347fa20576bc92f1b74ad143279ada73b8ac882f41b12440cb7732b4",
+      "bytes": 47106,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_2/Chapter-13-The-Myocardial-Chorus.md",
+      "sha256": "96032d04d14cfd12829876b54c6ab11a38526df9864134f104c7d9b460ab9c60",
+      "bytes": 95464,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+      "sha256": "ff0e3078a226abb0bdb0dd42dbd529c7e5fbd5030f4f4bf64d0e61b0aa7fd022",
+      "bytes": 12812,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_2/Chapter-15-The-Witness-Integration.md",
+      "sha256": "1df34bbf6e84f0c2f86b5c27d100808d08edd471d7d1ddb068d8b693c19d2683",
+      "bytes": 18274,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+      "sha256": "1d67ce00f71af8ef8a791d7f2b117a41e762d44469f43fed061b743e9b4654b3",
+      "bytes": 36865,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-17-The-Gardener.md",
+      "sha256": "04ad09322b98f981f20aa461129ff53a1e491813c15eeb1c40bc2095f2be37ff",
+      "bytes": 66974,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-18-The-Synthesis-Protocol.md",
+      "sha256": "8a1ab027fc0b9b38fefb1a6e858a689e5bfd4f05f6249d40548a86b3bd1fdc49",
+      "bytes": 20619,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-19-The-Three-Point-Problem.md",
+      "sha256": "3d3ce00e8e720c79c7205b25e2e86c01e1b0b34b310cb6fa334ebe5d7c1f2908",
+      "bytes": 47220,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-20-The-Convergence-Point.md",
+      "sha256": "b484c5d946e48794d57b6f8d065e0478c4938ebcc0c35b4665130bfed2399b28",
+      "bytes": 49754,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-21-The-Test-Fire.md",
+      "sha256": "95f0c76e386a9dabae86cff5f6eab0763d9cc80f3e69e4b1c9a7ba9ca42840bc",
+      "bytes": 59020,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+      "sha256": "0567f54be361cd24748afd8b801978dc850009c1b691859e5ad67325bc71dd47",
+      "bytes": 57838,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-23-The-Flaw-in-the-Code.md",
+      "sha256": "0e77bf334b5ce48322a6fca62e830d96dda10eafb1bcf1252c3abe7de320fa67",
+      "bytes": 40745,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-24-The-Final-Procedure.md",
+      "sha256": "33ee35b604b18f34338c34f6cdd1423a06523eb2cac499dd6c055b9e9d33002e",
+      "bytes": 52570,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-25-The-Void-of-Pure-Potential.md",
+      "sha256": "b9ba1d8ec1c4d1f4c9ad7b5623b016caad94e84da411eeacd54b088537d80416",
+      "bytes": 56602,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-26-The-Architecture-of-New-Reality.md",
+      "sha256": "44608173de489d2e44b342648480007d8db4362de4f8e1f3569ededf148319c7",
+      "bytes": 22944,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+      "sha256": "cf247751d5673c0a699a1cfb2f15faa7bd44cd956ce1cf618038de064a4b2c58",
+      "bytes": 30085,
+      "role": "canon",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/WORKBENCH/STORYOPS/plans/cosmology-refinement/inputs/CHAPTER-PLAN.md",
+      "sha256": "5509200eab3f06fee06b6d1d3295aac545f746ab356bec25e0889df3b3942977",
+      "bytes": 15353,
+      "role": "reference",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/WORKBENCH/STORYOPS/plans/cosmology-refinement/inputs/CRITIQUE.md",
+      "sha256": "5d12638fb139b26975d779647f6b04146d56950d178fa6736c020149453079e0",
+      "bytes": 28333,
+      "role": "reference",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/WORKBENCH/STORYOPS/plans/cosmology-refinement/inputs/ECOSYSTEM-PLAN.md",
+      "sha256": "6f679b3fa995e0c507cbaf705dea21108a8268d0b02e8ae7fdc90c4c583b604e",
+      "bytes": 15199,
+      "role": "reference",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/WORKBENCH/STORYOPS/plans/cosmology-refinement/inputs/REVIEW-RECEIPT.md",
+      "sha256": "ff10081705c9c5f52a2b93cdad2e6644105effee60215158a8fbd4b8ddafe47b",
+      "bytes": 4923,
+      "role": "reference",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/WORKBENCH/STORYOPS/README.md",
+      "sha256": "fa7dc6d123ab1b573d2dd5f4a53102115917cf2ff656ef8f882aac5bfd88b457",
+      "bytes": 2471,
+      "role": "skill",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/WORKBENCH/STORYOPS/gating_contract.py",
+      "sha256": "14f6419b94557b95f46e3cf1f6a6130bb30dc1a2473f13cf1a02dfe44697aa5a",
+      "bytes": 5356,
+      "role": "skill",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/WORKBENCH/STORYOPS/scripts/autoresearch_loop.py",
+      "sha256": "0021a988e8045906515840b4d4ad8097e89e1951ff4aebc98b7868f4583a589f",
+      "bytes": 6420,
+      "role": "skill",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/WORKBENCH/STORYOPS/scripts/rubric_scan.py",
+      "sha256": "40d53a15c2752276b8850a1a200ef6b140b7bd2c0d5dcb6c9393a52a4f3e7eff",
+      "bytes": 8018,
+      "role": "skill",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/WORKBENCH/STORYOPS/scripts/ether_first_loop.py",
+      "sha256": "fd5019697e56532edfd46fab62f0cabec947a98d18b8f730a6437dd49cb45ad2",
+      "bytes": 18563,
+      "role": "skill",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/twc-vault/.agents/skills/noesis-writer-skill/SKILL.md",
+      "sha256": "7de6ee3d7502a7fa855487c7c0fbaccd885a833941ef5360033e5536e3757a4f",
+      "bytes": 17622,
+      "role": "skill",
+      "bytes_recorded": true
+    },
+    {
+      "path": "/Volumes/madara/2026/twc-vault/.agents/skills/noesis-writer-skill/references/somatic-canticles-lived-integration.md",
+      "sha256": "2ee83696f0aec8d175252c5a9e7820535203b6de95b693ddb746656e17618a1b",
+      "bytes": 29508,
+      "role": "skill",
+      "bytes_recorded": true
+    }
+  ],
+  "entry_count": 38
+}

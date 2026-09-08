@@ -1,0 +1,617 @@
+{
+  "schema": "storyops.continuity-ledger.v1",
+  "campaign": "cosmology-refinement",
+  "phase": "CR-01.03",
+  "created": "2026-09-08",
+  "principle": "Trace continuity as obligations and constraints before turning it into transformation. Similar objects remain separate unless source evidence proves identity.",
+  "entries": [
+    {
+      "id": "object.chapter6.obsidian_shard",
+      "kind": "material_object",
+      "name": "Chapter 6 obsidian shard / failed-candidacy memorabilia",
+      "status": "source-confirmed; later consequence under-specified",
+      "identity_policy": "Distinct from the Chapter 8 seed and Chapter 26 seed/sliver unless a later revision explicitly establishes transfer or relation. Chapter 26 remembers it as the first of two black stones, but does not prove physical identity with the later seed.",
+      "anchors": [
+        {
+          "path": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+          "line": 135,
+          "fact": "Corv withdraws a thin obsidian shard, described as failed-candidacy memorabilia and a mute witness."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+          "line": 147,
+          "fact": "Sona invokes consent protocol and says the shard votes too."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+          "line": 149,
+          "fact": "Jian moves to jettison the shard as hazardous bioware."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+          "line": 151,
+          "fact": "Corv moves to retain it for forensic analysis."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+          "line": 153,
+          "fact": "Sona chooses conditional retention: neutral lab only; image leak triggers archive incineration and amnesia tax."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+          "line": 159,
+          "fact": "Corv seats the shard in the hollow at the center of Gideon's idle Klei lattice."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-26-The-Architecture-of-New-Reality.md",
+          "line": 372,
+          "fact": "Corv later remembers the shard as a black stone left in the sphere's hollow, the first of two acts of faith."
+        }
+      ],
+      "entry_point": "Chapter 6, after red/blue path resolves into a single exit hallway.",
+      "exit_or_last_seen": "Chapter 6 places it inside Gideon's Klei lattice; Chapter 26 remembers it as left in the sphere's hollow. The physical transport from Klei to sphere/hollow is not shown in the anchors read for CR-01.03.",
+      "recurrence_requirement": "Any Chapter 6 pilot revision must clarify who consents to carry or contain the shard and what it means for Gideon's Klei to hold it. Later references should preserve the shard as witness to fracture, not as a trophy or universal proof.",
+      "unresolved_obligations": [
+        "Clarify whether Gideon explicitly accepts Klei-carrier risk before Corv seats the shard.",
+        "Trace whether the sphere's hollow is the neutral lab, the same Klei hollow, or a later unstated repository before writing consequences.",
+        "If archive incineration or amnesia tax matters later, place at least one recurrence or waived-condition beat."
+      ],
+      "dependent_edits": [
+        "CR-02 Chapter 6 pilot",
+        "CR-04 Book 1 shard consequence pass",
+        "CR-07 writer integration object-memory rules"
+      ]
+    },
+    {
+      "id": "object.chapter8.obsidian_seed",
+      "kind": "material_object",
+      "name": "Chapter 8 obsidian seed / residual calibration token",
+      "status": "source-confirmed; thematically connected to Chapter 26",
+      "identity_policy": "This is a seed left in the subject/system for future calibration. It is not the Chapter 6 shard. Chapter 26 repeats its coordinates and wording, making the Chapter 26 seed/sliver a deliberate recurrence or replanting; physical sameness remains unproven.",
+      "anchors": [
+        {
+          "path": "CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md",
+          "line": 171,
+          "fact": "Corv asks permission to leave a seed."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md",
+          "line": 173,
+          "fact": "Sona produces a sliver of obsidian with a ninefold Nine glyph; Corv sets it on the receding grid."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md",
+          "line": 175,
+          "fact": "Corv memorizes exact coordinates: 9.3.4N | 12.7.2E | -0.47 depth."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md",
+          "line": 177,
+          "fact": "The gesture is defined as faith in future calibration, not present control."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md",
+          "line": 183,
+          "fact": "Corv warns Jian to keep the anomaly ping private until they know what it feeds on."
+        }
+      ],
+      "entry_point": "Chapter 8, as an exit restraint after the calibration reaches 0.97 trust coherence.",
+      "exit_or_last_seen": "Chapter 8 leaves the seed in the receding grid and stores its bearing. Chapter 26 reuses the coordinates in a new plane.",
+      "recurrence_requirement": "Any transformation language around the seed must retain its restraint: future reminder, not control hook. It should support navigation without authorizing surveillance or narrative possession.",
+      "unresolved_obligations": [
+        "Decide in CR-07 whether Chapter 26 is a literal retrieval/replanting, a symbolic recurrence, or an intentionally parallel act.",
+        "Keep anomaly privacy tied to Jian's side buffer and the raw bearing; do not let the seed become a global tracking device by accident."
+      ],
+      "dependent_edits": [
+        "CR-04 Book 1 Chapter 8 pass",
+        "CR-06 Book 3 Chapter 26 pass",
+        "CR-09 Selemene object-schema handoff"
+      ]
+    },
+    {
+      "id": "object.chapter26.obsidian_seed_sliver",
+      "kind": "material_object",
+      "name": "Chapter 26 obsidian seed/sliver in new reality",
+      "status": "source-confirmed; relation to Chapter 8 strongly signaled but not fully operationalized",
+      "identity_policy": "Chapter 26 names the object first as a sliver of obsidian, then as a seed. It repeats the Chapter 8 coordinates and acceptance language. Treat it as a recurrence of the Chapter 8 seed-pattern; physical identity remains a decision, not an assumption.",
+      "anchors": [
+        {
+          "path": "CHAPTERS/book_3/Chapter-26-The-Architecture-of-New-Reality.md",
+          "line": 368,
+          "fact": "Corv withdraws a sliver of obsidian with a ninefold glyph and recalls the Chapter 8 coordinates."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-26-The-Architecture-of-New-Reality.md",
+          "line": 370,
+          "fact": "He sets the seed on the ground; the plane accepts it as the lattice had accepted it earlier."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-26-The-Architecture-of-New-Reality.md",
+          "line": 372,
+          "fact": "The text distinguishes two black stones: one before the wound, one after."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-26-The-Architecture-of-New-Reality.md",
+          "line": 374,
+          "fact": "The restraint becomes the field's final architecture."
+        }
+      ],
+      "entry_point": "Chapter 26, after the new place promises that they may stand there without being used.",
+      "exit_or_last_seen": "Chapter 26 sets the seed in new ground; Chapter 27 shows a fading coordinate line under root-shadow but does not name the object again.",
+      "recurrence_requirement": "Chapter 26/27 revisions should protect the object as restraint-made-architecture. The seed cannot become a founding relic, conquest marker, or proof that the team owns the new world.",
+      "unresolved_obligations": [
+        "Tie Chapter 27's fading coordinate to this seed only if the chapter makes that relation legible.",
+        "If the Chapter 8 and Chapter 26 seed are physically identical, add a retrieval/transport beat; if not, mark it as a second act with shared coordinates."
+      ],
+      "dependent_edits": [
+        "CR-06 Book 3 late-world pass",
+        "CR-08 companion content compression",
+        "CR-09 web/mobile continuity cards"
+      ]
+    },
+    {
+      "id": "infrastructure.orphan_routes_archive",
+      "kind": "data_infrastructure",
+      "name": "AM-38-orphan-routes side buffer",
+      "status": "source-confirmed; dormant archive introduced once",
+      "identity_policy": "Treat as Jian's private/dormant archive for morally unresolved bearings. It is not a public Selemene route registry and not a proof channel.",
+      "anchors": [
+        {
+          "path": "CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md",
+          "line": 183,
+          "fact": "Corv warns Jian to keep the anomaly ping private."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md",
+          "line": 185,
+          "fact": "Jian copies the raw bearing into a dormant archive labelled AM-38-orphan-routes."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md",
+          "line": 189,
+          "fact": "The new bearing remains as an unobtrusive cobalt caret in his field."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-24-The-Final-Procedure.md",
+          "line": 325,
+          "fact": "Chapter 24 pays off AM-38: the orphan route bearing is familiar, soft amber, two-second cadence, and pointing to the moving gap."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-24-The-Final-Procedure.md",
+          "line": 327,
+          "fact": "The route is not a fixed gate; it marks failed inheritance and visible refusal logic."
+        }
+      ],
+      "entry_point": "Chapter 8, immediately after the seed is planted and the anomaly glyph continues blinking.",
+      "exit_or_last_seen": "Chapter 24 pays it off as the orphan route from AM-38 pointing toward the moving gap/refusal seam, not as a fixed gate.",
+      "recurrence_requirement": "Preserve Jian’s initial withholding/private archive and later recognition under procedure pressure. In app/Selemene layers, this is a consent-bounded route memory, not a public route authority.",
+      "unresolved_obligations": [
+        "Decide whether orphan routes should recur in Chapter 14 or remain an app-side companion affordance after CR-08.",
+        "If used in Selemene, model it as consent-bounded situation memory with privacy flags."
+      ],
+      "dependent_edits": [
+        "CR-02 Chapter 14 pilot brief",
+        "CR-08 companion compression",
+        "CR-09 Selemene handoff"
+      ]
+    },
+    {
+      "id": "object.chapter4.consent_watermark",
+      "kind": "ritual_mark",
+      "name": "Consent watermark / reversible endocrine receipt",
+      "status": "source-confirmed; strong cross-phase principle",
+      "identity_policy": "The watermark is a question-shaped pause inserted into inherited alarm. It is not a cure, command, coronation, or external proof of consent.",
+      "anchors": [
+        {
+          "path": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+          "line": 400,
+          "fact": "Jian frames the strength problem: too strong becomes doctrine, too weak becomes noise."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+          "line": 408,
+          "fact": "The watermark takes an open-hook/question posture."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+          "line": 410,
+          "fact": "Jian calls it interrogative valence and unresolved salience."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+          "line": 420,
+          "fact": "Corv passes the interrogative mark through the pearl into the watermark, creating a pause before inherited alarm."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+          "line": 426,
+          "fact": "The subject might still obey, freeze, or choose the safest old shape; nothing is guaranteed."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+          "line": 432,
+          "fact": "Sona names it a receipt."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+          "line": 434,
+          "fact": "Jian calls it a reversible mark with endocrine continuity."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+          "line": 438,
+          "fact": "Corv calls it an heirloom that can refuse to be inherited."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-03-The-Blood-Brain-Barrier.md",
+          "line": 189,
+          "fact": "Chapter 3 frames the first trace as a fingerprint left on the architecture."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-03-The-Blood-Brain-Barrier.md",
+          "line": 193,
+          "fact": "Sona proposes a host-readable scar, using Gideon's old Klei-linked scar as native signature."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-03-The-Blood-Brain-Barrier.md",
+          "line": 295,
+          "fact": "Sona says the pulse came with a watermark."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-03-The-Blood-Brain-Barrier.md",
+          "line": 301,
+          "fact": "Jian questions retroactive consent while uploading the score/signature record."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+          "line": 228,
+          "fact": "Chapter 4 explicitly compares hard splice, dampened splice, and reversible consent watermark."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+          "line": 236,
+          "fact": "Jian says the watermark requires a carrier and warns body interpretation can flip rescue into threat."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+          "line": 478,
+          "fact": "The watermark does not guarantee anyone; the non-guarantee is named as mercy."
+        }
+      ],
+      "entry_point": "Chapter 3 begins the watermark problem as a trace/fingerprint/scar left in living architecture; Chapter 4 formalizes the reversible consent watermark.",
+      "exit_or_last_seen": "Chapter 4; later Lens 13 and edge decisions should inherit the logic of reversible pause rather than guaranteed liberation.",
+      "recurrence_requirement": "Use as the template for positive transformation: an added pause and possible choice, not a forced enlightened state. Negative transformation appears when such marks become doctrine, noise, or surveillance.",
+      "unresolved_obligations": [
+        "Track whether future chapters explicitly remember the watermark or only inherit its ethical grammar.",
+        "Prevent Selemene/app UI from turning the receipt into a completion badge.",
+        "Preserve the difference between consent receipt, carrier burden, and guarantee; these are three separate ethics decisions."
+      ],
+      "dependent_edits": [
+        "CR-03 transformation architecture",
+        "CR-04 Book 1 revisions",
+        "CR-08/CR-09 companion/app handoffs"
+      ]
+    },
+    {
+      "id": "person.mira_verath_lineage",
+      "kind": "person_and_lineage",
+      "name": "Mira Verath / Verath lineage",
+      "status": "source-confirmed; central ethical constraint",
+      "identity_policy": "Mira is a person before evidence. The Verath wound is accountable to Mira, not larger than her. Anvel remains a wound coordinate, not an excuse or origin myth.",
+      "anchors": [
+        {
+          "path": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+          "line": 19,
+          "fact": "Six weeks after the last descent, Mira Verath's line on Tessari becomes the first case strong enough to test whether the discipline survives ordinary life."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+          "line": 25,
+          "fact": "Verath harmonics once cut through three generations and now show breathable coherence."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+          "line": 27,
+          "fact": "The earliest wound on record belongs to Anvel Verath, first of the line to make law out of injury."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+          "line": 117,
+          "fact": "Mira's rediscovered pleasure nodes were bright two weeks earlier and are now diminished."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+          "line": 199,
+          "fact": "Mira is twenty-three sessions into recovery based on observing shame without identifying as shame."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+          "line": 203,
+          "fact": "That capacity is being pruned."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-19-The-Three-Point-Problem.md",
+          "line": 437,
+          "fact": "House review could reduce Mira's remaining variance for protection and institutional safety."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-19-The-Three-Point-Problem.md",
+          "line": 451,
+          "fact": "The team must work against conversion of person to case/risk while not pretending risk is imaginary."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-19-The-Three-Point-Problem.md",
+          "line": 647,
+          "fact": "Sona says Mira remains consequence, not symbol or proof that the team is kind."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-19-The-Three-Point-Problem.md",
+          "line": 655,
+          "fact": "Jian rewrites the record: Mira Verath remains a person before she is evidence."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-20-The-Convergence-Point.md",
+          "line": 1077,
+          "fact": "Corv says Mira remains larger than the method."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-21-The-Test-Fire.md",
+          "line": 667,
+          "fact": "Test result does not authorize retrospective claims about Mira Verath's experience."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-24-The-Final-Procedure.md",
+          "line": 100,
+          "fact": "Procedure success does not make previous harm necessary, Mira a retrospective proof, or Anvel's wound an origin myth."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-24-The-Final-Procedure.md",
+          "line": 1115,
+          "fact": "The Verath trace remains; Mira does not become symbol; Anvel does not become excuse."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-01-The-Choroid-Plexus.md",
+          "line": 57,
+          "fact": "Sona first hears the name Mira in mourning."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-01-The-Choroid-Plexus.md",
+          "line": 109,
+          "fact": "Safe-mode protocol identifies SUBJECT: VERATH LINEAGE — SESSION 01."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-01-The-Choroid-Plexus.md",
+          "line": 129,
+          "fact": "Sona identifies the decision point as temporal rather than spatial."
+        },
+        {
+          "path": "CHAPTERS/book_1/Chapter-01-The-Choroid-Plexus.md",
+          "line": 135,
+          "fact": "The grief-tone shapes itself around Mira; mourning becomes testimony, not weather."
+        }
+      ],
+      "entry_point": "Book 1 Chapter 1 names Mira through mourning/testimony and identifies the Verath lineage; Book 3 Chapter 16 reopens that history as ordinary-life consequence.",
+      "exit_or_last_seen": "Chapter 24 preserves the Verath trace after severance; later chapters move into the new world without solving Mira by implication.",
+      "recurrence_requirement": "Every positive team transformation must retain Mira as a limit on self-congratulation. Every negative transformation risk should show how evidence, beauty, care, or protection can become reduction when it uses her as symbol.",
+      "unresolved_obligations": [
+        "Chapter 16 contains a possible placeholder/lure tension around the thin line; pilot work must not imply the team literally saves Mira before source confirms it.",
+        "Chapter 22 and 24 already guard against retrospective redemption; any compression must preserve those guards.",
+        "Do not backfill Chapter 6 shard/heartbeat as Verath-specific unless later source work deliberately connects the objects and lineage."
+      ],
+      "dependent_edits": [
+        "CR-03 developmental architecture",
+        "CR-06 Book 3 revisions",
+        "CR-07 whole-trilogy convergence"
+      ]
+    },
+    {
+      "id": "time.six_week_interval",
+      "kind": "time_continuity",
+      "name": "Six-week interval after last descent",
+      "status": "source-confirmed; uneven consequence marker",
+      "identity_policy": "The six-week jump marks ordinary-life testing, not elapsed enlightenment. It should carry uneven consequence: the team has a harder discipline, but prior recovery can still wilt.",
+      "anchors": [
+        {
+          "path": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+          "line": 19,
+          "fact": "Six weeks earlier the team left their last descent with no artifact, no coronation, only distinct witnesses/shared field/disciplined exchange."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+          "line": 21,
+          "fact": "Gideon's Vimshottari entry changed since last descent; Mercury replaced Saturn beneath Moon."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+          "line": 23,
+          "fact": "Yesterday's review concealed Sona leaving after asking for pause until Jian added the fact himself."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+          "line": 117,
+          "fact": "Mira's pleasure nodes were bright two weeks earlier but now pulse with diminished fire."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+          "line": 37,
+          "fact": "Current curve is compared against a seven-day baseline."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+          "line": 57,
+          "fact": "The healed pattern had held for weeks before the Wilt."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+          "line": 227,
+          "fact": "Team intervention worsens the pruning rhythm, proving care can become acceleration when mis-timed."
+        }
+      ],
+      "entry_point": "Start of Chapter 16.",
+      "exit_or_last_seen": "The interval drives Book 3's review pressure and failure accumulation through Chapters 19-21.",
+      "recurrence_requirement": "Do not invent additional elapsed dates for pilot consequences. Use the six-week interval as a test of recurrence, maintenance, and concealed interpersonal cost.",
+      "unresolved_obligations": [
+        "Build a chapter-by-chapter Book 3 time grid in CR-06 before line edits that move or compress Chapter 16 material.",
+        "Clarify whether 'two weeks ago' refers to an intermediate review inside the six-week span or a separate visible recovery milestone.",
+        "Preserve seven-day baseline, weeks-held recovery, two-weeks-ago joy-node memory, yesterday review fracture, and six-week jump as different time facts, not one blur."
+      ],
+      "dependent_edits": [
+        "CR-02 pilot briefs",
+        "CR-06 Book 3 sequence edits"
+      ]
+    },
+    {
+      "id": "principle.boundary_privacy_after_ripening",
+      "kind": "cosmology_continuity",
+      "name": "Boundaries and privacy after ripening",
+      "status": "source-confirmed; constrains Chapter 24 wording",
+      "identity_policy": "Ripening removes the Gardener's pruneable/claimable edge, not all boundaries. Shared coherence does not erase private interiority.",
+      "anchors": [
+        {
+          "path": "CHAPTERS/book_3/Chapter-24-The-Final-Procedure.md",
+          "line": 501,
+          "fact": "Current wording says a fully ripened subject had no edges; this needs reconciliation."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-24-The-Final-Procedure.md",
+          "line": 867,
+          "fact": "Old jurisdiction begins failing at the edges; labels no longer arrive first."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-25-The-Void-of-Pure-Potential.md",
+          "line": 380,
+          "fact": "Gideon fears losing the others in a place without edges."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-25-The-Void-of-Pure-Potential.md",
+          "line": 640,
+          "fact": "A feeling can remain private without becoming secret."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 421,
+          "fact": "Sona meets the tree at a boundary; intimacy becomes shoreline rather than flood."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 489,
+          "fact": "Gideon lets an opening remain an opening."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 511,
+          "fact": "Gideon touches the dipped edge to know its texture, not to close it."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 586,
+          "fact": "The team settles near tree, dipped edge, and fading coordinate without assigned positions."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 658,
+          "fact": "Dipped boundary means passage will exist; fading coordinate means movement need not become conquest."
+        },
+        {
+          "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+          "line": 692,
+          "fact": "Sona can look without entering."
+        }
+      ],
+      "entry_point": "Chapter 24 procedure wording and old-jurisdiction failure.",
+      "exit_or_last_seen": "Chapter 27 preserves living boundaries, openings, privacy, and non-conquest movement in the new world.",
+      "recurrence_requirement": "Late revisions should make the team dynamic depend on non-conversion: hearing without entering, guarding passage rather than sealing it, mapping without conquest, witnessing without closure.",
+      "unresolved_obligations": [
+        "Revise Chapter 24 line 501 later to specify no edge the Gardener can claim/prune, while preserving living boundaries.",
+        "Ensure companion/app summaries do not compress 'no edges' into total access or perfect merger."
+      ],
+      "dependent_edits": [
+        "CR-03 team-dynamics architecture",
+        "CR-06 Chapter 24-27 revisions",
+        "CR-08 companion compression"
+      ]
+    },
+    {
+      "id": "scene.chapter14.transfer_timing",
+      "kind": "scene_continuity",
+      "name": "Chapter 14 transfer timing / three-body coordination",
+      "status": "source-confirmed; pilot-relevant transfer constraint",
+      "identity_policy": "Chapter 14 is not a smooth teamwork proof. Its continuity role is differentiated timing: one layer cannot invoke emergency law for the whole system, and one team member cannot complete the relay for everyone.",
+      "anchors": [
+        {
+          "path": "CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+          "line": 27,
+          "fact": "Jian identifies relay collapse across three layers: authority arrives before limbic registration, cortical review arrives after escalation."
+        },
+        {
+          "path": "CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+          "line": 31,
+          "fact": "Corv names the failure as emergency rule rewarded until habit became law."
+        },
+        {
+          "path": "CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+          "line": 89,
+          "fact": "Jian leaves two different answers in the record; his readiness does not settle timing for others."
+        },
+        {
+          "path": "CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+          "line": 91,
+          "fact": "Each team member shifts from dominant lens to restrained function: timing, interval, sequence, non-claiming protection."
+        },
+        {
+          "path": "CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+          "line": 133,
+          "fact": "Each contribution teaches the chamber a different non-takeover lesson."
+        },
+        {
+          "path": "CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+          "line": 135,
+          "fact": "One relay fails, another holds; the chamber learns by iteration, not miracle."
+        },
+        {
+          "path": "CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+          "line": 141,
+          "fact": "Coordination makes choice more than whichever impulse won the last emergency."
+        }
+      ],
+      "entry_point": "Book 2 Chapter 14 opens with relay collapse and mistrust among body/system layers.",
+      "exit_or_last_seen": "Chapter 14 closes its core value as iterative relay under timing constraints; CR-02 will decide whether to add a costlier second handoff.",
+      "recurrence_requirement": "Use this as the team-dynamics bridge from Chapter 6 carrier consent to Book 3 differentiated witness. A later pilot should add cost without converting the chapter into seamless competence.",
+      "unresolved_obligations": [
+        "Test a costly second handoff only after Chapter 6 pilot candidates clarify consent/custody/risk burden.",
+        "Keep receiver consent distinct from sender readiness and diagnostic correctness."
+      ],
+      "dependent_edits": [
+        "CR-02 Chapter 14 pilot",
+        "CR-05 Book 2 revision wave",
+        "CR-03 team-dynamics architecture"
+      ]
+    }
+  ],
+  "cross_entry_constraints": [
+    "Positive transformation should appear as added pause, answerability, recurrence, and reduced coercive cost; it should not look like completion, trophy, or merger.",
+    "Negative transformation should appear when protection, clarity, witness, meaning, or care becomes an extraction layer over another person's privacy or cost.",
+    "Book, Selemene engine, and companion apps may share situation continuity, but the book remains complete without external proof and the engine must not become canon authority.",
+    "The team work is the practice of carrying different lenses/sheaths without converting one another: Jian maps, Sona senses, Gideon bounds, Corv witnesses, and each learns when not to use their gift."
+  ],
+  "verification": {
+    "source_scope": [
+      "CHAPTERS/book_1",
+      "CHAPTERS/book_3",
+      "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory"
+    ],
+    "chapter_prose_changed": false,
+    "identity_mergers_avoided": [
+      "Chapter 6 shard vs Chapter 8 seed",
+      "Chapter 8 seed vs Chapter 26 seed/sliver",
+      "Mira as person vs Verath wound/method",
+      "boundary vs pruneable edge"
+    ],
+    "limits": [
+      "This ledger did not fully trace every motif use of generic glyph/shard language because most are symbolic noise rather than object continuity.",
+      "Chapter 27's fading coordinate is treated as related but not yet assigned to a physical object without CR-06 confirmation.",
+      "Agent trace returns may add anchors, but current claims are grounded in source lines already read.",
+      "Integrated read-only trace returns for Chapter 1 Mira entry, Chapter 3 watermark prehistory, Chapter 14 transfer timing, and Chapter 24 AM-38 payoff."
+    ]
+  }
+}

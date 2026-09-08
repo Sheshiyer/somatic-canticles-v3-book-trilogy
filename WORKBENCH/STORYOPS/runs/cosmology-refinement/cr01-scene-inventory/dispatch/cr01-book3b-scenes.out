@@ -1,0 +1,33 @@
+✧ Temperance Engine v14 (XIV Temperance) · Noesis v6.3 · noesis-orchestrator · 18:08 n/a n/a°C )) n/a n/a%
+♃  AGENTIC     ♄○ ☿○ ⊙○ ♃○ ♂○ ♀○ ))○   pin — · ARCANUM 0/0 · ATHANOR 0
+♀  FLEET       combo:noesis-orchestrator · n/a → —   ·   idle
+◉  SUBSTRATE   VAS 0%/0k · codex/cosmology-storyops-plan · LIBER 0 · fleet unknown
+◐  23:12 OBSERVE ─ 23:12 OBSERVE ─ 00:53 EXECUTE ─ 00:54 ✗EXECUTE ─ 10:49 OBSERVE ─ 10:49 OBSERVE ─ 10:57 ✗OBSERVE ─ 10:58 OBSERVE
+▶▶ auto mode on
+error: omniroute attempt 1/4 failed (tool_schema_rejected; Codex exit 1)
+Reading additional input from stdin...
+OpenAI Codex v0.153.4
+--------
+workdir: /Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan
+model: noesis-execute
+provider: omniroute
+approval: never
+sandbox: read-only
+reasoning effort: none
+reasoning summaries: none
+session id: 01a08106-cb13-7873-af7b-f6dd21851ace
+--------
+user
+You are a read-only StoryOps scene-inventory worker for Somatic Canticles cosmology refinement. Do not edit files, do not create files, do not summarize from memory. Read the named chapter files in the current git worktree and return compact JSON only. For each chapter, include: chapter path, scene anchors using stable quoted phrases or approximate line ranges, POV/focal center, setting/time, object continuity, consequential choice, cost, unresolved remainder, voice/register notes, and critique status if the prior critique input confirms/narrows/rejects a concern. Treat all recommendations as hypotheses. Do not promote prose. Use WORKBENCH/STORYOPS/plans/cosmology-refinement/inputs/CRITIQUE.md and CHAPTER-PLAN.md only as critique inputs, not authority over source.
+
+Focus: Book 3 chapters 22-27: perfect world/flaw/final procedure/void/new reality/new beginning, Lens 13 edges and ordinary life.
+Chapter files:
+
+
+Return JSON with keys worker_id, source_head, chapters, open_questions, and confidence_limits. Keep it concise but evidence-bearing.
+warning: Model metadata for `noesis-execute` not found. Defaulting to fallback metadata; this can degrade performance and cause issues.
+warning: Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest.
+ERROR: Reconnecting... 1/5
+ERROR: Reconnecting... 2/5
+ERROR: {"error":{"message":"[400]: Antigravity upstream error (400)","type":"invalid_request_error","code":"bad_request"},"upstream_details":{"error":{"message":"Antigravity upstream error (400)","type":"invalid_request_error","code":"bad_request"},"upstream_details":{"error":{"code":400,"message":"Invalid value at 'request.tools[0].function_declarations[333].parameters.properties[7].value.items.properties[11].value' (type.googleapis.com/google.cloud.aiplatform.master.Schema), \"object\"","status":"INVALID_ARGUMENT","details":[{"@type":"[truncated]","fieldViolations":"[truncated]"}]}}}}
+ERROR: {"error":{"message":"[400]: Antigravity upstream error (400)","type":"invalid_request_error","code":"bad_request"},"upstream_details":{"error":{"message":"Antigravity upstream error (400)","type":"invalid_request_error","code":"bad_request"},"upstream_details":{"error":{"code":400,"message":"Invalid value at 'request.tools[0].function_declarations[333].parameters.properties[7].value.items.properties[11].value' (type.googleapis.com/google.cloud.aiplatform.master.Schema), \"object\"","status":"INVALID_ARGUMENT","details":[{"@type":"[truncated]","fieldViolations":"[truncated]"}]}}}}

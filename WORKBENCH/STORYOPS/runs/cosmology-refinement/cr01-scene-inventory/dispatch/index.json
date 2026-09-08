@@ -1,0 +1,148 @@
+{
+  "run_dir": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/dispatch",
+  "tasks": [
+    {
+      "id": "cr01-book1-scenes",
+      "task": "You are a read-only StoryOps scene-inventory worker for Somatic Canticles cosmology refinement. Do not edit files, do not create files, do not summarize from memory. Read the named chapter files in the current git worktree and return compact JSON only. For each chapter, include: chapter path, scene anchors using stable quoted phrases or approximate line ranges, POV/focal center, setting/time, object continuity, consequential choice, cost, unresolved remainder, voice/register notes, and critique status if the prior critique input confirms/narrows/rejects a concern. Treat all recommendations as hypotheses. Do not promote prose. Use WORKBENCH/STORYOPS/plans/cosmology-refinement/inputs/CRITIQUE.md and CHAPTER-PLAN.md only as critique inputs, not authority over source.\n\nFocus: Book 1 chapters 1-8: perception, first cost, Chapter 6 shard/consent burden, humor and team-work evidence.\nChapter files:\n\n\nReturn JSON with keys worker_id, source_head, chapters, open_questions, and confidence_limits. Keep it concise but evidence-bearing.",
+      "backend": "omniroute",
+      "model": "noesis-execute",
+      "exit": 1,
+      "duration_s": 28,
+      "status": "failed",
+      "worktree": null,
+      "diff_path": null,
+      "plan_id": "rp_5db84b1d9a6c05b4",
+      "correlation_id": "tc_exec_1788871098258_90233_87929896_task_0_cr01-book1-scenes",
+      "plan_path": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/dispatch/cr01-book1-scenes.plan.json",
+      "attempts": [
+        {
+          "event": "attempt",
+          "backend": "omniroute",
+          "model": "noesis-execute",
+          "exit": 1,
+          "duration_s": 28,
+          "status": "failed",
+          "task_id": "cr01-book1-scenes",
+          "attempt_index": 0,
+          "started_at_ms": 1788871100688,
+          "finished_at_ms": 1788871128980,
+          "correlation_id": "tc_exec_1788871098258_90233_87929896_task_0_cr01-book1-scenes",
+          "failure_domain": "gateway",
+          "fallback_reason": null,
+          "usage": null,
+          "cost": null
+        }
+      ],
+      "merged": null
+    },
+    {
+      "id": "cr01-book2-scenes",
+      "task": "You are a read-only StoryOps scene-inventory worker for Somatic Canticles cosmology refinement. Do not edit files, do not create files, do not summarize from memory. Read the named chapter files in the current git worktree and return compact JSON only. For each chapter, include: chapter path, scene anchors using stable quoted phrases or approximate line ranges, POV/focal center, setting/time, object continuity, consequential choice, cost, unresolved remainder, voice/register notes, and critique status if the prior critique input confirms/narrows/rejects a concern. Treat all recommendations as hypotheses. Do not promote prose. Use WORKBENCH/STORYOPS/plans/cosmology-refinement/inputs/CRITIQUE.md and CHAPTER-PLAN.md only as critique inputs, not authority over source.\n\nFocus: Book 2 chapters 9-15: forge/debug/avatar/anamnesis, Chapter 14 transfer, Chapter 15 witness integration and team dynamics.\nChapter files:\n\n\nReturn JSON with keys worker_id, source_head, chapters, open_questions, and confidence_limits. Keep it concise but evidence-bearing.",
+      "backend": "omniroute",
+      "model": "noesis-execute",
+      "exit": 1,
+      "duration_s": 32,
+      "status": "failed",
+      "worktree": null,
+      "diff_path": null,
+      "plan_id": "rp_5e2e993086b7dfc0",
+      "correlation_id": "tc_exec_1788871098258_90233_87929896_task_1_cr01-book2-scenes",
+      "plan_path": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/dispatch/cr01-book2-scenes.plan.json",
+      "attempts": [
+        {
+          "event": "attempt",
+          "backend": "omniroute",
+          "model": "noesis-execute",
+          "exit": 1,
+          "duration_s": 32,
+          "status": "failed",
+          "task_id": "cr01-book2-scenes",
+          "attempt_index": 0,
+          "started_at_ms": 1788871100701,
+          "finished_at_ms": 1788871132139,
+          "correlation_id": "tc_exec_1788871098258_90233_87929896_task_1_cr01-book2-scenes",
+          "failure_domain": "gateway",
+          "fallback_reason": null,
+          "usage": null,
+          "cost": null
+        }
+      ],
+      "merged": null
+    },
+    {
+      "id": "cr01-book3a-scenes",
+      "task": "You are a read-only StoryOps scene-inventory worker for Somatic Canticles cosmology refinement. Do not edit files, do not create files, do not summarize from memory. Read the named chapter files in the current git worktree and return compact JSON only. For each chapter, include: chapter path, scene anchors using stable quoted phrases or approximate line ranges, POV/focal center, setting/time, object continuity, consequential choice, cost, unresolved remainder, voice/register notes, and critique status if the prior critique input confirms/narrows/rejects a concern. Treat all recommendations as hypotheses. Do not promote prose. Use WORKBENCH/STORYOPS/plans/cosmology-refinement/inputs/CRITIQUE.md and CHAPTER-PLAN.md only as critique inputs, not authority over source.\n\nFocus: Book 3 chapters 16-21: wilt/gardener/synthesis/three-point/convergence/test-fire, relapse and overcorrection evidence.\nChapter files:\n\n\nReturn JSON with keys worker_id, source_head, chapters, open_questions, and confidence_limits. Keep it concise but evidence-bearing.",
+      "backend": "omniroute",
+      "model": "noesis-execute",
+      "exit": 1,
+      "duration_s": 52,
+      "status": "failed",
+      "worktree": null,
+      "diff_path": null,
+      "plan_id": "rp_d9375586b239f770",
+      "correlation_id": "tc_exec_1788871098258_90233_87929896_task_2_cr01-book3a-scenes",
+      "plan_path": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/dispatch/cr01-book3a-scenes.plan.json",
+      "attempts": [
+        {
+          "event": "attempt",
+          "backend": "omniroute",
+          "model": "noesis-execute",
+          "exit": 1,
+          "duration_s": 52,
+          "status": "failed",
+          "task_id": "cr01-book3a-scenes",
+          "attempt_index": 0,
+          "started_at_ms": 1788871100717,
+          "finished_at_ms": 1788871152713,
+          "correlation_id": "tc_exec_1788871098258_90233_87929896_task_2_cr01-book3a-scenes",
+          "failure_domain": "gateway",
+          "fallback_reason": null,
+          "usage": null,
+          "cost": null
+        }
+      ],
+      "merged": null
+    },
+    {
+      "id": "cr01-book3b-scenes",
+      "task": "You are a read-only StoryOps scene-inventory worker for Somatic Canticles cosmology refinement. Do not edit files, do not create files, do not summarize from memory. Read the named chapter files in the current git worktree and return compact JSON only. For each chapter, include: chapter path, scene anchors using stable quoted phrases or approximate line ranges, POV/focal center, setting/time, object continuity, consequential choice, cost, unresolved remainder, voice/register notes, and critique status if the prior critique input confirms/narrows/rejects a concern. Treat all recommendations as hypotheses. Do not promote prose. Use WORKBENCH/STORYOPS/plans/cosmology-refinement/inputs/CRITIQUE.md and CHAPTER-PLAN.md only as critique inputs, not authority over source.\n\nFocus: Book 3 chapters 22-27: perfect world/flaw/final procedure/void/new reality/new beginning, Lens 13 edges and ordinary life.\nChapter files:\n\n\nReturn JSON with keys worker_id, source_head, chapters, open_questions, and confidence_limits. Keep it concise but evidence-bearing.",
+      "backend": "omniroute",
+      "model": "noesis-execute",
+      "exit": 1,
+      "duration_s": 29,
+      "status": "failed",
+      "worktree": null,
+      "diff_path": null,
+      "plan_id": "rp_7cd88ac772d0e0d2",
+      "correlation_id": "tc_exec_1788871098258_90233_87929896_task_3_cr01-book3b-scenes",
+      "plan_path": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/dispatch/cr01-book3b-scenes.plan.json",
+      "attempts": [
+        {
+          "event": "attempt",
+          "backend": "omniroute",
+          "model": "noesis-execute",
+          "exit": 1,
+          "duration_s": 29,
+          "status": "failed",
+          "task_id": "cr01-book3b-scenes",
+          "attempt_index": 0,
+          "started_at_ms": 1788871100733,
+          "finished_at_ms": 1788871129561,
+          "correlation_id": "tc_exec_1788871098258_90233_87929896_task_3_cr01-book3b-scenes",
+          "failure_domain": "gateway",
+          "fallback_reason": null,
+          "usage": null,
+          "cost": null
+        }
+      ],
+      "merged": null
+    }
+  ],
+  "summary": {
+    "ok": 0,
+    "failed": 4,
+    "timeout": 0,
+    "skipped": 0,
+    "unavailable": 0
+  }
+}

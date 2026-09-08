@@ -1,0 +1,90 @@
+{
+  "schema": "storyops.cosmology-delivery.v1",
+  "created_at": "2026-09-08T13:37:14.684067+00:00",
+  "campaign": "cosmology-refinement",
+  "baseline": "d41090862e5bc3dcff22927998b7b4e6b77ca19d",
+  "delivery_status": "review_package_complete",
+  "canon_status": "review_only_candidates_not_promoted",
+  "compiled_export_status": "not_rebuilt_because_no_accepted_source_promotion",
+  "companion_status": "handoff_complete_implementation_deferred",
+  "artifact_index": [
+    {
+      "path": "WORKBENCH/STORYOPS/plans/cosmology-refinement/plan.json",
+      "sha256": "64f64c6f0576ff400822a5153c3bc143ccc3f5e21514bece2e98c1945da63afb",
+      "file_count": null
+    },
+    {
+      "path": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/scene-inventory.md",
+      "sha256": "d4cda26e2d05b39a3ac4c71e144470f0645aeb008d00feed81ce73e837cc1ab5",
+      "file_count": null
+    },
+    {
+      "path": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/canon-decisions.md",
+      "sha256": "06cdee4d9bad7dbe8b9e3b779e0380c9081448957cfdd9590400b7dc67a3c387",
+      "file_count": null
+    },
+    {
+      "path": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot/pilot-wave-close.md",
+      "sha256": "08f39655beb5c9adea69dce3efca284edfb0a4d56357ab5c60da78aed329975a",
+      "file_count": null
+    },
+    {
+      "path": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr03-architecture/chapter-beat-allocation.json",
+      "sha256": "4aa8e568ca94f5dcaedc227a447b75cda47da4de82732e5c5956e698c8364582",
+      "file_count": null
+    },
+    {
+      "path": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1/book_1/wave-close.md",
+      "sha256": "ac1c86ef49217355381aab14286ace78d54a6c8b0ba331b8605b894d7821251a",
+      "file_count": null
+    },
+    {
+      "path": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2/book_2/wave-close.md",
+      "sha256": "9aea1c1b2da7e8964f37ea774af449165f21a29b3b02b8722c275e0926c13d1f",
+      "file_count": null
+    },
+    {
+      "path": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/wave-close.md",
+      "sha256": "8661dd73d449162295f131bd064988eb0d314353863918e643a01c25084a0738",
+      "file_count": null
+    },
+    {
+      "path": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr07-convergence/manuscript-release-candidate.md",
+      "sha256": "7450672cac6c305705e40ed60bf4b303cb24bbae7623c4adaedaa30ab469ee44",
+      "file_count": null
+    },
+    {
+      "path": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr08-companion/companion-handoff.md",
+      "sha256": "208ad1b64997125a7ffb13b4937f1b1ca74fc0a27e0d070e19ff2181497e2c55",
+      "file_count": null
+    },
+    {
+      "path": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr09-handoffs/ecosystem-pilot-receipt.md",
+      "sha256": "2c5a1826b4bfa153b45daa838171f8821494cdcf84dcadf0f048c26658349c56",
+      "file_count": null
+    },
+    {
+      "path": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr10-delivery/final-verification.json",
+      "sha256": "58b219a439dd9b1799ed9b7a477d900a62dc96c3ac160f4e1d6bb3118c28cf09",
+      "file_count": null
+    }
+  ],
+  "run_file_counts": {
+    "cr01": 24,
+    "cr02": 30,
+    "cr03": 7,
+    "cr04": 30,
+    "cr05": 34,
+    "cr06": 56,
+    "cr07": 6,
+    "cr08": 6,
+    "cr09": 4,
+    "cr10": 6
+  },
+  "scope_limits": [
+    "No CHAPTERS or COMPILED canonical prose was changed.",
+    "No Selemene engine, web app, mobile app, backend, or writer skill files were changed.",
+    "No deployment, publication, or external PR creation was performed.",
+    "CR-09 behavior work is prepared as owner handoffs, not implemented code."
+  ]
+}

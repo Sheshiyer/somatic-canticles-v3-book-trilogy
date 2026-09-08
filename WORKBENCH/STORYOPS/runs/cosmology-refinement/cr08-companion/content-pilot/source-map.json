@@ -1,0 +1,10 @@
+{
+  "schema": "storyops.content-pilot.source-map.v1",
+  "situation_id": "B1C6-shard-custody",
+  "source_candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr04-book1/book_1/ch05-ch08/ch06/candidate.md",
+  "source_state": "review_only_not_canonical",
+  "practice_id": "carrier-consent-check",
+  "mobile": "mobile-encounter.md",
+  "web": "web-exploration.md",
+  "symbolic_prompt_boundary": "Prompt asks what layer carries cost; it does not produce verdict, score, or transformation proof."
+}

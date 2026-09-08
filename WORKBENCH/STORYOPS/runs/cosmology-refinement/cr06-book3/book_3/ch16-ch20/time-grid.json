@@ -1,0 +1,37 @@
+{
+  "schema": "storyops.book3.time-grid.v1",
+  "phase": "CR-06.01",
+  "facts": [
+    {
+      "label": "six_week_jump",
+      "anchor": "Chapter-16:19",
+      "meaning": "Last descent discipline survived long enough to be tested outside chamber; not irreversible growth."
+    },
+    {
+      "label": "gideon_period_change",
+      "anchor": "Chapter-16:21",
+      "meaning": "Vimshottari nested period changed; do not generalize as causal proof."
+    },
+    {
+      "label": "yesterday_review_fracture",
+      "anchor": "Chapter-16:23",
+      "meaning": "Sona asked for pause, Jian finished alone, concealed cost until he added it."
+    },
+    {
+      "label": "seven_day_baseline",
+      "anchor": "Chapter-16:37",
+      "meaning": "Current curve compared against recent baseline; separate from six-week jump."
+    },
+    {
+      "label": "two_week_joy_nodes",
+      "anchor": "Chapter-16:117",
+      "meaning": "Mira’s pleasure nodes were bright two weeks ago, now diminished."
+    },
+    {
+      "label": "twenty_three_sessions",
+      "anchor": "Chapter-16:199",
+      "meaning": "Mira’s recovery has specific session history before pruning."
+    }
+  ],
+  "guard": "Do not collapse these into one vague elapsed-time signal."
+}

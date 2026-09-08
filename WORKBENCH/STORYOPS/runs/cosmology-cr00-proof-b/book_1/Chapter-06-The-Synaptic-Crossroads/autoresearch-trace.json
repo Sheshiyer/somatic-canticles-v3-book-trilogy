@@ -1,0 +1,47 @@
+{
+  "chapter": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+  "run_id": "cosmology-cr00-proof-b",
+  "run_dir": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/WORKBENCH/STORYOPS/runs/cosmology-cr00-proof-b/book_1/Chapter-06-The-Synaptic-Crossroads",
+  "started": "2026-09-08T12:34:45.617885+00:00",
+  "mode": "dry-run",
+  "requested_max_cycles": 3,
+  "transforms_supplied": [
+    "dedupe"
+  ],
+  "actual_cycle_limit": 1,
+  "cycles": [
+    {
+      "cycle": 1,
+      "transform": "dedupe",
+      "before": {
+        "total_per_1000": 0.0,
+        "verbatim_duplicate_paragraphs": 0,
+        "empirical_syntax_adjacent": 0,
+        "explanatory_aside_hits": 0
+      },
+      "after": {
+        "total_per_1000": 0.0,
+        "verbatim_duplicate_paragraphs": 0,
+        "empirical_syntax_adjacent": 0,
+        "explanatory_aside_hits": 0
+      },
+      "status": "discard",
+      "candidate": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/WORKBENCH/STORYOPS/runs/cosmology-cr00-proof-b/book_1/Chapter-06-The-Synaptic-Crossroads/cycle-01-dedupe.candidate.md"
+    }
+  ],
+  "baseline_metrics": {
+    "total_per_1000": 0.0,
+    "verbatim_duplicate_paragraphs": 0,
+    "empirical_syntax_adjacent": 0,
+    "explanatory_aside_hits": 0
+  },
+  "final_candidate": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/WORKBENCH/STORYOPS/runs/cosmology-cr00-proof-b/book_1/Chapter-06-The-Synaptic-Crossroads/final.candidate.md",
+  "actual_cycles": 1,
+  "final_metrics": {
+    "total_per_1000": 0.0,
+    "verbatim_duplicate_paragraphs": 0,
+    "empirical_syntax_adjacent": 0,
+    "explanatory_aside_hits": 0
+  },
+  "final_verdict": "WARN"
+}

@@ -1,0 +1,42 @@
+{
+  "schema": "storyops.wave-packet.v1",
+  "source_head": "d41090862e5bc3dcff22927998b7b4e6b77ca19d",
+  "frozen_inputs": [
+    "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/scene-inventory.md",
+    "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/canon-decisions.md",
+    "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/continuity-ledger.json",
+    "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/character-arcs.json",
+    "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/relationship-arcs.json",
+    "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot/pilot-wave-close.md",
+    "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr03-architecture/chapter-beat-allocation.json"
+  ],
+  "global_do_not_invent": [
+    "new elapsed dates",
+    "new object identity mergers",
+    "engine/app authority proof",
+    "fixed character sheath ownership",
+    "private-thought exposure as teamwork",
+    "publication/deployment effects"
+  ],
+  "phase": "CR-04",
+  "wave": "Book 1 revisions",
+  "goal": "Install cost ownership and early non-conversion without overexplaining the cosmology.",
+  "ordered_targets": [
+    "Chapter 3 boundary-route check",
+    "Chapter 4 watermark carrier split preservation",
+    "Chapter 6 selected shard-custody revision",
+    "Chapter 7 stop-smoothing recurrence",
+    "Chapter 8 orphan-route privacy/seed permission"
+  ],
+  "primary_dependencies": [
+    "CR-02 Chapter 6 selected candidate",
+    "CR-01 continuity ledger shard/seed/watermark entries"
+  ],
+  "protected_downstream": [
+    "Chapter 26 two-black-stones distinction",
+    "Chapter 24 AM-38 moving-gap payoff",
+    "Chapter 7 variability-not-anesthesia"
+  ],
+  "writer_start": "Begin with Chapter 6 handoff tightening, then inspect adjacent Chapters 5 and 7 before any Book 1 scaling.",
+  "success_check": "Objection changes action; carrier consent visible; humor survives; no new lecture."
+}

@@ -9,9 +9,10 @@ Port of nvidia-expansion `scripts/nep_learned_gating_contract.py` (v1), adapted:
 from __future__ import annotations
 
 from copy import deepcopy
+from typing import Iterable
 
 GATING_CONTRACT: dict[str, object] = {
-    "version": "v3-deeper-pass-gating-contract-v1",
+    "version": "v3-deeper-pass-gating-contract-v2",
     "purpose": (
         "Govern rubric-gated deeper passes on the locked v3 trilogy. Carries forward "
         "NEP-013..016 acceptance lessons and binds them to the narrative-weaver 7 Gates "
@@ -44,7 +45,7 @@ GATING_CONTRACT: dict[str, object] = {
         ],
         "reject_if": [
             "word_count_only_acceptance",
-            "non_additive_or_compressing_change",
+            "unjustified_compression_or_scene_spine_loss",
             "duplicate_base_material",
             "preamble_residue",
             "unsupported_names",
@@ -57,6 +58,21 @@ GATING_CONTRACT: dict[str, object] = {
             "hard_ban_scan_clean",
             "residue_scan_clean",
             "autoresearch_trace_entry",
+        ],
+    },
+    "change_policy": {
+        "supersedes": [
+            "v3-deeper-pass-gating-contract-v1:non_additive_or_compressing_change"
+        ],
+        "permits": [
+            "justified compression that preserves consequential choice, object continuity, and scene order",
+            "selective engine terminology when already grounded in accepted prose or source evidence",
+            "cuts that make action carry meaning previously carried by explanation",
+        ],
+        "reject_if": [
+            "a protected choice disappears",
+            "object or burden ownership changes without trace",
+            "compression is accepted because it is shorter rather than because it improves the scene",
         ],
     },
     "style_gate_thresholds": {
@@ -119,3 +135,35 @@ GATING_CONTRACT: dict[str, object] = {
 
 def gating_contract() -> dict[str, object]:
     return deepcopy(GATING_CONTRACT)
+
+
+def evaluate_candidate_change(
+    before: str,
+    after: str,
+    rationale: str,
+    protected_choices: Iterable[str] = (),
+) -> dict[str, object]:
+    """Evaluate the narrow CR-00 compression contract.
+
+    This is a deterministic proxy for StageOps tooling, not a literary
+    acceptance review. It only verifies that compression is permitted when
+    explicitly justified and protected consequential choices remain present.
+    """
+    missing_choices = [
+        choice for choice in protected_choices
+        if choice and choice in before and choice not in after
+    ]
+    compressed = len(after) < len(before)
+    rationale_lower = rationale.lower()
+    justified = any(
+        marker in rationale_lower
+        for marker in ("justified compression", "scene-spine", "scene spine", "action carries")
+    )
+    accepted = not missing_choices and (not compressed or justified)
+    return {
+        "accepted": accepted,
+        "compressed": compressed,
+        "justified": justified,
+        "missing_protected_choices": missing_choices,
+        "contract_version": GATING_CONTRACT["version"],
+    }

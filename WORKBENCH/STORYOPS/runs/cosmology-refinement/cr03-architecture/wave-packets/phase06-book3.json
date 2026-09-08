@@ -1,0 +1,47 @@
+{
+  "schema": "storyops.wave-packet.v1",
+  "source_head": "d41090862e5bc3dcff22927998b7b4e6b77ca19d",
+  "frozen_inputs": [
+    "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/scene-inventory.md",
+    "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/canon-decisions.md",
+    "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/continuity-ledger.json",
+    "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/character-arcs.json",
+    "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/relationship-arcs.json",
+    "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr02-pilot/pilot-wave-close.md",
+    "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr03-architecture/chapter-beat-allocation.json"
+  ],
+  "global_do_not_invent": [
+    "new elapsed dates",
+    "new object identity mergers",
+    "engine/app authority proof",
+    "fixed character sheath ownership",
+    "private-thought exposure as teamwork",
+    "publication/deployment effects"
+  ],
+  "phase": "CR-06",
+  "wave": "Book 3 revisions",
+  "goal": "Preserve reversibility, privacy, body-cost, and ordinary life while clarifying edges and object continuity.",
+  "ordered_targets": [
+    "Chapter 16 time-grid and concealed cost",
+    "Chapter 19 dry interval cost",
+    "Chapter 21 duplicate/restart audit",
+    "Chapter 22 beautiful closure preservation",
+    "Chapter 23 maintainability trap",
+    "Chapter 24 edge clarifier",
+    "Chapter 26 seed/sliver cross-reference",
+    "Chapter 27 ordinary-life ending"
+  ],
+  "primary_dependencies": [
+    "CR-01 canon decisions",
+    "CR-01 continuity ledger",
+    "CR-03 chapter beat allocation"
+  ],
+  "protected_downstream": [
+    "No retrospective redemption of Mira/Anvel",
+    "No edge-erasure; living boundaries survive",
+    "No founder/trophy ending",
+    "Book remains complete without app account/report"
+  ],
+  "writer_start": "Build Book 3 time grid before editing Chapter 16; then clarify Chapter 24 edge wording and Chapter 26 object reference.",
+  "success_check": "Growth remains reversible and answerable; ordinary life carries change without coronation."
+}

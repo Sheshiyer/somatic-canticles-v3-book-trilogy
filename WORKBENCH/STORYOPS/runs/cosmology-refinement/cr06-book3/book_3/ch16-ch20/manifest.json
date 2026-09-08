@@ -1,0 +1,48 @@
+{
+  "schema": "storyops.book3.ch16-ch20.wave.v1",
+  "phase": "CR-06.01",
+  "status": "review-only",
+  "chapters": [
+    {
+      "id": "ch16",
+      "source": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/ch16-ch20/ch16/candidate.md",
+      "sha256": "1d67ce00f71af8ef8a791d7f2b117a41e762d44469f43fed061b743e9b4654b3",
+      "changed": false,
+      "rationale": "Protected baseline with time-grid constraints; do not smooth six-week relapse into simple team failure."
+    },
+    {
+      "id": "ch17",
+      "source": "CHAPTERS/book_3/Chapter-17-The-Gardener.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/ch16-ch20/ch17/candidate.md",
+      "sha256": "04ad09322b98f981f20aa461129ff53a1e491813c15eeb1c40bc2095f2be37ff",
+      "changed": false,
+      "rationale": "Protected Gardener useful/violent logic; offers must remain useful, not cartoon evil."
+    },
+    {
+      "id": "ch18",
+      "source": "CHAPTERS/book_3/Chapter-18-The-Synthesis-Protocol.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/ch16-ch20/ch18/candidate.md",
+      "sha256": "8a1ab027fc0b9b38fefb1a6e858a689e5bfd4f05f6249d40548a86b3bd1fdc49",
+      "changed": false,
+      "rationale": "Protected adequate-action frame and 13.7 not reached."
+    },
+    {
+      "id": "ch19",
+      "source": "CHAPTERS/book_3/Chapter-19-The-Three-Point-Problem.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/ch16-ch20/ch19/candidate.md",
+      "sha256": "3d3ce00e8e720c79c7205b25e2e86c01e1b0b34b310cb6fa334ebe5d7c1f2908",
+      "changed": false,
+      "rationale": "Protected dry interval and body-cost/political speed loss."
+    },
+    {
+      "id": "ch20",
+      "source": "CHAPTERS/book_3/Chapter-20-The-Convergence-Point.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/ch16-ch20/ch20/candidate.md",
+      "sha256": "b484c5d946e48794d57b6f8d065e0478c4938ebcc0c35b4665130bfed2399b28",
+      "changed": false,
+      "rationale": "Protected visibility-without-entry and correction of refusal-as-identity."
+    }
+  ],
+  "canon_mutation": false
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "storyops.book2.ch13-ch15.wave.v1",
+  "phase": "CR-05.02",
+  "status": "review-only",
+  "chapters": [
+    {
+      "id": "ch13",
+      "source": "CHAPTERS/book_2/Chapter-13-The-Myocardial-Chorus.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2/book_2/ch13-ch15/ch13/candidate.md",
+      "sha256": "96032d04d14cfd12829876b54c6ab11a38526df9864134f104c7d9b460ab9c60",
+      "changed": false,
+      "rationale": "Protected for now but flagged: compress repeated successful harmonization and stitched machine/next-note repetitions only where Chapter 14 action now carries meaning."
+    },
+    {
+      "id": "ch14",
+      "source": "CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2/book_2/ch13-ch15/ch14/candidate.md",
+      "sha256": "6214a1ff6c7debdb809c8e2736db5e69cc19aa27c67f1174c94109b3d33dc6f5",
+      "changed": true,
+      "rationale": "Integrates CR-02 selected second-handoff candidate: receiver readiness is not inferred from route completion."
+    },
+    {
+      "id": "ch15",
+      "source": "CHAPTERS/book_2/Chapter-15-The-Witness-Integration.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr05-book2/book_2/ch13-ch15/ch15/candidate.md",
+      "sha256": "1df34bbf6e84f0c2f86b5c27d100808d08edd471d7d1ddb068d8b693c19d2683",
+      "changed": false,
+      "rationale": "Protected no-fusion bridge: shared witness remains harder than merger, with no solitary authority or transcendence theater."
+    }
+  ],
+  "canon_mutation": false
+}

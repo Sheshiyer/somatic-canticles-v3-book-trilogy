@@ -1,0 +1,1591 @@
+[
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_1/Chapter-01-The-Choroid-Plexus.md",
+    "book": 1,
+    "words": 8399,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 4,
+        "per_1000": 0.48
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 4,
+    "total_per_1000": 0.48,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {
+      "Khalor": 4,
+      "Tryambakam": 2
+    },
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 48,
+      "2": 58,
+      "3": 26
+    },
+    "expected_book": 1,
+    "expected_share_pct": 36.4,
+    "gate_voice_register": "WARN",
+    "deterministic_verdict": "WARN"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_1/Chapter-02-Signal-Transduction.md",
+    "book": 1,
+    "words": 4113,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {
+      "Khalor": 3
+    },
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 21,
+      "2": 44,
+      "3": 10
+    },
+    "expected_book": 1,
+    "expected_share_pct": 28.0,
+    "gate_voice_register": "WARN",
+    "deterministic_verdict": "WARN"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_1/Chapter-03-The-Blood-Brain-Barrier.md",
+    "book": 1,
+    "words": 7792,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {},
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 23,
+      "2": 41,
+      "3": 22
+    },
+    "expected_book": 1,
+    "expected_share_pct": 26.7,
+    "gate_voice_register": "WARN",
+    "deterministic_verdict": "WARN"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+    "book": 1,
+    "words": 7636,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {},
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 12,
+      "2": 46,
+      "3": 22
+    },
+    "expected_book": 1,
+    "expected_share_pct": 15.0,
+    "gate_voice_register": "WARN",
+    "deterministic_verdict": "WARN"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_1/Chapter-05-The-Endocrine-Dogma.md",
+    "book": 1,
+    "words": 8035,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 1,
+        "per_1000": 0.12
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 1,
+    "total_per_1000": 0.12,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {
+      "Khalor": 1
+    },
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 18,
+      "2": 56,
+      "3": 7
+    },
+    "expected_book": 1,
+    "expected_share_pct": 22.2,
+    "gate_voice_register": "WARN",
+    "deterministic_verdict": "WARN"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+    "book": 1,
+    "words": 3096,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {},
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 24,
+      "2": 32,
+      "3": 8
+    },
+    "expected_book": 1,
+    "expected_share_pct": 37.5,
+    "gate_voice_register": "WARN",
+    "deterministic_verdict": "WARN"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_1/Chapter-07-The-Breathfield-Weaver.md",
+    "book": 1,
+    "words": 10600,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 1,
+        "per_1000": 0.09
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 1,
+    "total_per_1000": 0.09,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {},
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 39,
+      "2": 88,
+      "3": 38
+    },
+    "expected_book": 1,
+    "expected_share_pct": 23.6,
+    "gate_voice_register": "WARN",
+    "deterministic_verdict": "WARN"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md",
+    "book": 1,
+    "words": 4317,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {},
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 28,
+      "2": 22,
+      "3": 14
+    },
+    "expected_book": 1,
+    "expected_share_pct": 43.8,
+    "gate_voice_register": "PASS",
+    "deterministic_verdict": "PASS"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_2/Chapter-09-The-Sigil-Smith.md",
+    "book": 2,
+    "words": 14692,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 2,
+        "per_1000": 0.14
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 2,
+    "total_per_1000": 0.14,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {},
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 46,
+      "2": 140,
+      "3": 43
+    },
+    "expected_book": 2,
+    "expected_share_pct": 61.1,
+    "gate_voice_register": "PASS",
+    "deterministic_verdict": "PASS"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_2/Chapter-10-The-Debug-Protocol.md",
+    "book": 2,
+    "words": 18211,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {},
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 130,
+      "2": 152,
+      "3": 78
+    },
+    "expected_book": 2,
+    "expected_share_pct": 42.2,
+    "gate_voice_register": "PASS",
+    "deterministic_verdict": "PASS"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_2/Chapter-11-The-Avatar-Mutation.md",
+    "book": 2,
+    "words": 13214,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {},
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 77,
+      "2": 145,
+      "3": 78
+    },
+    "expected_book": 2,
+    "expected_share_pct": 48.3,
+    "gate_voice_register": "PASS",
+    "deterministic_verdict": "PASS"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_2/Chapter-12-The-Anamnesis-Engine.md",
+    "book": 2,
+    "words": 8174,
+    "terms": {
+      "energy": {
+        "hits": 3,
+        "per_1000": 0.37
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 1,
+        "per_1000": 0.12
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 2,
+        "per_1000": 0.24
+      },
+      "resonant": {
+        "hits": 3,
+        "per_1000": 0.37
+      }
+    },
+    "total_hits": 9,
+    "total_per_1000": 1.1,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {},
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 35,
+      "2": 132,
+      "3": 44
+    },
+    "expected_book": 2,
+    "expected_share_pct": 62.6,
+    "gate_voice_register": "PASS",
+    "deterministic_verdict": "PASS"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_2/Chapter-13-The-Myocardial-Chorus.md",
+    "book": 2,
+    "words": 16512,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {
+      "Khalor": 1
+    },
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 74,
+      "2": 330,
+      "3": 71
+    },
+    "expected_book": 2,
+    "expected_share_pct": 69.5,
+    "gate_voice_register": "PASS",
+    "deterministic_verdict": "PASS"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+    "book": 2,
+    "words": 2020,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {},
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 22,
+      "2": 13,
+      "3": 8
+    },
+    "expected_book": 2,
+    "expected_share_pct": 30.2,
+    "gate_voice_register": "WARN",
+    "deterministic_verdict": "WARN"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_2/Chapter-15-The-Witness-Integration.md",
+    "book": 2,
+    "words": 2924,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {
+      "Khalor": 1
+    },
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 1,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "WARN",
+    "marker_hits_by_book": {
+      "1": 10,
+      "2": 8,
+      "3": 51
+    },
+    "expected_book": 2,
+    "expected_share_pct": 11.6,
+    "gate_voice_register": "WARN",
+    "deterministic_verdict": "WARN"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+    "book": 3,
+    "words": 6193,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {
+      "Khalor": 4
+    },
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 28,
+      "2": 43,
+      "3": 42
+    },
+    "expected_book": 3,
+    "expected_share_pct": 37.2,
+    "gate_voice_register": "WARN",
+    "deterministic_verdict": "WARN"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-17-The-Gardener.md",
+    "book": 3,
+    "words": 11367,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {
+      "Khalor": 1
+    },
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 78,
+      "2": 72,
+      "3": 94
+    },
+    "expected_book": 3,
+    "expected_share_pct": 38.5,
+    "gate_voice_register": "PASS",
+    "deterministic_verdict": "PASS"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-18-The-Synthesis-Protocol.md",
+    "book": 3,
+    "words": 3413,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {
+      "13.7": 1,
+      "Tryambakam": 1
+    },
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 25,
+      "2": 26,
+      "3": 22
+    },
+    "expected_book": 3,
+    "expected_share_pct": 30.1,
+    "gate_voice_register": "WARN",
+    "deterministic_verdict": "WARN"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-19-The-Three-Point-Problem.md",
+    "book": 3,
+    "words": 7766,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {
+      "Tryambakam": 1
+    },
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 31,
+      "2": 41,
+      "3": 28
+    },
+    "expected_book": 3,
+    "expected_share_pct": 28.0,
+    "gate_voice_register": "WARN",
+    "deterministic_verdict": "WARN"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-20-The-Convergence-Point.md",
+    "book": 3,
+    "words": 8162,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {},
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 11,
+      "2": 34,
+      "3": 24
+    },
+    "expected_book": 3,
+    "expected_share_pct": 34.8,
+    "gate_voice_register": "WARN",
+    "deterministic_verdict": "WARN"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-21-The-Test-Fire.md",
+    "book": 3,
+    "words": 9758,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {},
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 27,
+      "2": 41,
+      "3": 42
+    },
+    "expected_book": 3,
+    "expected_share_pct": 38.2,
+    "gate_voice_register": "PASS",
+    "deterministic_verdict": "PASS"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+    "book": 3,
+    "words": 9510,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {},
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 17,
+      "2": 37,
+      "3": 43
+    },
+    "expected_book": 3,
+    "expected_share_pct": 44.3,
+    "gate_voice_register": "PASS",
+    "deterministic_verdict": "PASS"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-23-The-Flaw-in-the-Code.md",
+    "book": 3,
+    "words": 6592,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {},
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 15,
+      "2": 8,
+      "3": 65
+    },
+    "expected_book": 3,
+    "expected_share_pct": 73.9,
+    "gate_voice_register": "PASS",
+    "deterministic_verdict": "PASS"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-24-The-Final-Procedure.md",
+    "book": 3,
+    "words": 8470,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {
+      "13.7": 4,
+      "Khalor": 1
+    },
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 19,
+      "2": 26,
+      "3": 60
+    },
+    "expected_book": 3,
+    "expected_share_pct": 57.1,
+    "gate_voice_register": "PASS",
+    "deterministic_verdict": "PASS"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-25-The-Void-of-Pure-Potential.md",
+    "book": 3,
+    "words": 9089,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {},
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 31,
+      "2": 21,
+      "3": 34
+    },
+    "expected_book": 3,
+    "expected_share_pct": 39.5,
+    "gate_voice_register": "PASS",
+    "deterministic_verdict": "PASS"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-26-The-Architecture-of-New-Reality.md",
+    "book": 3,
+    "words": 3725,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {},
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 10,
+      "2": 10,
+      "3": 17
+    },
+    "expected_book": 3,
+    "expected_share_pct": 45.9,
+    "gate_voice_register": "PASS",
+    "deterministic_verdict": "PASS"
+  },
+  {
+    "file": "/Volumes/madara/2026/Projects/tryambakam-noesis/somatic-canticles-book/.work/cosmology-storyops-plan/CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+    "book": 3,
+    "words": 5063,
+    "terms": {
+      "energy": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "vibration": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "quantum": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "universe": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "shatter": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "frequency": {
+        "hits": 0,
+        "per_1000": 0.0
+      },
+      "resonant": {
+        "hits": 0,
+        "per_1000": 0.0
+      }
+    },
+    "total_hits": 0,
+    "total_per_1000": 0.0,
+    "gate_red_flag": "PASS",
+    "dense_terms": [],
+    "verbatim_duplicate_paragraphs": 0,
+    "duplicates": [],
+    "gate_duplication": "PASS",
+    "house_terms_present": {},
+    "house_model_markers": 0,
+    "empirical_syntax_adjacent": 0,
+    "gate_epistemic": "PASS",
+    "explanatory_aside_hits": 0,
+    "explanatory_aside_flagged_for_review": 0,
+    "gate_opacity_partial": "PASS",
+    "marker_hits_by_book": {
+      "1": 11,
+      "2": 22,
+      "3": 23
+    },
+    "expected_book": 3,
+    "expected_share_pct": 41.1,
+    "gate_voice_register": "PASS",
+    "deterministic_verdict": "PASS"
+  }
+]

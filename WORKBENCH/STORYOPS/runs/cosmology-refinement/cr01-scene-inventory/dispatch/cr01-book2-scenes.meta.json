@@ -1,0 +1,34 @@
+{
+  "id": "cr01-book2-scenes",
+  "task": "You are a read-only StoryOps scene-inventory worker for Somatic Canticles cosmology refinement. Do not edit files, do not create files, do not summarize from memory. Read the named chapter files in the current git worktree and return compact JSON only. For each chapter, include: chapter path, scene anchors using stable quoted phrases or approximate line ranges, POV/focal center, setting/time, object continuity, consequential choice, cost, unresolved remainder, voice/register notes, and critique status if the prior critique input confirms/narrows/rejects a concern. Treat all recommendations as hypotheses. Do not promote prose. Use WORKBENCH/STORYOPS/plans/cosmology-refinement/inputs/CRITIQUE.md and CHAPTER-PLAN.md only as critique inputs, not authority over source.\n\nFocus: Book 2 chapters 9-15: forge/debug/avatar/anamnesis, Chapter 14 transfer, Chapter 15 witness integration and team dynamics.\nChapter files:\n\n\nReturn JSON with keys worker_id, source_head, chapters, open_questions, and confidence_limits. Keep it concise but evidence-bearing.",
+  "backend": "omniroute",
+  "model": "noesis-execute",
+  "exit": 1,
+  "duration_s": 32,
+  "status": "failed",
+  "worktree": null,
+  "diff_path": null,
+  "plan_id": "rp_5e2e993086b7dfc0",
+  "correlation_id": "tc_exec_1788871098258_90233_87929896_task_1_cr01-book2-scenes",
+  "plan_path": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr01-scene-inventory/dispatch/cr01-book2-scenes.plan.json",
+  "attempts": [
+    {
+      "event": "attempt",
+      "backend": "omniroute",
+      "model": "noesis-execute",
+      "exit": 1,
+      "duration_s": 32,
+      "status": "failed",
+      "task_id": "cr01-book2-scenes",
+      "attempt_index": 0,
+      "started_at_ms": 1788871100701,
+      "finished_at_ms": 1788871132139,
+      "correlation_id": "tc_exec_1788871098258_90233_87929896_task_1_cr01-book2-scenes",
+      "failure_domain": "gateway",
+      "fallback_reason": null,
+      "usage": null,
+      "cost": null
+    }
+  ],
+  "merged": null
+}

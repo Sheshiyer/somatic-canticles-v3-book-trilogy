@@ -1,0 +1,15 @@
+{
+  "schema": "storyops.writer-update.mirror-receipt.v1",
+  "phase": "CR-07.03",
+  "status": "proposal_only_not_applied",
+  "canonical_skill": "/Volumes/madara/2026/twc-vault/.agents/skills/noesis-writer-skill/",
+  "runtime_mirror": "/Volumes/madara/2026/twc-vault/.claude/skills/noesis-writer-skill/",
+  "current_skill_version_read": "v2.17.0",
+  "current_lived_integration_version_read": "1.12.0",
+  "proposed_skill_version": "v2.18.0",
+  "proposed_lived_integration_version": "1.13.0",
+  "applied_to_canonical": false,
+  "applied_to_mirror": false,
+  "zero_diff_required_before_release": true,
+  "reason_not_applied": "CR-07 requires a writer-update patch receipt; actual skill promotion and mirror synchronization remain separate governed changes."
+}

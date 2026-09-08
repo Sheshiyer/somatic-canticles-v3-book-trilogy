@@ -1,0 +1,40 @@
+{
+  "schema": "storyops.book3.ch21-ch24.wave.v1",
+  "phase": "CR-06.02",
+  "status": "review-only",
+  "chapters": [
+    {
+      "id": "ch21",
+      "source": "CHAPTERS/book_3/Chapter-21-The-Test-Fire.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/ch21-ch24/ch21/candidate.md",
+      "sha256": "95f0c76e386a9dabae86cff5f6eab0763d9cc80f3e69e4b1c9a7ba9ca42840bc",
+      "changed": false,
+      "rationale": "Protected one-second hostile-contact test; late duplicate/restart material remains audit target, not automatic cut."
+    },
+    {
+      "id": "ch22",
+      "source": "CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/ch21-ch24/ch22/candidate.md",
+      "sha256": "0567f54be361cd24748afd8b801978dc850009c1b691859e5ad67325bc71dd47",
+      "changed": false,
+      "rationale": "Protected tempting worlds and no-retrospective-redemption of Mira/Anvel."
+    },
+    {
+      "id": "ch23",
+      "source": "CHAPTERS/book_3/Chapter-23-The-Flaw-in-the-Code.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/ch21-ch24/ch23/candidate.md",
+      "sha256": "0e77bf334b5ce48322a6fca62e830d96dda10eafb1bcf1252c3abe7de320fa67",
+      "changed": false,
+      "rationale": "Protected maintainability trap and Gideon reduction risk."
+    },
+    {
+      "id": "ch24",
+      "source": "CHAPTERS/book_3/Chapter-24-The-Final-Procedure.md",
+      "candidate": "WORKBENCH/STORYOPS/runs/cosmology-refinement/cr06-book3/book_3/ch21-ch24/ch24/candidate.md",
+      "sha256": "14860cb0fa03247a133dbbe25ee083e5f18fcbeb6cf23b17267daa793d937efc",
+      "changed": true,
+      "rationale": "Candidate clarifies risky no-edges language according to CR-01 canon decision."
+    }
+  ],
+  "canon_mutation": false
+}
