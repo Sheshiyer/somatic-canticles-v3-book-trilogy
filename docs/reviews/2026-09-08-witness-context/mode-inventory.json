@@ -1,0 +1,354 @@
+[
+  {
+    "file": "birth-blueprint.md",
+    "mode": "birth-blueprint",
+    "subjects": {
+      "min": 1,
+      "max": 1
+    },
+    "passes": [
+      {
+        "id": "natal",
+        "title": "Natal Field",
+        "target_words": 900,
+        "template": "natal-pass"
+      },
+      {
+        "id": "invitation",
+        "title": "One Living Invitation",
+        "target_words": 700,
+        "template": "invitation-pass"
+      }
+    ],
+    "selected": true,
+    "note": "Run against fictional inputs; business mode framed as colleagues, no commercial/romantic facts inferred"
+  },
+  {
+    "file": "business-partners.md",
+    "mode": "business-partners",
+    "subjects": {
+      "min": 2,
+      "max": 2
+    },
+    "passes": [
+      {
+        "id": "opening",
+        "title": "Opening",
+        "target_words": 350,
+        "template": "opening-template"
+      },
+      {
+        "id": "partnership-field",
+        "title": "Partnership Field",
+        "target_words": 1100,
+        "template": "partnership-field-template"
+      },
+      {
+        "id": "decision-dynamics",
+        "title": "Decision Dynamics",
+        "target_words": 1100,
+        "template": "decision-dynamics-template"
+      },
+      {
+        "id": "synthesis",
+        "title": "Synthesis",
+        "target_words": 700,
+        "template": "synthesis-template"
+      }
+    ],
+    "selected": true,
+    "note": "Run against fictional inputs; business mode framed as colleagues, no commercial/romantic facts inferred"
+  },
+  {
+    "file": "family-penta.md",
+    "mode": "family-penta",
+    "subjects": {
+      "min": 3,
+      "max": 7
+    },
+    "passes": [
+      {
+        "id": "opening",
+        "title": "Opening",
+        "target_words": 500,
+        "template": "opening-template"
+      },
+      {
+        "id": "field-overview",
+        "title": "Family Field Overview",
+        "target_words": 1500,
+        "template": "field-overview-template"
+      },
+      {
+        "id": "transmission-vectors",
+        "title": "Transmission Vectors",
+        "target_words": 1500,
+        "template": "transmission-vectors-template"
+      },
+      {
+        "id": "sibling-dynamics",
+        "title": "Sibling Dynamics",
+        "target_words": 1200,
+        "template": "sibling-dynamics-template"
+      },
+      {
+        "id": "synthesis",
+        "title": "Synthesis",
+        "target_words": 1000,
+        "template": "synthesis-template"
+      }
+    ],
+    "selected": false,
+    "note": "Reviewed; family/romantic/lineage modes do not fit this team; L0 lacks validated kundali facts; L4 is a deeper alternative, not a required additional life context"
+  },
+  {
+    "file": "integrated-kundali-l0.md",
+    "mode": "integrated-kundali-l0",
+    "subjects": {
+      "min": 1,
+      "max": 1
+    },
+    "passes": [
+      {
+        "id": "opening",
+        "title": "Opening",
+        "target_words": 450,
+        "template": "opening-pass"
+      },
+      {
+        "id": "convergence-map",
+        "title": "Part I — The Convergence Map",
+        "target_words": 1600,
+        "template": "convergence-map-pass"
+      },
+      {
+        "id": "vedic-foundation",
+        "title": "Part II — The Vedic Foundation",
+        "target_words": 3800,
+        "template": "vedic-foundation-pass"
+      },
+      {
+        "id": "karmic-architecture",
+        "title": "Part III — The Karmic Architecture",
+        "target_words": 1500,
+        "template": "karmic-architecture-pass"
+      },
+      {
+        "id": "career-dharma",
+        "title": "Part IV — Career and Dharma",
+        "target_words": 1600,
+        "template": "career-dharma-pass"
+      },
+      {
+        "id": "wealth",
+        "title": "Part V — The Wealth Architecture",
+        "target_words": 1200,
+        "template": "wealth-pass"
+      },
+      {
+        "id": "love-marriage",
+        "title": "Part VI — Love and Marriage",
+        "target_words": 1500,
+        "template": "love-marriage-pass"
+      },
+      {
+        "id": "health",
+        "title": "Part VII — Health",
+        "target_words": 1100,
+        "template": "health-pass"
+      },
+      {
+        "id": "family-lineage",
+        "title": "Part VIII — Family, Roots, and Lineage",
+        "target_words": 1050,
+        "template": "family-lineage-pass"
+      },
+      {
+        "id": "master-timeline",
+        "title": "Part IX — The Master Timeline",
+        "target_words": 2200,
+        "template": "master-timeline-pass"
+      },
+      {
+        "id": "remedies-practices",
+        "title": "Part X — Remedies and Practices",
+        "target_words": 1700,
+        "template": "remedies-practices-pass"
+      },
+      {
+        "id": "final-synthesis",
+        "title": "Part XI — The Final Synthesis",
+        "target_words": 1300,
+        "template": "final-synthesis-pass"
+      }
+    ],
+    "selected": false,
+    "note": "Reviewed; family/romantic/lineage modes do not fit this team; L0 lacks validated kundali facts; L4 is a deeper alternative, not a required additional life context"
+  },
+  {
+    "file": "integrated-reading-l4.md",
+    "mode": "integrated-reading-l4",
+    "subjects": {
+      "min": 1,
+      "max": 2
+    },
+    "passes": [
+      {
+        "id": "structural",
+        "title": "Structural Field",
+        "target_words": 1800,
+        "template": "structural-pass"
+      },
+      {
+        "id": "synthesis",
+        "title": "Synthesis & Invitation",
+        "target_words": 1500,
+        "template": "synthesis-pass"
+      }
+    ],
+    "selected": false,
+    "note": "Reviewed; family/romantic/lineage modes do not fit this team; L0 lacks validated kundali facts; L4 is a deeper alternative, not a required additional life context"
+  },
+  {
+    "file": "integrated-reading.md",
+    "mode": "integrated-reading",
+    "subjects": {
+      "min": 1,
+      "max": 2
+    },
+    "passes": [
+      {
+        "id": "structural",
+        "title": "Structural Field",
+        "target_words": 1800,
+        "template": "structural-pass"
+      },
+      {
+        "id": "somatic",
+        "title": "Somatic Vitality",
+        "target_words": 1200,
+        "template": "somatic-pass"
+      },
+      {
+        "id": "synthesis",
+        "title": "Synthesis & Invitation",
+        "target_words": 1500,
+        "template": "synthesis-pass"
+      }
+    ],
+    "selected": true,
+    "note": "Run against fictional inputs; business mode framed as colleagues, no commercial/romantic facts inferred"
+  },
+  {
+    "file": "married-partners.md",
+    "mode": "married-partners",
+    "subjects": {
+      "min": 2,
+      "max": 2
+    },
+    "passes": [
+      {
+        "id": "opening",
+        "title": "Opening",
+        "target_words": 350,
+        "template": "opening-template"
+      },
+      {
+        "id": "partnership-field",
+        "title": "Partnership Field",
+        "target_words": 1100,
+        "template": "partnership-field-template"
+      },
+      {
+        "id": "decision-dynamics",
+        "title": "Decision Dynamics",
+        "target_words": 1100,
+        "template": "decision-dynamics-template"
+      },
+      {
+        "id": "synthesis",
+        "title": "Synthesis",
+        "target_words": 700,
+        "template": "synthesis-template"
+      }
+    ],
+    "selected": false,
+    "note": "Reviewed; family/romantic/lineage modes do not fit this team; L0 lacks validated kundali facts; L4 is a deeper alternative, not a required additional life context"
+  },
+  {
+    "file": "mother-son-lineage.md",
+    "mode": "mother-son-lineage",
+    "subjects": {
+      "min": 2,
+      "max": 2
+    },
+    "passes": [
+      {
+        "id": "opening",
+        "title": "Opening",
+        "target_words": 400,
+        "template": "opening-template"
+      },
+      {
+        "id": "lineage-field",
+        "title": "Lineage Field",
+        "target_words": 1200,
+        "template": "lineage-field-template"
+      },
+      {
+        "id": "transmission-patterns",
+        "title": "Transmission Patterns",
+        "target_words": 1200,
+        "template": "transmission-patterns-template"
+      },
+      {
+        "id": "synthesis",
+        "title": "Synthesis",
+        "target_words": 800,
+        "template": "synthesis-template"
+      }
+    ],
+    "selected": false,
+    "note": "Reviewed; family/romantic/lineage modes do not fit this team; L0 lacks validated kundali facts; L4 is a deeper alternative, not a required additional life context"
+  },
+  {
+    "file": "partner-synastry.md",
+    "error": "mode_parse_failed"
+  },
+  {
+    "file": "unmarried-partners.md",
+    "mode": "unmarried-partners",
+    "subjects": {
+      "min": 2,
+      "max": 2
+    },
+    "passes": [
+      {
+        "id": "opening",
+        "title": "Opening",
+        "target_words": 350,
+        "template": "opening-template"
+      },
+      {
+        "id": "partnership-field",
+        "title": "Partnership Field",
+        "target_words": 1100,
+        "template": "partnership-field-template"
+      },
+      {
+        "id": "decision-dynamics",
+        "title": "Decision Dynamics",
+        "target_words": 1100,
+        "template": "decision-dynamics-template"
+      },
+      {
+        "id": "synthesis",
+        "title": "Synthesis",
+        "target_words": 700,
+        "template": "synthesis-template"
+      }
+    ],
+    "selected": false,
+    "note": "Reviewed; family/romantic/lineage modes do not fit this team; L0 lacks validated kundali facts; L4 is a deeper alternative, not a required additional life context"
+  }
+]

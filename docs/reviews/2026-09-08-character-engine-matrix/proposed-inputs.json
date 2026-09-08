@@ -1,0 +1,65 @@
+{
+  "status": "PROPOSED FICTIONAL CALCULATION INPUTS - NOT CANON",
+  "authorization": "Principal requested fictional profiles/calendar for review and live Selemene calculations.",
+  "selection": "Chosen once as editorial fixtures before observing results; not reverse-selected to produce preferred charts. Earth locations are proposed computational analogues, not established homeworld coordinates.",
+  "characters": [
+    {
+      "id": "corv",
+      "name": "Corvan Luminth",
+      "birth_data": {
+        "name": "Corvan Luminth",
+        "date": "1984-11-03",
+        "time": "07:20",
+        "latitude": 25.3176,
+        "longitude": 82.9739,
+        "timezone": "Asia/Kolkata"
+      },
+      "canon_enneagram": 9
+    },
+    {
+      "id": "sona",
+      "name": "Sona Vireth",
+      "birth_data": {
+        "name": "Sona Vireth",
+        "date": "1991-06-17",
+        "time": "18:10",
+        "latitude": 22.5726,
+        "longitude": 88.3639,
+        "timezone": "Asia/Kolkata"
+      },
+      "canon_enneagram": 4
+    },
+    {
+      "id": "jian",
+      "name": "Jian Quoril",
+      "birth_data": {
+        "name": "Jian Quoril",
+        "date": "1988-02-09",
+        "time": "04:45",
+        "latitude": 25.033,
+        "longitude": 121.5654,
+        "timezone": "Asia/Taipei"
+      },
+      "canon_enneagram": 5
+    },
+    {
+      "id": "gideon",
+      "name": "Gideon Seter",
+      "birth_data": {
+        "name": "Gideon Seter",
+        "date": "1981-09-24",
+        "time": "13:35",
+        "latitude": 32.794,
+        "longitude": 34.9896,
+        "timezone": "Asia/Jerusalem"
+      },
+      "canon_enneagram": 8
+    }
+  ],
+  "anchors": {
+    "book1": "2027-02-01T06:00:00Z",
+    "book2": "2027-02-08T06:00:00Z",
+    "book3": "2027-03-22T06:00:00Z"
+  },
+  "calendar_note": "Book/session anchors, not exact timestamps for every scene. Book3 anchor is 42 days after Book2, respecting Chapter16 six-weeks reference; twenty-three sessions remain relative evidence, not invented dated sessions."
+}

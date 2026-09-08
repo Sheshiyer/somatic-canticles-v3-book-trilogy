@@ -1,0 +1,120 @@
+{
+  "method": "exact corpus ids from ingestion source; embedding provider bge-m3 returned HTTP410",
+  "status": 200,
+  "entries": [
+    {
+      "id": "sw:hd:type:manifesting-generator:desc",
+      "namespace": null,
+      "metadata": {
+        "category": "type",
+        "field": "description",
+        "name": "Manifesting Generator",
+        "system": "human-design",
+        "text": "Manifesting Generators are a hybrid type with Generator energy and Manifestor manifestation abilities. They can skip steps and move quickly when responding correctly."
+      }
+    },
+    {
+      "id": "sw:hd:type:generator:desc",
+      "namespace": null,
+      "metadata": {
+        "category": "type",
+        "field": "description",
+        "name": "Generator",
+        "system": "human-design",
+        "text": "Generators are the life force of the planet. They have sustainable energy when engaged in work they love and are designed to respond to life rather than initiate."
+      }
+    },
+    {
+      "id": "sw:hd:type:projector:desc",
+      "namespace": null,
+      "metadata": {
+        "category": "type",
+        "field": "description",
+        "name": "Projector",
+        "system": "human-design",
+        "text": "Projectors are natural guides and managers of energy. They see systems and people clearly and are designed to guide others when invited."
+      }
+    },
+    {
+      "id": "sw:hd:auth:emotional-authority:desc",
+      "namespace": null,
+      "metadata": {
+        "category": "authority",
+        "field": "description",
+        "name": "Emotional Authority",
+        "system": "human-design",
+        "text": "Decision-making through emotional clarity over time. No truth in the now - must wait for emotional wave to complete before deciding."
+      }
+    },
+    {
+      "id": "sw:hd:auth:sacral-authority:desc",
+      "namespace": null,
+      "metadata": {
+        "category": "authority",
+        "field": "description",
+        "name": "Sacral Authority",
+        "system": "human-design",
+        "text": "The most common authority, based on gut responses and life force energy. Decisions are made through immediate sacral sounds and gut feelings."
+      }
+    },
+    {
+      "id": "sw:hd:auth:splenic-authority:desc",
+      "namespace": null,
+      "metadata": {
+        "category": "authority",
+        "field": "description",
+        "name": "Splenic Authority",
+        "system": "human-design",
+        "text": "Intuitive authority based on survival instincts and in-the-moment awareness. Decisions come as quiet inner knowing."
+      }
+    },
+    {
+      "id": "sw:enn:9:core",
+      "namespace": null,
+      "metadata": {
+        "category": "type",
+        "field": "core",
+        "name": "The Peacemaker",
+        "number": 9,
+        "system": "enneagram",
+        "text": "Core Motivation: To maintain their inner and outer peace and to avoid conflict. Core Fear: Loss of connection and fragmentation of their world. Core Desire: To have inner and outer peace."
+      }
+    },
+    {
+      "id": "sw:enn:4:core",
+      "namespace": null,
+      "metadata": {
+        "category": "type",
+        "field": "core",
+        "name": "The Individualist",
+        "number": 4,
+        "system": "enneagram",
+        "text": "Core Motivation: To find themselves and their significance, to create an identity from their inner experience. Core Fear: Having no identity or personal significance. Core Desire: To find themselves and their significance."
+      }
+    },
+    {
+      "id": "sw:enn:5:core",
+      "namespace": null,
+      "metadata": {
+        "category": "type",
+        "field": "core",
+        "name": "The Investigator",
+        "number": 5,
+        "system": "enneagram",
+        "text": "Core Motivation: To be capable and competent, to understand the environment, to have everything figured out. Core Fear: Being useless, helpless, or incapable. Core Desire: To be capable and competent."
+      }
+    },
+    {
+      "id": "sw:enn:8:core",
+      "namespace": null,
+      "metadata": {
+        "category": "type",
+        "field": "core",
+        "name": "The Challenger",
+        "number": 8,
+        "system": "enneagram",
+        "text": "Core Motivation: To be self-reliant and in control of their own life and destiny. Core Fear: Being controlled or vulnerable to others. Core Desire: To be self-reliant and in control."
+      }
+    }
+  ]
+}

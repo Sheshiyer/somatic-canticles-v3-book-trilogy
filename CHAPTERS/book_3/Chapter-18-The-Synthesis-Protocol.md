@@ -202,6 +202,10 @@ He wrote the first lesson as a timing rule, then crossed out the word rule and r
 
 They read the four conditions back in silence.
 
+Jian added a second column: who would have to change what on the next attempt. He put his own name beside the demand for a cleaner signal. It had survived three revisions by hiding inside the calibration settings.
+
+Sona tapped that entry, then wrote her own. No one crossed out a failure because someone had understood it.
+
 No one liked how fragile they sounded.
 
 That, too, was useful.

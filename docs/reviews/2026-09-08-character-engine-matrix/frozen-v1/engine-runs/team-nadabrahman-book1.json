@@ -1,0 +1,219 @@
+{
+  "id": "team-nadabrahman-book1",
+  "input_status": "FROZEN EDITORIAL CALCULATION BASELINE v1 \u2014 fictional Earth-equivalent dates; not a manuscript rewrite",
+  "requested_engine": "nadabrahman",
+  "requested_at": "2026-09-08T00:43:28.676724+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Corvan Luminth",
+      "date": "1984-11-03",
+      "time": "07:20",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "timezone": "UTC"
+    },
+    "current_time": "2027-02-08T00:00:00Z",
+    "location": {
+      "latitude": 12.9716,
+      "longitude": 77.5946
+    },
+    "precision": "standard",
+    "options": {}
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "nadabrahman",
+    "result": {
+      "recommendations": [
+        {
+          "arohanam": [
+            "sa",
+            "ri1",
+            "ga1",
+            "ma1",
+            "pa",
+            "dha1",
+            "ni1",
+            "sa"
+          ],
+          "avarohanam": [
+            "sa",
+            "ni1",
+            "dha1",
+            "pa",
+            "ma1",
+            "ga1",
+            "ri1",
+            "sa"
+          ],
+          "mood": "contemplative",
+          "raga_name": "Kanakangi",
+          "raga_number": 1,
+          "reason": "First raga of the system, represents primordial sound in deepest night",
+          "score": 1.0,
+          "therapeutic_qualities": [
+            "grounding",
+            "introspection"
+          ]
+        },
+        {
+          "arohanam": [
+            "sa",
+            "ri3",
+            "ga3",
+            "ma1",
+            "pa",
+            "dha3",
+            "ni3",
+            "sa"
+          ],
+          "avarohanam": [
+            "sa",
+            "ni3",
+            "dha3",
+            "pa",
+            "ma1",
+            "ga3",
+            "ri3",
+            "sa"
+          ],
+          "mood": "dynamic",
+          "raga_name": "Chalanata",
+          "raga_number": 36,
+          "reason": "Moving dance raga, the finale of the shuddha madhyama set",
+          "score": 0.95,
+          "therapeutic_qualities": [
+            "movement",
+            "transformation"
+          ]
+        },
+        {
+          "arohanam": [
+            "sa",
+            "ri3",
+            "ga3",
+            "ma2",
+            "pa",
+            "dha3",
+            "ni3",
+            "sa"
+          ],
+          "avarohanam": [
+            "sa",
+            "ni3",
+            "dha3",
+            "pa",
+            "ma2",
+            "ga3",
+            "ri3",
+            "sa"
+          ],
+          "mood": "connoisseur",
+          "raga_name": "Rasikapriya",
+          "raga_number": 72,
+          "reason": "Last raga of the system, connoisseur's delight, completes the cycle",
+          "score": 0.9,
+          "therapeutic_qualities": [
+            "appreciation",
+            "discernment",
+            "refined_joy"
+          ]
+        },
+        {
+          "arohanam": [
+            "sa",
+            "ri1",
+            "ga1",
+            "ma1",
+            "pa",
+            "dha3",
+            "ni3",
+            "sa"
+          ],
+          "avarohanam": [
+            "sa",
+            "ni3",
+            "dha3",
+            "pa",
+            "ma1",
+            "ga1",
+            "ri1",
+            "sa"
+          ],
+          "mood": "austere",
+          "raga_name": "Tanarupi",
+          "raga_number": 6,
+          "reason": "Secondary recommendation for this time period",
+          "score": 0.7,
+          "therapeutic_qualities": [
+            "detachment",
+            "stillness"
+          ]
+        },
+        {
+          "arohanam": [
+            "sa",
+            "ri1",
+            "ga1",
+            "ma2",
+            "pa",
+            "dha3",
+            "ni3",
+            "sa"
+          ],
+          "avarohanam": [
+            "sa",
+            "ni3",
+            "dha3",
+            "pa",
+            "ma2",
+            "ga1",
+            "ri1",
+            "sa"
+          ],
+          "mood": "noble",
+          "raga_name": "Raghupriya",
+          "raga_number": 42,
+          "reason": "Secondary recommendation for this time period",
+          "score": 0.6,
+          "therapeutic_qualities": [
+            "dignity",
+            "sovereignty"
+          ]
+        }
+      ],
+      "time_recommendation": {
+        "dosha_dominance": "vata",
+        "energy_quality": "deep",
+        "prahar_name": "Nisha (Midnight)",
+        "prahar_number": 7,
+        "primary_raga": {
+          "raga_name": "Kanakangi",
+          "raga_number": 1,
+          "reason": "First raga of the system, represents primordial sound in deepest night"
+        },
+        "time_range": "00:00-03:00"
+      }
+    },
+    "witness_prompt": "In the stillness of night, what is the quietest sound you can hear? What happens when you listen beyond that? The raga Kanakangi carries a particular emotional quality. If you were to hum a single note right now, what pitch would your body choose? What feeling arises with that tone? If your entire being \u2014 body, breath, and awareness \u2014 were a musical instrument, what is it playing right now? Listen without changing the melody.",
+    "consciousness_level": 5,
+    "metadata": {
+      "calculation_time_ms": 0.025245999999999998,
+      "backend": "native",
+      "precision_achieved": "standard",
+      "cached": false,
+      "timestamp": "2026-09-08T00:43:28.640034999Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "In the stillness of night, what is the quietest sound you can hear? What happens when you listen beyond that? The raga Kanakangi carries a particular emotional quality. If you were to hum a single note right now, what pitch would your body choose? What feeling arises with that tone? If your entire being \u2014 body, breath, and awareness \u2014 were a musical instrument, what is it playing right now? Listen without changing the melody.",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:43:28.640034999+00:00",
+    "processing_time_ms": 0.025245999999999998
+  }
+}

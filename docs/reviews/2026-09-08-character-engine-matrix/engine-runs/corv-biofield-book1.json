@@ -1,0 +1,143 @@
+{
+  "id": "corv-biofield-book1",
+  "input_status": "PROPOSED FICTIONAL CALCULATION INPUTS - NOT CANON",
+  "requested_engine": "biofield",
+  "requested_at": "2026-09-08T00:35:35.271685+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Corvan Luminth",
+      "date": "1984-11-03",
+      "time": "07:20",
+      "latitude": 25.3176,
+      "longitude": 82.9739,
+      "timezone": "Asia/Kolkata"
+    },
+    "current_time": "2027-02-01T06:00:00Z",
+    "location": {
+      "latitude": 25.3176,
+      "longitude": 82.9739
+    },
+    "precision": "standard",
+    "options": {}
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "biofield",
+    "result": {
+      "areas_of_attention": [
+        "Root chakra shows right-dominant pattern",
+        "Svadhisthana (Sacral) (Lower abdomen, below navel) - lower activity linked to Venus placement",
+        "Solar Plexus chakra shows right-dominant pattern",
+        "Anahata (Heart) (Center of chest) - lower activity linked to Venus placement",
+        "Vishuddha (Throat) (Throat area) - lower activity linked to Mercury placement",
+        "Crown chakra shows right-dominant pattern",
+        "Mercury in Scorpio shows lower strength - related chakras may need attention"
+      ],
+      "chakra_readings": [
+        {
+          "activity_level": 0.6656249999999999,
+          "balance": 0.5,
+          "chakra": "Root",
+          "chakra_name": "Root",
+          "color_intensity": "moderate red",
+          "element": "Earth",
+          "location": "Base of spine, perineum"
+        },
+        {
+          "activity_level": 0.38875000000000004,
+          "balance": 0.3333333333333333,
+          "chakra": "Sacral",
+          "chakra_name": "Sacral",
+          "color_intensity": "dim orange",
+          "element": "Water",
+          "location": "Lower abdomen, below navel"
+        },
+        {
+          "activity_level": 0.7281249999999999,
+          "balance": 0.7142857142857143,
+          "chakra": "SolarPlexus",
+          "chakra_name": "Solar Plexus",
+          "color_intensity": "bright yellow",
+          "element": "Fire",
+          "location": "Upper abdomen, stomach area"
+        },
+        {
+          "activity_level": 0.36875,
+          "balance": 0.3333333333333333,
+          "chakra": "Heart",
+          "chakra_name": "Heart",
+          "color_intensity": "dim green",
+          "element": "Air",
+          "location": "Center of chest"
+        },
+        {
+          "activity_level": 0.34375,
+          "balance": 0.0,
+          "chakra": "Throat",
+          "chakra_name": "Throat",
+          "color_intensity": "dim blue",
+          "element": "Ether/Space",
+          "location": "Throat area"
+        },
+        {
+          "activity_level": 0.478125,
+          "balance": 0.4,
+          "chakra": "ThirdEye",
+          "chakra_name": "Third Eye",
+          "color_intensity": "dim indigo",
+          "element": "Light",
+          "location": "Between eyebrows"
+        },
+        {
+          "activity_level": 0.609375,
+          "balance": 0.7142857142857143,
+          "chakra": "Crown",
+          "chakra_name": "Crown",
+          "color_intensity": "moderate violet",
+          "element": "Consciousness",
+          "location": "Top of head"
+        }
+      ],
+      "computation_mode": "vedic",
+      "interpretation": "Vitality is in a moderate range. Mars in Capricorn provides the strongest planetary influence in your biofield. Your Manipura (Solar Plexus) shows the highest activity, supported by Sun energy. Left-right balance shows some asymmetry worth observing.",
+      "is_mock_data": false,
+      "metrics": {
+        "coherence": 0.43,
+        "entropy": 0.5742916111164474,
+        "fractal_dimension": 1.5666666666666669,
+        "symmetry": 0.17621621621621622,
+        "timestamp": "2027-02-01T06:00:00Z",
+        "vitality_index": 0.4491015654665328
+      },
+      "witness_layer": {
+        "aletheios": {
+          "perspective": "One side of your field is quieter than the other. That quieter side is not broken \u2014 it is waiting. What has it been waiting to say?"
+        },
+        "pichet": {
+          "perspective": "When the field is scattered, Pichet simplifies the question: of everything you are holding right now, what is the one thing that \u2014 if you let it go \u2014 would allow everything else to settle?"
+        },
+        "synthesis": "Between unconcealment and aliveness \u2014 what is the quality of this moment, exactly as it is?"
+      }
+    },
+    "witness_prompt": "What sensations do you notice in your body right now? Without trying to change anything, simply observe what is present. Your Solar Plexus chakra shows strong Sun energy today. What sensations do you notice in your solar plexus area? Bring gentle attention to your throat and neck. What is present there? If this area could speak, what might it want to express? Taking in your body as a whole, what is the overall felt sense? If you could describe it in one word or image, what would it be?",
+    "consciousness_level": 5,
+    "metadata": {
+      "calculation_time_ms": 2.496102,
+      "backend": "vedic-ephemeris",
+      "precision_achieved": "Standard",
+      "cached": false,
+      "timestamp": "2026-09-08T00:35:35.194565773Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "What sensations do you notice in your body right now? Without trying to change anything, simply observe what is present. Your Solar Plexus chakra shows strong Sun energy today. What sensations do you notice in your solar plexus area? Bring gentle attention to your throat and neck. What is present there? If this area could speak, what might it want to express? Taking in your body as a whole, what is the overall felt sense? If you could describe it in one word or image, what would it be?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:35:35.194565773+00:00",
+    "processing_time_ms": 2.496102
+  }
+}

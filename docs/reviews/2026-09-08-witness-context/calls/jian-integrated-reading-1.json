@@ -1,0 +1,21 @@
+{
+  "job": "jian-integrated-reading",
+  "pass_index": 1,
+  "provider_gateway": "omniroute",
+  "requested_model": "noesis-observe",
+  "returned_model": "gpt-5.3-codex-spark",
+  "resolved_provider": null,
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 6012,
+    "completion_tokens": 12286,
+    "total_tokens": 18298,
+    "completion_tokens_details": {
+      "reasoning_tokens": 9823
+    }
+  },
+  "latency_ms": 15519,
+  "input_sha256": "3f1678ce0810b72b51420a366c4b0a7eda85411c3cb0111079cbcac8a185d8c7",
+  "output_sha256": "deb407e4806c28ab23e192a3a7a967f673e1a52b1aae29d4c29554140c8483ce",
+  "failures": []
+}

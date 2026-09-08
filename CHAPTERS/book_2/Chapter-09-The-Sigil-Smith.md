@@ -218,6 +218,8 @@ They moved toward the door, leaving the forge to its new work, the silence betwe
 
 The silence after Corv’s joke was not empty; it was a held breath, the kind that precedes a structural shift. Gideon felt the phantom weight of his father’s archived command pressing against the back of his skull, a cold, rigid knot in a chest that was finally learning to expand. He did not reach for the message to delete it or argue with it. He let it sit there, a dead weight in a room that had just learned to float.
 
+The familiar order still offered him relief: decide once, make everyone safe, carry the blame afterward. He had mistaken that last promise for generosity often enough. Sona shifted toward the edge of his cover. This time he asked whether she needed more room before tightening it.
+
 “Filter the air,” Gideon repeated, tasting the irony. “They think the atmosphere is the problem. It’s the lung they’re afraid to build.”
 
 Sona finally pulled her hand away from the cooling light, the air between her fingers still humming with the residual tremor of the sigil’s new cadence. She didn’t offer a platitudinous agreement. Instead, she tilted her head, listening to the specific texture of the quiet.

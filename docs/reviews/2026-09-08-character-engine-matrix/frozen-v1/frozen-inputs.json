@@ -1,0 +1,72 @@
+{
+  "status": "FROZEN EDITORIAL CALCULATION BASELINE v1 \u2014 fictional Earth-equivalent dates; not a manuscript rewrite",
+  "authorization": "Principal: yes proceed with the dates and engine runs if confident enough to pass.",
+  "selection": "Chosen once as editorial fixtures before observing results; not reverse-selected to produce preferred charts. Earth locations are proposed computational analogues, not established homeworld coordinates.",
+  "characters": [
+    {
+      "id": "corv",
+      "name": "Corvan Luminth",
+      "birth_data": {
+        "name": "Corvan Luminth",
+        "date": "1984-11-03",
+        "time": "07:20",
+        "latitude": 25.3176,
+        "longitude": 82.9739,
+        "timezone": "Asia/Kolkata"
+      },
+      "canon_enneagram": 9
+    },
+    {
+      "id": "sona",
+      "name": "Sona Vireth",
+      "birth_data": {
+        "name": "Sona Vireth",
+        "date": "1991-06-17",
+        "time": "18:10",
+        "latitude": 22.5726,
+        "longitude": 88.3639,
+        "timezone": "Asia/Kolkata"
+      },
+      "canon_enneagram": 4
+    },
+    {
+      "id": "jian",
+      "name": "Jian Quoril",
+      "birth_data": {
+        "name": "Jian Quoril",
+        "date": "1988-02-09",
+        "time": "04:45",
+        "latitude": 25.033,
+        "longitude": 121.5654,
+        "timezone": "Asia/Taipei"
+      },
+      "canon_enneagram": 5
+    },
+    {
+      "id": "gideon",
+      "name": "Gideon Seter",
+      "birth_data": {
+        "name": "Gideon Seter",
+        "date": "1981-09-24",
+        "time": "13:35",
+        "latitude": 32.794,
+        "longitude": 34.9896,
+        "timezone": "Asia/Jerusalem"
+      },
+      "canon_enneagram": 8
+    }
+  ],
+  "anchors": {
+    "book1": "2027-02-08T00:00:00Z",
+    "book2": "2027-02-08T06:00:00Z",
+    "book3": "2027-03-22T06:00:00Z"
+  },
+  "calendar_note": "Book1 samples expedition entry; Book2 samples last-descent exit, not Book2 opening. Book3 samples Chapter16 return exactly 42 days later. No hiatus is inserted between Chapters8 and9. Intermediate scene instants remain unspecified; book mapping uses checkpoint samples, not exact chapter timestamps.",
+  "calendar_basis": "Gregorian Earth-equivalent editorial calculation clock. Reference coordinates are computational analogues, not homeworld assertions.",
+  "reference_location": {
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "timezone": "Asia/Kolkata",
+    "utc_offset_minutes": 330
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "job": "corv-birth-blueprint",
+  "pass_index": 1,
+  "provider_gateway": "omniroute",
+  "requested_model": "noesis-observe",
+  "returned_model": "gemini-3.7-flash",
+  "resolved_provider": null,
+  "finish_reason": "length",
+  "usage": {
+    "prompt_tokens": 4479,
+    "completion_tokens": 1396,
+    "total_tokens": 5875,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1342,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "latency_ms": 26291,
+  "input_sha256": "9f8927be07fa44ba36b82f0fa02b303ae008c822b7876a733261e7ff69f0e494",
+  "output_sha256": "c8cb63c4d9b910088a66ab5cd7c3a0fa869c0b6069daf49c76f9f68711dc7bc5",
+  "failures": []
+}

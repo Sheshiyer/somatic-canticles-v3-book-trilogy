@@ -1,0 +1,28 @@
+{
+  "state": "DRAFT",
+  "chapters_reviewed": 27,
+  "chapters_revised": 13,
+  "chapters_retained": 14,
+  "new_words": 1154,
+  "scanner_before": {
+    "WARN": 13,
+    "PASS": 14
+  },
+  "scanner_after": {
+    "WARN": 13,
+    "PASS": 14
+  },
+  "new_scanner_failures": 0,
+  "new_duplicate_paragraphs": 0,
+  "source_hashes_match": true,
+  "all_edits_traced": true,
+  "engine_reference_checks": "Enneagram9/4 lookup, biorhythm Low, symbolic biofield Root maximum, Melakarta15; prior HD and period checks retained",
+  "independent_review": "v3 shield-deployment continuity corrected; report gate misassignments, invented channel and physiological inference rejected",
+  "limits": [
+    "Selected-scene integration, not full line-by-line manuscript certification",
+    "Existing scanner warnings persist",
+    "No compiled export rebuild, publication, or source-canon mutation"
+  ],
+  "revision": "v3 reviewed witness context",
+  "all_four_explicit_stimulus_flows": true
+}

@@ -1,0 +1,194 @@
+{
+  "id": "corv-biorhythm-book2",
+  "input_status": "FROZEN EDITORIAL CALCULATION BASELINE v1 \u2014 fictional Earth-equivalent dates; not a manuscript rewrite",
+  "requested_engine": "biorhythm",
+  "requested_at": "2026-09-08T00:43:07.252242+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Corvan Luminth",
+      "date": "1984-11-03",
+      "time": "07:20",
+      "latitude": 25.3176,
+      "longitude": 82.9739,
+      "timezone": "Asia/Kolkata"
+    },
+    "current_time": "2027-02-08T06:00:00Z",
+    "location": {
+      "latitude": 25.3176,
+      "longitude": 82.9739
+    },
+    "precision": "standard",
+    "options": {}
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "biorhythm",
+    "result": {
+      "aesthetic": {
+        "cycle_day": 0,
+        "days_until_critical": 22,
+        "days_until_peak": 11,
+        "is_critical": true,
+        "percentage": 50.00000000001088,
+        "phase": "Critical",
+        "value": 2.1760373619806312e-13
+      },
+      "critical_days": [
+        "2027-02-12",
+        "2027-02-13",
+        "2027-02-14",
+        "2027-02-15"
+      ],
+      "days_alive": 15437,
+      "emotional": {
+        "cycle_day": 9,
+        "days_until_critical": 5,
+        "days_until_peak": 26,
+        "is_critical": false,
+        "percentage": 95.04844339512393,
+        "phase": "Falling",
+        "value": 0.9009688679024784
+      },
+      "forecast": [
+        {
+          "aesthetic": 57.2800583867309,
+          "date": "2027-02-09",
+          "days_alive": 15438,
+          "emotional": 89.09157412341312,
+          "intellectual": 4.518400232269798,
+          "intuitive": 99.82922465033413,
+          "overall_energy": 74.76688106530652,
+          "physical": 98.95420438411352,
+          "spiritual": 98.92782461497762
+        },
+        {
+          "aesthetic": 64.40495496825757,
+          "date": "2027-02-10",
+          "days_alive": 15439,
+          "emotional": 81.17449009294272,
+          "intellectual": 9.27120239748221,
+          "intuitive": 98.47001329696792,
+          "overall_energy": 75.09506948464802,
+          "physical": 99.88343845952761,
+          "spiritual": 97.36631769271004
+        },
+        {
+          "aesthetic": 71.22283494377972,
+          "date": "2027-02-11",
+          "days_alive": 15440,
+          "emotional": 71.69418695587503,
+          "intellectual": 15.496049425899356,
+          "intuitive": 95.78866633275433,
+          "overall_energy": 74.40911254375663,
+          "physical": 97.11304610594304,
+          "spiritual": 95.13989149828829
+        },
+        {
+          "aesthetic": 77.58838703852466,
+          "date": "2027-02-12",
+          "days_alive": 15441,
+          "emotional": 61.126046697801954,
+          "intellectual": 22.967959127213973,
+          "intuitive": 91.85832391312728,
+          "overall_energy": 72.77816860037979,
+          "physical": 90.84849465052359,
+          "spiritual": 92.27980017508722
+        },
+        {
+          "aesthetic": 83.36594056110836,
+          "date": "2027-02-13",
+          "days_alive": 15442,
+          "emotional": 50.00000000002043,
+          "intellectual": 31.41687721696369,
+          "intuitive": 86.78619553365624,
+          "overall_energy": 70.32493394399265,
+          "physical": 81.554397216302,
+          "spiritual": 88.82619313590514
+        },
+        {
+          "aesthetic": 88.43235698891858,
+          "date": "2027-02-14",
+          "days_alive": 15443,
+          "emotional": 38.87395330219355,
+          "intellectual": 40.53743778196684,
+          "intuitive": 80.71063563448136,
+          "overall_energy": 67.21699827550377,
+          "physical": 69.92005449230818,
+          "spiritual": 84.82755145315407
+        },
+        {
+          "aesthetic": 92.67965445186863,
+          "date": "2027-02-15",
+          "days_alive": 15444,
+          "emotional": 28.30581304412082,
+          "intellectual": 49.999999999995694,
+          "intuitive": 73.79736965184959,
+          "overall_energy": 63.655196148927615,
+          "physical": 56.80833245480474,
+          "spiritual": 80.34000729092618
+        }
+      ],
+      "intellectual": {
+        "cycle_day": 26,
+        "days_until_critical": 8,
+        "days_until_peak": 16,
+        "is_critical": false,
+        "percentage": 1.4094215838238222,
+        "phase": "Low",
+        "value": -0.9718115683235236
+      },
+      "intuitive": {
+        "cycle_day": 9,
+        "days_until_critical": 11,
+        "days_until_peak": 1,
+        "is_critical": false,
+        "percentage": 99.82922465033268,
+        "phase": "Peak",
+        "value": 0.9965844930066536
+      },
+      "mastery": 47.90184125196756,
+      "overall_energy": 73.41397378002722,
+      "passion": 94.72135215761762,
+      "physical": {
+        "cycle_day": 4,
+        "days_until_critical": 8,
+        "days_until_peak": 2,
+        "is_critical": false,
+        "percentage": 94.3942609201113,
+        "phase": "Rising",
+        "value": 0.8878852184022259
+      },
+      "spiritual": {
+        "cycle_day": 14,
+        "days_until_critical": 13,
+        "days_until_peak": 53,
+        "is_critical": false,
+        "percentage": 99.80249213076078,
+        "phase": "Peak",
+        "value": 0.9960498426152157
+      },
+      "target_date": "2027-02-08",
+      "wisdom": 48.22893248947388
+    },
+    "witness_prompt": "Your intuitive cycle is at 100% while intellectual is at 1%. Today holds a critical crossing \u2014 a threshold moment. What old pattern is completing, and what new rhythm wants to begin?",
+    "consciousness_level": 0,
+    "metadata": {
+      "calculation_time_ms": 0.074545,
+      "backend": "native-rust",
+      "precision_achieved": "Standard",
+      "cached": false,
+      "timestamp": "2026-09-08T00:43:07.203718860Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "Your intuitive cycle is at 100% while intellectual is at 1%. Today holds a critical crossing \u2014 a threshold moment. What old pattern is completing, and what new rhythm wants to begin?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:43:07.203718860+00:00",
+    "processing_time_ms": 0.074545
+  }
+}

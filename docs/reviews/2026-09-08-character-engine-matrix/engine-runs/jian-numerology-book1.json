@@ -1,0 +1,105 @@
+{
+  "id": "jian-numerology-book1",
+  "input_status": "PROPOSED FICTIONAL CALCULATION INPUTS - NOT CANON",
+  "requested_engine": "numerology",
+  "requested_at": "2026-09-08T00:21:25.207333+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Jian Quoril",
+      "date": "1988-02-09",
+      "time": "04:45",
+      "latitude": 25.033,
+      "longitude": 121.5654,
+      "timezone": "Asia/Taipei"
+    },
+    "current_time": "2027-02-01T06:00:00Z",
+    "location": {
+      "latitude": 25.033,
+      "longitude": 121.5654
+    },
+    "precision": "standard",
+    "options": {}
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "numerology",
+    "result": {
+      "birthday": {
+        "is_master": false,
+        "meaning": "Compassion, completion, universal love",
+        "reduction_chain": [
+          9
+        ],
+        "value": 9
+      },
+      "chaldean_name": {
+        "is_master": false,
+        "meaning": "Leadership, independence, pioneering",
+        "reduction_chain": [
+          28,
+          10,
+          1
+        ],
+        "value": 1
+      },
+      "expression": {
+        "is_master": false,
+        "meaning": "Compassion, completion, universal love",
+        "reduction_chain": [
+          54,
+          9
+        ],
+        "value": 9
+      },
+      "life_path": {
+        "is_master": false,
+        "meaning": "Leadership, independence, pioneering",
+        "reduction_chain": [
+          19,
+          10,
+          1
+        ],
+        "value": 1
+      },
+      "personality": {
+        "is_master": false,
+        "meaning": "Power, abundance, achievement",
+        "reduction_chain": [
+          26,
+          8
+        ],
+        "value": 8
+      },
+      "soul_urge": {
+        "is_master": false,
+        "meaning": "Leadership, independence, pioneering",
+        "reduction_chain": [
+          28,
+          10,
+          1
+        ],
+        "value": 1
+      }
+    },
+    "witness_prompt": "Your Life Path 1 speaks of the pioneer within. Notice: are you leading from authentic will, or from the need to be first?",
+    "consciousness_level": 0,
+    "metadata": {
+      "calculation_time_ms": 0.019619,
+      "backend": "native-rust",
+      "precision_achieved": "exact",
+      "cached": false,
+      "timestamp": "2026-09-08T00:21:25.177109361Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "Your Life Path 1 speaks of the pioneer within. Notice: are you leading from authentic will, or from the need to be first?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:21:25.177109361+00:00",
+    "processing_time_ms": 0.019619
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "id": "gideon-human-design-book1",
+  "input_status": "FROZEN EDITORIAL CALCULATION BASELINE v1 \u2014 fictional Earth-equivalent dates; not a manuscript rewrite",
+  "requested_engine": "human-design",
+  "requested_at": "2026-09-08T00:43:10.729100+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Gideon Seter",
+      "date": "1981-09-24",
+      "time": "13:35",
+      "latitude": 32.794,
+      "longitude": 34.9896,
+      "timezone": "Asia/Jerusalem"
+    },
+    "current_time": "2027-02-08T00:00:00Z",
+    "location": {
+      "latitude": 32.794,
+      "longitude": 34.9896
+    },
+    "precision": "standard",
+    "options": {}
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "human-design",
+    "result": {
+      "active_channels": [
+        "11-56",
+        "10-57"
+      ],
+      "authority": "Splenic",
+      "defined_centers": [
+        "G",
+        "Ajna",
+        "Spleen",
+        "Throat"
+      ],
+      "definition": "Split",
+      "design_activations": {
+        "earth": {
+          "gate": 10,
+          "line": 6,
+          "longitude": 273.32627323857605
+        },
+        "jupiter": {
+          "gate": 46,
+          "line": 4,
+          "longitude": 181.60689318975108
+        },
+        "mars": {
+          "gate": 35,
+          "line": 3,
+          "longitude": 73.93910341374912
+        },
+        "mercury": {
+          "gate": 15,
+          "line": 1,
+          "longitude": 88.883722493406
+        },
+        "moon": {
+          "gate": 25,
+          "line": 3,
+          "longitude": 0.6554814561248183
+        },
+        "neptune": {
+          "gate": 11,
+          "line": 1,
+          "longitude": 263.20675356896123
+        },
+        "northnode": {
+          "gate": 56,
+          "line": 6,
+          "longitude": 121.99491603581846
+        },
+        "pluto": {
+          "gate": 32,
+          "line": 1,
+          "longitude": 201.54668733142137
+        },
+        "saturn": {
+          "gate": 46,
+          "line": 6,
+          "longitude": 183.32771939942552
+        },
+        "southnode": {
+          "gate": 60,
+          "line": 6,
+          "longitude": 301.99491603581845
+        },
+        "sun": {
+          "gate": 15,
+          "line": 6,
+          "longitude": 93.32627323857605
+        },
+        "uranus": {
+          "gate": 14,
+          "line": 3,
+          "longitude": 236.70873990388
+        },
+        "venus": {
+          "gate": 62,
+          "line": 4,
+          "longitude": 114.06831469723471
+        }
+      },
+      "hd_type": "Projector",
+      "personality_activations": {
+        "earth": {
+          "gate": 25,
+          "line": 4,
+          "longitude": 1.326334549851822
+        },
+        "jupiter": {
+          "gate": 57,
+          "line": 2,
+          "longitude": 196.50073934098089
+        },
+        "mars": {
+          "gate": 7,
+          "line": 1,
+          "longitude": 134.02309731264648
+        },
+        "mercury": {
+          "gate": 50,
+          "line": 2,
+          "longitude": 207.44974590933185
+        },
+        "moon": {
+          "gate": 7,
+          "line": 5,
+          "longitude": 137.48308140965614
+        },
+        "neptune": {
+          "gate": 26,
+          "line": 6,
+          "longitude": 262.2075155143627
+        },
+        "northnode": {
+          "gate": 56,
+          "line": 4,
+          "longitude": 119.99453869260068
+        },
+        "pluto": {
+          "gate": 32,
+          "line": 3,
+          "longitude": 203.35703390985395
+        },
+        "saturn": {
+          "gate": 48,
+          "line": 3,
+          "longitude": 191.40111710147
+        },
+        "southnode": {
+          "gate": 60,
+          "line": 4,
+          "longitude": 299.9945386926007
+        },
+        "sun": {
+          "gate": 46,
+          "line": 4,
+          "longitude": 181.3263345498518
+        },
+        "uranus": {
+          "gate": 14,
+          "line": 3,
+          "longitude": 237.14226063993593
+        },
+        "venus": {
+          "gate": 1,
+          "line": 1,
+          "longitude": 223.40189118380576
+        }
+      },
+      "profile": "4/6"
+    },
+    "witness_prompt": "What is it like to trust the instantaneous knowing that arises and vanishes in a single moment? And how do you notice the bridging energy when others enter your field, connecting what feels separate?",
+    "consciousness_level": 5,
+    "metadata": {
+      "calculation_time_ms": 4.036218,
+      "backend": "swiss-ephemeris",
+      "precision_achieved": "Standard",
+      "cached": false,
+      "timestamp": "2026-09-08T00:43:10.693594223Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "What is it like to trust the instantaneous knowing that arises and vanishes in a single moment? And how do you notice the bridging energy when others enter your field, connecting what feels separate?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:43:10.693594223+00:00",
+    "processing_time_ms": 4.036218
+  }
+}

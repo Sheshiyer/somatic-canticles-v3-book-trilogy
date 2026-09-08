@@ -1,0 +1,500 @@
+{
+  "state": "GENERATED_UNREVIEWED",
+  "context": {
+    "frozen_checkpoint": "natal facts only",
+    "subjects": [
+      {
+        "name": "Corvan Luminth",
+        "id": "corv",
+        "engine_results": [
+          {
+            "engine_id": "human-design",
+            "result": {
+              "active_channels": [
+                "20-10",
+                "8-1",
+                "34-20",
+                "10-34",
+                "37-40"
+              ],
+              "authority": "Emotional",
+              "defined_centers": [
+                "Heart",
+                "G",
+                "Throat",
+                "SolarPlexus",
+                "Sacral"
+              ],
+              "definition": "Split",
+              "design_activations": {
+                "earth": {
+                  "gate": 19,
+                  "line": 6,
+                  "longitude": 312.82616071245127
+                },
+                "jupiter": {
+                  "gate": 58,
+                  "line": 1,
+                  "longitude": 274.0814642647319
+                },
+                "mars": {
+                  "gate": 43,
+                  "line": 6,
+                  "longitude": 233.69615110408574
+                },
+                "mercury": {
+                  "gate": 40,
+                  "line": 5,
+                  "longitude": 159.58432490341374
+                },
+                "moon": {
+                  "gate": 14,
+                  "line": 1,
+                  "longitude": 235.14559420951744
+                },
+                "neptune": {
+                  "gate": 10,
+                  "line": 1,
+                  "longitude": 268.98355008737263
+                },
+                "northnode": {
+                  "gate": 20,
+                  "line": 5,
+                  "longitude": 64.14528423126984
+                },
+                "pluto": {
+                  "gate": 50,
+                  "line": 4,
+                  "longitude": 209.5161540166953
+                },
+                "saturn": {
+                  "gate": 44,
+                  "line": 3,
+                  "longitude": 220.12218404112568
+                },
+                "southnode": {
+                  "gate": 34,
+                  "line": 5,
+                  "longitude": 244.14528423126984
+                },
+                "sun": {
+                  "gate": 33,
+                  "line": 6,
+                  "longitude": 132.8261607124513
+                },
+                "uranus": {
+                  "gate": 9,
+                  "line": 5,
+                  "longitude": 249.60531984477296
+                },
+                "venus": {
+                  "gate": 29,
+                  "line": 3,
+                  "longitude": 146.62475348313347
+                }
+              },
+              "hd_type": "ManifestingGenerator",
+              "personality_activations": {
+                "earth": {
+                  "gate": 24,
+                  "line": 4,
+                  "longitude": 40.826142395963416
+                },
+                "jupiter": {
+                  "gate": 58,
+                  "line": 6,
+                  "longitude": 279.1855733099887
+                },
+                "mars": {
+                  "gate": 54,
+                  "line": 6,
+                  "longitude": 290.58919866824584
+                },
+                "mercury": {
+                  "gate": 14,
+                  "line": 1,
+                  "longitude": 234.91804845256286
+                },
+                "moon": {
+                  "gate": 37,
+                  "line": 4,
+                  "longitude": 338.98180443195054
+                },
+                "neptune": {
+                  "gate": 10,
+                  "line": 2,
+                  "longitude": 269.43343688634303
+                },
+                "northnode": {
+                  "gate": 8,
+                  "line": 4,
+                  "longitude": 57.568971250920505
+                },
+                "pluto": {
+                  "gate": 28,
+                  "line": 1,
+                  "longitude": 212.42303066393774
+                },
+                "saturn": {
+                  "gate": 1,
+                  "line": 6,
+                  "longitude": 228.08843243414694
+                },
+                "southnode": {
+                  "gate": 14,
+                  "line": 4,
+                  "longitude": 237.5689712509205
+                },
+                "sun": {
+                  "gate": 44,
+                  "line": 4,
+                  "longitude": 220.8261423959634
+                },
+                "uranus": {
+                  "gate": 5,
+                  "line": 1,
+                  "longitude": 251.86477930414915
+                },
+                "venus": {
+                  "gate": 5,
+                  "line": 6,
+                  "longitude": 256.807820870336
+                }
+              },
+              "profile": "4/6"
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 1.054656,
+              "backend": "swiss-ephemeris",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:06.349723481Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:06.349723481+00:00",
+            "processing_time_ms": 1.054656
+          },
+          {
+            "engine_id": "numerology",
+            "result": {
+              "birthday": {
+                "is_master": false,
+                "meaning": "Creativity, expression, joy",
+                "reduction_chain": [
+                  3
+                ],
+                "value": 3
+              },
+              "chaldean_name": {
+                "is_master": false,
+                "meaning": "Analysis, wisdom, introspection",
+                "reduction_chain": [
+                  52,
+                  7
+                ],
+                "value": 7
+              },
+              "expression": {
+                "is_master": false,
+                "meaning": "Power, abundance, achievement",
+                "reduction_chain": [
+                  62,
+                  8
+                ],
+                "value": 8
+              },
+              "life_path": {
+                "is_master": false,
+                "meaning": "Compassion, completion, universal love",
+                "reduction_chain": [
+                  36,
+                  9
+                ],
+                "value": 9
+              },
+              "personality": {
+                "is_master": false,
+                "meaning": "Analysis, wisdom, introspection",
+                "reduction_chain": [
+                  43,
+                  7
+                ],
+                "value": 7
+              },
+              "soul_urge": {
+                "is_master": false,
+                "meaning": "Leadership, independence, pioneering",
+                "reduction_chain": [
+                  19,
+                  10,
+                  1
+                ],
+                "value": 1
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 0,
+            "metadata": {
+              "calculation_time_ms": 0.023311000000000002,
+              "backend": "native-rust",
+              "precision_achieved": "exact",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:06.323966081Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:06.323966081+00:00",
+            "processing_time_ms": 0.023311000000000002
+          },
+          {
+            "engine_id": "enneagram",
+            "result": {
+              "mode": "lookup",
+              "typeAnalysis": {
+                "center": "gut",
+                "disintegration": {
+                  "description": "Nines become anxious and reactive like unhealthy Sixes",
+                  "name": "The Loyalist",
+                  "type": 6
+                },
+                "harmonicGroup": "positive",
+                "hornevianGroup": "withdrawn",
+                "integration": {
+                  "description": "Nines access energy and self-development of healthy Threes",
+                  "name": "The Achiever",
+                  "type": 3
+                },
+                "type": {
+                  "averageTraits": [
+                    "Self-effacing and accommodating",
+                    "Complacent and resigned",
+                    "Disengaged and unreflective",
+                    "Passive-aggressive when pushed",
+                    "Stubbornly resistant to change"
+                  ],
+                  "coreDesire": "To have inner peace and stability",
+                  "coreFear": "Loss of connection, fragmentation, or conflict",
+                  "coreWeakness": "Sloth—forgetting own priorities and going along to get along",
+                  "description": "Receptive, reassuring, agreeable, and complacent. Nines are stable, trusting, and supportive. They fear conflict and separation, often merging with others to maintain peace.",
+                  "healthyTraits": [
+                    "Serene and at peace",
+                    "Present and self-possessed",
+                    "Accepting and unself-conscious",
+                    "Natural mediators and healers",
+                    "Optimistic and supportive"
+                  ],
+                  "keyMotivations": [
+                    "Creating harmony in environment",
+                    "Avoiding conflicts and tension",
+                    "Preserving things as they are",
+                    "Resisting whatever would upset or disturb them"
+                  ],
+                  "name": "The Peacemaker",
+                  "number": 9,
+                  "unhealthyTraits": [
+                    "Dissociated and neglectful",
+                    "Obstinate and fatalistic",
+                    "Depersonalized and repressed",
+                    "Helpless and inadequate",
+                    "Severely disoriented"
+                  ]
+                },
+                "wings": [
+                  {
+                    "name": "The Challenger",
+                    "number": 8
+                  },
+                  {
+                    "name": "The Reformer",
+                    "number": 1
+                  }
+                ]
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 1,
+            "metadata": {
+              "calculation_time_ms": 2,
+              "backend": "typescript",
+              "precision_achieved": "exact",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:06.906Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:06.906+00:00",
+            "processing_time_ms": 2
+          }
+        ],
+        "existing_proposed_arc": {
+          "character": "corv",
+          "chapter": 1,
+          "engine": "enneagram",
+          "receipt": "corv-enneagram-book1.json",
+          "field": "typeAnalysis.type.keyMotivations",
+          "external_stimulus": "Missing interval in the room, identified by Jian",
+          "internal_stimulus": "Urge to make the absence bearable through a beautiful explanation",
+          "interpretation": "Harmony-seeking may be shaping his account; lookup selected by Corv, not a diagnosis of the room",
+          "chosen_action": "Ask Sona what to hold and leave the slate alone",
+          "feedback": "Sona asks him to hold the question; absence remains unresolved",
+          "revised_understanding": "An unanswered signal can remain available without being converted into reassuring meaning",
+          "shared_lens_recurrence": 14,
+          "later_action_recurrence": [
+            5,
+            20,
+            26,
+            27
+          ]
+        }
+      }
+    ],
+    "retrieved_context": [
+      {
+        "id": "sw:hd:type:manifesting-generator:desc",
+        "system": "human-design",
+        "text": "Manifesting Generators are a hybrid type with Generator energy and Manifestor manifestation abilities. They can skip steps and move quickly when responding correctly.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:type:generator:desc",
+        "system": "human-design",
+        "text": "Generators are the life force of the planet. They have sustainable energy when engaged in work they love and are designed to respond to life rather than initiate.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:type:projector:desc",
+        "system": "human-design",
+        "text": "Projectors are natural guides and managers of energy. They see systems and people clearly and are designed to guide others when invited.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:auth:emotional-authority:desc",
+        "system": "human-design",
+        "text": "Decision-making through emotional clarity over time. No truth in the now - must wait for emotional wave to complete before deciding.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:auth:sacral-authority:desc",
+        "system": "human-design",
+        "text": "The most common authority, based on gut responses and life force energy. Decisions are made through immediate sacral sounds and gut feelings.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:auth:splenic-authority:desc",
+        "system": "human-design",
+        "text": "Intuitive authority based on survival instincts and in-the-moment awareness. Decisions come as quiet inner knowing.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:9:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To maintain their inner and outer peace and to avoid conflict. Core Fear: Loss of connection and fragmentation of their world. Core Desire: To have inner and outer peace.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:4:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To find themselves and their significance, to create an identity from their inner experience. Core Fear: Having no identity or personal significance. Core Desire: To find themselves and their significance.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:5:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To be capable and competent, to understand the environment, to have everything figured out. Core Fear: Being useless, helpless, or incapable. Core Desire: To be capable and competent.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:8:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To be self-reliant and in control of their own life and destiny. Core Fear: Being controlled or vulnerable to others. Core Desire: To be self-reliant and in control.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      }
+    ]
+  },
+  "mode_file": "birth-blueprint.md",
+  "output": {
+    "mode": "birth-blueprint",
+    "subject_names": [
+      "Corvan Luminth"
+    ],
+    "register": "l1_l3",
+    "passes": [
+      {
+        "id": "natal",
+        "title": "Natal Field",
+        "output": "### 1. Structural Overview\n\nThe birth blueprint for Corvan Luminth organizes across four distinct analytical systems, weighted by structural priority: Panchanga (1.0), Vimshottari (0.95), Human Design (0.80), and Numerology (0.65). The primary house architecture anchors along the angular pivot points: House 1 (identity and immediate presence), House 4 (internal ground and psychological base), and House 10 (objective vocation and outward delivery).\n\n```\n+-------------------------------------------------------------------------+\n|                        NATAL SIGNATURE SUMMARY                          |\n+-------------------------------------------------------------------------+\n| System Weighting  : Panchanga (1.0) | Vimshottari (0.95)                |\n|                     Human Design (0.80) | Numerology (0.65)             |\n| Angular Focus     : Houses 1, 4, 10 (Self, Base, Vocation)              |\n| Mechanical Type   : Manifesting Generator (Profile 4/6, Split Def.)     |\n| Authority",
+        "rubric": {
+          "section_id": "natal",
+          "title": "Natal Field",
+          "target_words": 900,
+          "actual_words": 112,
+          "word_count_fit": "fail",
+          "word_count_ratio": 0.124,
+          "deterministic_fact_count": 15,
+          "deterministic_fact_gate": "pass",
+          "integrated_layer_count": 5,
+          "integrated_layering_gate": "pass",
+          "guardrail_gate": "pass",
+          "guardrail_violations": [],
+          "model_requested": "tier-default",
+          "model_used": "tier-default",
+          "latency_ms": 27271
+        }
+      },
+      {
+        "id": "invitation",
+        "title": "One Living Invitation",
+        "output": "### The Living Invitation: Resting at the Edge of the Wave\n\nAcross the structural mapping for Corvan Luminth, two distinct currents sit side by side. On one side lies an active, motor-driven architecture—indicated by the connection of physical vitality and self-expression",
+        "rubric": {
+          "section_id": "invitation",
+          "title": "One Living Invitation",
+          "target_words": 700,
+          "actual_words": 41,
+          "word_count_fit": "fail",
+          "word_count_ratio": 0.059,
+          "deterministic_fact_count": 0,
+          "deterministic_fact_gate": "fail",
+          "integrated_layer_count": 0,
+          "integrated_layering_gate": "fail",
+          "guardrail_gate": "pass",
+          "guardrail_violations": [],
+          "model_requested": "tier-default",
+          "model_used": "tier-default",
+          "latency_ms": 26292
+        }
+      }
+    ],
+    "assembled": "## Natal Field\n\n### 1. Structural Overview\n\nThe birth blueprint for Corvan Luminth organizes across four distinct analytical systems, weighted by structural priority: Panchanga (1.0), Vimshottari (0.95), Human Design (0.80), and Numerology (0.65). The primary house architecture anchors along the angular pivot points: House 1 (identity and immediate presence), House 4 (internal ground and psychological base), and House 10 (objective vocation and outward delivery).\n\n```\n+-------------------------------------------------------------------------+\n|                        NATAL SIGNATURE SUMMARY                          |\n+-------------------------------------------------------------------------+\n| System Weighting  : Panchanga (1.0) | Vimshottari (0.95)                |\n|                     Human Design (0.80) | Numerology (0.65)             |\n| Angular Focus     : Houses 1, 4, 10 (Self, Base, Vocation)              |\n| Mechanical Type   : Manifesting Generator (Profile 4/6, Split Def.)     |\n| Authority\n\n## One Living Invitation\n\n### The Living Invitation: Resting at the Edge of the Wave\n\nAcross the structural mapping for Corvan Luminth, two distinct currents sit side by side. On one side lies an active, motor-driven architecture—indicated by the connection of physical vitality and self-expression",
+    "patterns": [
+      {
+        "id": "birth-blueprint:natal:v1",
+        "text": "Structural Overview\n\nThe birth blueprint for [SUBJECT] organizes across four distinct analytical systems, weighted by structural priority: Panchanga (1.",
+        "kind": "section-structure",
+        "source_section_id": "natal",
+        "source_rubric_score": 0.85,
+        "metadata": {
+          "mode": "birth-blueprint",
+          "report_level": "L1",
+          "language": "en",
+          "systems": [
+            "human-design",
+            "gene-keys",
+            "panchanga",
+            "vimshottari"
+          ],
+          "source": "post-report-extraction",
+          "version": "1"
+        }
+      }
+    ]
+  }
+}

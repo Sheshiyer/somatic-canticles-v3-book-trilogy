@@ -1,0 +1,141 @@
+{
+  "id": "team-vedic-clock-book1",
+  "input_status": "PROPOSED FICTIONAL CALCULATION INPUTS - NOT CANON",
+  "requested_engine": "vedic-clock",
+  "requested_at": "2026-09-08T00:23:26.134719+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Corvan Luminth",
+      "date": "1984-11-03",
+      "time": "07:20",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "timezone": "UTC"
+    },
+    "current_time": "2027-02-01T06:00:00Z",
+    "location": {
+      "latitude": 12.9716,
+      "longitude": 77.5946
+    },
+    "precision": "standard",
+    "options": {
+      "timezone_offset": 330
+    }
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "vedic-clock",
+    "result": {
+      "calculated_for": "2027-02-01T06:00:00+00:00",
+      "current_dosha": {
+        "dosha": "Pitta",
+        "qualities": [
+          "Transformation",
+          "Digestion",
+          "Mental sharpness",
+          "Drive",
+          "Heat"
+        ]
+      },
+      "current_organ": {
+        "associated_emotion": "Joy (balanced) / Anxiety (imbalanced)",
+        "element": "Fire",
+        "organ": "Heart",
+        "peak_energy": "Joy and connection flourish",
+        "recommended_activities": [
+          "Social connection",
+          "Sharing lunch with others",
+          "Heart-centered activities",
+          "Expressing love",
+          "Light-hearted conversation"
+        ],
+        "time_window": "11 AM - 1 PM"
+      },
+      "recommendation": {
+        "activities": [
+          {
+            "activity": "Social connection",
+            "quality": "neutral",
+            "reason": "Heart time (Fire) - Joy and connection flourish energy"
+          },
+          {
+            "activity": "Sharing lunch with others",
+            "quality": "neutral",
+            "reason": "Heart time (Fire) - Joy and connection flourish energy"
+          },
+          {
+            "activity": "Heart-centered activities",
+            "quality": "neutral",
+            "reason": "Heart time (Fire) - Joy and connection flourish energy"
+          },
+          {
+            "activity": "Expressing love",
+            "quality": "neutral",
+            "reason": "Heart time (Fire) - Joy and connection flourish energy"
+          },
+          {
+            "activity": "Light-hearted conversation",
+            "quality": "neutral",
+            "reason": "Heart time (Fire) - Joy and connection flourish energy"
+          }
+        ],
+        "dosha": "Pitta",
+        "organ": "Heart",
+        "panchanga_quality": null,
+        "time_window": "11 AM - 1 PM"
+      },
+      "synthesis": "Heart (Fire) time during Pitta period - harmonious energy. Joy and connection flourish",
+      "timezone": {
+        "local_hour": 11,
+        "offset_minutes": 330,
+        "source": "options.timezone_offset"
+      },
+      "upcoming_transitions": [
+        {
+          "description": "Small Intestine time begins",
+          "new_dosha": null,
+          "new_organ": "SmallIntestine",
+          "time": "13:00"
+        },
+        {
+          "description": "Vata period begins",
+          "new_dosha": "Vata",
+          "new_organ": null,
+          "time": "14:00"
+        },
+        {
+          "description": "Bladder time begins",
+          "new_dosha": null,
+          "new_organ": "Bladder",
+          "time": "15:00"
+        },
+        {
+          "description": "Kidney time begins",
+          "new_dosha": null,
+          "new_organ": "Kidney",
+          "time": "17:00"
+        }
+      ]
+    },
+    "witness_prompt": "How does joy exist independent of its cause?",
+    "consciousness_level": 5,
+    "metadata": {
+      "calculation_time_ms": 0.086295,
+      "backend": "native",
+      "precision_achieved": "Standard",
+      "cached": false,
+      "timestamp": "2026-09-08T00:23:26.107964949Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "How does joy exist independent of its cause?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:23:26.107964949+00:00",
+    "processing_time_ms": 0.086295
+  }
+}

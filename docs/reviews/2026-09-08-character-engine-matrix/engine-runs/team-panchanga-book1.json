@@ -1,0 +1,68 @@
+{
+  "id": "team-panchanga-book1",
+  "input_status": "PROPOSED FICTIONAL CALCULATION INPUTS - NOT CANON",
+  "requested_engine": "panchanga",
+  "requested_at": "2026-09-08T00:23:26.116738+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Corvan Luminth",
+      "date": "1984-11-03",
+      "time": "07:20",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "timezone": "UTC"
+    },
+    "current_time": "2027-02-01T06:00:00Z",
+    "location": {
+      "latitude": 12.9716,
+      "longitude": 77.5946
+    },
+    "precision": "standard",
+    "options": {
+      "mode": "daily"
+    }
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "panchanga",
+    "result": {
+      "julian_day": 2461437.75,
+      "karana_index": 0,
+      "karana_name": "Bava",
+      "karana_value": 51.0,
+      "lunar_longitude": 229.69070444086344,
+      "nakshatra_index": 17,
+      "nakshatra_name": "Jyeshtha",
+      "nakshatra_value": 17.226802833064756,
+      "solar_longitude": 288.413738825368,
+      "tithi_index": 25,
+      "tithi_name": "Ekadashi (Krishna)",
+      "tithi_value": 25.106413801291286,
+      "vara_index": 1,
+      "vara_name": "Somavara (Monday)",
+      "yoga_index": 11,
+      "yoga_name": "Dhruva",
+      "yoga_value": 11.85783324496736
+    },
+    "witness_prompt": "You were born under Tithi Ekadashi (Krishna) and Nakshatra Jyeshtha. The Tithi reflects the angle between Sun and Moon at your birth \u2014 a mirror of the dance between your conscious will and emotional nature. What pattern do you notice when your intentions and feelings are misaligned?",
+    "consciousness_level": 0,
+    "metadata": {
+      "calculation_time_ms": 0.191901,
+      "backend": "native-rust",
+      "precision_achieved": "Standard",
+      "cached": false,
+      "timestamp": "2026-09-08T00:23:26.087250722Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "You were born under Tithi Ekadashi (Krishna) and Nakshatra Jyeshtha. The Tithi reflects the angle between Sun and Moon at your birth \u2014 a mirror of the dance between your conscious will and emotional nature. What pattern do you notice when your intentions and feelings are misaligned?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:23:26.087250722+00:00",
+    "processing_time_ms": 0.191901
+  }
+}

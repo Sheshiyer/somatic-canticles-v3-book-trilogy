@@ -1,0 +1,145 @@
+{
+  "id": "gideon-biofield-book3",
+  "input_status": "FROZEN EDITORIAL CALCULATION BASELINE v1 \u2014 fictional Earth-equivalent dates; not a manuscript rewrite",
+  "requested_engine": "biofield",
+  "requested_at": "2026-09-08T00:43:28.318967+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Gideon Seter",
+      "date": "1981-09-24",
+      "time": "13:35",
+      "latitude": 32.794,
+      "longitude": 34.9896,
+      "timezone": "Asia/Jerusalem"
+    },
+    "current_time": "2027-03-22T06:00:00Z",
+    "location": {
+      "latitude": 32.794,
+      "longitude": 34.9896
+    },
+    "precision": "standard",
+    "options": {}
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "biofield",
+    "result": {
+      "areas_of_attention": [
+        "Root chakra shows right-dominant pattern",
+        "Svadhisthana (Sacral) (Lower abdomen, below navel) - lower activity linked to Venus placement",
+        "Sacral chakra shows left-dominant pattern",
+        "Solar Plexus chakra shows right-dominant pattern",
+        "Anahata (Heart) (Center of chest) - lower activity linked to Venus placement",
+        "Heart chakra shows left-dominant pattern",
+        "Vishuddha (Throat) (Throat area) - lower activity linked to Mercury placement",
+        "Crown chakra shows right-dominant pattern",
+        "Venus in Scorpio shows lower strength - related chakras may need attention"
+      ],
+      "chakra_readings": [
+        {
+          "activity_level": 0.725,
+          "balance": 0.5,
+          "chakra": "Root",
+          "chakra_name": "Root",
+          "color_intensity": "bright red",
+          "element": "Earth",
+          "location": "Base of spine, perineum"
+        },
+        {
+          "activity_level": 0.384375,
+          "balance": -0.42857142857142855,
+          "chakra": "Sacral",
+          "chakra_name": "Sacral",
+          "color_intensity": "dim orange",
+          "element": "Water",
+          "location": "Lower abdomen, below navel"
+        },
+        {
+          "activity_level": 0.5562499999999999,
+          "balance": 0.6363636363636364,
+          "chakra": "SolarPlexus",
+          "chakra_name": "Solar Plexus",
+          "color_intensity": "moderate yellow",
+          "element": "Fire",
+          "location": "Upper abdomen, stomach area"
+        },
+        {
+          "activity_level": 0.334375,
+          "balance": -0.42857142857142855,
+          "chakra": "Heart",
+          "chakra_name": "Heart",
+          "color_intensity": "dim green",
+          "element": "Air",
+          "location": "Center of chest"
+        },
+        {
+          "activity_level": 0.396875,
+          "balance": -0.1111111111111111,
+          "chakra": "Throat",
+          "chakra_name": "Throat",
+          "color_intensity": "dim blue",
+          "element": "Ether/Space",
+          "location": "Throat area"
+        },
+        {
+          "activity_level": 0.7581249999999999,
+          "balance": 0.25,
+          "chakra": "ThirdEye",
+          "chakra_name": "Third Eye",
+          "color_intensity": "bright indigo",
+          "element": "Light",
+          "location": "Between eyebrows"
+        },
+        {
+          "activity_level": 0.5656249999999999,
+          "balance": 0.7777777777777778,
+          "chakra": "Crown",
+          "chakra_name": "Crown",
+          "color_intensity": "moderate violet",
+          "element": "Consciousness",
+          "location": "Top of head"
+        }
+      ],
+      "computation_mode": "vedic",
+      "interpretation": "Vitality is in a moderate range. Saturn in Libra provides the strongest planetary influence in your biofield. Your Ajna (Third Eye) shows the highest activity, supported by Saturn energy.",
+      "is_mock_data": false,
+      "metrics": {
+        "coherence": 0.48,
+        "entropy": 0.5742916111164474,
+        "fractal_dimension": 1.5666666666666669,
+        "symmetry": 0.7183098591549295,
+        "timestamp": "2027-03-22T06:00:00Z",
+        "vitality_index": 0.5725202940542755
+      },
+      "witness_layer": {
+        "aletheios": {
+          "perspective": "What does your body already know that your mind has not yet accepted? Sit with that. No interpretation needed."
+        },
+        "pichet": {
+          "perspective": "Pichet asks one question: what is your body asking to do right now, not what it 'should' do? Follow that impulse for ten seconds. Notice what shifts."
+        },
+        "synthesis": "Between unconcealment and aliveness \u2014 what is the quality of this moment, exactly as it is?"
+      }
+    },
+    "witness_prompt": "What sensations do you notice in your body right now? Without trying to change anything, simply observe what is present. Your Third Eye chakra shows strong Saturn energy today. What sensations do you notice in the space between your eyebrows? Bring gentle attention to the center of your chest. What is present there? If this area could speak, what might it want to express? Taking in your body as a whole, what is the overall felt sense? If you could describe it in one word or image, what would it be?",
+    "consciousness_level": 5,
+    "metadata": {
+      "calculation_time_ms": 1.723548,
+      "backend": "vedic-ephemeris",
+      "precision_achieved": "Standard",
+      "cached": false,
+      "timestamp": "2026-09-08T00:43:28.268873361Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "What sensations do you notice in your body right now? Without trying to change anything, simply observe what is present. Your Third Eye chakra shows strong Saturn energy today. What sensations do you notice in the space between your eyebrows? Bring gentle attention to the center of your chest. What is present there? If this area could speak, what might it want to express? Taking in your body as a whole, what is the overall felt sense? If you could describe it in one word or image, what would it be?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:43:28.268873361+00:00",
+    "processing_time_ms": 1.723548
+  }
+}

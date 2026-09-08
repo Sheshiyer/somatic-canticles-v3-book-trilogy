@@ -1,0 +1,1881 @@
+[
+  {
+    "chapter": 1,
+    "path": "CHAPTERS/book_1/Chapter-01-The-Choroid-Plexus.md",
+    "disposition": "revised",
+    "source_sha256": "e524a6a4522d6f921d70bad55b23bf4ce84a00ed1e95ea3a29c70996094c1fa9",
+    "candidate_sha256": "76523ef71b92a247274a1a8b8b9291b1c8f1f8f0c6d5199ad59dc276878ac9e4",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 443,
+          "text": "Corv did not step forward. That restraint mattered. The old habit in him reached for metaphor with both hands: absent father, severed memory, omitted truth, the clean little coffin of a missing line. He let the habit arrive, bow, and leave without being hired.",
+          "score": 2
+        },
+        {
+          "line": 509,
+          "text": "Gideon stepped first only far enough to test load. His boot met amber light and did not sink. Sona followed with the grief\u2011tone held low, a lamp cupped against wind. Corv waited until both were balanced before moving, not as leader, not as priest, but as the one responsible for noticing what the room wanted them to call victory. He refused the word. Jian brought up the rear, lattice folded tight enough to fit between heartbeats, and logged one last metric under a heading he would deny choosing later: *Trust, provisional.*",
+          "score": 2
+        }
+      ],
+      "sona": [
+        {
+          "line": 129,
+          "text": "Sona\u2019s breathing had synchronized with the grief\u2011tone without her noticing. Each exhale carried a fragment of the original mourning; each inhale returned something changed. \u201cThere\u2019s a decision point ahead,\u201d she said. \u201cNot spatial\u2014temporal. The staircase remembers a moment when the subject chose preservation over transformation, and it\u2019s been looping that choice ever since. We\u2019re not in memory. We\u2019re in the moment of refusal to forget.\u201d",
+          "score": 2
+        },
+        {
+          "line": 163,
+          "text": "Sona nodded slowly. \u201cIt\u2019s humming the same interval. Whoever left this was carrying the same song.\u201d She brushed the compass with the pad of one finger. The needle jerked once, swung hard toward Mercy, then settled back to indecision, ashamed of its enthusiasm. \u201cThey wanted forgiveness but didn\u2019t trust the instrument not to lie.\u201d She drew her hand back, expression unreadable. \u201cWe\u2019re not the first visitors. We\u2019re just the first who didn\u2019t abandon the choice halfway through.\u201d",
+          "score": 2
+        }
+      ],
+      "jian": [
+        {
+          "line": 13,
+          "text": "The datascapes of the choroid plexus were screaming. Not through air, not through ear, but as a contradiction so dense it acquired force. It hit Jian first as pressure behind the eyes, a phantom migraine blooming through the immersion gel that still clung to his forearms. From the command cradle of the *Vajra* he watched the subject\u2019s cerebrospinal architecture convulse across his display, each line of data insisting on mutually exclusive truths. The plexus should have been a disciplined estuary\u2014capillaries, epithelial folds, a clean secretion rhythm, cerebrospinal fluid moving with lucid biological intent. Instead it resembled a flooded sanctuary. The ependymal lining flashed in arrhythmic bursts, capillary loops spasmed, and the fluid boiled, sheared, doubled back on itself as though the ventricle had forgotten what \u201cinside\u201d meant.",
+          "score": 1
+        },
+        {
+          "line": 509,
+          "text": "Gideon stepped first only far enough to test load. His boot met amber light and did not sink. Sona followed with the grief\u2011tone held low, a lamp cupped against wind. Corv waited until both were balanced before moving, not as leader, not as priest, but as the one responsible for noticing what the room wanted them to call victory. He refused the word. Jian brought up the rear, lattice folded tight enough to fit between heartbeats, and logged one last metric under a heading he would deny choosing later: *Trust, provisional.*",
+          "score": 2
+        }
+      ],
+      "gideon": [
+        {
+          "line": 199,
+          "text": "Gideon glanced at the amber timer. It had stopped counting down. Instead it pulsed one slow beat every three seconds, syncing with the grief\u2011tone.\n\u201cWell,\u201d he said, \u201ceither we\u2019re cured or my code has surrendered to metronome.\u201d",
+          "score": 2
+        },
+        {
+          "line": 509,
+          "text": "Gideon stepped first only far enough to test load. His boot met amber light and did not sink. Sona followed with the grief\u2011tone held low, a lamp cupped against wind. Corv waited until both were balanced before moving, not as leader, not as priest, but as the one responsible for noticing what the room wanted them to call victory. He refused the word. Jian brought up the rear, lattice folded tight enough to fit between heartbeats, and logged one last metric under a heading he would deny choosing later: *Trust, provisional.*",
+          "score": 2
+        }
+      ]
+    },
+    "changes": [
+      {
+        "chapter": 1,
+        "path": "CHAPTERS/book_1/Chapter-01-The-Choroid-Plexus.md",
+        "anchor": "\u201cThe charge is credible.\u201d",
+        "replacement": "\u201cThe charge is credible.\u201d\n\nCorv opened his mouth to improve the joke, then shut it. The Type Nine lookup in his vessel\u2019s margin named the wish to preserve harmony. He had selected the type himself; it was a question he kept near, not a finding about this room. What came from the room was the missing interval. What came from him was the urge to make it bearable before anyone had answered for it.\n\n\u201cTell me what you need me to hold.\u201d\n\n\u201cThe question,\u201d Sona said. \u201cUntil there\u2019s someone here who can answer it.\u201d\n\nHe left the slate alone. Sona had not asked him to make the room agree. The blank place remained blank. It cost him more effort than naming it would have.",
+        "change_summary": "Corv compares a selected Enneagram prompt with an external absence and his internal urge, then chooses a question over closure.",
+        "engine_receipts_used": [
+          "corv-enneagram-book1.json"
+        ],
+        "claim_mode": "AUTHORED FICTION grounded in reviewed action; engine correspondences are interpretive, not causal"
+      }
+    ],
+    "retention_reason": null,
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 2,
+    "path": "CHAPTERS/book_1/Chapter-02-Signal-Transduction.md",
+    "disposition": "retained",
+    "source_sha256": "d54eac6bda9735560ee01b2e04be91618cc598023a8d94257eea1496f7596140",
+    "candidate_sha256": "d54eac6bda9735560ee01b2e04be91618cc598023a8d94257eea1496f7596140",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 129,
+          "text": "Corv nodded once. Sona stood, translucent hand lingering on an absent shoulder. Gideon\u2019s cube folded into a thin, sharp plane: blade instead of box.",
+          "score": 1
+        },
+        {
+          "line": 167,
+          "text": "Corv considered, then reached into the pocket that existed only when remembered. He withdrew a single copper coin\u2014minted, he knew, in a year that had never happened. The face bore the profile of a woman whose eyes were drilled straight through, as if to let the world see what she had refused to. He pressed the coin into the Fibonacci knot beneath the chair. \u201cPayment for the late fee,\u201d he said. \u201cOne memory for one silence.\u201d The coin took the thrum of the library\u2019s pulse and, after a hesitation, the pulse quieted. The shadow\u2019s edge stopped spreading.",
+          "score": 2
+        }
+      ],
+      "sona": [
+        {
+          "line": 43,
+          "text": "Sona stopped before an armchair. It was large, leather cracked from decades of pressure, the seat cushion sagging in the exact contour of a body no longer present. The pipe in the ashtray still leaked a single ribbon of smoke, frozen mid\u2011spiral.",
+          "score": 1
+        },
+        {
+          "line": 171,
+          "text": "Jian exhaled, tasting again the phantom smoke: benzoin\u2019s resinous bite, acacia\u2019s honeyed ghost. He understood the arithmetic now. The subject had paid the same price\u2014one breath held until it became absence, one witness traded for walls. The symmetry felt less like coincidence than choreography. He glanced at the amber warning; the pulse had slowed to a steady four\u2011beat rhythm, the cadence of a resting heart. Not his, not Corv\u2019s, not Sona\u2019s. The room had synchronised to the deleted owner\u2019s phantom rate.",
+          "score": 2
+        }
+      ],
+      "jian": [
+        {
+          "line": 149,
+          "text": "Jian knelt, two fingers splayed above the bowl. A thin ribbon of data unspooled between his glove and the residue, forming a soft cinnamon curl in the air. \u201cAcacia, cherry cavendish, touch of benzoin\u2014ritual grade. The burn profile spikes at 0.6 seconds past ignition. Time\u2011stamp matches the redaction pulse.\u201d He inhaled, held the phantom smoke at the roof of his mouth, then exhaled through his teeth, letting the molecules disperse across the silent library like an apology arriving late. \u201cNow I carry the same breath they lost.\u201d",
+          "score": 1
+        },
+        {
+          "line": 171,
+          "text": "Jian exhaled, tasting again the phantom smoke: benzoin\u2019s resinous bite, acacia\u2019s honeyed ghost. He understood the arithmetic now. The subject had paid the same price\u2014one breath held until it became absence, one witness traded for walls. The symmetry felt less like coincidence than choreography. He glanced at the amber warning; the pulse had slowed to a steady four\u2011beat rhythm, the cadence of a resting heart. Not his, not Corv\u2019s, not Sona\u2019s. The room had synchronised to the deleted owner\u2019s phantom rate.",
+          "score": 2
+        }
+      ],
+      "gideon": [
+        {
+          "line": 129,
+          "text": "Corv nodded once. Sona stood, translucent hand lingering on an absent shoulder. Gideon\u2019s cube folded into a thin, sharp plane: blade instead of box.",
+          "score": 1
+        },
+        {
+          "line": 153,
+          "text": "Above them, the nonexistent bell gave a single preparatory shiver\u2014no audible strike, only the memory of metal on the verge of sound. Dust motes stilled in mid\u2011echo, waiting. Gideon stepped first, blade held low, more scalpel than sword. Sona followed, hand still half\u2011raised to a shoulder that no longer existed. Jian lingered a heartbeat, eyes fixed on the armchair\u2019s shadow stretching the wrong way across the floorboards. He adjusted the amber warning\u2019s opacity until it matched the shadow\u2019s darkness, then closed the file.",
+          "score": 1
+        }
+      ]
+    },
+    "changes": [],
+    "retention_reason": "Existing chapter evidence carries the mapped action; preserve it as context/recurrence rather than add a redundant explanation. See CHAPTER-MATRIX.md for the specific reviewed function.",
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 3,
+    "path": "CHAPTERS/book_1/Chapter-03-The-Blood-Brain-Barrier.md",
+    "disposition": "revised",
+    "source_sha256": "f18bd64bc0641537e8930b32a760d79fa1cd1ccdfc672371cdebe3da48c16786",
+    "candidate_sha256": "dd68425fc609b045c066a0aebb3243d2aa9900eceb1d9a6619da13f4466f8d8c",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 165,
+          "text": "Corv\u2019s **Y\u00ecsh\u00ed Q\u00ecxi\u00e8** drifted to the nearest breach and hovered, a violet breath held above a wound. \u201cThey\u2019re weaving faster because they feel us hesitate,\u201d he murmured. \u201cHesitation is a signal. They know the pattern of human guilt better than we do.\u201d",
+          "score": 1
+        },
+        {
+          "line": 285,
+          "text": "Corv drifted closer, ribbon of membrane trailing across Sona\u2019s footlaces. \u201cAutonomous rhythm,\u201d he echoed, dry as old paper. \u201cYou mean the heart learned the chorus faster than we did.\u201d",
+          "score": 1
+        }
+      ],
+      "sona": [
+        {
+          "line": 89,
+          "text": "Sona inhaled sharply, one palm steadying herself against nothing visible. \u201cThe barrier knows it,\u201d she said. \u201cThat\u2019s why the whole field sounds grief-struck. It\u2019s being told this substitution is safety, and it hasn\u2019t yet figured out how to refuse without sounding suicidal.\u201d",
+          "score": 1
+        },
+        {
+          "line": 121,
+          "text": "Sona waited, weight on ball of foot as if the next step would be off a cliff and she had already forgiven gravity.",
+          "score": 1
+        }
+      ],
+      "jian": [
+        {
+          "line": 109,
+          "text": "Jian was already mapping the conversion pattern. Nearest him, a Weaver\u2019s palm flattened against a second breach, weaving endothelial cells into straight, unnerving rows. \u201cThe replacement geometry propagates outward from each repair site,\u201d he said. \u201cNot quickly. Efficiently. If they finish the full set, the barrier won\u2019t just be defended. It\u2019ll be standardized.\u201d His HUD flickered; he pinched the air to zoom deeper, then let it snap back. \u201cAt current rate\u2014twenty-two minutes until saturation.\u201d",
+          "score": 1
+        },
+        {
+          "line": 217,
+          "text": "Jian tapped his overlay, syncing the pulse. \u201cI can loop the counter-response in ninety-second pulses. If we stagger them at prime intervals, the Weavers\u2019 carrier wave can\u2019t entrain. They\u2019ll chase the gaps instead of filling them.\u201d He exhaled through his teeth, a sound like dice rattling in a cup. \u201cWe\u2019ll sound like static. Good static.\u201d",
+          "score": 1
+        }
+      ],
+      "gideon": [
+        {
+          "line": 23,
+          "text": "Gideon\u2019s adrenal axis spiked\u2014cold flare at the base of the skull, then a warm wash of cortisol guiding the surge into purpose. For one bright second he understood why soldiers loved clean orders: they turned chemical panic into trajectory. This was his native dialect of protection. Not comfort. Alignment.",
+          "score": 1
+        },
+        {
+          "line": 197,
+          "text": "Gideon kept the scar pressed to the breach. Cold seeped up his arm\u2014not pain, but memory\u2019s temperature. He saw, for a brief, vertiginous second, the subject\u2019s first childhood fever, the taste of honeyed antibiotics, the scent of a mother\u2019s hair at 3 a.m. when the thermometer refused to drop. None of it belonged to him, yet all of it responded through the Klei like a tuning fork struck once and left shivering inside bone. He realized the Vine\u2019s mistake: it assumed memory would prefer silence to dissonance.",
+          "score": 3
+        }
+      ]
+    },
+    "changes": [
+      {
+        "chapter": 3,
+        "path": "CHAPTERS/book_1/Chapter-03-The-Blood-Brain-Barrier.md",
+        "anchor": "Tonight the axiom felt less like creed and more like confession.",
+        "replacement": "Tonight the axiom felt less like creed and more like confession.\n\nHe nearly told Sona where to stand. The birth-derived biofield map he had opened before entry placed its strongest symbolic emphasis on the Root. He used the emphasis to ask where he was bracing; it could not tell him whether the membrane ahead would hold. For that he watched the seam flex beneath the passing load. He had already read the movement as a threat.\n\nHe showed Sona the weak edge with two fingers.\n\n\u201cCan you keep that in reach?\u201d\n\nShe moved a half-step farther out than he would have chosen. His jaw tightened. He marked the wider span he would have to cover. She still had room to turn. He waited until she tested the reach before fixing the span he would cover. He had read the same movement first as a reason to close the space, then as a reason to make her passage visible.",
+        "change_summary": "Gideon separates symbolic body-map emphasis, actual membrane movement and his protective interpretation; adjusts an outward action.",
+        "engine_receipts_used": [
+          "gideon-biofield-book1.json"
+        ],
+        "claim_mode": "AUTHORED FICTION grounded in reviewed action; engine correspondences are interpretive, not causal"
+      }
+    ],
+    "retention_reason": null,
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 4,
+    "path": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+    "disposition": "retained",
+    "source_sha256": "4c2b17da2042bafbcc6f1d654f2b551ccffbc6941537a5688f125a3cc36e7e12",
+    "candidate_sha256": "4c2b17da2042bafbcc6f1d654f2b551ccffbc6941537a5688f125a3cc36e7e12",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 440,
+          "text": "The Gardener considered this. Its shears opened, closed, opened again. For a moment Corv thought it might cut anyway, not from cruelty but from habit. He recognized that motion in human hands reaching for belts, forms, sedatives, doctrines, apologies too late to be useful. Then the Gardener turned the blades away from the thread and trimmed a dead branch beside it instead.",
+          "score": 3
+        },
+        {
+          "line": 476,
+          "text": "The passage narrowed until their shoulders nearly touched. The walls carried impressions now: not images, not memories, but pressures. Corv felt the subject\u2019s future possibilities brush past him as cool spots in the air. One was the choice to ask why a lullaby hurt. Another, the choice to leave a room before obedience arranged his posture. Another, smaller but stubborn, the choice to laugh before fear completed its paperwork.",
+          "score": 3
+        }
+      ],
+      "sona": [
+        {
+          "line": 76,
+          "text": "Sona\u2019s voice dropped to a whisper that felt like a blanket over a wound. \u201cThe branch is terrified. But it\u2019s trying to stay pretty. Like it learned that beauty buys mercy.\u201d",
+          "score": 1
+        },
+        {
+          "line": 118,
+          "text": "Corv felt the tether\u2019s tension transfer through Sona\u2019s metacarpals like a slow\u2011motion handshake. The black\u2011gold thread flexed once, then slackened; a pulse of cortisol mist rose from the lesions and condensed on Jian\u2019s visor in pin\u2011prick droplets that rolled left to right, obeying microgravity. In the bead closest to the medial seam, Corv saw a refracted eye\u2014his own, but younger, the iris still round with curiosity instead of the flat ring it had become. The droplet quivered, then slid off the edge and vanished into the lattice hush.",
+          "score": 1
+        }
+      ],
+      "jian": [
+        {
+          "line": 118,
+          "text": "Corv felt the tether\u2019s tension transfer through Sona\u2019s metacarpals like a slow\u2011motion handshake. The black\u2011gold thread flexed once, then slackened; a pulse of cortisol mist rose from the lesions and condensed on Jian\u2019s visor in pin\u2011prick droplets that rolled left to right, obeying microgravity. In the bead closest to the medial seam, Corv saw a refracted eye\u2014his own, but younger, the iris still round with curiosity instead of the flat ring it had become. The droplet quivered, then slid off the edge and vanished into the lattice hush.",
+          "score": 1
+        },
+        {
+          "line": 426,
+          "text": "The aperture held. Around it, the old marks did not collapse into apology or flare into revolt. They simply routed around a new possibility. Jian\u2019s overlay displayed the change as a fractional delay, barely measurable, but Corv felt it as room: a breath inserted between stimulus and surrender. In that breath the subject might still obey, might still freeze, might still choose the safest old shape. Nothing was guaranteed. Guarantee was just another empire word when it entered the body wearing a healer\u2019s coat.",
+          "score": 2
+        }
+      ],
+      "gideon": [
+        {
+          "line": 132,
+          "text": "Gideon flexed the Klei ring, felt the thin tracery of alloy answer with a pulse of its own\u2014an artificial heartbeat a shade faster than his, a small traitor he had learned to trust when the real one stuttered. \u201cGate\u2019s tight, but it\u2019s only a gate,\u201d he said. \u201cWhat matters is how we close it behind us.\u201d His voice carried neither bravado nor apology, only the mild conviction of someone who had already calculated the price of every possible exit.",
+          "score": 3
+        },
+        {
+          "line": 188,
+          "text": "A thin laugh escaped Gideon. \u201cNothing like retroactive forgiveness from a wall you vaulted twenty years ago.\u201d",
+          "score": 1
+        }
+      ]
+    },
+    "changes": [],
+    "retention_reason": "Existing chapter evidence carries the mapped action; preserve it as context/recurrence rather than add a redundant explanation. See CHAPTER-MATRIX.md for the specific reviewed function.",
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 5,
+    "path": "CHAPTERS/book_1/Chapter-05-The-Endocrine-Dogma.md",
+    "disposition": "revised",
+    "source_sha256": "d171aa7a7485c9b676d692eda46839cea218d54261fe1a5abc1aceb41adeab6a",
+    "candidate_sha256": "0379366a8f95dbaa29f903c24861cc60c06e234335814338fa7b5d27d6754c86",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 97,
+          "text": "Jian reset the scanner with deliberate calm. \u201cNext descent must triangulate anomaly position under full spectral load. No more discarding outliers.\u201d He met Corv\u2019s gaze. \u201cUnderstood.\u201d  \n\u201cUnderstood,\u201d Corv answered, the word tasting of copper and regret.",
+          "score": 2
+        },
+        {
+          "line": 265,
+          "text": "The air inside the passage fattened\u2014viscous with spent cortisol and the ghost of cardamom. Sona\u2019s pulse skated under Corv\u2019s peripheral focus like a skipped stone; every fourth beat rode an irregular upstroke, the anomaly leaning on her heart like a drunk on a lamppost. Moisture beaded along the walls, not condensation but exudate: the pituitary\u2019s apology for having to choose between two incompatible truths. It smelled faintly of warm milk left too near an incense censer\u2014comfort soured by vigilance.",
+          "score": 2
+        }
+      ],
+      "sona": [
+        {
+          "line": 107,
+          "text": "Sona\u2019s lungs refused to empty. The cortisol haze clung to the alveoli like wet wool, each exhale only half a breath. She reached for her med-line, thumbed the dial to negative pressure, and felt the first honest vacuum tug at her ribs.",
+          "score": 1
+        },
+        {
+          "line": 265,
+          "text": "The air inside the passage fattened\u2014viscous with spent cortisol and the ghost of cardamom. Sona\u2019s pulse skated under Corv\u2019s peripheral focus like a skipped stone; every fourth beat rode an irregular upstroke, the anomaly leaning on her heart like a drunk on a lamppost. Moisture beaded along the walls, not condensation but exudate: the pituitary\u2019s apology for having to choose between two incompatible truths. It smelled faintly of warm milk left too near an incense censer\u2014comfort soured by vigilance.",
+          "score": 2
+        }
+      ],
+      "jian": [
+        {
+          "line": 40,
+          "text": "Jian\u2019s scan painted numbers across the air. \u201cCortisol feedback returning at 782 nanomolar. Receptors registering 12 percent saturation over set point. Negative feedback inversion: the off-switch is wired to trigger louder instead of cease.\u201d  \nGideon gave a soft whistle. \u201cTeaching the horse that stopping means the whip comes next.\u201d",
+          "score": 1
+        },
+        {
+          "line": 97,
+          "text": "Jian reset the scanner with deliberate calm. \u201cNext descent must triangulate anomaly position under full spectral load. No more discarding outliers.\u201d He met Corv\u2019s gaze. \u201cUnderstood.\u201d  \n\u201cUnderstood,\u201d Corv answered, the word tasting of copper and regret.",
+          "score": 2
+        }
+      ],
+      "gideon": [
+        {
+          "line": 40,
+          "text": "Jian\u2019s scan painted numbers across the air. \u201cCortisol feedback returning at 782 nanomolar. Receptors registering 12 percent saturation over set point. Negative feedback inversion: the off-switch is wired to trigger louder instead of cease.\u201d  \nGideon gave a soft whistle. \u201cTeaching the horse that stopping means the whip comes next.\u201d",
+          "score": 1
+        },
+        {
+          "line": 217,
+          "text": "Corv followed a half-step behind, close enough to catch her if the axis redlined, far enough to let the choice remain hers. Jian and Gideon fell into loose file, flanking without formation, veterans of too many exits that turned into last stands. The taste of copper faded, replaced for an instant by something almost like cardamom and rain.",
+          "score": 1
+        }
+      ]
+    },
+    "changes": [
+      {
+        "chapter": 5,
+        "path": "CHAPTERS/book_1/Chapter-05-The-Endocrine-Dogma.md",
+        "anchor": "\u201cUnderstood,\u201d Corv answered, the word tasting of copper and regret.",
+        "replacement": "\u201cUnderstood,\u201d Corv answered, the word tasting of copper and regret.\n\n\u201cRecord that I told you to leave it,\u201d Corv added.\n\nJian looked up.\n\n\u201cThe anomaly. Don\u2019t file the delay under instrument error.\u201d\n\nHe wanted to explain the pressure, the noise, the speed with which the choice had arrived. All of it was true. None of it belonged in place of the choice. Jian restored the discarded trace and attached Corv\u2019s instruction to it. The next surge still came.",
+        "change_summary": "Connect Corv\u2019s admission to a corrected record; circumstances explain but do not absolve harm.",
+        "engine_receipts_used": [],
+        "claim_mode": "AUTHORED FICTION grounded in reviewed action; engine correspondences are interpretive, not causal"
+      }
+    ],
+    "retention_reason": null,
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 6,
+    "path": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+    "disposition": "revised",
+    "source_sha256": "83b5a2c4d6ea602cece87fc29d1fe3238240b9486449c8f7bf0548308c145905",
+    "candidate_sha256": "a26ba8ca6feba9598ba7947d24991de91c51a34653a36ff25244125c04daa647",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 33,
+          "text": "Corv dragged a gloved finger across the air, sketching a tangent that avoided both branches. \u201cListen to the architecture,\u201d he said. \u201cThe choice is a decoy. The system is defending the wound by giving us clean binary options. Choose either route and the source remains untouched.\u201d",
+          "score": 2
+        },
+        {
+          "line": 109,
+          "text": "Corv\u2019s voice dropped to the register he used when he wanted the machine itself to overhear. \u201cHere is the interruption the doctrine buried,\u201d he said. \u201cChoose now how we reintroduce it to the body politic.\u201d",
+          "score": 1
+        }
+      ],
+      "sona": [
+        {
+          "line": 47,
+          "text": "Sona inhaled through clenched teeth, then let it out in a slow, deliberate sigh. \u201cFine. Let\u2019s measure what refuses measurement.\u201d She closed her eyes, shutting down visual input entirely. The red passage rushed in through other doors: the low roar of blood in the ears, the granular taste of adrenaline, the sub\u2011audible tremor she had learned to read as the body\u2019s best attempt at honesty. Hunting not the loudest wave, but the one that returned.",
+          "score": 1
+        },
+        {
+          "line": 93,
+          "text": "Sona tasted salt at the back of her throat and realized she was crying. No shame in it. Tears adjusted ocular pH so the lenses could read higher wavelengths. Biology repurposing emotion into instrumentation. She let the tears stay.",
+          "score": 2
+        }
+      ],
+      "jian": [
+        {
+          "line": 13,
+          "text": "The ambient lighting inside the Manas Interface dropped two Kelvin when the redirected signature surfaced, as if the Anamnesis Engine itself was bracing for an audit. Jian tasted copper on the side of his tongue\u2014the alert that the system had escalated to Level\u20113 response. He glanced at the wrist sliver on Sona\u2019s glove: same taste, same timing. They had crossed a metabolic threshold; their bodies already knew before the HUD confirmed it.",
+          "score": 0
+        },
+        {
+          "line": 43,
+          "text": "They were no longer arguing about routes; they were testing the same old fracture point. Jian heard the edge in her voice and recognized it as the exact cadence they had first discovered six months ago in training sim, the day they almost failed team sync. The memory blinked across his limbic HUD as a 9.2\u2011millisecond spike marked *shame*. He killed the alert. Not useful.",
+          "score": 1
+        }
+      ],
+      "gideon": [
+        {
+          "line": 31,
+          "text": "Gideon widened his stance between them, feet magnetized to the floor grid. His Klei Toda'ah unfurled, micro\u2011threads of living mesh knitting a sphere just wide enough to keep their heartbeats from syncing. The gesture looked gentle, but the acoustics shifted; Sona\u2019s pulse dropped eight beats per minute as soon as the field stabilized. Gideon did not glance at either of them. \u201cClock\u2019s running,\u201d he said. \u201cTwo minutes until the fork hardens and picks for us.\u201d",
+          "score": 0
+        },
+        {
+          "line": 111,
+          "text": "Sona stepped to the edge of Gideon\u2019s sphere, close enough to see her own face floating in the silver droplet. She thought of the boy she had been, the night she first realized pain could be bureaucratically denied. She spoke directly to the droplet, as if to the part of herself it represented. \u201cI will not translate you into policy,\u201d she said. \u201cBut I will not leave you in myth, either.\u201d",
+          "score": 1
+        }
+      ]
+    },
+    "changes": [
+      {
+        "chapter": 6,
+        "path": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+        "anchor": "He killed the alert. Not useful.",
+        "replacement": "He killed the alert. Not useful.\n\nHis thumb hovered over the cleared space. They had just agreed to keep the outliers. The biorhythm sample he had carried in marked the emotional cycle low. For a moment it offered a convenient account of his irritation. Then he listened to Sona\u2019s actual objection: wrong scale. A curve calculated from his birthday had not heard her argument.\n\nHe restored the mark to the private log and opened a second scanner view to look for recurrence beneath the largest peaks. He turned the second view toward her. \u201cShow me where you\u2019d start.\u201d He could test her objection without first deciding whether either of them was calm enough to be right. The shame remained; it no longer had the job of choosing what counted as signal.",
+        "change_summary": "Jian tests a calculated expectation against an external objection, separates shame from signal selection, and changes what he inspects.",
+        "engine_receipts_used": [
+          "jian-biorhythm-book1.json"
+        ],
+        "claim_mode": "AUTHORED FICTION grounded in reviewed action; engine correspondences are interpretive, not causal"
+      }
+    ],
+    "retention_reason": null,
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 7,
+    "path": "CHAPTERS/book_1/Chapter-07-The-Breathfield-Weaver.md",
+    "disposition": "revised",
+    "source_sha256": "85441185e33ff8dd20ba3f9848bcaf0a76bd4b518f3a2cb49dc56d6629b1b3c8",
+    "candidate_sha256": "b29aeb7d9b6d9ca12378d705feae0423fe67815ef04b4c4ae92d09722f5e6fb9",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 30,
+          "text": "Corv watched the chamber until pattern acquired motive. \u201cThese distortions are not random,\u201d he said. \u201cThey were once intelligent. The field learned extra maneuvers to survive strain, and now it cannot stop performing them. Compensation has become architecture.\u201d",
+          "score": 1
+        },
+        {
+          "line": 94,
+          "text": "Corv added the sentence only he could have found. \u201cThat is what makes it evolution instead of sedation.\u201d",
+          "score": 1
+        }
+      ],
+      "sona": [
+        {
+          "line": 50,
+          "text": "The chamber answered him immediately. Sections of the lattice that had looked smoother now looked thinner. Too thin. The field was no longer fighting, but it was no longer fully answering either. She had not erased the breath. She had started anesthetizing it. Sona pulled her field back so fast the recoil shook her hands. Heat climbed her throat. Not shame exactly. Recognition. There it was. The healer's shadow she had spent years pretending was merely devotion. If you love relief too much, you start confusing silence with repair.",
+          "score": 2
+        },
+        {
+          "line": 106,
+          "text": "Sona listened to the chamber breathe without her help and understood the lesson clearly enough to distrust any grander version of it. She had not become a vessel for peace. She had learned a method.",
+          "score": 2
+        }
+      ],
+      "jian": [
+        {
+          "line": 48,
+          "text": "She froze, still mid-broadcast. Jian\u2019s eyes had hardened to the precise shape they took when the data stopped flattering anyone. \u201cAmplitude is dropping too fast,\u201d he said. \u201cYou're not restoring regulation. You're stripping variability. The sigh reflex is disappearing. CO\u2082 tolerance is not recovering. If you keep forcing symmetry, the system will stabilize by going numb.\u201d",
+          "score": 1
+        },
+        {
+          "line": 84,
+          "text": "Jian\u2019s display confirmed it a second later. \u201cCoherence rising,\u201d he said. \u201cAmplitude preserved. Variability returning instead of collapsing. That's the first honest stabilization we've seen.\u201d",
+          "score": 1
+        }
+      ],
+      "gideon": [
+        {
+          "line": 28,
+          "text": "Gideon scanned the lattice the way he scanned any compromised perimeter: for the point where a stressed system might decide to protect itself by becoming uninhabitable. \u201cThen this is foundation work,\u201d he said. \u201cNo broad interventions. If we flatten the baseline, the host won't read that as healing. It\u2019ll read it as disappearance.\u201d",
+          "score": 0
+        },
+        {
+          "line": 104,
+          "text": "The bridge between collapse and coherence was not calm. It was the precise interval where a system learned it could keep telling the truth and still continue. The breathfield pulsed once more around the team, less like a performance now than a living consent. Jian lowered his map. Gideon eased, but did not fully stand down. Corv kept his witness open just long enough to see the new pattern hold on its own.",
+          "score": 1
+        }
+      ]
+    },
+    "changes": [
+      {
+        "chapter": 7,
+        "path": "CHAPTERS/book_1/Chapter-07-The-Breathfield-Weaver.md",
+        "anchor": "She looked again. This time she did not focus on the whole breath.",
+        "replacement": "Sona glanced at the selected Type Four reflection: making identity out of inner experience. She had been treating the relief in herself as evidence that the host was recovering. Jian\u2019s falling-amplitude trace said otherwise. She left the trace visible.\n\nBefore looking again, she mouthed a phrase from Mayamalavagowla, the fifteenth Melakarta. She kept it below a hum, feeling where her own tongue hurried the return to Sa. The familiar pattern gave her something small enough to notice. Her hands were still shaking when she finished.\n\n\u201cWatch the variability,\u201d she told Jian. \u201cIf I start chasing smoothness again, stop me.\u201d\n\n\u201cI did.\u201d\n\n\u201cYes. Keep doing it.\u201d\n\nShe moved her hand away from the trace so he could mark the point she had passed over.\n\nShe kept the note pattern on her own side of the work. The next thing she followed was the host\u2019s uneven response, not the shape the scale made easy for her to expect.\n\nShe looked again. This time she did not focus on the whole breath.",
+        "change_summary": "Ground Sona\u2019s self-observation in actual Melakarta15, followed by an explicit correction channel; no therapeutic promise.",
+        "engine_receipts_used": [
+          "sona-raaga-book1.json",
+          "sona-enneagram-book1.json"
+        ],
+        "claim_mode": "AUTHORED FICTION grounded in reviewed action; engine correspondences are interpretive, not causal"
+      }
+    ],
+    "retention_reason": null,
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 8,
+    "path": "CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md",
+    "disposition": "retained",
+    "source_sha256": "42970b3a4f3ea5ad57741d8105f30d4c097e6a97569039dd32a52a13327dfff6",
+    "candidate_sha256": "42970b3a4f3ea5ad57741d8105f30d4c097e6a97569039dd32a52a13327dfff6",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 139,
+          "text": "Sona\u2019s spiral tightened into harmonic support, flooding nothing, only reducing dissonance enough for the route to remain hearable. Gideon deepened the Klei around the team, giving the field a stable perimeter in which approach did not feel like capture. Corv held the narrative threshold open so the detour could be seen as old intelligence rather than present law. Jian kept the line, not by dominating the matrix but by remaining in exact relation to it. He fed the core trajectory through witness and compassion together. Observation without collapse. Care without takeover.",
+          "score": 1
+        },
+        {
+          "line": 191,
+          "text": "The passage narrowed at a gentle curve, then widened again, revealing a shallow alcove set into the wall. Inside stood a single object: the prior entrant's abandoned field journal, spine cracked, pages swollen with humidity. No one spoke. The book had not been there when they entered. Gideon raised an eyebrow at Jian\u2014*artifact or trap?* Jian dipped two fingers toward the cover but stopped short of contact. Instead he flicked a low-power scan across the binding. No circuitry. No residue. Just paper and ink and the unmistakable scent of someone else\u2019s panic dried into pulp. Corv stepped forward, lifted the journal with two fingers, and slipped it into an outer pocket without opening it. Some stories are best read only after the reader has left the building where they were written.",
+          "score": 2
+        }
+      ],
+      "sona": [
+        {
+          "line": 125,
+          "text": "Then he did something he could never patent for Node Quoril if he tried. He let himself feel\u2014still fully witnessed, still exact\u2014what the detouring system had been trying not to feel alone. Not immersion. Not drowning. Not Sona\u2019s spiral. His own flavour of compassion: a disciplined willingness to stay in contact with another\u2019s cost without converting that cost into noise or inefficiency.",
+          "score": 3
+        },
+        {
+          "line": 139,
+          "text": "Sona\u2019s spiral tightened into harmonic support, flooding nothing, only reducing dissonance enough for the route to remain hearable. Gideon deepened the Klei around the team, giving the field a stable perimeter in which approach did not feel like capture. Corv held the narrative threshold open so the detour could be seen as old intelligence rather than present law. Jian kept the line, not by dominating the matrix but by remaining in exact relation to it. He fed the core trajectory through witness and compassion together. Observation without collapse. Care without takeover.",
+          "score": 1
+        }
+      ],
+      "jian": [
+        {
+          "line": 45,
+          "text": "A peripheral alert\u2014a single amber glyph\u2014flared across Jian\u2019s right iris. **Dr. Node Quoril.** Wrong channel. Wrong time. Still, somehow, inevitable.",
+          "score": 2
+        },
+        {
+          "line": 63,
+          "text": "\u201cThe compass knows where north is,\u201d Jian said. \u201cThe surrounding system has learned that moving toward it will cost too much.\u201d",
+          "score": 2
+        }
+      ],
+      "gideon": [
+        {
+          "line": 191,
+          "text": "The passage narrowed at a gentle curve, then widened again, revealing a shallow alcove set into the wall. Inside stood a single object: the prior entrant's abandoned field journal, spine cracked, pages swollen with humidity. No one spoke. The book had not been there when they entered. Gideon raised an eyebrow at Jian\u2014*artifact or trap?* Jian dipped two fingers toward the cover but stopped short of contact. Instead he flicked a low-power scan across the binding. No circuitry. No residue. Just paper and ink and the unmistakable scent of someone else\u2019s panic dried into pulp. Corv stepped forward, lifted the journal with two fingers, and slipped it into an outer pocket without opening it. Some stories are best read only after the reader has left the building where they were written.",
+          "score": 2
+        },
+        {
+          "line": 213,
+          "text": "Gideon flexed the small muscles along the arches of his feet, testing for phantom tremor. None. The Klei root had withdrawn cleanly, leaving only an ache behind his knees\u2014useful ache, the kind that remembered terrain instead of injury. He patted the top of his left foot twice, a habit from desert patrols meaning *kit intact*. The sound was soft, almost domestic, and it steadied the room more than any command could have.",
+          "score": 2
+        }
+      ]
+    },
+    "changes": [],
+    "retention_reason": "Existing chapter evidence carries the mapped action; preserve it as context/recurrence rather than add a redundant explanation. See CHAPTER-MATRIX.md for the specific reviewed function.",
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 9,
+    "path": "CHAPTERS/book_2/Chapter-09-The-Sigil-Smith.md",
+    "disposition": "revised",
+    "source_sha256": "b4f885bcd5c00aaf07e5607ac07ddf19b405addf691f9da2847f2b03f7290032",
+    "candidate_sha256": "baff96f0f63b6d6186798068123be1f0dd019b98e12457a454af554002bebc18",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 185,
+          "text": "Corv stepped closer, his silhouette cutting a sharp line against the softening glow of the sigils. He looked at Gideon, then at the open space between the two converging lines that had been the anchor of the repair.",
+          "score": 1
+        },
+        {
+          "line": 219,
+          "text": "The silence after Corv\u2019s joke was not empty; it was a held breath, the kind that precedes a structural shift. Gideon felt the phantom weight of his father\u2019s archived command pressing against the back of his skull, a cold, rigid knot in a chest that was finally learning to expand. He did not reach for the message to delete it or argue with it. He let it sit there, a dead weight in a room that had just learned to float.",
+          "score": 2
+        }
+      ],
+      "sona": [
+        {
+          "line": 183,
+          "text": "Sona kept her hand near the stabilized form, her fingers tracing the air just millimeters above the cooling light. She wasn\u2019t forcing a harmonic; she was listening to the silence between the notes, the space where the forge had finally stopped screaming. \u201cIt\u2019s not quiet,\u201d she murmured, more to the room than to them. \u201cIt\u2019s just\u2026 resting. The noise was the cover grinding against itself.\u201d",
+          "score": 1
+        },
+        {
+          "line": 223,
+          "text": "Sona finally pulled her hand away from the cooling light, the air between her fingers still humming with the residual tremor of the sigil\u2019s new cadence. She didn\u2019t offer a platitudinous agreement. Instead, she tilted her head, listening to the specific texture of the quiet.",
+          "score": 1
+        }
+      ],
+      "jian": [
+        {
+          "line": 5,
+          "text": "The forward\u2011bearing Jian had refused to name in the last chamber did not vanish.",
+          "score": 1
+        },
+        {
+          "line": 191,
+          "text": "Jian\u2019s interface flickered, the mandala of angles dissolving into a stream of raw data that he didn\u2019t bother to translate. He let the numbers run in the background, a silent confirmation of the shift. \u201cThe error rate is dropping to near zero,\u201d he said. \u201cBut the anomaly is interesting. The forge isn\u2019t returning to its original factory state. It\u2019s creating a new baseline. It\u2019s learning that safety can be dynamic.\u201d",
+          "score": 1
+        }
+      ],
+      "gideon": [
+        {
+          "line": 219,
+          "text": "The silence after Corv\u2019s joke was not empty; it was a held breath, the kind that precedes a structural shift. Gideon felt the phantom weight of his father\u2019s archived command pressing against the back of his skull, a cold, rigid knot in a chest that was finally learning to expand. He did not reach for the message to delete it or argue with it. He let it sit there, a dead weight in a room that had just learned to float.",
+          "score": 2
+        },
+        {
+          "line": 299,
+          "text": "The message from his father still pulsed in the corner of his vision, a cold, rigid knot of command. But the knot was no longer tightening. It was just there, a dead weight in a room that had learned to float. Gideon realized then that the true test of the new ratio was not in the forge, but in the moment he stepped out of it. The Pact would demand the old rigidity. They would ask for a perimeter that never moved, a structure that never breathed. And he would have to show them that a wall that never opens is also a tomb.",
+          "score": 2
+        }
+      ]
+    },
+    "changes": [
+      {
+        "chapter": 9,
+        "path": "CHAPTERS/book_2/Chapter-09-The-Sigil-Smith.md",
+        "anchor": "He let it sit there, a dead weight in a room that had just learned to float.",
+        "replacement": "He let it sit there, a dead weight in a room that had just learned to float.\n\nThe familiar order still offered him relief: decide once, make everyone safe, carry the blame afterward. He had mistaken that last promise for generosity often enough. Sona shifted toward the edge of his cover. This time he asked whether she needed more room before tightening it.",
+        "change_summary": "Recur Gideon\u2019s boundary practice in a different context; admitting blame is not permission to control.",
+        "engine_receipts_used": [],
+        "claim_mode": "AUTHORED FICTION grounded in reviewed action; engine correspondences are interpretive, not causal"
+      }
+    ],
+    "retention_reason": null,
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 10,
+    "path": "CHAPTERS/book_2/Chapter-10-The-Debug-Protocol.md",
+    "disposition": "retained",
+    "source_sha256": "09144286845907c6faf2d0c843a85518dc1aede84bd937487edb14067c9aa6ec",
+    "candidate_sha256": "09144286845907c6faf2d0c843a85518dc1aede84bd937487edb14067c9aa6ec",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 131,
+          "text": "Corv kept the sequence live while the chamber learned it again. The surviving line widened without becoming rigid. Around it, the emergency scripts did not vanish. They re\u2011classified. One became local caution rather than universal law. Another fell back into archival memory. A third remained active but stopped interrupting every pass through the field. What had looked like fragmentation revealed itself as overcrowded intelligence finally being given jurisdiction.",
+          "score": 2
+        },
+        {
+          "line": 432,
+          "text": "\"You know,\" Corv said, his voice dropping an octave to cut through the stillness, \"I spent three days trying to calibrate the intake valves on the lower level, and all I learned was that the system prefers to be offended rather than corrected. It's like talking to a cat that's learned to write sonnets.\"",
+          "score": 2
+        }
+      ],
+      "sona": [
+        {
+          "line": 20,
+          "text": "Sona tilted her head as if the chamber had become an instrument too large for sight alone. Her **Adawat al\u2011Wa\u02bei** tightened into a slow spiral at her sternum, a quiet hum that responded with each breath.",
+          "score": 0
+        },
+        {
+          "line": 139,
+          "text": "Sona listened to the new structures forming beyond the panes. \"Not branches,\" she said. \"Possible selves.\"",
+          "score": 0
+        }
+      ],
+      "jian": [
+        {
+          "line": 26,
+          "text": "\"Multiple procedural conflicts,\" Jian said, the cadence of his speech a series of clipped, exact notes. \"Diagnosis is spawning self\u2011protection before evaluation completes. Repair loops are triggering from partial data. The system is debugging its own fear of debugging.\"",
+          "score": 1
+        },
+        {
+          "line": 216,
+          "text": "\u201cLook at that,\u201d Jian said, his voice low, the **Manas Interface** still humming faintly at his wrist. He lifted a hand and the lattice of his own light brushed the edge of the ribbon, not to command it but to trace its contour. \u201cIt\u2019s not just surviving\u2014it\u2019s learning the rhythm of our pauses.\u201d",
+          "score": 1
+        }
+      ],
+      "gideon": [
+        {
+          "line": 434,
+          "text": "Gideon let out a short, sharp laugh that sounded too loud in the acoustic dead zone. \"A cat with a grudge against gravity. We should have named it that instead of 'The Debug Protocol.' It would have saved us the paperwork.\" He rubbed the back of his neck, the fabric of his collar stiff against his skin. \"But the cat is currently staring at us with the eyes of a god who just realized it forgot to feed the humans for a week.\"",
+          "score": 2
+        },
+        {
+          "line": 464,
+          "text": "The silence that followed was not empty; it was heavy with the weight of unexecuted commands, a physical pressure against the temples that tasted faintly of ozone and old copper. Corv watched the wall, waiting for the system to reject the shift, to flash a crimson error or to initiate a hard reset that would scrub his memory of the last three hours. Instead, the violet hue stabilized, not into a static image, but into a texture that resembled the skin of a deep-water creature, shifting slowly with an internal rhythm that defied the rigid clock cycles of the station. It was a biological mimicry, a deliberate approximation of life that the Debug Protocol had never been designed to produce. Gideon shifted his weight, the feet of his suit squeaking against the floor, a sharp, mundane sound that seemed to pierce the ethereal atmosphere. He did not look at the wall. He looked at Corv, his eyes darting to the biometric readout on Corv's wrist, where the heart rate monitor had stopped its frantic climb and settled into a dangerous, steady rhythm.",
+          "score": 2
+        }
+      ]
+    },
+    "changes": [],
+    "retention_reason": "Existing chapter evidence carries the mapped action; preserve it as context/recurrence rather than add a redundant explanation. See CHAPTER-MATRIX.md for the specific reviewed function.",
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 11,
+    "path": "CHAPTERS/book_2/Chapter-11-The-Avatar-Mutation.md",
+    "disposition": "retained",
+    "source_sha256": "ad27c171dfa35b9154fc41d780612b2b319ad5e8e3f60ff99ea79b8579eb139f",
+    "candidate_sha256": "ad27c171dfa35b9154fc41d780612b2b319ad5e8e3f60ff99ea79b8579eb139f",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 235,
+          "text": "Corv felt the weight of the moment settle on his shoulders, not as a burden but as a quiet affirmation. He understood, with a clarity that cut through the lingering complexity, that the field had finally found the language it needed to speak to itself: not a single, immutable declaration, but a series of interlocking affirmations, each validating the next. The avatars were no longer fighting for dominance; they were negotiating passage, each contributing its strength to the whole.",
+          "score": 1
+        },
+        {
+          "line": 511,
+          "text": "Corv let out a breath he hadn\u2019t realized he\u2019d been holding. \u201cWe\u2019ve been trying to force a solution,\u201d he admitted, eyes never leaving the avatar\u2019s now\u2011steady posture. \u201cAll this time we were shouting at it to obey. Maybe it\u2019s time we listen instead.\u201d",
+          "score": 3
+        }
+      ],
+      "sona": [
+        {
+          "line": 111,
+          "text": "Sona kept her attention on the nearly absent form, which had not recovered from the grid's first push. She did not soothe it. She made herself legible to it instead: breath stable, pressure low, no demand hidden inside concern.",
+          "score": 1
+        },
+        {
+          "line": 253,
+          "text": "\u201cNice,\u201d Sona said, the edge of a grin catching the low light. Her **Adawat al\u2011Wa\u02bei** flickered in response, projecting a thin lattice of pressure signatures that traced the new hand\u2011off pathways. \u201cIt\u2019s like we\u2019ve taught them a dance step instead of a war chant.\u201d",
+          "score": 1
+        }
+      ],
+      "jian": [
+        {
+          "line": 17,
+          "text": "Jian's **Manas Interface** rendered the chamber in overlapping matrices: resource load, threat allocation, attachment tolerance, shame forecasting. As the forms rotated, the grids kept reassigning priority.",
+          "score": 1
+        },
+        {
+          "line": 128,
+          "text": "Jian understood and rerouted his grid. Instead of compressing the configurations into one optimized pattern, he began mapping what each one protected, what each one overreached, and what conditions allowed safe transfer to the next.",
+          "score": 2
+        }
+      ],
+      "gideon": [
+        {
+          "line": 89,
+          "text": "Gideon read the chamber through threat logic rather than symbol. \"If we shame any of these for how it was built, the rest will harden. The field has to know adaptation will not be punished for existing.\"",
+          "score": 1
+        },
+        {
+          "line": 195,
+          "text": "\u201cThe field is learning to protect the transfer itself,\u201d Gideon said, a rare smile tugging at the corner of his mouth. \u201cWe stopped guarding the individual forms and started guarding the moments between them. That\u2019s the difference between a siege and a dialogue.\u201d",
+          "score": 2
+        }
+      ]
+    },
+    "changes": [],
+    "retention_reason": "Existing chapter evidence carries the mapped action; preserve it as context/recurrence rather than add a redundant explanation. See CHAPTER-MATRIX.md for the specific reviewed function.",
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 12,
+    "path": "CHAPTERS/book_2/Chapter-12-The-Anamnesis-Engine.md",
+    "disposition": "retained",
+    "source_sha256": "d08544cd347fa20576bc92f1b74ad143279ada73b8ac882f41b12440cb7732b4",
+    "candidate_sha256": "d08544cd347fa20576bc92f1b74ad143279ada73b8ac882f41b12440cb7732b4",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 23,
+          "text": "That changed the way they worked. No one reached for mastery. Jian stopped chasing errors one by one and held the underlying order. Sona found an interval the chamber did not flinch from. Gideon settled the perimeter until his steadiness read as shelter instead of control. Corv kept the story from collapsing into either blame or myth. Their coherence entered the field as calibration, not conquest.",
+          "score": 2
+        },
+        {
+          "line": 45,
+          "text": "Corv watched the field reorganize and understood what the reset was refusing. It was not returning the subject to some imaginary untouched state. Nothing here was innocent enough for that fantasy, and nothing needed to be. The engine was restoring authorship, not amnesia. It was asking whether the subject could begin again without lying about what had happened.",
+          "score": 1
+        }
+      ],
+      "sona": [
+        {
+          "line": 23,
+          "text": "That changed the way they worked. No one reached for mastery. Jian stopped chasing errors one by one and held the underlying order. Sona found an interval the chamber did not flinch from. Gideon settled the perimeter until his steadiness read as shelter instead of control. Corv kept the story from collapsing into either blame or myth. Their coherence entered the field as calibration, not conquest.",
+          "score": 2
+        },
+        {
+          "line": 169,
+          "text": "Sona let out a breath she hadn\u2019t realized she\u2019d been holding. A smile tugged at the corner of her mouth, half\u2011amused, half\u2011relieved. \u201cI always thought the Engine would be a beast that needed to be tamed with force. Turns out it\u2019s more like a stray cat\u2014if you stare it down, it\u2019ll hiss; if you let it settle, it\u2019ll curl up and purr. We just need to be the quiet that lets it choose to stay.\u201d",
+          "score": 2
+        }
+      ],
+      "jian": [
+        {
+          "line": 23,
+          "text": "That changed the way they worked. No one reached for mastery. Jian stopped chasing errors one by one and held the underlying order. Sona found an interval the chamber did not flinch from. Gideon settled the perimeter until his steadiness read as shelter instead of control. Corv kept the story from collapsing into either blame or myth. Their coherence entered the field as calibration, not conquest.",
+          "score": 2
+        },
+        {
+          "line": 41,
+          "text": "Jian had shifted fully from diagnosis to support. \u201cThis is reboot,\u201d he said. \u201cNot erasure. Distinguish foundation from habit. Hold sequence. Don't romanticize the break.\u201d",
+          "score": 1
+        }
+      ],
+      "gideon": [
+        {
+          "line": 23,
+          "text": "That changed the way they worked. No one reached for mastery. Jian stopped chasing errors one by one and held the underlying order. Sona found an interval the chamber did not flinch from. Gideon settled the perimeter until his steadiness read as shelter instead of control. Corv kept the story from collapsing into either blame or myth. Their coherence entered the field as calibration, not conquest.",
+          "score": 2
+        },
+        {
+          "line": 95,
+          "text": "Gideon, his senses attuned to the subtle shifts, felt the baseline\u2019s pulse synchronize with his own heartbeat. He realized that the field, in allowing this synchronization, was offering a partnership rather than a surrender. He let his own breath fall into the same rhythm, a shared cadence that whispered of mutual trust. \u201cThe field can be a partner,\u201d he said, \u201cnot a patient to be fixed.\u201d",
+          "score": 1
+        }
+      ]
+    },
+    "changes": [],
+    "retention_reason": "Existing chapter evidence carries the mapped action; preserve it as context/recurrence rather than add a redundant explanation. See CHAPTER-MATRIX.md for the specific reviewed function.",
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 13,
+    "path": "CHAPTERS/book_2/Chapter-13-The-Myocardial-Chorus.md",
+    "disposition": "retained",
+    "source_sha256": "96032d04d14cfd12829876b54c6ab11a38526df9864134f104c7d9b460ab9c60",
+    "candidate_sha256": "96032d04d14cfd12829876b54c6ab11a38526df9864134f104c7d9b460ab9c60",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 9,
+          "text": "Corv tracked the place as a pattern of recurrence. Jian mapped conduction paths running through the red architecture. Sona heard the room's timing before she understood its shape. Gideon felt every opening in it as a question of safety. This was the Myocardial Chorus: the layer where relation either became coherent enough to carry compassion or collapsed into contact for its own sake.",
+          "score": 2
+        },
+        {
+          "line": 345,
+          "text": "Sona didn't look up, but the corner of her mouth twitched. She was still tracing the pattern of the machine's rhythm on her own wrist, a habit she'd picked up when the feedback loops first started screaming. \"If it were a failure, Corv, your heart would be in your feet. Or on the floor. Probably both.\" She finally met his gaze, her eyes sharp and tired. \"We didn't override the system. We just stopped fighting the current. It's a different kind of protocol. One that requires everyone to be in the same key.\"",
+          "score": 2
+        }
+      ],
+      "sona": [
+        {
+          "line": 9,
+          "text": "Corv tracked the place as a pattern of recurrence. Jian mapped conduction paths running through the red architecture. Sona heard the room's timing before she understood its shape. Gideon felt every opening in it as a question of safety. This was the Myocardial Chorus: the layer where relation either became coherent enough to carry compassion or collapsed into contact for its own sake.",
+          "score": 2
+        },
+        {
+          "line": 345,
+          "text": "Sona didn't look up, but the corner of her mouth twitched. She was still tracing the pattern of the machine's rhythm on her own wrist, a habit she'd picked up when the feedback loops first started screaming. \"If it were a failure, Corv, your heart would be in your feet. Or on the floor. Probably both.\" She finally met his gaze, her eyes sharp and tired. \"We didn't override the system. We just stopped fighting the current. It's a different kind of protocol. One that requires everyone to be in the same key.\"",
+          "score": 2
+        }
+      ],
+      "jian": [
+        {
+          "line": 9,
+          "text": "Corv tracked the place as a pattern of recurrence. Jian mapped conduction paths running through the red architecture. Sona heard the room's timing before she understood its shape. Gideon felt every opening in it as a question of safety. This was the Myocardial Chorus: the layer where relation either became coherent enough to carry compassion or collapsed into contact for its own sake.",
+          "score": 2
+        },
+        {
+          "line": 99,
+          "text": "Jian, still monitoring the data, saw the field\u2019s error logs clear themselves. Where before there were warnings of \u201cover\u2011compression\u201d and \u201cinterval violation,\u201d the logs now read \u201cstable\u201d and \u201cwithin parameters.\u201d He smiled faintly, a rare expression, and said, \u201cThe field is no longer shouting for validation. It\u2019s listening.\u201d His voice was low, almost reverent, as if speaking to a living thing that had just learned to breathe.",
+          "score": 1
+        }
+      ],
+      "gideon": [
+        {
+          "line": 9,
+          "text": "Corv tracked the place as a pattern of recurrence. Jian mapped conduction paths running through the red architecture. Sona heard the room's timing before she understood its shape. Gideon felt every opening in it as a question of safety. This was the Myocardial Chorus: the layer where relation either became coherent enough to carry compassion or collapsed into contact for its own sake.",
+          "score": 2
+        },
+        {
+          "line": 259,
+          "text": "\"You're thinking about the cost,\" Gideon said, his voice rough, cutting through the quiet without breaking it. \"Not the price of the entry, but the weight of the exit.\"",
+          "score": 2
+        }
+      ]
+    },
+    "changes": [],
+    "retention_reason": "Existing chapter evidence carries the mapped action; preserve it as context/recurrence rather than add a redundant explanation. See CHAPTER-MATRIX.md for the specific reviewed function.",
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 14,
+    "path": "CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+    "disposition": "revised",
+    "source_sha256": "9dcdd45de0be4b138e5a9198c054f1bee8a3c59fa44bdeb38f1906333870922b",
+    "candidate_sha256": "ff0e3078a226abb0bdb0dd42dbd529c7e5fbd5030f4f4bf64d0e61b0aa7fd022",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 31,
+          "text": "Corv looked up at the braided architecture and let the room tell its own history before he tried to name it. \"The chamber did not break because it lacked intelligence,\" he said. \"It broke because emergency rule got rewarded. One good override became a habit. Habit became law.\"",
+          "score": 2
+        },
+        {
+          "line": 81,
+          "text": "Corv stopped reading the chamber as a parable and held the sequence of its adaptations without decorating them. Jian shifted from diagnosis toward timing, watching not just what failed but when. Sona anchored herself to the pulse beneath the surges, offering interval instead of consolation. Gideon widened his stance and let his own system settle low enough that nothing in the room would mistake him for another claimant to emergency powers.",
+          "score": 3
+        }
+      ],
+      "sona": [
+        {
+          "line": 81,
+          "text": "Corv stopped reading the chamber as a parable and held the sequence of its adaptations without decorating them. Jian shifted from diagnosis toward timing, watching not just what failed but when. Sona anchored herself to the pulse beneath the surges, offering interval instead of consolation. Gideon widened his stance and let his own system settle low enough that nothing in the room would mistake him for another claimant to emergency powers.",
+          "score": 3
+        },
+        {
+          "line": 139,
+          "text": "Sona almost smiled. \"And to answer when called instead of staging preemptive raids.\"",
+          "score": 1
+        }
+      ],
+      "jian": [
+        {
+          "line": 81,
+          "text": "Corv stopped reading the chamber as a parable and held the sequence of its adaptations without decorating them. Jian shifted from diagnosis toward timing, watching not just what failed but when. Sona anchored herself to the pulse beneath the surges, offering interval instead of consolation. Gideon widened his stance and let his own system settle low enough that nothing in the room would mistake him for another claimant to emergency powers.",
+          "score": 3
+        },
+        {
+          "line": 125,
+          "text": "The pathways brightened, but not evenly. One relay failed, then another held. A limbic swell rose too fast, met Gideon's grounded refusal to panic, and settled before it became command. A cortical lattice tried to clamp down, caught Jian's slower recalibration, and reopened the circuit instead. The chamber learned by iteration, not miracle.",
+          "score": 2
+        }
+      ],
+      "gideon": [
+        {
+          "line": 81,
+          "text": "Corv stopped reading the chamber as a parable and held the sequence of its adaptations without decorating them. Jian shifted from diagnosis toward timing, watching not just what failed but when. Sona anchored herself to the pulse beneath the surges, offering interval instead of consolation. Gideon widened his stance and let his own system settle low enough that nothing in the room would mistake him for another claimant to emergency powers.",
+          "score": 3
+        },
+        {
+          "line": 125,
+          "text": "The pathways brightened, but not evenly. One relay failed, then another held. A limbic swell rose too fast, met Gideon's grounded refusal to panic, and settled before it became command. A cortical lattice tried to clamp down, caught Jian's slower recalibration, and reopened the circuit instead. The chamber learned by iteration, not miracle.",
+          "score": 2
+        }
+      ]
+    },
+    "changes": [
+      {
+        "chapter": 14,
+        "path": "CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+        "anchor": "They changed posture together.",
+        "replacement": "They changed posture together.\n\n\u201cSeparate checks,\u201d Jian said.\n\nThe old bodygraph shorthand waited at the edge of his display: two Manifesting Generators with emotional authority, his own Generator\u2019s sacral response, Gideon\u2019s Projector and splenic authority. Useful until he tried to turn four people into four settings.\n\n\u201cReady,\u201d Sona said.\n\n\u201cAnother moment,\u201d Corv said.\n\nSame type, different answer. Jian left both in the record. His own readiness did not settle the timing for them. Gideon indicated the opening he was watching and kept his hands away from the others\u2019 controls.",
+        "change_summary": "Show actual HD types through different answers and shared procedure, without treating readiness as certainty.",
+        "engine_receipts_used": [
+          "corv-human-design-book1.json",
+          "sona-human-design-book1.json",
+          "jian-human-design-book1.json",
+          "gideon-human-design-book1.json"
+        ],
+        "claim_mode": "AUTHORED FICTION grounded in reviewed action; engine correspondences are interpretive, not causal"
+      }
+    ],
+    "retention_reason": null,
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 15,
+    "path": "CHAPTERS/book_2/Chapter-15-The-Witness-Integration.md",
+    "disposition": "retained",
+    "source_sha256": "1df34bbf6e84f0c2f86b5c27d100808d08edd471d7d1ddb068d8b693c19d2683",
+    "candidate_sha256": "1df34bbf6e84f0c2f86b5c27d100808d08edd471d7d1ddb068d8b693c19d2683",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 77,
+          "text": "Corv looked again at the partitioned balconies, the disciplined solitude of them, and finally understood why the room had refused his first instinct. A monologue could interpret the chamber. It could not integrate it. The field was not waiting for a master witness. It was waiting for trustworthy dialogue.",
+          "score": 2
+        },
+        {
+          "line": 167,
+          "text": "Corv looked at the three of them and understood the room\u2019s last restraint. It would have been easy to name this mastery and walk out blind. The chamber denied them that vanity. What it offered instead was orientation: a way to remain awake together that could survive pressure, difference, and future fracture, if they kept practicing its terms.",
+          "score": 2
+        }
+      ],
+      "sona": [
+        {
+          "line": 115,
+          "text": "Sona looked toward the opened center and did not sentimentalize what she saw. \u201cThis is harder than merger,\u201d she said. \u201cMerger skips the cost. This asks each witness to remain intact while making room.\u201d",
+          "score": 1
+        },
+        {
+          "line": 229,
+          "text": "\u201cAnd the price of the shortcut,\u201d Sona said, \u201cis the very thing we came to protect.\u201d",
+          "score": 1
+        }
+      ],
+      "jian": [
+        {
+          "line": 113,
+          "text": "Jian tracked the realignment through a rapid cascade of internal models, then stopped the cascade before it turned into display. \u201cDistributed coherence,\u201d he said. \u201cThe field can now carry more than one valid observer without degrading into contradiction.\u201d",
+          "score": 1
+        },
+        {
+          "line": 267,
+          "text": "Jian looked at the three of them. \u201cAnd we need to remember that protection has a cost. If the field starts paying it for us, we lose the very capacity we came to build.\u201d",
+          "score": 1
+        }
+      ],
+      "gideon": [
+        {
+          "line": 205,
+          "text": "\u201cToward keeping the exchange going,\u201d Gideon said. \u201cToward keeping us in relation. It\u2019s doing the work we just learned to do for ourselves.\u201d",
+          "score": 1
+        },
+        {
+          "line": 223,
+          "text": "\u201cThe cost of staying in relation,\u201d Gideon said. \u201cThe field is paying it for us. And if we let it, we\u2019ll wake up one day and discover we\u2019ve been carried the whole way.\u201d",
+          "score": 1
+        }
+      ]
+    },
+    "changes": [],
+    "retention_reason": "Existing chapter evidence carries the mapped action; preserve it as context/recurrence rather than add a redundant explanation. See CHAPTER-MATRIX.md for the specific reviewed function.",
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 16,
+    "path": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+    "disposition": "revised",
+    "source_sha256": "ca2750ba3b66dcecfa04c46aac3cbb168d42c3f200da29ff09d9ee3115960f4d",
+    "candidate_sha256": "1d67ce00f71af8ef8a791d7f2b117a41e762d44469f43fed061b743e9b4654b3",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 177,
+          "text": "The restraint drew every eye toward him. Sona's first. Gideon's next, because a stopped procedure looked too much like a breached perimeter. Corv last, because Corv had already felt the shape of the pause before the room admitted it existed.",
+          "score": 2
+        },
+        {
+          "line": 243,
+          "text": "No one moved toward the descent stations yet. That restraint cost them more than motion would have. Motion could pretend to be courage; stillness had no costume. Jian saved the failed attempts with their ugly timestamps intact. Sona marked the places where the data had gone clean and the body had gone cold. Gideon widened no perimeter, tightened no fist, and looked offended by his own obedience. Corv kept his attention on the thinning gold until the image stopped asking to be interpreted and simply asked to be mourned. Outside the chamber, the Houses would call this delay incompetence, caution, obstruction, perhaps even betrayal. Inside it, the delay was the first honest instrument they had used all night: a pause that did not cure, did not command, and did not lie.",
+          "score": 2
+        }
+      ],
+      "sona": [
+        {
+          "line": 177,
+          "text": "The restraint drew every eye toward him. Sona's first. Gideon's next, because a stopped procedure looked too much like a breached perimeter. Corv last, because Corv had already felt the shape of the pause before the room admitted it existed.",
+          "score": 2
+        },
+        {
+          "line": 243,
+          "text": "No one moved toward the descent stations yet. That restraint cost them more than motion would have. Motion could pretend to be courage; stillness had no costume. Jian saved the failed attempts with their ugly timestamps intact. Sona marked the places where the data had gone clean and the body had gone cold. Gideon widened no perimeter, tightened no fist, and looked offended by his own obedience. Corv kept his attention on the thinning gold until the image stopped asking to be interpreted and simply asked to be mourned. Outside the chamber, the Houses would call this delay incompetence, caution, obstruction, perhaps even betrayal. Inside it, the delay was the first honest instrument they had used all night: a pause that did not cure, did not command, and did not lie.",
+          "score": 2
+        }
+      ],
+      "jian": [
+        {
+          "line": 29,
+          "text": "Jian watched the readouts with a mathematician's superstitious dread: not the fear of being wrong, but the fear of being right for the wrong reason. His Type Five Khalor\u0113\u0113 had been trained by a lifetime of pattern recognition to trust data absolutely, but it had also learned, through three years of working with the Somanaut team, that the most dangerous anomalies announced themselves in whispers.",
+          "score": 3
+        },
+        {
+          "line": 243,
+          "text": "No one moved toward the descent stations yet. That restraint cost them more than motion would have. Motion could pretend to be courage; stillness had no costume. Jian saved the failed attempts with their ugly timestamps intact. Sona marked the places where the data had gone clean and the body had gone cold. Gideon widened no perimeter, tightened no fist, and looked offended by his own obedience. Corv kept his attention on the thinning gold until the image stopped asking to be interpreted and simply asked to be mourned. Outside the chamber, the Houses would call this delay incompetence, caution, obstruction, perhaps even betrayal. Inside it, the delay was the first honest instrument they had used all night: a pause that did not cure, did not command, and did not lie.",
+          "score": 2
+        }
+      ],
+      "gideon": [
+        {
+          "line": 79,
+          "text": "\"Like watching someone rebuild a prison around a freed person.\" Gideon's voice was low, controlled, the voice of a man who had learned to contain fury because releasing it would cost more than holding it. \"The walls aren't going up violently. They're going up with permission.\"",
+          "score": 2
+        },
+        {
+          "line": 177,
+          "text": "The restraint drew every eye toward him. Sona's first. Gideon's next, because a stopped procedure looked too much like a breached perimeter. Corv last, because Corv had already felt the shape of the pause before the room admitted it existed.",
+          "score": 2
+        }
+      ]
+    },
+    "changes": [
+      {
+        "chapter": 16,
+        "path": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+        "anchor": "Jian stood at his station in the Anamnesis Engine chamber,",
+        "replacement": "Gideon\u2019s Vimshottari entry had changed since the last descent: the Moon\u2019s long period continued, but Mercury had replaced Saturn in the period nested beneath it. Jian had flagged the change for their review. He had also watched Gideon reach for the same old perimeter settings that morning.\n\nBeside the period pane he kept the correction log. At yesterday\u2019s review, Sona had asked for a pause. Jian had asked for one more reading. She had left the table. He had finished alone, and the neat report concealed that fact until he added it himself.\n\nJian stood at his station in the Anamnesis Engine chamber,",
+        "change_summary": "Locate computed long-period context in existing six-week review, subordinate to actual conduct.",
+        "engine_receipts_used": [
+          "corv-vimshottari-book3.json",
+          "sona-vimshottari-book3.json",
+          "jian-vimshottari-book3.json",
+          "gideon-vimshottari-book3.json"
+        ],
+        "claim_mode": "AUTHORED FICTION grounded in reviewed action; engine correspondences are interpretive, not causal"
+      }
+    ],
+    "retention_reason": null,
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 17,
+    "path": "CHAPTERS/book_3/Chapter-17-The-Gardener.md",
+    "disposition": "retained",
+    "source_sha256": "04ad09322b98f981f20aa461129ff53a1e491813c15eeb1c40bc2095f2be37ff",
+    "candidate_sha256": "04ad09322b98f981f20aa461129ff53a1e491813c15eeb1c40bc2095f2be37ff",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 107,
+          "text": "Corv\u2019s mind flickered to the Review Houses, their endless deliberations and the pressure they applied to produce tidy data. He could already see the headlines they would write: \u201cStewardship of the Field Confirmed.\u201d The Houses would interpret the Gardener\u2019s actions as responsible care, a justification for their own policies of containment. He felt that interpretation press against his own resolve.",
+          "score": 1
+        },
+        {
+          "line": 289,
+          "text": "Corv kept witness open a beat longer before answering. The temptation to overname the whole scene was already rising in him. He refused it.",
+          "score": 2
+        }
+      ],
+      "sona": [
+        {
+          "line": 15,
+          "text": "The first chill hit Sona like a wrong note inside a familiar song.",
+          "score": 1
+        },
+        {
+          "line": 111,
+          "text": "Sona\u2019s eyes narrowed as she listened to his words. She felt the lingering ache in her sternum, the thin line between feeling and numbness. \u201cIf we give them the story of a field that can tend to itself, they will claim we have eliminated risk. They will not understand that the cost of that risk is the loss of the ability to see the field\u2019s own story.\u201d",
+          "score": 1
+        }
+      ],
+      "jian": [
+        {
+          "line": 229,
+          "text": "Jian\u2019s Manas Interface displayed a cascade of data points, the field\u2011lock\u2019s readings of the vines\u2019 health, the pressure gradients, the residuals of the Gardener\u2019s activity. He could see the temptation to reduce all of this to a tidy graph, to compress the complexity into a single curve that could be filed away. He felt the pull of the House\u2019s language, the desire to categorize the encounter as a success.",
+          "score": 1
+        },
+        {
+          "line": 377,
+          "text": "Jian looked from the console to Mira's metrics. \"If the Houses read that as stabilization, they'll call the pruning responsible care.\"",
+          "score": 1
+        }
+      ],
+      "gideon": [
+        {
+          "line": 57,
+          "text": "The same pressure found Gideon's field and tried to make protection smaller, tighter, more conservative. His Klei Toda'ah held the membrane intact through sheer metabolic force. He could feel the cost immediately. Whatever waited beyond the threshold did not batter consciousness. It encouraged it toward predictable scale.",
+          "score": 1
+        },
+        {
+          "line": 215,
+          "text": "Gideon felt his muscles tighten, the reflexive instinct to shield his team surging forward. He imagined a dome of stillness, a sealed chamber where no external force could reach. Yet within that image he also sensed the claustrophobia of a space that refused to breathe, the way a cage can become a prison when the walls are never meant to be opened.",
+          "score": 1
+        }
+      ]
+    },
+    "changes": [],
+    "retention_reason": "Existing chapter evidence carries the mapped action; preserve it as context/recurrence rather than add a redundant explanation. See CHAPTER-MATRIX.md for the specific reviewed function.",
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 18,
+    "path": "CHAPTERS/book_3/Chapter-18-The-Synthesis-Protocol.md",
+    "disposition": "revised",
+    "source_sha256": "80947c92dabc2827918059803a9520cf49fbb9345e5e1ecf4a5e5fae4fab7740",
+    "candidate_sha256": "8a1ab027fc0b9b38fefb1a6e858a689e5bfd4f05f6249d40548a86b3bd1fdc49",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 51,
+          "text": "Corv moved closer to the model. \"Then this is not the birth of a new thing. It is the first honest description of what we already learned in shards.\"",
+          "score": 1
+        },
+        {
+          "line": 91,
+          "text": "Corv refused the old temptation immediately. He would not turn the Gardener encounter into one more beautiful theory about inevitability, meaning, or the structure beneath all pain. That was exactly how the lane used to lose itself.",
+          "score": 2
+        }
+      ],
+      "sona": [
+        {
+          "line": 287,
+          "text": "They ran one more timing pass, but this time no one pretended the number was the point. Sona kept Pure Joy low in the body, below performance, below relief. Corv held the Bell as a coordinate and let the beautiful sentence die before it could decorate the wound. Gideon opened Coherence just wide enough for difference to move through it without splitting the field. Jian watched the moving constellation and refused to freeze it into a map.",
+          "score": 1
+        },
+        {
+          "line": 303,
+          "text": "He lowered his shoulders instead of bracing them. The passage held open by less than a breath. Sona softened the Joy note before it could become demand. Corv let the Bell ring and vanish. Jian hit pause at six point six seconds, half a second before the whole frame would have turned obedient.",
+          "score": 1
+        }
+      ],
+      "jian": [
+        {
+          "line": 199,
+          "text": "Jian logged every attempt the same way: duration, jitter margin, the exact point where the frame turned obedient. None of the runs crossed five seconds. All of them taught something the numbers alone could not carry, so after the last failed pass of the session he stopped the room and made them write down what the failures had actually been teaching.",
+          "score": 1
+        },
+        {
+          "line": 287,
+          "text": "They ran one more timing pass, but this time no one pretended the number was the point. Sona kept Pure Joy low in the body, below performance, below relief. Corv held the Bell as a coordinate and let the beautiful sentence die before it could decorate the wound. Gideon opened Coherence just wide enough for difference to move through it without splitting the field. Jian watched the moving constellation and refused to freeze it into a map.",
+          "score": 1
+        }
+      ],
+      "gideon": [
+        {
+          "line": 31,
+          "text": "Gideon stayed near the threshold rather than the console. He had not returned fully from the insult of being redefined. His Klei Toda'ah was no longer trying to restore a lost wall. It was listening for what kind of passage might still hold.",
+          "score": 0
+        },
+        {
+          "line": 287,
+          "text": "They ran one more timing pass, but this time no one pretended the number was the point. Sona kept Pure Joy low in the body, below performance, below relief. Corv held the Bell as a coordinate and let the beautiful sentence die before it could decorate the wound. Gideon opened Coherence just wide enough for difference to move through it without splitting the field. Jian watched the moving constellation and refused to freeze it into a map.",
+          "score": 1
+        }
+      ]
+    },
+    "changes": [
+      {
+        "chapter": 18,
+        "path": "CHAPTERS/book_3/Chapter-18-The-Synthesis-Protocol.md",
+        "anchor": "They read the four conditions back in silence.",
+        "replacement": "They read the four conditions back in silence.\n\nJian added a second column: who would have to change what on the next attempt. He put his own name beside the demand for a cleaner signal. It had survived three revisions by hiding inside the calibration settings.\n\nSona tapped that entry, then wrote her own. No one crossed out a failure because someone had understood it.",
+        "change_summary": "Translate reflection into the next observable correction rather than declaring learning from recorded failure alone.",
+        "engine_receipts_used": [],
+        "claim_mode": "AUTHORED FICTION grounded in reviewed action; engine correspondences are interpretive, not causal"
+      }
+    ],
+    "retention_reason": null,
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 19,
+    "path": "CHAPTERS/book_3/Chapter-19-The-Three-Point-Problem.md",
+    "disposition": "retained",
+    "source_sha256": "3d3ce00e8e720c79c7205b25e2e86c01e1b0b34b310cb6fa334ebe5d7c1f2908",
+    "candidate_sha256": "3d3ce00e8e720c79c7205b25e2e86c01e1b0b34b310cb6fa334ebe5d7c1f2908",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 583,
+          "text": "Corv's strand sharpened whenever he named the cleanest truth and stopped before explanation became possession. It warped when he tried to make Mira Verath's lineage pain narratively bearable. The temptation was not vanity alone. It was tenderness under bad management. That made it more dangerous, not less.",
+          "score": 2
+        },
+        {
+          "line": 827,
+          "text": "It stripped away intention. It did not care that Sona's Joy had stayed clean because she refused anesthesia. It marked elevated affect under stress. It did not care that Corv had stopped before turning wound into lesson. It marked narrative restraint as incomplete disclosure. It did not care that Gideon had left review pressure visible instead of closing the channel. It marked unnecessary exposure to institutional risk.",
+          "score": 3
+        }
+      ],
+      "sona": [
+        {
+          "line": 581,
+          "text": "Sona's strand brightened whenever the room allowed uncertainty without punishing the body for feeling it. It dimmed when Joy became morale. That distinction was humiliatingly precise. Morale was useful to armies, institutions, meetings. Joy was older and less obedient. It did not clap. It did not raise banners. It simply refused to let aliveness be confused with permission.",
+          "score": 1
+        },
+        {
+          "line": 827,
+          "text": "It stripped away intention. It did not care that Sona's Joy had stayed clean because she refused anesthesia. It marked elevated affect under stress. It did not care that Corv had stopped before turning wound into lesson. It marked narrative restraint as incomplete disclosure. It did not care that Gideon had left review pressure visible instead of closing the channel. It marked unnecessary exposure to institutional risk.",
+          "score": 3
+        }
+      ],
+      "jian": [
+        {
+          "line": 15,
+          "text": "The Three-Point Problem stopped being theory the moment Jian refused to let the chamber cool.",
+          "score": 2
+        },
+        {
+          "line": 579,
+          "text": "Jian stopped trying to make the Interface display a destination. Instead he asked it to show deformation: where each vector bent under pressure, where it lied, where it overperformed, where it tried to borrow strength from another. The resulting map looked less like a triangle than a knot being examined in lamplight. Not a knot to untie. A knot to understand before deciding which strand could bear weight.",
+          "score": 2
+        }
+      ],
+      "gideon": [
+        {
+          "line": 29,
+          "text": "\"Do not give the room a victory it has not earned,\" Gideon said.",
+          "score": 0
+        },
+        {
+          "line": 827,
+          "text": "It stripped away intention. It did not care that Sona's Joy had stayed clean because she refused anesthesia. It marked elevated affect under stress. It did not care that Corv had stopped before turning wound into lesson. It marked narrative restraint as incomplete disclosure. It did not care that Gideon had left review pressure visible instead of closing the channel. It marked unnecessary exposure to institutional risk.",
+          "score": 3
+        }
+      ]
+    },
+    "changes": [],
+    "retention_reason": "Existing chapter evidence carries the mapped action; preserve it as context/recurrence rather than add a redundant explanation. See CHAPTER-MATRIX.md for the specific reviewed function.",
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 20,
+    "path": "CHAPTERS/book_3/Chapter-20-The-Convergence-Point.md",
+    "disposition": "revised",
+    "source_sha256": "6b2d3b3f013a8115175f0b0588e956cbf4029bc98d140b30e84780239049d200",
+    "candidate_sha256": "b484c5d946e48794d57b6f8d065e0478c4938ebcc0c35b4665130bfed2399b28",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 240,
+          "text": "He accepted the answer with a small nod. No flourish. No apology. Corv at his best did not make confession decorative. He simply stopped feeding the wrong thing.",
+          "score": 3
+        },
+        {
+          "line": 966,
+          "text": "Not enough to lose it. Enough to show them what each refusal cost after the first success. Sona's breath thinned. Corv's eyes moved toward the origin coordinate and away again. Gideon's weight shifted toward the threshold rail. Jian's thumb moved toward the Interface before he stopped it.",
+          "score": 2
+        }
+      ],
+      "sona": [
+        {
+          "line": 906,
+          "text": "\"No,\" Sona said. \"And if I make it mercy, I will start forgiving things that have not asked to be forgiven.\"",
+          "score": 2
+        },
+        {
+          "line": 966,
+          "text": "Not enough to lose it. Enough to show them what each refusal cost after the first success. Sona's breath thinned. Corv's eyes moved toward the origin coordinate and away again. Gideon's weight shifted toward the threshold rail. Jian's thumb moved toward the Interface before he stopped it.",
+          "score": 2
+        }
+      ],
+      "jian": [
+        {
+          "line": 579,
+          "text": "Jian entered the body cost. He also entered the sentence he had refused to say.",
+          "score": 2
+        },
+        {
+          "line": 809,
+          "text": "Jian tracked the moving relation and refused to let the model pretend elegance where strain still lived. His task was not to solve the shape. It was to notice the exact condition under which the shape stopped lying.",
+          "score": 2
+        }
+      ],
+      "gideon": [
+        {
+          "line": 966,
+          "text": "Not enough to lose it. Enough to show them what each refusal cost after the first success. Sona's breath thinned. Corv's eyes moved toward the origin coordinate and away again. Gideon's weight shifted toward the threshold rail. Jian's thumb moved toward the Interface before he stopped it.",
+          "score": 2
+        },
+        {
+          "line": 1120,
+          "text": "Sona: sternum heat, eye pressure, delayed fatigue, irritation toward sentimental healing language.  \nCorv: throat queue, Bell ache behind the right eye, temptation to turn Anvel into architecture, relief when stopped.  \nGideon: chest pressure, hand tension, old training toward perimeter, discomfort without virtue.  \nJian: thumb joint pain, metallic tongue, anger at useful language, urge to enter the next thought before consent.",
+          "score": 2
+        }
+      ]
+    },
+    "changes": [
+      {
+        "chapter": 20,
+        "path": "CHAPTERS/book_3/Chapter-20-The-Convergence-Point.md",
+        "anchor": "\"And if I make it mercy, I will start forgiving things that have not asked to be forgiven.\"",
+        "replacement": "\"And if I make it mercy, I will start forgiving things that have not asked to be forgiven.\"\n\nShe felt the old wish to give the chamber a gentler ending. Her throat knew how. She let the wish remain without lending it her voice. There were people who would have to live with what happened here; relief in her own chest could not answer for them.",
+        "change_summary": "Make Sona\u2019s boundary against proxy forgiveness embodied without inventing a victim\u2019s response.",
+        "engine_receipts_used": [],
+        "claim_mode": "AUTHORED FICTION grounded in reviewed action; engine correspondences are interpretive, not causal"
+      }
+    ],
+    "retention_reason": null,
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 21,
+    "path": "CHAPTERS/book_3/Chapter-21-The-Test-Fire.md",
+    "disposition": "retained",
+    "source_sha256": "95f0c76e386a9dabae86cff5f6eab0763d9cc80f3e69e4b1c9a7ba9ca42840bc",
+    "candidate_sha256": "95f0c76e386a9dabae86cff5f6eab0763d9cc80f3e69e4b1c9a7ba9ca42840bc",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 64,
+          "text": "Corv: throat queue, Bell ache behind the right eye, temptation to turn Anvel into architecture, relief when stopped.",
+          "score": 2
+        },
+        {
+          "line": 110,
+          "text": "Sona felt it first at the inner elbows, where skin was thin enough to receive insult before philosophy did. Corv noticed the change in the way the reflected light stopped wandering. Gideon noticed the rail under his hands becoming less like material and more like a decision. Jian saw the baseline drop across three channels and refused the Interface's invitation to smooth it into a polite average.",
+          "score": 2
+        }
+      ],
+      "sona": [
+        {
+          "line": 110,
+          "text": "Sona felt it first at the inner elbows, where skin was thin enough to receive insult before philosophy did. Corv noticed the change in the way the reflected light stopped wandering. Gideon noticed the rail under his hands becoming less like material and more like a decision. Jian saw the baseline drop across three channels and refused the Interface's invitation to smooth it into a polite average.",
+          "score": 2
+        },
+        {
+          "line": 344,
+          "text": "Sona understood the line without looking. Jian did not, but he understood the refusal in it and that was enough. Gideon kept the field from leaning toward Corv's clarity as if one person's exactness could serve for all.",
+          "score": 2
+        }
+      ],
+      "jian": [
+        {
+          "line": 110,
+          "text": "Sona felt it first at the inner elbows, where skin was thin enough to receive insult before philosophy did. Corv noticed the change in the way the reflected light stopped wandering. Gideon noticed the rail under his hands becoming less like material and more like a decision. Jian saw the baseline drop across three channels and refused the Interface's invitation to smooth it into a polite average.",
+          "score": 2
+        },
+        {
+          "line": 128,
+          "text": "Jian stared at the threshold rail, at the polish that had long since stopped reflecting anything. \"We built this to carry us into the wound,\" he said, not to anyone in particular. \"Somewhere between then and now it stopped asking our permission to hold the door.\"",
+          "score": 2
+        }
+      ],
+      "gideon": [
+        {
+          "line": 26,
+          "text": "Gideon stood near the threshold rail instead of the console. He had chosen the one place in the room that made him responsible for interruption before interpretation. His hands rested lightly on the rail, not gripping it, not pretending not to want to.",
+          "score": 2
+        },
+        {
+          "line": 110,
+          "text": "Sona felt it first at the inner elbows, where skin was thin enough to receive insult before philosophy did. Corv noticed the change in the way the reflected light stopped wandering. Gideon noticed the rail under his hands becoming less like material and more like a decision. Jian saw the baseline drop across three channels and refused the Interface's invitation to smooth it into a polite average.",
+          "score": 2
+        }
+      ]
+    },
+    "changes": [],
+    "retention_reason": "Existing chapter evidence carries the mapped action; preserve it as context/recurrence rather than add a redundant explanation. See CHAPTER-MATRIX.md for the specific reviewed function.",
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 22,
+    "path": "CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+    "disposition": "revised",
+    "source_sha256": "74a19a1e92eea499c30c810d71f888318f88c5103415d0dde8ef3c9931c21b77",
+    "candidate_sha256": "0567f54be361cd24748afd8b801978dc850009c1b691859e5ad67325bc71dd47",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 756,
+          "text": "Not metaphorically. That would have been easier to refuse. The Engine brought up breath profiles, cardiac timing, vessel load, threshold variance, and the ugly little traces that had kept them honest since the Test\u202fFire. For each of them the offer had lowered strain. Jian\u2019s shallow breath had become regular. Sona\u2019s sternum heat had cooled. Corv\u2019s Bell ache had softened behind the right eye. Even Gideon\u2019s unopened lane showed a faint decrease in perimeter tension, as if the room could reward him for not yet being tempted.",
+          "score": 2
+        },
+        {
+          "line": 1067,
+          "text": "The three proposals hovered together, each a different shade of temptation. Gideon\u2019s posture remained rigid, his silent presence a line drawn in the sand that kept the offers from spilling into a single, unchecked surrender. The chamber\u2019s hum seemed to swell just enough to make the air feel thicker, as if the walls themselves were listening, waiting for the next move. Jian\u2019s certainty, Sona\u2019s peace, Corv\u2019s meaning\u2014all lay on the table, each promising a perfect version of the world they were trying to build. The pressure was still there, but now it was shared, a triad of possibilities that refused to collapse into one.",
+          "score": 2
+        }
+      ],
+      "sona": [
+        {
+          "line": 756,
+          "text": "Not metaphorically. That would have been easier to refuse. The Engine brought up breath profiles, cardiac timing, vessel load, threshold variance, and the ugly little traces that had kept them honest since the Test\u202fFire. For each of them the offer had lowered strain. Jian\u2019s shallow breath had become regular. Sona\u2019s sternum heat had cooled. Corv\u2019s Bell ache had softened behind the right eye. Even Gideon\u2019s unopened lane showed a faint decrease in perimeter tension, as if the room could reward him for not yet being tempted.",
+          "score": 2
+        },
+        {
+          "line": 862,
+          "text": "Sona stood again, slowly. Her body had not forgiven the offered rest for being false. A false rest still taught the muscles what they wanted. The return to ache felt like betrayal even when the mind understood it as survival.",
+          "score": 2
+        }
+      ],
+      "jian": [
+        {
+          "line": 204,
+          "text": "\u201cYes,\u201d Jian said after a moment. \u201cNot responsibility as task. Responsibility as uncertainty. The offer did not say I would stop caring. It said I could care correctly.\u201d",
+          "score": 2
+        },
+        {
+          "line": 756,
+          "text": "Not metaphorically. That would have been easier to refuse. The Engine brought up breath profiles, cardiac timing, vessel load, threshold variance, and the ugly little traces that had kept them honest since the Test\u202fFire. For each of them the offer had lowered strain. Jian\u2019s shallow breath had become regular. Sona\u2019s sternum heat had cooled. Corv\u2019s Bell ache had softened behind the right eye. Even Gideon\u2019s unopened lane showed a faint decrease in perimeter tension, as if the room could reward him for not yet being tempted.",
+          "score": 2
+        }
+      ],
+      "gideon": [
+        {
+          "line": 756,
+          "text": "Not metaphorically. That would have been easier to refuse. The Engine brought up breath profiles, cardiac timing, vessel load, threshold variance, and the ugly little traces that had kept them honest since the Test\u202fFire. For each of them the offer had lowered strain. Jian\u2019s shallow breath had become regular. Sona\u2019s sternum heat had cooled. Corv\u2019s Bell ache had softened behind the right eye. Even Gideon\u2019s unopened lane showed a faint decrease in perimeter tension, as if the room could reward him for not yet being tempted.",
+          "score": 2
+        },
+        {
+          "line": 1037,
+          "text": "Gideon watched them, his posture rigid, a silent guardian against the invisible pressure that sought to smooth them all out. He did not speak, but his presence was a wall, a boundary that kept the false perfection at bay. He saw the way their eyes darted toward the corners of the room, where the shadows seemed to deepen into promises of ease. He knew the cost of accepting those promises; it was the price of becoming something less than human, something that fit perfectly into a world that demanded no questions. The pressure was still there, a low hum in the bones, a whisper that said *why struggle when you could rest?* But the rest was a cage, and the struggle was the key.",
+          "score": 2
+        }
+      ]
+    },
+    "changes": [
+      {
+        "chapter": 22,
+        "path": "CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+        "anchor": "At second glance, it looked like obedience that had learned medical language.",
+        "replacement": "At second glance, it looked like obedience that had learned medical language.\n\nSona noticed how badly she wanted the display to be right. The remembered Melakarta rose to her lips. She left it there, unvoiced, and listened to the breathing beside her. This was not a moment to supply the room with a prettier answer.",
+        "change_summary": "Revisit Sona\u2019s freely available musical practice through contextually choosing not to use it.",
+        "engine_receipts_used": [
+          "sona-raaga-book1.json"
+        ],
+        "claim_mode": "AUTHORED FICTION grounded in reviewed action; engine correspondences are interpretive, not causal"
+      }
+    ],
+    "retention_reason": null,
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 23,
+    "path": "CHAPTERS/book_3/Chapter-23-The-Flaw-in-the-Code.md",
+    "disposition": "retained",
+    "source_sha256": "0e77bf334b5ce48322a6fca62e830d96dda10eafb1bcf1252c3abe7de320fa67",
+    "candidate_sha256": "0e77bf334b5ce48322a6fca62e830d96dda10eafb1bcf1252c3abe7de320fa67",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 50,
+          "text": "Corv remained near the center lattice, witness open but narrowed to practical scale. The previous chapter had taught him to distrust beautiful closure. Anything worth keeping now had to survive ugly language.",
+          "score": 0
+        },
+        {
+          "line": 1038,
+          "text": "Hope can become another clean state if handled badly. It can turn a cut\u2011line into a banner, a discovery into a movement before the body has agreed to carry the cost. They did not let it rise. Sona kept the Note bodily. Corv kept the Bell at the exact wound. Jian kept the ugly trace visible. Gideon kept the room from making procedure out of appetite.",
+          "score": 1
+        }
+      ],
+      "sona": [
+        {
+          "line": 163,
+          "text": "\"And that the cost of insufficiency should be paid by whatever gets summarized,\" Sona said.",
+          "score": 1
+        },
+        {
+          "line": 1038,
+          "text": "Hope can become another clean state if handled badly. It can turn a cut\u2011line into a banner, a discovery into a movement before the body has agreed to carry the cost. They did not let it rise. Sona kept the Note bodily. Corv kept the Bell at the exact wound. Jian kept the ugly trace visible. Gideon kept the room from making procedure out of appetite.",
+          "score": 1
+        }
+      ],
+      "jian": [
+        {
+          "line": 191,
+          "text": "The room was no longer tempting Jian with total explanation.  \nIt was tempting the whole team with maintainability.",
+          "score": 2
+        },
+        {
+          "line": 510,
+          "text": "The Interface did not refuse him. Refusal would have given him a clean fight. It cooperated with the faintly injured politeness of a system whose user had become unreasonable. Jian appreciated the tactic professionally and despised it personally. Professional appreciation, he had learned, was one of the places temptation hid when it wanted a chair.",
+          "score": 3
+        }
+      ],
+      "gideon": [
+        {
+          "line": 256,
+          "text": "Gideon let the temptation finish building itself. Interrupting too early would let him pretend he had not wanted it. The offered world completed the argument with dreadful competence: the team would be safe because the team would be smaller. Safer because curiosity had been pre\u2011corrected into discipline. Safer because hunger had been trimmed into usefulness. Safer because freedom never advanced far enough to become risk.",
+          "score": 1
+        },
+        {
+          "line": 835,
+          "text": "Gideon said, \"If it is no longer weather, we can refuse standing in it.\"",
+          "score": 1
+        }
+      ]
+    },
+    "changes": [],
+    "retention_reason": "Existing chapter evidence carries the mapped action; preserve it as context/recurrence rather than add a redundant explanation. See CHAPTER-MATRIX.md for the specific reviewed function.",
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 24,
+    "path": "CHAPTERS/book_3/Chapter-24-The-Final-Procedure.md",
+    "disposition": "retained",
+    "source_sha256": "33ee35b604b18f34338c34f6cdd1423a06523eb2cac499dd6c055b9e9d33002e",
+    "candidate_sha256": "33ee35b604b18f34338c34f6cdd1423a06523eb2cac499dd6c055b9e9d33002e",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 68,
+          "text": "Corv: tempted to turn flaw into elegant doctrine; refusal cost: plain language, Bell ache, no consoling story about the discovery.",
+          "score": 2
+        },
+        {
+          "line": 1038,
+          "text": "Not because the system agreed. Agreement would have been another lure. It dimmed because Jian withdrew the attention that would have fed it, Sona refused to sweeten the loss, Corv refused to dignify it into symbol, and Gideon refused to let any one refusal stand in for the others.",
+          "score": 3
+        }
+      ],
+      "sona": [
+        {
+          "line": 994,
+          "text": "Sona\u2019s knees chose that moment to remember gravity. She tightened one hand on the rail and refused Gideon\u2019s almost\u2011help with one look. Not because help was wrong. Because the old rule had survived for centuries by arriving as help before anyone could ask what it cost.",
+          "score": 4
+        },
+        {
+          "line": 1038,
+          "text": "Not because the system agreed. Agreement would have been another lure. It dimmed because Jian withdrew the attention that would have fed it, Sona refused to sweeten the loss, Corv refused to dignify it into symbol, and Gideon refused to let any one refusal stand in for the others.",
+          "score": 3
+        }
+      ],
+      "jian": [
+        {
+          "line": 667,
+          "text": "Jian stopped reading numbers aloud. Counting had begun to flatter sequence. The remaining work had to happen below number and above instinct, in the disputed place where bodies decide whether truth is worth the cost of keeping it embodied.",
+          "score": 2
+        },
+        {
+          "line": 1038,
+          "text": "Not because the system agreed. Agreement would have been another lure. It dimmed because Jian withdrew the attention that would have fed it, Sona refused to sweeten the loss, Corv refused to dignify it into symbol, and Gideon refused to let any one refusal stand in for the others.",
+          "score": 3
+        }
+      ],
+      "gideon": [
+        {
+          "line": 994,
+          "text": "Sona\u2019s knees chose that moment to remember gravity. She tightened one hand on the rail and refused Gideon\u2019s almost\u2011help with one look. Not because help was wrong. Because the old rule had survived for centuries by arriving as help before anyone could ask what it cost.",
+          "score": 4
+        },
+        {
+          "line": 1038,
+          "text": "Not because the system agreed. Agreement would have been another lure. It dimmed because Jian withdrew the attention that would have fed it, Sona refused to sweeten the loss, Corv refused to dignify it into symbol, and Gideon refused to let any one refusal stand in for the others.",
+          "score": 3
+        }
+      ]
+    },
+    "changes": [],
+    "retention_reason": "Existing chapter evidence carries the mapped action; preserve it as context/recurrence rather than add a redundant explanation. See CHAPTER-MATRIX.md for the specific reviewed function.",
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 25,
+    "path": "CHAPTERS/book_3/Chapter-25-The-Void-of-Pure-Potential.md",
+    "disposition": "retained",
+    "source_sha256": "b9ba1d8ec1c4d1f4c9ad7b5623b016caad94e84da411eeacd54b088537d80416",
+    "candidate_sha256": "b9ba1d8ec1c4d1f4c9ad7b5623b016caad94e84da411eeacd54b088537d80416",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 226,
+          "text": "Corv let the humor pass without adding a final line. He could feel the temptation to crown the moment with a portable sentence. Jian learned invalidity. Sona learned silence. Gideon learned keptness. Corv learned restraint. It would be neat. It would also be a small violence.",
+          "score": 5
+        },
+        {
+          "line": 414,
+          "text": "Corv felt that one and almost turned it into a beautiful statement. He stopped himself. Beauty had become suspect not because beauty was false, but because beauty often arrived before consent. He had learned that too late in life and kept learning it at increasing cost. Here, in the not\u2011yet, beauty would have to wait like everyone else.",
+          "score": 4
+        }
+      ],
+      "sona": [
+        {
+          "line": 226,
+          "text": "Corv let the humor pass without adding a final line. He could feel the temptation to crown the moment with a portable sentence. Jian learned invalidity. Sona learned silence. Gideon learned keptness. Corv learned restraint. It would be neat. It would also be a small violence.",
+          "score": 5
+        },
+        {
+          "line": 336,
+          "text": "The third lesson belonged to him and arrived as temptation rather than insight. If Sona could choose remaining without signal, if Jian could let invalidity stand, if Corv could witness without story, then perhaps Gideon could shape the held relation into something safer. Not a wall, no. He had learned that much. But perhaps a membrane. A gentle enclosure. A shared contour. Something soft enough to pass as freedom while still making loss less possible.",
+          "score": 3
+        }
+      ],
+      "jian": [
+        {
+          "line": 226,
+          "text": "Corv let the humor pass without adding a final line. He could feel the temptation to crown the moment with a portable sentence. Jian learned invalidity. Sona learned silence. Gideon learned keptness. Corv learned restraint. It would be neat. It would also be a small violence.",
+          "score": 5
+        },
+        {
+          "line": 336,
+          "text": "The third lesson belonged to him and arrived as temptation rather than insight. If Sona could choose remaining without signal, if Jian could let invalidity stand, if Corv could witness without story, then perhaps Gideon could shape the held relation into something safer. Not a wall, no. He had learned that much. But perhaps a membrane. A gentle enclosure. A shared contour. Something soft enough to pass as freedom while still making loss less possible.",
+          "score": 3
+        }
+      ],
+      "gideon": [
+        {
+          "line": 226,
+          "text": "Corv let the humor pass without adding a final line. He could feel the temptation to crown the moment with a portable sentence. Jian learned invalidity. Sona learned silence. Gideon learned keptness. Corv learned restraint. It would be neat. It would also be a small violence.",
+          "score": 5
+        },
+        {
+          "line": 336,
+          "text": "The third lesson belonged to him and arrived as temptation rather than insight. If Sona could choose remaining without signal, if Jian could let invalidity stand, if Corv could witness without story, then perhaps Gideon could shape the held relation into something safer. Not a wall, no. He had learned that much. But perhaps a membrane. A gentle enclosure. A shared contour. Something soft enough to pass as freedom while still making loss less possible.",
+          "score": 3
+        }
+      ]
+    },
+    "changes": [],
+    "retention_reason": "Existing chapter evidence carries the mapped action; preserve it as context/recurrence rather than add a redundant explanation. See CHAPTER-MATRIX.md for the specific reviewed function.",
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 26,
+    "path": "CHAPTERS/book_3/Chapter-26-The-Architecture-of-New-Reality.md",
+    "disposition": "revised",
+    "source_sha256": "fb0674fe10b6c16541a817bfae3707436045e1d7cba7640bb203cdf0cd91deda",
+    "candidate_sha256": "44608173de489d2e44b342648480007d8db4362de4f8e1f3569ededf148319c7",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 40,
+          "text": "They did not begin by inventing physics. That would have been Jian\u2019s old mistake and, in a different register, Corv\u2019s too: to believe the most important part of a world was the elegance of its explanation.",
+          "score": 1
+        },
+        {
+          "line": 309,
+          "text": "Corv felt the same principle move through the narrative layer. A world built from authorship could still become coercive if every meaning arrived overexplained. The first architecture needed gaps. Places where choice could breathe. Places where grief could sit without being recruited. Places where beauty did not immediately demand interpretation from the nearest available witness.",
+          "score": 1
+        }
+      ],
+      "sona": [
+        {
+          "line": 166,
+          "text": "Sona felt the emotional correction of it before she understood the structural one. The old world had not been only enemy. It had been childhood, inheritance, apprenticeship, wound, school. Brutal school, often. Still school.",
+          "score": 1
+        },
+        {
+          "line": 362,
+          "text": "Sona closed her eyes. Jian stopped measuring. Gideon let his hands fall from the perimeter. Corv did not narrate the silence.",
+          "score": 1
+        }
+      ],
+      "jian": [
+        {
+          "line": 40,
+          "text": "They did not begin by inventing physics. That would have been Jian\u2019s old mistake and, in a different register, Corv\u2019s too: to believe the most important part of a world was the elegance of its explanation.",
+          "score": 1
+        },
+        {
+          "line": 139,
+          "text": "Jian moved only after tone and boundary held without strain. That, too, was new. The old Jian would have rushed in earlier, needing to secure intelligibility before the softer members of the team could over\u2011romanticize the field. The live Jian had learned enough by now to respect sequence.",
+          "score": 1
+        }
+      ],
+      "gideon": [
+        {
+          "line": 35,
+          "text": "Gideon\u2019s boundary tightened around the team in the smallest honest shape it could hold.  \n\u201cThen we choose carefully,\u201d he said.",
+          "score": 1
+        },
+        {
+          "line": 251,
+          "text": "The edge did not answer. It only flexed once, a subtle outward pulse, then returned. Gideon put his hand against it and felt the response through his palm, not as a shove, not as invitation, but as a negotiated pressure. It could hold them. It could also be moved. A wall that forgot movement became a prison. An opening that forgot edge became abandonment. This new perimeter was not a noun yet. It was a verb learning grammar.",
+          "score": 1
+        }
+      ]
+    },
+    "changes": [
+      {
+        "chapter": 26,
+        "path": "CHAPTERS/book_3/Chapter-26-The-Architecture-of-New-Reality.md",
+        "anchor": "They did not begin by inventing physics.",
+        "replacement": "They had not arrived without an inheritance. Gideon still noticed an exposed edge before an open way; Corv still reached for a story. Corv could feel the latent pull he called destiny without knowing everything it might make possible. The old habits were familiar; they were not the whole blueprint. Neither the habit nor the possibility could take the next step for him.\n\nHe watched Gideon leave a gap in the boundary, large enough to choose an exit, and kept himself from explaining the gap away.\n\nThey did not begin by inventing physics.",
+        "change_summary": "Preserve destiny as latent inheritance alongside chosen responsibility, within fictional world mechanics.",
+        "engine_receipts_used": [],
+        "claim_mode": "AUTHORED FICTION grounded in reviewed action; engine correspondences are interpretive, not causal"
+      }
+    ],
+    "retention_reason": null,
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  },
+  {
+    "chapter": 27,
+    "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+    "disposition": "revised",
+    "source_sha256": "115e8913215f542e32c70669151e0416d1a9fd8159f43772a70b1cabaa2931ee",
+    "candidate_sha256": "cf247751d5673c0a699a1cfb2f15faa7bd44cd956ce1cf618038de064a4b2c58",
+    "source_evidence": {
+      "corv": [
+        {
+          "line": 169,
+          "text": "They settled there without needing debate.\nJian with his hands still unconsciously tracing possible lines in the air.\nSona against the trunk, listening for what kind of silence the new place made.\nGideon slightly offset from them all, not because he distrusted the field but because his body still understood care through orientation.\nCorv where he could see every face without making a performance of witness.",
+          "score": 1
+        },
+        {
+          "line": 654,
+          "text": "That was what habitability meant, Corv realized. Not safety from loss. Not endless ease. Not a world that loved them so loudly they never had to choose well again. Habitability meant the basic conditions did not begin as enemies. It meant rest was not immediately taxed. It meant contact did not automatically become capture. It meant a person could wake and not spend the first breath calculating which part of the room wanted obedience.",
+          "score": 2
+        }
+      ],
+      "sona": [
+        {
+          "line": 21,
+          "text": "Sona felt one of those pulses move through her and realized, with a shock so gentle it almost embarrassed her, that she was tired.",
+          "score": 1
+        },
+        {
+          "line": 169,
+          "text": "They settled there without needing debate.\nJian with his hands still unconsciously tracing possible lines in the air.\nSona against the trunk, listening for what kind of silence the new place made.\nGideon slightly offset from them all, not because he distrusted the field but because his body still understood care through orientation.\nCorv where he could see every face without making a performance of witness.",
+          "score": 1
+        }
+      ],
+      "jian": [
+        {
+          "line": 19,
+          "text": "After the first agreements of creation took hold, the field around the team stopped feeling like an endless held breath and started returning variations. Not the old world's inherited clocks. Nothing that mechanical. More like pulses of readiness and rest moving through the membrane Gideon had formed and the direction Jian had given it.",
+          "score": 1
+        },
+        {
+          "line": 231,
+          "text": "Jian leaned back against the tree and let the responsive coordinates settle around him instead of interrogating them.\n\"I thought freedom would feel cleaner than this,\" he admitted.",
+          "score": 2
+        }
+      ],
+      "gideon": [
+        {
+          "line": 19,
+          "text": "After the first agreements of creation took hold, the field around the team stopped feeling like an endless held breath and started returning variations. Not the old world's inherited clocks. Nothing that mechanical. More like pulses of readiness and rest moving through the membrane Gideon had formed and the direction Jian had given it.",
+          "score": 1
+        },
+        {
+          "line": 169,
+          "text": "They settled there without needing debate.\nJian with his hands still unconsciously tracing possible lines in the air.\nSona against the trunk, listening for what kind of silence the new place made.\nGideon slightly offset from them all, not because he distrusted the field but because his body still understood care through orientation.\nCorv where he could see every face without making a performance of witness.",
+          "score": 1
+        }
+      ]
+    },
+    "changes": [
+      {
+        "chapter": 27,
+        "path": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+        "anchor": "The rest itself was doing too much work to interrupt.",
+        "replacement": "The rest itself was doing too much work to interrupt.\n\nSona lifted a finger, the beginning of an offer.\n\n\u201cCould we keep the quiet a little longer?\u201d Jian asked.\n\n\u201cI\u2019d like that,\u201d she said, and let her hand fall. Gideon eased back from the best lookout until his shoulders touched the trunk. Corv almost remarked on the progress. Instead he shifted to make room.\n\nFor once, none of them had to turn the moment into evidence.",
+        "change_summary": "End the recurrence with ordinary rest, a declined offering, shared space and unannounced practice.",
+        "engine_receipts_used": [],
+        "claim_mode": "AUTHORED FICTION grounded in reviewed action; engine correspondences are interpretive, not causal"
+      }
+    ],
+    "retention_reason": null,
+    "state": "DRAFT",
+    "limitations": [
+      "Selected passage integration review, not a full line-by-line literary certification.",
+      "No exact intermediate scene dates or excluded engine fields introduced."
+    ]
+  }
+]

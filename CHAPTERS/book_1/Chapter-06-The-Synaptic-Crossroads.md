@@ -42,6 +42,10 @@ Jian’s gaze flicked down to her feet—anchored, balanced, already breathing i
 
 They were no longer arguing about routes; they were testing the same old fracture point. Jian heard the edge in her voice and recognized it as the exact cadence they had first discovered six months ago in training sim, the day they almost failed team sync. The memory blinked across his limbic HUD as a 9.2‑millisecond spike marked *shame*. He killed the alert. Not useful.
 
+His thumb hovered over the cleared space. They had just agreed to keep the outliers. The biorhythm sample he had carried in marked the emotional cycle low. For a moment it offered a convenient account of his irritation. Then he listened to Sona’s actual objection: wrong scale. A curve calculated from his birthday had not heard her argument.
+
+He restored the mark to the private log and opened a second scanner view to look for recurrence beneath the largest peaks. He turned the second view toward her. “Show me where you’d start.” He could test her objection without first deciding whether either of them was calm enough to be right. The shame remained; it no longer had the job of choosing what counted as signal.
+
 Gideon’s Klei flexed once, a deliberate micro‑contraction that reset their pheromonic overlay. “Vent the quarrel,” he said. “Or it will become the path.”
 
 Sona inhaled through clenched teeth, then let it out in a slow, deliberate sigh. “Fine. Let’s measure what refuses measurement.” She closed her eyes, shutting down visual input entirely. The red passage rushed in through other doors: the low roar of blood in the ears, the granular taste of adrenaline, the sub‑audible tremor she had learned to read as the body’s best attempt at honesty. Hunting not the loudest wave, but the one that returned.

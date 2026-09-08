@@ -97,6 +97,14 @@ Corv nodded. “We map both, but we follow the one that keeps being crushed.”
 Jian reset the scanner with deliberate calm. “Next descent must triangulate anomaly position under full spectral load. No more discarding outliers.” He met Corv’s gaze. “Understood.”  
 “Understood,” Corv answered, the word tasting of copper and regret.
 
+“Record that I told you to leave it,” Corv added.
+
+Jian looked up.
+
+“The anomaly. Don’t file the delay under instrument error.”
+
+He wanted to explain the pressure, the noise, the speed with which the choice had arrived. All of it was true. None of it belonged in place of the choice. Jian restored the discarded trace and attached Corv’s instruction to it. The next surge still came.
+
 Above them, CRH prepared another decree. Gideon shifted his weight, ready. “So we march deeper into the sermon that’s trying to kill us.”  
 “Yes,” Corv said. “But now we know it’s defending a silence.”
 

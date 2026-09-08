@@ -1,0 +1,24 @@
+[
+  {
+    "namespace": {
+      "id": "317be7d22ee14e51b1bed3d15145dd51",
+      "title": "ENGINE_DATA",
+      "supports_url_encoding": true
+    },
+    "status": 200,
+    "keys_count_first_page": 0,
+    "cursor": "",
+    "generic_wisdom_keys": []
+  },
+  {
+    "namespace": {
+      "id": "44b5878cbc3d44cda38d0a96382f6335",
+      "title": "CONSCIOUSNESS_KV",
+      "supports_url_encoding": true
+    },
+    "status": 200,
+    "keys_count_first_page": 0,
+    "cursor": "",
+    "generic_wisdom_keys": []
+  }
+]

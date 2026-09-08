@@ -1,0 +1,2059 @@
+{
+  "provenance": {
+    "method": "Union of actual natal activated gates compared against local canonical 36 channels. Derived editorial analysis, NOT a Selemene composite response; no compatibility score or causal claim.",
+    "channel_source": "/Volumes/madara/2026/Projects/tryambakam-noesis/Selemene-engine/crates/engine-human-design/src/analysis.rs",
+    "channel_sha256": "202dce773cfabd03a795529f346d142ea6533c14bfe7b8344a94e3cd1d789abd"
+  },
+  "characters": {
+    "corv": {
+      "hd": {
+        "active_channels": [
+          "20-10",
+          "8-1",
+          "34-20",
+          "10-34",
+          "37-40"
+        ],
+        "authority": "Emotional",
+        "defined_centers": [
+          "G",
+          "Sacral",
+          "Throat",
+          "SolarPlexus",
+          "Heart"
+        ],
+        "definition": "Split",
+        "design_activations": {
+          "earth": {
+            "gate": 19,
+            "line": 6,
+            "longitude": 312.82616071245127
+          },
+          "jupiter": {
+            "gate": 58,
+            "line": 1,
+            "longitude": 274.0814642647319
+          },
+          "mars": {
+            "gate": 43,
+            "line": 6,
+            "longitude": 233.69615110408574
+          },
+          "mercury": {
+            "gate": 40,
+            "line": 5,
+            "longitude": 159.58432490341374
+          },
+          "moon": {
+            "gate": 14,
+            "line": 1,
+            "longitude": 235.14559420951744
+          },
+          "neptune": {
+            "gate": 10,
+            "line": 1,
+            "longitude": 268.98355008737263
+          },
+          "northnode": {
+            "gate": 20,
+            "line": 5,
+            "longitude": 64.14528423126984
+          },
+          "pluto": {
+            "gate": 50,
+            "line": 4,
+            "longitude": 209.5161540166953
+          },
+          "saturn": {
+            "gate": 44,
+            "line": 3,
+            "longitude": 220.12218404112568
+          },
+          "southnode": {
+            "gate": 34,
+            "line": 5,
+            "longitude": 244.14528423126984
+          },
+          "sun": {
+            "gate": 33,
+            "line": 6,
+            "longitude": 132.8261607124513
+          },
+          "uranus": {
+            "gate": 9,
+            "line": 5,
+            "longitude": 249.60531984477296
+          },
+          "venus": {
+            "gate": 29,
+            "line": 3,
+            "longitude": 146.62475348313347
+          }
+        },
+        "hd_type": "ManifestingGenerator",
+        "personality_activations": {
+          "earth": {
+            "gate": 24,
+            "line": 4,
+            "longitude": 40.826142395963416
+          },
+          "jupiter": {
+            "gate": 58,
+            "line": 6,
+            "longitude": 279.1855733099887
+          },
+          "mars": {
+            "gate": 54,
+            "line": 6,
+            "longitude": 290.58919866824584
+          },
+          "mercury": {
+            "gate": 14,
+            "line": 1,
+            "longitude": 234.91804845256286
+          },
+          "moon": {
+            "gate": 37,
+            "line": 4,
+            "longitude": 338.98180443195054
+          },
+          "neptune": {
+            "gate": 10,
+            "line": 2,
+            "longitude": 269.43343688634303
+          },
+          "northnode": {
+            "gate": 8,
+            "line": 4,
+            "longitude": 57.568971250920505
+          },
+          "pluto": {
+            "gate": 28,
+            "line": 1,
+            "longitude": 212.42303066393774
+          },
+          "saturn": {
+            "gate": 1,
+            "line": 6,
+            "longitude": 228.08843243414694
+          },
+          "southnode": {
+            "gate": 14,
+            "line": 4,
+            "longitude": 237.5689712509205
+          },
+          "sun": {
+            "gate": 44,
+            "line": 4,
+            "longitude": 220.8261423959634
+          },
+          "uranus": {
+            "gate": 5,
+            "line": 1,
+            "longitude": 251.86477930414915
+          },
+          "venus": {
+            "gate": 5,
+            "line": 6,
+            "longitude": 256.807820870336
+          }
+        },
+        "profile": "4/6"
+      },
+      "activated_gates": [
+        1,
+        5,
+        8,
+        9,
+        10,
+        14,
+        19,
+        20,
+        24,
+        28,
+        29,
+        33,
+        34,
+        37,
+        40,
+        43,
+        44,
+        50,
+        54,
+        58
+      ],
+      "natal_channel_consistency": true,
+      "gene_keys_raw": {
+        "activation_sequence": {
+          "evolution": [
+            33,
+            19
+          ],
+          "lifes_work": [
+            44,
+            24
+          ],
+          "purpose": [
+            24,
+            19
+          ],
+          "radiance": [
+            44,
+            33
+          ]
+        },
+        "active_keys": [
+          {
+            "gift": "Synergy",
+            "key_number": 44,
+            "line": 3,
+            "name": "Gene Key 44",
+            "shadow": "Distraction",
+            "siddhi": "Synergy",
+            "source": "PersonalitySun"
+          },
+          {
+            "gift": "Returning",
+            "key_number": 24,
+            "line": 3,
+            "name": "Gene Key 24",
+            "shadow": "Addiction",
+            "siddhi": "Return",
+            "source": "PersonalityEarth"
+          },
+          {
+            "gift": "Mindfulness",
+            "key_number": 33,
+            "line": 3,
+            "name": "Gene Key 33",
+            "shadow": "Forgetting",
+            "siddhi": "Mindfulness",
+            "source": "DesignSun"
+          },
+          {
+            "gift": "Sensitivity",
+            "key_number": 19,
+            "line": 3,
+            "name": "Gene Key 19",
+            "shadow": "Need",
+            "siddhi": "Sacrifice",
+            "source": "DesignEarth"
+          }
+        ],
+        "frequency_assessments": [
+          {
+            "gene_key": 44,
+            "gift": "Synergy",
+            "gift_description": "The gift frequency expresses the balanced state of consciousness that serves the collective good.",
+            "name": "Gene Key 44",
+            "recognition_prompts": {
+              "gift": [
+                "When do you experience Synergy arising naturally, without effort?",
+                "Can you notice the space between the Distraction pattern and the emergence of Synergy?",
+                "What happens when Synergy flows through you? How does it feel different from the shadow?",
+                "When this gift is active, who are you serving? What opens?",
+                "Does this quality arise more often now than in the past?"
+              ],
+              "shadow": [
+                "Do you notice yourself reacting unconsciously through the pattern of Distraction?",
+                "When Distraction arises, can you feel the contraction or resistance in your body?",
+                "Do you find yourself caught in Distraction without realizing it until later?",
+                "What triggers this pattern? When does it feel most intense?",
+                "Can you witness the pattern without trying to change or fix it?"
+              ],
+              "siddhi": [
+                "Have you had moments where Synergy dissolved into Synergy?",
+                "When Synergy is present, is there still a 'you' experiencing it?",
+                "What remains when the personal expression of Synergy falls away?",
+                "Have you touched a state beyond your individual consciousness?",
+                "Can you rest in the paradox of this frequency without needing to understand it?"
+              ]
+            },
+            "shadow": "Distraction",
+            "shadow_description": "The shadow frequency represents the unconscious pattern that creates limitation and suffering in this area of life.",
+            "siddhi": "Synergy",
+            "siddhi_description": "The siddhi frequency embodies the highest potential of human consciousness in this archetypal pattern.",
+            "suggested_frequency": "Siddhi"
+          },
+          {
+            "gene_key": 24,
+            "gift": "Returning",
+            "gift_description": "The gift frequency expresses the balanced state of consciousness that serves the collective good.",
+            "name": "Gene Key 24",
+            "recognition_prompts": {
+              "gift": [
+                "When do you experience Returning arising naturally, without effort?",
+                "Can you notice the space between the Addiction pattern and the emergence of Returning?",
+                "What happens when Returning flows through you? How does it feel different from the shadow?",
+                "When this gift is active, who are you serving? What opens?",
+                "Does this quality arise more often now than in the past?"
+              ],
+              "shadow": [
+                "Do you notice yourself reacting unconsciously through the pattern of Addiction?",
+                "When Addiction arises, can you feel the contraction or resistance in your body?",
+                "Do you find yourself caught in Addiction without realizing it until later?",
+                "What triggers this pattern? When does it feel most intense?",
+                "Can you witness the pattern without trying to change or fix it?"
+              ],
+              "siddhi": [
+                "Have you had moments where Returning dissolved into Return?",
+                "When Return is present, is there still a 'you' experiencing it?",
+                "What remains when the personal expression of Returning falls away?",
+                "Have you touched a state beyond your individual consciousness?",
+                "Can you rest in the paradox of this frequency without needing to understand it?"
+              ]
+            },
+            "shadow": "Addiction",
+            "shadow_description": "The shadow frequency represents the unconscious pattern that creates limitation and suffering in this area of life.",
+            "siddhi": "Return",
+            "siddhi_description": "The siddhi frequency embodies the highest potential of human consciousness in this archetypal pattern.",
+            "suggested_frequency": "Siddhi"
+          },
+          {
+            "gene_key": 33,
+            "gift": "Mindfulness",
+            "gift_description": "The gift frequency expresses the balanced state of consciousness that serves the collective good.",
+            "name": "Gene Key 33",
+            "recognition_prompts": {
+              "gift": [
+                "When do you experience Mindfulness arising naturally, without effort?",
+                "Can you notice the space between the Forgetting pattern and the emergence of Mindfulness?",
+                "What happens when Mindfulness flows through you? How does it feel different from the shadow?",
+                "When this gift is active, who are you serving? What opens?",
+                "Does this quality arise more often now than in the past?"
+              ],
+              "shadow": [
+                "Do you notice yourself reacting unconsciously through the pattern of Forgetting?",
+                "When Forgetting arises, can you feel the contraction or resistance in your body?",
+                "Do you find yourself caught in Forgetting without realizing it until later?",
+                "What triggers this pattern? When does it feel most intense?",
+                "Can you witness the pattern without trying to change or fix it?"
+              ],
+              "siddhi": [
+                "Have you had moments where Mindfulness dissolved into Mindfulness?",
+                "When Mindfulness is present, is there still a 'you' experiencing it?",
+                "What remains when the personal expression of Mindfulness falls away?",
+                "Have you touched a state beyond your individual consciousness?",
+                "Can you rest in the paradox of this frequency without needing to understand it?"
+              ]
+            },
+            "shadow": "Forgetting",
+            "shadow_description": "The shadow frequency represents the unconscious pattern that creates limitation and suffering in this area of life.",
+            "siddhi": "Mindfulness",
+            "siddhi_description": "The siddhi frequency embodies the highest potential of human consciousness in this archetypal pattern.",
+            "suggested_frequency": "Siddhi"
+          },
+          {
+            "gene_key": 19,
+            "gift": "Sensitivity",
+            "gift_description": "The gift frequency expresses the balanced state of consciousness that serves the collective good.",
+            "name": "Gene Key 19",
+            "recognition_prompts": {
+              "gift": [
+                "When do you experience Sensitivity arising naturally, without effort?",
+                "Can you notice the space between the Need pattern and the emergence of Sensitivity?",
+                "What happens when Sensitivity flows through you? How does it feel different from the shadow?",
+                "When this gift is active, who are you serving? What opens?",
+                "Does this quality arise more often now than in the past?"
+              ],
+              "shadow": [
+                "Do you notice yourself reacting unconsciously through the pattern of Need?",
+                "When Need arises, can you feel the contraction or resistance in your body?",
+                "Do you find yourself caught in Need without realizing it until later?",
+                "What triggers this pattern? When does it feel most intense?",
+                "Can you witness the pattern without trying to change or fix it?"
+              ],
+              "siddhi": [
+                "Have you had moments where Sensitivity dissolved into Sacrifice?",
+                "When Sacrifice is present, is there still a 'you' experiencing it?",
+                "What remains when the personal expression of Sensitivity falls away?",
+                "Have you touched a state beyond your individual consciousness?",
+                "Can you rest in the paradox of this frequency without needing to understand it?"
+              ]
+            },
+            "shadow": "Need",
+            "shadow_description": "The shadow frequency represents the unconscious pattern that creates limitation and suffering in this area of life.",
+            "siddhi": "Sacrifice",
+            "siddhi_description": "The siddhi frequency embodies the highest potential of human consciousness in this archetypal pattern.",
+            "suggested_frequency": "Siddhi"
+          }
+        ]
+      },
+      "periods": {
+        "book1": {
+          "antardasha": {
+            "end": "2028-08-23T19:33:53+00:00",
+            "planet": "Mercury",
+            "start": "2026-03-28T04:06:53+00:00",
+            "years": 2.408333333333333
+          },
+          "mahadasha": {
+            "end": "2043-03-28T10:06:53+00:00",
+            "planet": "Mercury",
+            "start": "2026-03-28T04:06:53+00:00",
+            "years": 17.0
+          },
+          "pratyantardasha": {
+            "days": 146.60729166666664,
+            "end": "2027-02-13T16:58:45+00:00",
+            "planet": "Venus",
+            "start": "2026-09-20T02:24:16+00:00"
+          }
+        },
+        "book2": {
+          "antardasha": {
+            "end": "2028-08-23T19:33:53+00:00",
+            "planet": "Mercury",
+            "start": "2026-03-28T04:06:53+00:00",
+            "years": 2.408333333333333
+          },
+          "mahadasha": {
+            "end": "2043-03-28T10:06:53+00:00",
+            "planet": "Mercury",
+            "start": "2026-03-28T04:06:53+00:00",
+            "years": 17.0
+          },
+          "pratyantardasha": {
+            "days": 146.60729166666664,
+            "end": "2027-02-13T16:58:45+00:00",
+            "planet": "Venus",
+            "start": "2026-09-20T02:24:16+00:00"
+          }
+        },
+        "book3": {
+          "antardasha": {
+            "end": "2028-08-23T19:33:53+00:00",
+            "planet": "Mercury",
+            "start": "2026-03-28T04:06:53+00:00",
+            "years": 2.408333333333333
+          },
+          "mahadasha": {
+            "end": "2043-03-28T10:06:53+00:00",
+            "planet": "Mercury",
+            "start": "2026-03-28T04:06:53+00:00",
+            "years": 17.0
+          },
+          "pratyantardasha": {
+            "days": 43.982187499999995,
+            "end": "2027-03-29T16:33:05+00:00",
+            "planet": "Sun",
+            "start": "2027-02-13T16:58:45+00:00"
+          }
+        }
+      }
+    },
+    "sona": {
+      "hd": {
+        "active_channels": [
+          "45-21",
+          "59-6"
+        ],
+        "authority": "Emotional",
+        "defined_centers": [
+          "SolarPlexus",
+          "Throat",
+          "Sacral",
+          "Heart"
+        ],
+        "definition": "Split",
+        "design_activations": {
+          "earth": {
+            "gate": 6,
+            "line": 6,
+            "longitude": 177.83823460950998
+          },
+          "jupiter": {
+            "gate": 31,
+            "line": 2,
+            "longitude": 123.76358478500502
+          },
+          "mars": {
+            "gate": 45,
+            "line": 6,
+            "longitude": 82.22852484108444
+          },
+          "mercury": {
+            "gate": 21,
+            "line": 4,
+            "longitude": 13.043330902620236
+          },
+          "moon": {
+            "gate": 3,
+            "line": 6,
+            "longitude": 31.274014301617143
+          },
+          "neptune": {
+            "gate": 54,
+            "line": 2,
+            "longitude": 286.50092186461535
+          },
+          "northnode": {
+            "gate": 61,
+            "line": 6,
+            "longitude": 295.9439426676907
+          },
+          "pluto": {
+            "gate": 43,
+            "line": 2,
+            "longitude": 230.19919811086953
+          },
+          "saturn": {
+            "gate": 41,
+            "line": 3,
+            "longitude": 304.13666394477724
+          },
+          "southnode": {
+            "gate": 62,
+            "line": 6,
+            "longitude": 115.94394266769069
+          },
+          "sun": {
+            "gate": 36,
+            "line": 6,
+            "longitude": 357.83823460951004
+          },
+          "uranus": {
+            "gate": 38,
+            "line": 5,
+            "longitude": 283.4216123126532
+          },
+          "venus": {
+            "gate": 3,
+            "line": 4,
+            "longitude": 30.055686500768115
+          }
+        },
+        "hd_type": "ManifestingGenerator",
+        "personality_activations": {
+          "earth": {
+            "gate": 11,
+            "line": 4,
+            "longitude": 265.8382163092696
+          },
+          "jupiter": {
+            "gate": 33,
+            "line": 5,
+            "longitude": 131.81295176788194
+          },
+          "mars": {
+            "gate": 33,
+            "line": 6,
+            "longitude": 133.02466623427728
+          },
+          "mercury": {
+            "gate": 12,
+            "line": 4,
+            "longitude": 86.25473807807496
+          },
+          "moon": {
+            "gate": 59,
+            "line": 6,
+            "longitude": 155.01428364880246
+          },
+          "neptune": {
+            "gate": 54,
+            "line": 1,
+            "longitude": 285.91979790570707
+          },
+          "northnode": {
+            "gate": 54,
+            "line": 5,
+            "longitude": 289.12063811057055
+          },
+          "pluto": {
+            "gate": 1,
+            "line": 6,
+            "longitude": 228.01368201083736
+          },
+          "saturn": {
+            "gate": 41,
+            "line": 5,
+            "longitude": 306.07340864419234
+          },
+          "southnode": {
+            "gate": 53,
+            "line": 5,
+            "longitude": 109.12063811057055
+          },
+          "sun": {
+            "gate": 12,
+            "line": 4,
+            "longitude": 85.83821630926961
+          },
+          "uranus": {
+            "gate": 38,
+            "line": 4,
+            "longitude": 282.49422760390644
+          },
+          "venus": {
+            "gate": 33,
+            "line": 4,
+            "longitude": 131.1467900050454
+          }
+        },
+        "profile": "4/6"
+      },
+      "activated_gates": [
+        1,
+        3,
+        6,
+        11,
+        12,
+        21,
+        31,
+        33,
+        36,
+        38,
+        41,
+        43,
+        45,
+        53,
+        54,
+        59,
+        61,
+        62
+      ],
+      "natal_channel_consistency": true,
+      "gene_keys_raw": {
+        "activation_sequence": {
+          "evolution": [
+            36,
+            6
+          ],
+          "lifes_work": [
+            12,
+            11
+          ],
+          "purpose": [
+            11,
+            6
+          ],
+          "radiance": [
+            12,
+            36
+          ]
+        },
+        "active_keys": [
+          {
+            "gift": "Discrimination",
+            "key_number": 12,
+            "line": 3,
+            "name": "Gene Key 12",
+            "shadow": "Vanity",
+            "siddhi": "Purity",
+            "source": "PersonalitySun"
+          },
+          {
+            "gift": "Idealism",
+            "key_number": 11,
+            "line": 3,
+            "name": "Gene Key 11",
+            "shadow": "Obscurity",
+            "siddhi": "Light",
+            "source": "PersonalityEarth"
+          },
+          {
+            "gift": "Humanity",
+            "key_number": 36,
+            "line": 3,
+            "name": "Gene Key 36",
+            "shadow": "Turbulence",
+            "siddhi": "Compassion",
+            "source": "DesignSun"
+          },
+          {
+            "gift": "Diplomacy",
+            "key_number": 6,
+            "line": 3,
+            "name": "The Peacemaker",
+            "shadow": "Conflict",
+            "siddhi": "Peace",
+            "source": "DesignEarth"
+          }
+        ],
+        "frequency_assessments": [
+          {
+            "gene_key": 12,
+            "gift": "Discrimination",
+            "gift_description": "The gift frequency expresses the balanced state of consciousness that serves the collective good.",
+            "name": "Gene Key 12",
+            "recognition_prompts": {
+              "gift": [
+                "When do you experience Discrimination arising naturally, without effort?",
+                "Can you notice the space between the Vanity pattern and the emergence of Discrimination?",
+                "What happens when Discrimination flows through you? How does it feel different from the shadow?",
+                "When this gift is active, who are you serving? What opens?",
+                "Does this quality arise more often now than in the past?"
+              ],
+              "shadow": [
+                "Do you notice yourself reacting unconsciously through the pattern of Vanity?",
+                "When Vanity arises, can you feel the contraction or resistance in your body?",
+                "Do you find yourself caught in Vanity without realizing it until later?",
+                "What triggers this pattern? When does it feel most intense?",
+                "Can you witness the pattern without trying to change or fix it?"
+              ],
+              "siddhi": [
+                "Have you had moments where Discrimination dissolved into Purity?",
+                "When Purity is present, is there still a 'you' experiencing it?",
+                "What remains when the personal expression of Discrimination falls away?",
+                "Have you touched a state beyond your individual consciousness?",
+                "Can you rest in the paradox of this frequency without needing to understand it?"
+              ]
+            },
+            "shadow": "Vanity",
+            "shadow_description": "The shadow frequency represents the unconscious pattern that creates limitation and suffering in this area of life.",
+            "siddhi": "Purity",
+            "siddhi_description": "The siddhi frequency embodies the highest potential of human consciousness in this archetypal pattern.",
+            "suggested_frequency": "Siddhi"
+          },
+          {
+            "gene_key": 11,
+            "gift": "Idealism",
+            "gift_description": "The gift frequency expresses the balanced state of consciousness that serves the collective good.",
+            "name": "Gene Key 11",
+            "recognition_prompts": {
+              "gift": [
+                "When do you experience Idealism arising naturally, without effort?",
+                "Can you notice the space between the Obscurity pattern and the emergence of Idealism?",
+                "What happens when Idealism flows through you? How does it feel different from the shadow?",
+                "When this gift is active, who are you serving? What opens?",
+                "Does this quality arise more often now than in the past?"
+              ],
+              "shadow": [
+                "Do you notice yourself reacting unconsciously through the pattern of Obscurity?",
+                "When Obscurity arises, can you feel the contraction or resistance in your body?",
+                "Do you find yourself caught in Obscurity without realizing it until later?",
+                "What triggers this pattern? When does it feel most intense?",
+                "Can you witness the pattern without trying to change or fix it?"
+              ],
+              "siddhi": [
+                "Have you had moments where Idealism dissolved into Light?",
+                "When Light is present, is there still a 'you' experiencing it?",
+                "What remains when the personal expression of Idealism falls away?",
+                "Have you touched a state beyond your individual consciousness?",
+                "Can you rest in the paradox of this frequency without needing to understand it?"
+              ]
+            },
+            "shadow": "Obscurity",
+            "shadow_description": "The shadow frequency represents the unconscious pattern that creates limitation and suffering in this area of life.",
+            "siddhi": "Light",
+            "siddhi_description": "The siddhi frequency embodies the highest potential of human consciousness in this archetypal pattern.",
+            "suggested_frequency": "Siddhi"
+          },
+          {
+            "gene_key": 36,
+            "gift": "Humanity",
+            "gift_description": "The gift frequency expresses the balanced state of consciousness that serves the collective good.",
+            "name": "Gene Key 36",
+            "recognition_prompts": {
+              "gift": [
+                "When do you experience Humanity arising naturally, without effort?",
+                "Can you notice the space between the Turbulence pattern and the emergence of Humanity?",
+                "What happens when Humanity flows through you? How does it feel different from the shadow?",
+                "When this gift is active, who are you serving? What opens?",
+                "Does this quality arise more often now than in the past?"
+              ],
+              "shadow": [
+                "Do you notice yourself reacting unconsciously through the pattern of Turbulence?",
+                "When Turbulence arises, can you feel the contraction or resistance in your body?",
+                "Do you find yourself caught in Turbulence without realizing it until later?",
+                "What triggers this pattern? When does it feel most intense?",
+                "Can you witness the pattern without trying to change or fix it?"
+              ],
+              "siddhi": [
+                "Have you had moments where Humanity dissolved into Compassion?",
+                "When Compassion is present, is there still a 'you' experiencing it?",
+                "What remains when the personal expression of Humanity falls away?",
+                "Have you touched a state beyond your individual consciousness?",
+                "Can you rest in the paradox of this frequency without needing to understand it?"
+              ]
+            },
+            "shadow": "Turbulence",
+            "shadow_description": "The shadow frequency represents the unconscious pattern that creates limitation and suffering in this area of life.",
+            "siddhi": "Compassion",
+            "siddhi_description": "The siddhi frequency embodies the highest potential of human consciousness in this archetypal pattern.",
+            "suggested_frequency": "Siddhi"
+          },
+          {
+            "gene_key": 6,
+            "gift": "Diplomacy",
+            "gift_description": "Diplomacy brings natural peacemaking abilities and emotional intelligence in relationships.",
+            "name": "The Peacemaker",
+            "recognition_prompts": {
+              "gift": [
+                "When do you experience Diplomacy arising naturally, without effort?",
+                "Can you notice the space between the Conflict pattern and the emergence of Diplomacy?",
+                "What happens when Diplomacy flows through you? How does it feel different from the shadow?",
+                "When this gift is active, who are you serving? What opens?",
+                "Does this quality arise more often now than in the past?"
+              ],
+              "shadow": [
+                "Do you notice yourself reacting unconsciously through the pattern of Conflict?",
+                "When Conflict arises, can you feel the contraction or resistance in your body?",
+                "Do you find yourself caught in Conflict without realizing it until later?",
+                "What triggers this pattern? When does it feel most intense?",
+                "Can you witness the pattern without trying to change or fix it?"
+              ],
+              "siddhi": [
+                "Have you had moments where Diplomacy dissolved into Peace?",
+                "When Peace is present, is there still a 'you' experiencing it?",
+                "What remains when the personal expression of Diplomacy falls away?",
+                "Have you touched a state beyond your individual consciousness?",
+                "Can you rest in the paradox of this frequency without needing to understand it?"
+              ]
+            },
+            "shadow": "Conflict",
+            "shadow_description": "Conflict arises from emotional reactivity and the inability to find common ground with others.",
+            "siddhi": "Peace",
+            "siddhi_description": "Peace radiates unconditional love and harmony, dissolving all conflict through presence.",
+            "suggested_frequency": "Siddhi"
+          }
+        ]
+      },
+      "periods": {
+        "book1": {
+          "antardasha": {
+            "end": "2028-01-11T21:40:40+00:00",
+            "planet": "Venus",
+            "start": "2026-05-13T03:40:40+00:00",
+            "years": 1.6666666666666667
+          },
+          "mahadasha": {
+            "end": "2028-07-12T12:40:40+00:00",
+            "planet": "Moon",
+            "start": "2018-07-13T00:40:40+00:00",
+            "years": 10.0
+          },
+          "pratyantardasha": {
+            "days": 91.3125,
+            "end": "2027-03-18T14:25:40+00:00",
+            "planet": "Rahu",
+            "start": "2026-12-17T06:55:40+00:00"
+          }
+        },
+        "book2": {
+          "antardasha": {
+            "end": "2028-01-11T21:40:40+00:00",
+            "planet": "Venus",
+            "start": "2026-05-13T03:40:40+00:00",
+            "years": 1.6666666666666667
+          },
+          "mahadasha": {
+            "end": "2028-07-12T12:40:40+00:00",
+            "planet": "Moon",
+            "start": "2018-07-13T00:40:40+00:00",
+            "years": 10.0
+          },
+          "pratyantardasha": {
+            "days": 91.3125,
+            "end": "2027-03-18T14:25:40+00:00",
+            "planet": "Rahu",
+            "start": "2026-12-17T06:55:40+00:00"
+          }
+        },
+        "book3": {
+          "antardasha": {
+            "end": "2028-01-11T21:40:40+00:00",
+            "planet": "Venus",
+            "start": "2026-05-13T03:40:40+00:00",
+            "years": 1.6666666666666667
+          },
+          "mahadasha": {
+            "end": "2028-07-12T12:40:40+00:00",
+            "planet": "Moon",
+            "start": "2018-07-13T00:40:40+00:00",
+            "years": 10.0
+          },
+          "pratyantardasha": {
+            "days": 81.16666666666667,
+            "end": "2027-06-07T18:25:40+00:00",
+            "planet": "Jupiter",
+            "start": "2027-03-18T14:25:40+00:00"
+          }
+        }
+      }
+    },
+    "jian": {
+      "hd": {
+        "active_channels": [
+          "43-23",
+          "29-46",
+          "26-44"
+        ],
+        "authority": "Sacral",
+        "defined_centers": [
+          "Spleen",
+          "G",
+          "Ajna",
+          "Throat",
+          "Heart",
+          "Sacral"
+        ],
+        "definition": "TripleSplit",
+        "design_activations": {
+          "earth": {
+            "gate": 23,
+            "line": 3,
+            "longitude": 51.30777062642932
+          },
+          "jupiter": {
+            "gate": 42,
+            "line": 1,
+            "longitude": 21.39898658449021
+          },
+          "mars": {
+            "gate": 32,
+            "line": 3,
+            "longitude": 203.5432843505821
+          },
+          "mercury": {
+            "gate": 28,
+            "line": 1,
+            "longitude": 212.26910115787945
+          },
+          "moon": {
+            "gate": 29,
+            "line": 4,
+            "longitude": 148.12901493446265
+          },
+          "neptune": {
+            "gate": 58,
+            "line": 3,
+            "longitude": 276.1161792449246
+          },
+          "northnode": {
+            "gate": 25,
+            "line": 4,
+            "longitude": 1.0991168020782427
+          },
+          "pluto": {
+            "gate": 44,
+            "line": 3,
+            "longitude": 220.36179719906062
+          },
+          "saturn": {
+            "gate": 26,
+            "line": 4,
+            "longitude": 259.9288687439847
+          },
+          "southnode": {
+            "gate": 46,
+            "line": 4,
+            "longitude": 181.09911680207824
+          },
+          "sun": {
+            "gate": 43,
+            "line": 3,
+            "longitude": 231.30777062642932
+          },
+          "uranus": {
+            "gate": 11,
+            "line": 3,
+            "longitude": 264.8622492124596
+          },
+          "venus": {
+            "gate": 5,
+            "line": 2,
+            "longitude": 252.78836937082767
+          }
+        },
+        "hd_type": "Generator",
+        "personality_activations": {
+          "earth": {
+            "gate": 4,
+            "line": 1,
+            "longitude": 139.30751832137736
+          },
+          "jupiter": {
+            "gate": 42,
+            "line": 5,
+            "longitude": 24.61867028421123
+          },
+          "mars": {
+            "gate": 26,
+            "line": 5,
+            "longitude": 260.874280847862
+          },
+          "mercury": {
+            "gate": 49,
+            "line": 6,
+            "longitude": 324.26650574021335
+          },
+          "moon": {
+            "gate": 32,
+            "line": 5,
+            "longitude": 204.85614712535207
+          },
+          "neptune": {
+            "gate": 58,
+            "line": 6,
+            "longitude": 279.16026098270544
+          },
+          "northnode": {
+            "gate": 36,
+            "line": 1,
+            "longitude": 353.4790695914368
+          },
+          "pluto": {
+            "gate": 44,
+            "line": 6,
+            "longitude": 222.57506437766807
+          },
+          "saturn": {
+            "gate": 10,
+            "line": 2,
+            "longitude": 269.5535368599703
+          },
+          "southnode": {
+            "gate": 6,
+            "line": 1,
+            "longitude": 173.47906959143688
+          },
+          "sun": {
+            "gate": 49,
+            "line": 1,
+            "longitude": 319.30751832137736
+          },
+          "uranus": {
+            "gate": 10,
+            "line": 2,
+            "longitude": 269.7394909324843
+          },
+          "venus": {
+            "gate": 25,
+            "line": 2,
+            "longitude": 359.19258749201106
+          }
+        },
+        "profile": "1/3"
+      },
+      "activated_gates": [
+        4,
+        5,
+        6,
+        10,
+        11,
+        23,
+        25,
+        26,
+        28,
+        29,
+        32,
+        36,
+        42,
+        43,
+        44,
+        46,
+        49,
+        58
+      ],
+      "natal_channel_consistency": true,
+      "gene_keys_raw": {
+        "activation_sequence": {
+          "evolution": [
+            43,
+            23
+          ],
+          "lifes_work": [
+            49,
+            4
+          ],
+          "purpose": [
+            4,
+            23
+          ],
+          "radiance": [
+            49,
+            43
+          ]
+        },
+        "active_keys": [
+          {
+            "gift": "Restraint",
+            "key_number": 49,
+            "line": 3,
+            "name": "Gene Key 49",
+            "shadow": "Reaction",
+            "siddhi": "Restraint",
+            "source": "PersonalitySun"
+          },
+          {
+            "gift": "Understanding",
+            "key_number": 4,
+            "line": 3,
+            "name": "The Understanding",
+            "shadow": "Intolerance",
+            "siddhi": "Forgiveness",
+            "source": "PersonalityEarth"
+          },
+          {
+            "gift": "Insight",
+            "key_number": 43,
+            "line": 3,
+            "name": "Gene Key 43",
+            "shadow": "Interference",
+            "siddhi": "Insight",
+            "source": "DesignSun"
+          },
+          {
+            "gift": "Simplicity",
+            "key_number": 23,
+            "line": 3,
+            "name": "Gene Key 23",
+            "shadow": "Complexity",
+            "siddhi": "Simplicity",
+            "source": "DesignEarth"
+          }
+        ],
+        "frequency_assessments": [
+          {
+            "gene_key": 49,
+            "gift": "Restraint",
+            "gift_description": "The gift frequency expresses the balanced state of consciousness that serves the collective good.",
+            "name": "Gene Key 49",
+            "recognition_prompts": {
+              "gift": [
+                "When do you experience Restraint arising naturally, without effort?",
+                "Can you notice the space between the Reaction pattern and the emergence of Restraint?",
+                "What happens when Restraint flows through you? How does it feel different from the shadow?",
+                "When this gift is active, who are you serving? What opens?",
+                "Does this quality arise more often now than in the past?"
+              ],
+              "shadow": [
+                "Do you notice yourself reacting unconsciously through the pattern of Reaction?",
+                "When Reaction arises, can you feel the contraction or resistance in your body?",
+                "Do you find yourself caught in Reaction without realizing it until later?",
+                "What triggers this pattern? When does it feel most intense?",
+                "Can you witness the pattern without trying to change or fix it?"
+              ],
+              "siddhi": [
+                "Have you had moments where Restraint dissolved into Restraint?",
+                "When Restraint is present, is there still a 'you' experiencing it?",
+                "What remains when the personal expression of Restraint falls away?",
+                "Have you touched a state beyond your individual consciousness?",
+                "Can you rest in the paradox of this frequency without needing to understand it?"
+              ]
+            },
+            "shadow": "Reaction",
+            "shadow_description": "The shadow frequency represents the unconscious pattern that creates limitation and suffering in this area of life.",
+            "siddhi": "Restraint",
+            "siddhi_description": "The siddhi frequency embodies the highest potential of human consciousness in this archetypal pattern.",
+            "suggested_frequency": "Siddhi"
+          },
+          {
+            "gene_key": 4,
+            "gift": "Understanding",
+            "gift_description": "Understanding brings mental clarity and the ability to see multiple perspectives, fostering tolerance and wisdom.",
+            "name": "The Understanding",
+            "recognition_prompts": {
+              "gift": [
+                "When do you experience Understanding arising naturally, without effort?",
+                "Can you notice the space between the Intolerance pattern and the emergence of Understanding?",
+                "What happens when Understanding flows through you? How does it feel different from the shadow?",
+                "When this gift is active, who are you serving? What opens?",
+                "Does this quality arise more often now than in the past?"
+              ],
+              "shadow": [
+                "Do you notice yourself reacting unconsciously through the pattern of Intolerance?",
+                "When Intolerance arises, can you feel the contraction or resistance in your body?",
+                "Do you find yourself caught in Intolerance without realizing it until later?",
+                "What triggers this pattern? When does it feel most intense?",
+                "Can you witness the pattern without trying to change or fix it?"
+              ],
+              "siddhi": [
+                "Have you had moments where Understanding dissolved into Forgiveness?",
+                "When Forgiveness is present, is there still a 'you' experiencing it?",
+                "What remains when the personal expression of Understanding falls away?",
+                "Have you touched a state beyond your individual consciousness?",
+                "Can you rest in the paradox of this frequency without needing to understand it?"
+              ]
+            },
+            "shadow": "Intolerance",
+            "shadow_description": "Intolerance creates rigid thinking patterns and the inability to accept different perspectives or approaches.",
+            "siddhi": "Forgiveness",
+            "siddhi_description": "Forgiveness transcends all judgment, seeing the perfection in every experience and being.",
+            "suggested_frequency": "Siddhi"
+          },
+          {
+            "gene_key": 43,
+            "gift": "Insight",
+            "gift_description": "The gift frequency expresses the balanced state of consciousness that serves the collective good.",
+            "name": "Gene Key 43",
+            "recognition_prompts": {
+              "gift": [
+                "When do you experience Insight arising naturally, without effort?",
+                "Can you notice the space between the Interference pattern and the emergence of Insight?",
+                "What happens when Insight flows through you? How does it feel different from the shadow?",
+                "When this gift is active, who are you serving? What opens?",
+                "Does this quality arise more often now than in the past?"
+              ],
+              "shadow": [
+                "Do you notice yourself reacting unconsciously through the pattern of Interference?",
+                "When Interference arises, can you feel the contraction or resistance in your body?",
+                "Do you find yourself caught in Interference without realizing it until later?",
+                "What triggers this pattern? When does it feel most intense?",
+                "Can you witness the pattern without trying to change or fix it?"
+              ],
+              "siddhi": [
+                "Have you had moments where Insight dissolved into Insight?",
+                "When Insight is present, is there still a 'you' experiencing it?",
+                "What remains when the personal expression of Insight falls away?",
+                "Have you touched a state beyond your individual consciousness?",
+                "Can you rest in the paradox of this frequency without needing to understand it?"
+              ]
+            },
+            "shadow": "Interference",
+            "shadow_description": "The shadow frequency represents the unconscious pattern that creates limitation and suffering in this area of life.",
+            "siddhi": "Insight",
+            "siddhi_description": "The siddhi frequency embodies the highest potential of human consciousness in this archetypal pattern.",
+            "suggested_frequency": "Siddhi"
+          },
+          {
+            "gene_key": 23,
+            "gift": "Simplicity",
+            "gift_description": "The gift frequency expresses the balanced state of consciousness that serves the collective good.",
+            "name": "Gene Key 23",
+            "recognition_prompts": {
+              "gift": [
+                "When do you experience Simplicity arising naturally, without effort?",
+                "Can you notice the space between the Complexity pattern and the emergence of Simplicity?",
+                "What happens when Simplicity flows through you? How does it feel different from the shadow?",
+                "When this gift is active, who are you serving? What opens?",
+                "Does this quality arise more often now than in the past?"
+              ],
+              "shadow": [
+                "Do you notice yourself reacting unconsciously through the pattern of Complexity?",
+                "When Complexity arises, can you feel the contraction or resistance in your body?",
+                "Do you find yourself caught in Complexity without realizing it until later?",
+                "What triggers this pattern? When does it feel most intense?",
+                "Can you witness the pattern without trying to change or fix it?"
+              ],
+              "siddhi": [
+                "Have you had moments where Simplicity dissolved into Simplicity?",
+                "When Simplicity is present, is there still a 'you' experiencing it?",
+                "What remains when the personal expression of Simplicity falls away?",
+                "Have you touched a state beyond your individual consciousness?",
+                "Can you rest in the paradox of this frequency without needing to understand it?"
+              ]
+            },
+            "shadow": "Complexity",
+            "shadow_description": "The shadow frequency represents the unconscious pattern that creates limitation and suffering in this area of life.",
+            "siddhi": "Simplicity",
+            "siddhi_description": "The siddhi frequency embodies the highest potential of human consciousness in this archetypal pattern.",
+            "suggested_frequency": "Siddhi"
+          }
+        ]
+      },
+      "periods": {
+        "book1": {
+          "antardasha": {
+            "end": "2028-07-16T07:47:14+00:00",
+            "planet": "Mercury",
+            "start": "2025-11-06T04:38:14+00:00",
+            "years": 2.691666666666667
+          },
+          "mahadasha": {
+            "end": "2041-11-03T03:35:14+00:00",
+            "planet": "Saturn",
+            "start": "2022-11-03T09:35:14+00:00",
+            "years": 19.0
+          },
+          "pratyantardasha": {
+            "days": 81.92760416666667,
+            "end": "2027-03-12T18:12:43+00:00",
+            "planet": "Moon",
+            "start": "2026-12-20T19:56:58+00:00"
+          }
+        },
+        "book2": {
+          "antardasha": {
+            "end": "2028-07-16T07:47:14+00:00",
+            "planet": "Mercury",
+            "start": "2025-11-06T04:38:14+00:00",
+            "years": 2.691666666666667
+          },
+          "mahadasha": {
+            "end": "2041-11-03T03:35:14+00:00",
+            "planet": "Saturn",
+            "start": "2022-11-03T09:35:14+00:00",
+            "years": 19.0
+          },
+          "pratyantardasha": {
+            "days": 81.92760416666667,
+            "end": "2027-03-12T18:12:43+00:00",
+            "planet": "Moon",
+            "start": "2026-12-20T19:56:58+00:00"
+          }
+        },
+        "book3": {
+          "antardasha": {
+            "end": "2028-07-16T07:47:14+00:00",
+            "planet": "Mercury",
+            "start": "2025-11-06T04:38:14+00:00",
+            "years": 2.691666666666667
+          },
+          "mahadasha": {
+            "end": "2041-11-03T03:35:14+00:00",
+            "planet": "Saturn",
+            "start": "2022-11-03T09:35:14+00:00",
+            "years": 19.0
+          },
+          "pratyantardasha": {
+            "days": 57.34932291666667,
+            "end": "2027-05-09T02:35:44+00:00",
+            "planet": "Mars",
+            "start": "2027-03-12T18:12:43+00:00"
+          }
+        }
+      }
+    },
+    "gideon": {
+      "hd": {
+        "active_channels": [
+          "11-56",
+          "10-57"
+        ],
+        "authority": "Splenic",
+        "defined_centers": [
+          "G",
+          "Throat",
+          "Spleen",
+          "Ajna"
+        ],
+        "definition": "Split",
+        "design_activations": {
+          "earth": {
+            "gate": 10,
+            "line": 6,
+            "longitude": 273.32627323857605
+          },
+          "jupiter": {
+            "gate": 46,
+            "line": 4,
+            "longitude": 181.60689318975108
+          },
+          "mars": {
+            "gate": 35,
+            "line": 3,
+            "longitude": 73.93910341374912
+          },
+          "mercury": {
+            "gate": 15,
+            "line": 1,
+            "longitude": 88.883722493406
+          },
+          "moon": {
+            "gate": 25,
+            "line": 3,
+            "longitude": 0.6554814561248183
+          },
+          "neptune": {
+            "gate": 11,
+            "line": 1,
+            "longitude": 263.20675356896123
+          },
+          "northnode": {
+            "gate": 56,
+            "line": 6,
+            "longitude": 121.99491603581846
+          },
+          "pluto": {
+            "gate": 32,
+            "line": 1,
+            "longitude": 201.54668733142137
+          },
+          "saturn": {
+            "gate": 46,
+            "line": 6,
+            "longitude": 183.32771939942552
+          },
+          "southnode": {
+            "gate": 60,
+            "line": 6,
+            "longitude": 301.99491603581845
+          },
+          "sun": {
+            "gate": 15,
+            "line": 6,
+            "longitude": 93.32627323857605
+          },
+          "uranus": {
+            "gate": 14,
+            "line": 3,
+            "longitude": 236.70873990388
+          },
+          "venus": {
+            "gate": 62,
+            "line": 4,
+            "longitude": 114.06831469723471
+          }
+        },
+        "hd_type": "Projector",
+        "personality_activations": {
+          "earth": {
+            "gate": 25,
+            "line": 4,
+            "longitude": 1.326334549851822
+          },
+          "jupiter": {
+            "gate": 57,
+            "line": 2,
+            "longitude": 196.50073934098089
+          },
+          "mars": {
+            "gate": 7,
+            "line": 1,
+            "longitude": 134.02309731264648
+          },
+          "mercury": {
+            "gate": 50,
+            "line": 2,
+            "longitude": 207.44974590933185
+          },
+          "moon": {
+            "gate": 7,
+            "line": 5,
+            "longitude": 137.48308140965614
+          },
+          "neptune": {
+            "gate": 26,
+            "line": 6,
+            "longitude": 262.2075155143627
+          },
+          "northnode": {
+            "gate": 56,
+            "line": 4,
+            "longitude": 119.99453869260068
+          },
+          "pluto": {
+            "gate": 32,
+            "line": 3,
+            "longitude": 203.35703390985395
+          },
+          "saturn": {
+            "gate": 48,
+            "line": 3,
+            "longitude": 191.40111710147
+          },
+          "southnode": {
+            "gate": 60,
+            "line": 4,
+            "longitude": 299.9945386926007
+          },
+          "sun": {
+            "gate": 46,
+            "line": 4,
+            "longitude": 181.3263345498518
+          },
+          "uranus": {
+            "gate": 14,
+            "line": 3,
+            "longitude": 237.14226063993593
+          },
+          "venus": {
+            "gate": 1,
+            "line": 1,
+            "longitude": 223.40189118380576
+          }
+        },
+        "profile": "4/6"
+      },
+      "activated_gates": [
+        1,
+        7,
+        10,
+        11,
+        14,
+        15,
+        25,
+        26,
+        32,
+        35,
+        46,
+        48,
+        50,
+        56,
+        57,
+        60,
+        62
+      ],
+      "natal_channel_consistency": true,
+      "gene_keys_raw": {
+        "activation_sequence": {
+          "evolution": [
+            15,
+            10
+          ],
+          "lifes_work": [
+            46,
+            25
+          ],
+          "purpose": [
+            25,
+            10
+          ],
+          "radiance": [
+            46,
+            15
+          ]
+        },
+        "active_keys": [
+          {
+            "gift": "Resourcefulness",
+            "key_number": 46,
+            "line": 3,
+            "name": "Gene Key 46",
+            "shadow": "Inadequacy",
+            "siddhi": "Resourcefulness",
+            "source": "PersonalitySun"
+          },
+          {
+            "gift": "Acceptance",
+            "key_number": 25,
+            "line": 3,
+            "name": "Gene Key 25",
+            "shadow": "Constriction",
+            "siddhi": "Acceptance",
+            "source": "PersonalityEarth"
+          },
+          {
+            "gift": "Magnetism",
+            "key_number": 15,
+            "line": 3,
+            "name": "Gene Key 15",
+            "shadow": "Dullness",
+            "siddhi": "Magnetism",
+            "source": "DesignSun"
+          },
+          {
+            "gift": "Naturalness",
+            "key_number": 10,
+            "line": 3,
+            "name": "Gene Key 10",
+            "shadow": "Self-Obsession",
+            "siddhi": "Being",
+            "source": "DesignEarth"
+          }
+        ],
+        "frequency_assessments": [
+          {
+            "gene_key": 46,
+            "gift": "Resourcefulness",
+            "gift_description": "The gift frequency expresses the balanced state of consciousness that serves the collective good.",
+            "name": "Gene Key 46",
+            "recognition_prompts": {
+              "gift": [
+                "When do you experience Resourcefulness arising naturally, without effort?",
+                "Can you notice the space between the Inadequacy pattern and the emergence of Resourcefulness?",
+                "What happens when Resourcefulness flows through you? How does it feel different from the shadow?",
+                "When this gift is active, who are you serving? What opens?",
+                "Does this quality arise more often now than in the past?"
+              ],
+              "shadow": [
+                "Do you notice yourself reacting unconsciously through the pattern of Inadequacy?",
+                "When Inadequacy arises, can you feel the contraction or resistance in your body?",
+                "Do you find yourself caught in Inadequacy without realizing it until later?",
+                "What triggers this pattern? When does it feel most intense?",
+                "Can you witness the pattern without trying to change or fix it?"
+              ],
+              "siddhi": [
+                "Have you had moments where Resourcefulness dissolved into Resourcefulness?",
+                "When Resourcefulness is present, is there still a 'you' experiencing it?",
+                "What remains when the personal expression of Resourcefulness falls away?",
+                "Have you touched a state beyond your individual consciousness?",
+                "Can you rest in the paradox of this frequency without needing to understand it?"
+              ]
+            },
+            "shadow": "Inadequacy",
+            "shadow_description": "The shadow frequency represents the unconscious pattern that creates limitation and suffering in this area of life.",
+            "siddhi": "Resourcefulness",
+            "siddhi_description": "The siddhi frequency embodies the highest potential of human consciousness in this archetypal pattern.",
+            "suggested_frequency": "Siddhi"
+          },
+          {
+            "gene_key": 25,
+            "gift": "Acceptance",
+            "gift_description": "The gift frequency expresses the balanced state of consciousness that serves the collective good.",
+            "name": "Gene Key 25",
+            "recognition_prompts": {
+              "gift": [
+                "When do you experience Acceptance arising naturally, without effort?",
+                "Can you notice the space between the Constriction pattern and the emergence of Acceptance?",
+                "What happens when Acceptance flows through you? How does it feel different from the shadow?",
+                "When this gift is active, who are you serving? What opens?",
+                "Does this quality arise more often now than in the past?"
+              ],
+              "shadow": [
+                "Do you notice yourself reacting unconsciously through the pattern of Constriction?",
+                "When Constriction arises, can you feel the contraction or resistance in your body?",
+                "Do you find yourself caught in Constriction without realizing it until later?",
+                "What triggers this pattern? When does it feel most intense?",
+                "Can you witness the pattern without trying to change or fix it?"
+              ],
+              "siddhi": [
+                "Have you had moments where Acceptance dissolved into Acceptance?",
+                "When Acceptance is present, is there still a 'you' experiencing it?",
+                "What remains when the personal expression of Acceptance falls away?",
+                "Have you touched a state beyond your individual consciousness?",
+                "Can you rest in the paradox of this frequency without needing to understand it?"
+              ]
+            },
+            "shadow": "Constriction",
+            "shadow_description": "The shadow frequency represents the unconscious pattern that creates limitation and suffering in this area of life.",
+            "siddhi": "Acceptance",
+            "siddhi_description": "The siddhi frequency embodies the highest potential of human consciousness in this archetypal pattern.",
+            "suggested_frequency": "Siddhi"
+          },
+          {
+            "gene_key": 15,
+            "gift": "Magnetism",
+            "gift_description": "The gift frequency expresses the balanced state of consciousness that serves the collective good.",
+            "name": "Gene Key 15",
+            "recognition_prompts": {
+              "gift": [
+                "When do you experience Magnetism arising naturally, without effort?",
+                "Can you notice the space between the Dullness pattern and the emergence of Magnetism?",
+                "What happens when Magnetism flows through you? How does it feel different from the shadow?",
+                "When this gift is active, who are you serving? What opens?",
+                "Does this quality arise more often now than in the past?"
+              ],
+              "shadow": [
+                "Do you notice yourself reacting unconsciously through the pattern of Dullness?",
+                "When Dullness arises, can you feel the contraction or resistance in your body?",
+                "Do you find yourself caught in Dullness without realizing it until later?",
+                "What triggers this pattern? When does it feel most intense?",
+                "Can you witness the pattern without trying to change or fix it?"
+              ],
+              "siddhi": [
+                "Have you had moments where Magnetism dissolved into Magnetism?",
+                "When Magnetism is present, is there still a 'you' experiencing it?",
+                "What remains when the personal expression of Magnetism falls away?",
+                "Have you touched a state beyond your individual consciousness?",
+                "Can you rest in the paradox of this frequency without needing to understand it?"
+              ]
+            },
+            "shadow": "Dullness",
+            "shadow_description": "The shadow frequency represents the unconscious pattern that creates limitation and suffering in this area of life.",
+            "siddhi": "Magnetism",
+            "siddhi_description": "The siddhi frequency embodies the highest potential of human consciousness in this archetypal pattern.",
+            "suggested_frequency": "Siddhi"
+          },
+          {
+            "gene_key": 10,
+            "gift": "Naturalness",
+            "gift_description": "The gift frequency expresses the balanced state of consciousness that serves the collective good.",
+            "name": "Gene Key 10",
+            "recognition_prompts": {
+              "gift": [
+                "When do you experience Naturalness arising naturally, without effort?",
+                "Can you notice the space between the Self-Obsession pattern and the emergence of Naturalness?",
+                "What happens when Naturalness flows through you? How does it feel different from the shadow?",
+                "When this gift is active, who are you serving? What opens?",
+                "Does this quality arise more often now than in the past?"
+              ],
+              "shadow": [
+                "Do you notice yourself reacting unconsciously through the pattern of Self-Obsession?",
+                "When Self-Obsession arises, can you feel the contraction or resistance in your body?",
+                "Do you find yourself caught in Self-Obsession without realizing it until later?",
+                "What triggers this pattern? When does it feel most intense?",
+                "Can you witness the pattern without trying to change or fix it?"
+              ],
+              "siddhi": [
+                "Have you had moments where Naturalness dissolved into Being?",
+                "When Being is present, is there still a 'you' experiencing it?",
+                "What remains when the personal expression of Naturalness falls away?",
+                "Have you touched a state beyond your individual consciousness?",
+                "Can you rest in the paradox of this frequency without needing to understand it?"
+              ]
+            },
+            "shadow": "Self-Obsession",
+            "shadow_description": "The shadow frequency represents the unconscious pattern that creates limitation and suffering in this area of life.",
+            "siddhi": "Being",
+            "siddhi_description": "The siddhi frequency embodies the highest potential of human consciousness in this archetypal pattern.",
+            "suggested_frequency": "Siddhi"
+          }
+        ]
+      },
+      "periods": {
+        "book1": {
+          "antardasha": {
+            "end": "2027-02-11T11:36:48+00:00",
+            "planet": "Saturn",
+            "start": "2025-07-13T04:06:48+00:00",
+            "years": 1.5833333333333333
+          },
+          "mahadasha": {
+            "end": "2031-04-13T08:36:48+00:00",
+            "planet": "Moon",
+            "start": "2021-04-12T20:36:48+00:00",
+            "years": 10.0
+          },
+          "pratyantardasha": {
+            "days": 77.10833333333333,
+            "end": "2027-02-11T11:36:47+00:00",
+            "planet": "Jupiter",
+            "start": "2026-11-26T09:00:47+00:00"
+          }
+        },
+        "book2": {
+          "antardasha": {
+            "end": "2027-02-11T11:36:48+00:00",
+            "planet": "Saturn",
+            "start": "2025-07-13T04:06:48+00:00",
+            "years": 1.5833333333333333
+          },
+          "mahadasha": {
+            "end": "2031-04-13T08:36:48+00:00",
+            "planet": "Moon",
+            "start": "2021-04-12T20:36:48+00:00",
+            "years": 10.0
+          },
+          "pratyantardasha": {
+            "days": 77.10833333333333,
+            "end": "2027-02-11T11:36:47+00:00",
+            "planet": "Jupiter",
+            "start": "2026-11-26T09:00:47+00:00"
+          }
+        },
+        "book3": {
+          "antardasha": {
+            "end": "2028-07-12T22:06:48+00:00",
+            "planet": "Mercury",
+            "start": "2027-02-11T11:36:48+00:00",
+            "years": 1.4166666666666667
+          },
+          "mahadasha": {
+            "end": "2031-04-13T08:36:48+00:00",
+            "planet": "Moon",
+            "start": "2021-04-12T20:36:48+00:00",
+            "years": 10.0
+          },
+          "pratyantardasha": {
+            "days": 73.30364583333333,
+            "end": "2027-04-25T18:54:03+00:00",
+            "planet": "Mercury",
+            "start": "2027-02-11T11:36:48+00:00"
+          }
+        }
+      }
+    }
+  },
+  "pairs": [
+    {
+      "pair": [
+        "corv",
+        "sona"
+      ],
+      "shared_gates": [
+        1,
+        33,
+        43,
+        54
+      ],
+      "complementary_channels": [
+        {
+          "channel": [
+            24,
+            61
+          ],
+          "corv": [
+            24
+          ],
+          "sona": [
+            61
+          ]
+        },
+        {
+          "channel": [
+            28,
+            38
+          ],
+          "corv": [
+            28
+          ],
+          "sona": [
+            38
+          ]
+        }
+      ]
+    },
+    {
+      "pair": [
+        "corv",
+        "jian"
+      ],
+      "shared_gates": [
+        5,
+        10,
+        28,
+        29,
+        43,
+        44,
+        58
+      ],
+      "complementary_channels": [
+        {
+          "channel": [
+            32,
+            54
+          ],
+          "corv": [
+            54
+          ],
+          "jian": [
+            32
+          ]
+        },
+        {
+          "channel": [
+            19,
+            49
+          ],
+          "corv": [
+            19
+          ],
+          "jian": [
+            49
+          ]
+        }
+      ]
+    },
+    {
+      "pair": [
+        "corv",
+        "gideon"
+      ],
+      "shared_gates": [
+        1,
+        10,
+        14,
+        50
+      ],
+      "complementary_channels": [
+        {
+          "channel": [
+            20,
+            57
+          ],
+          "corv": [
+            20
+          ],
+          "gideon": [
+            57
+          ]
+        },
+        {
+          "channel": [
+            29,
+            46
+          ],
+          "corv": [
+            29
+          ],
+          "gideon": [
+            46
+          ]
+        },
+        {
+          "channel": [
+            5,
+            15
+          ],
+          "corv": [
+            5
+          ],
+          "gideon": [
+            15
+          ]
+        },
+        {
+          "channel": [
+            26,
+            44
+          ],
+          "corv": [
+            44
+          ],
+          "gideon": [
+            26
+          ]
+        },
+        {
+          "channel": [
+            32,
+            54
+          ],
+          "corv": [
+            54
+          ],
+          "gideon": [
+            32
+          ]
+        },
+        {
+          "channel": [
+            34,
+            57
+          ],
+          "corv": [
+            34
+          ],
+          "gideon": [
+            57
+          ]
+        }
+      ]
+    },
+    {
+      "pair": [
+        "sona",
+        "jian"
+      ],
+      "shared_gates": [
+        6,
+        11,
+        36,
+        43
+      ],
+      "complementary_channels": [
+        {
+          "channel": [
+            28,
+            38
+          ],
+          "sona": [
+            38
+          ],
+          "jian": [
+            28
+          ]
+        },
+        {
+          "channel": [
+            32,
+            54
+          ],
+          "sona": [
+            54
+          ],
+          "jian": [
+            32
+          ]
+        },
+        {
+          "channel": [
+            42,
+            53
+          ],
+          "sona": [
+            53
+          ],
+          "jian": [
+            42
+          ]
+        }
+      ]
+    },
+    {
+      "pair": [
+        "sona",
+        "gideon"
+      ],
+      "shared_gates": [
+        1,
+        11,
+        62
+      ],
+      "complementary_channels": [
+        {
+          "channel": [
+            7,
+            31
+          ],
+          "sona": [
+            31
+          ],
+          "gideon": [
+            7
+          ]
+        },
+        {
+          "channel": [
+            35,
+            36
+          ],
+          "sona": [
+            36
+          ],
+          "gideon": [
+            35
+          ]
+        },
+        {
+          "channel": [
+            32,
+            54
+          ],
+          "sona": [
+            54
+          ],
+          "gideon": [
+            32
+          ]
+        },
+        {
+          "channel": [
+            3,
+            60
+          ],
+          "sona": [
+            3
+          ],
+          "gideon": [
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "pair": [
+        "jian",
+        "gideon"
+      ],
+      "shared_gates": [
+        10,
+        11,
+        25,
+        26,
+        32,
+        46
+      ],
+      "complementary_channels": [
+        {
+          "channel": [
+            35,
+            36
+          ],
+          "jian": [
+            36
+          ],
+          "gideon": [
+            35
+          ]
+        },
+        {
+          "channel": [
+            5,
+            15
+          ],
+          "jian": [
+            5
+          ],
+          "gideon": [
+            15
+          ]
+        }
+      ]
+    }
+  ]
+}

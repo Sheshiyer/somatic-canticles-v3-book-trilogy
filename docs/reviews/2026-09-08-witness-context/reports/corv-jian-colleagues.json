@@ -1,0 +1,1238 @@
+{
+  "state": "GENERATED_UNREVIEWED",
+  "context": {
+    "frozen_checkpoint": "2027-03-22T06:00:00Z",
+    "subjects": [
+      {
+        "name": "Corvan Luminth",
+        "id": "corv",
+        "engine_results": [
+          {
+            "engine_id": "human-design",
+            "result": {
+              "active_channels": [
+                "20-10",
+                "8-1",
+                "34-20",
+                "10-34",
+                "37-40"
+              ],
+              "authority": "Emotional",
+              "defined_centers": [
+                "Heart",
+                "G",
+                "Throat",
+                "SolarPlexus",
+                "Sacral"
+              ],
+              "definition": "Split",
+              "design_activations": {
+                "earth": {
+                  "gate": 19,
+                  "line": 6,
+                  "longitude": 312.82616071245127
+                },
+                "jupiter": {
+                  "gate": 58,
+                  "line": 1,
+                  "longitude": 274.0814642647319
+                },
+                "mars": {
+                  "gate": 43,
+                  "line": 6,
+                  "longitude": 233.69615110408574
+                },
+                "mercury": {
+                  "gate": 40,
+                  "line": 5,
+                  "longitude": 159.58432490341374
+                },
+                "moon": {
+                  "gate": 14,
+                  "line": 1,
+                  "longitude": 235.14559420951744
+                },
+                "neptune": {
+                  "gate": 10,
+                  "line": 1,
+                  "longitude": 268.98355008737263
+                },
+                "northnode": {
+                  "gate": 20,
+                  "line": 5,
+                  "longitude": 64.14528423126984
+                },
+                "pluto": {
+                  "gate": 50,
+                  "line": 4,
+                  "longitude": 209.5161540166953
+                },
+                "saturn": {
+                  "gate": 44,
+                  "line": 3,
+                  "longitude": 220.12218404112568
+                },
+                "southnode": {
+                  "gate": 34,
+                  "line": 5,
+                  "longitude": 244.14528423126984
+                },
+                "sun": {
+                  "gate": 33,
+                  "line": 6,
+                  "longitude": 132.8261607124513
+                },
+                "uranus": {
+                  "gate": 9,
+                  "line": 5,
+                  "longitude": 249.60531984477296
+                },
+                "venus": {
+                  "gate": 29,
+                  "line": 3,
+                  "longitude": 146.62475348313347
+                }
+              },
+              "hd_type": "ManifestingGenerator",
+              "personality_activations": {
+                "earth": {
+                  "gate": 24,
+                  "line": 4,
+                  "longitude": 40.826142395963416
+                },
+                "jupiter": {
+                  "gate": 58,
+                  "line": 6,
+                  "longitude": 279.1855733099887
+                },
+                "mars": {
+                  "gate": 54,
+                  "line": 6,
+                  "longitude": 290.58919866824584
+                },
+                "mercury": {
+                  "gate": 14,
+                  "line": 1,
+                  "longitude": 234.91804845256286
+                },
+                "moon": {
+                  "gate": 37,
+                  "line": 4,
+                  "longitude": 338.98180443195054
+                },
+                "neptune": {
+                  "gate": 10,
+                  "line": 2,
+                  "longitude": 269.43343688634303
+                },
+                "northnode": {
+                  "gate": 8,
+                  "line": 4,
+                  "longitude": 57.568971250920505
+                },
+                "pluto": {
+                  "gate": 28,
+                  "line": 1,
+                  "longitude": 212.42303066393774
+                },
+                "saturn": {
+                  "gate": 1,
+                  "line": 6,
+                  "longitude": 228.08843243414694
+                },
+                "southnode": {
+                  "gate": 14,
+                  "line": 4,
+                  "longitude": 237.5689712509205
+                },
+                "sun": {
+                  "gate": 44,
+                  "line": 4,
+                  "longitude": 220.8261423959634
+                },
+                "uranus": {
+                  "gate": 5,
+                  "line": 1,
+                  "longitude": 251.86477930414915
+                },
+                "venus": {
+                  "gate": 5,
+                  "line": 6,
+                  "longitude": 256.807820870336
+                }
+              },
+              "profile": "4/6"
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 1.054656,
+              "backend": "swiss-ephemeris",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:06.349723481Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:06.349723481+00:00",
+            "processing_time_ms": 1.054656
+          },
+          {
+            "engine_id": "numerology",
+            "result": {
+              "birthday": {
+                "is_master": false,
+                "meaning": "Creativity, expression, joy",
+                "reduction_chain": [
+                  3
+                ],
+                "value": 3
+              },
+              "chaldean_name": {
+                "is_master": false,
+                "meaning": "Analysis, wisdom, introspection",
+                "reduction_chain": [
+                  52,
+                  7
+                ],
+                "value": 7
+              },
+              "expression": {
+                "is_master": false,
+                "meaning": "Power, abundance, achievement",
+                "reduction_chain": [
+                  62,
+                  8
+                ],
+                "value": 8
+              },
+              "life_path": {
+                "is_master": false,
+                "meaning": "Compassion, completion, universal love",
+                "reduction_chain": [
+                  36,
+                  9
+                ],
+                "value": 9
+              },
+              "personality": {
+                "is_master": false,
+                "meaning": "Analysis, wisdom, introspection",
+                "reduction_chain": [
+                  43,
+                  7
+                ],
+                "value": 7
+              },
+              "soul_urge": {
+                "is_master": false,
+                "meaning": "Leadership, independence, pioneering",
+                "reduction_chain": [
+                  19,
+                  10,
+                  1
+                ],
+                "value": 1
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 0,
+            "metadata": {
+              "calculation_time_ms": 0.023311000000000002,
+              "backend": "native-rust",
+              "precision_achieved": "exact",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:06.323966081Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:06.323966081+00:00",
+            "processing_time_ms": 0.023311000000000002
+          },
+          {
+            "engine_id": "enneagram",
+            "result": {
+              "mode": "lookup",
+              "typeAnalysis": {
+                "center": "gut",
+                "disintegration": {
+                  "description": "Nines become anxious and reactive like unhealthy Sixes",
+                  "name": "The Loyalist",
+                  "type": 6
+                },
+                "harmonicGroup": "positive",
+                "hornevianGroup": "withdrawn",
+                "integration": {
+                  "description": "Nines access energy and self-development of healthy Threes",
+                  "name": "The Achiever",
+                  "type": 3
+                },
+                "type": {
+                  "averageTraits": [
+                    "Self-effacing and accommodating",
+                    "Complacent and resigned",
+                    "Disengaged and unreflective",
+                    "Passive-aggressive when pushed",
+                    "Stubbornly resistant to change"
+                  ],
+                  "coreDesire": "To have inner peace and stability",
+                  "coreFear": "Loss of connection, fragmentation, or conflict",
+                  "coreWeakness": "Sloth—forgetting own priorities and going along to get along",
+                  "description": "Receptive, reassuring, agreeable, and complacent. Nines are stable, trusting, and supportive. They fear conflict and separation, often merging with others to maintain peace.",
+                  "healthyTraits": [
+                    "Serene and at peace",
+                    "Present and self-possessed",
+                    "Accepting and unself-conscious",
+                    "Natural mediators and healers",
+                    "Optimistic and supportive"
+                  ],
+                  "keyMotivations": [
+                    "Creating harmony in environment",
+                    "Avoiding conflicts and tension",
+                    "Preserving things as they are",
+                    "Resisting whatever would upset or disturb them"
+                  ],
+                  "name": "The Peacemaker",
+                  "number": 9,
+                  "unhealthyTraits": [
+                    "Dissociated and neglectful",
+                    "Obstinate and fatalistic",
+                    "Depersonalized and repressed",
+                    "Helpless and inadequate",
+                    "Severely disoriented"
+                  ]
+                },
+                "wings": [
+                  {
+                    "name": "The Challenger",
+                    "number": 8
+                  },
+                  {
+                    "name": "The Reformer",
+                    "number": 1
+                  }
+                ]
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 1,
+            "metadata": {
+              "calculation_time_ms": 2,
+              "backend": "typescript",
+              "precision_achieved": "exact",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:06.906Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:06.906+00:00",
+            "processing_time_ms": 2
+          },
+          {
+            "engine_id": "vimshottari",
+            "result": {
+              "current_period": {
+                "antardasha": {
+                  "end": "2028-08-23T19:33:53+00:00",
+                  "planet": "Mercury",
+                  "start": "2026-03-28T04:06:53+00:00",
+                  "years": 2.408333333333333
+                },
+                "mahadasha": {
+                  "end": "2043-03-28T10:06:53+00:00",
+                  "planet": "Mercury",
+                  "start": "2026-03-28T04:06:53+00:00",
+                  "years": 17
+                },
+                "pratyantardasha": {
+                  "days": 43.982187499999995,
+                  "end": "2027-03-29T16:33:05+00:00",
+                  "planet": "Sun",
+                  "start": "2027-02-13T16:58:45+00:00"
+                }
+              },
+              "birth_nakshatra": {
+                "moon_longitude": 315.2618044319505,
+                "name": "Shatabhisha",
+                "number": 24
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 0.565202,
+              "backend": "swiss-ephemeris-sidereal",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:25.887371339Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:25.887371339+00:00",
+            "processing_time_ms": 0.565202
+          },
+          {
+            "engine_id": "biorhythm",
+            "result": {
+              "target_date": "2027-03-22",
+              "physical": {
+                "cycle_day": 0,
+                "days_until_critical": 12,
+                "days_until_peak": 6,
+                "is_critical": true,
+                "percentage": 49.99999999999069,
+                "phase": "Critical",
+                "value": -1.8615374123803674e-13
+              },
+              "emotional": {
+                "cycle_day": 23,
+                "days_until_critical": 6,
+                "days_until_peak": 12,
+                "is_critical": false,
+                "percentage": 4.9515566048679736,
+                "phase": "Rising",
+                "value": -0.9009688679026405
+              },
+              "intellectual": {
+                "cycle_day": 2,
+                "days_until_critical": 15,
+                "days_until_peak": 7,
+                "is_critical": false,
+                "percentage": 68.58312278299564,
+                "phase": "Rising",
+                "value": 0.37166245565991285
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 0,
+            "metadata": {
+              "calculation_time_ms": 0.080419,
+              "backend": "native-rust",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:07.488726094Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:07.488726094+00:00",
+            "processing_time_ms": 0.080419
+          },
+          {
+            "engine_id": "biofield",
+            "result": {
+              "computation_mode": "vedic",
+              "interpretation_kind": "birth-derived symbolic map; not physical measurement",
+              "chakra_readings": [
+                {
+                  "activity_level": 0.6656249999999999,
+                  "balance": 0.5,
+                  "chakra": "Root",
+                  "chakra_name": "Root",
+                  "color_intensity": "moderate red",
+                  "element": "Earth",
+                  "location": "Base of spine, perineum"
+                },
+                {
+                  "activity_level": 0.41875000000000007,
+                  "balance": 0.3333333333333333,
+                  "chakra": "Sacral",
+                  "chakra_name": "Sacral",
+                  "color_intensity": "dim orange",
+                  "element": "Water",
+                  "location": "Lower abdomen, below navel"
+                },
+                {
+                  "activity_level": 0.7281249999999999,
+                  "balance": 0.7142857142857143,
+                  "chakra": "SolarPlexus",
+                  "chakra_name": "Solar Plexus",
+                  "color_intensity": "bright yellow",
+                  "element": "Fire",
+                  "location": "Upper abdomen, stomach area"
+                },
+                {
+                  "activity_level": 0.36875,
+                  "balance": 0.3333333333333333,
+                  "chakra": "Heart",
+                  "chakra_name": "Heart",
+                  "color_intensity": "dim green",
+                  "element": "Air",
+                  "location": "Center of chest"
+                },
+                {
+                  "activity_level": 0.34375,
+                  "balance": 0,
+                  "chakra": "Throat",
+                  "chakra_name": "Throat",
+                  "color_intensity": "dim blue",
+                  "element": "Ether/Space",
+                  "location": "Throat area"
+                },
+                {
+                  "activity_level": 0.508125,
+                  "balance": 0.4,
+                  "chakra": "ThirdEye",
+                  "chakra_name": "Third Eye",
+                  "color_intensity": "dim indigo",
+                  "element": "Light",
+                  "location": "Between eyebrows"
+                },
+                {
+                  "activity_level": 0.609375,
+                  "balance": 0.7142857142857143,
+                  "chakra": "Crown",
+                  "chakra_name": "Crown",
+                  "color_intensity": "moderate violet",
+                  "element": "Consciousness",
+                  "location": "Top of head"
+                }
+              ]
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 1.089312,
+              "backend": "vedic-ephemeris",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:26.371704272Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:26.371704272+00:00",
+            "processing_time_ms": 1.089312
+          }
+        ],
+        "existing_proposed_arc": {
+          "character": "corv",
+          "chapter": 1,
+          "engine": "enneagram",
+          "receipt": "corv-enneagram-book1.json",
+          "field": "typeAnalysis.type.keyMotivations",
+          "external_stimulus": "Missing interval in the room, identified by Jian",
+          "internal_stimulus": "Urge to make the absence bearable through a beautiful explanation",
+          "interpretation": "Harmony-seeking may be shaping his account; lookup selected by Corv, not a diagnosis of the room",
+          "chosen_action": "Ask Sona what to hold and leave the slate alone",
+          "feedback": "Sona asks him to hold the question; absence remains unresolved",
+          "revised_understanding": "An unanswered signal can remain available without being converted into reassuring meaning",
+          "shared_lens_recurrence": 14,
+          "later_action_recurrence": [
+            5,
+            20,
+            26,
+            27
+          ]
+        }
+      },
+      {
+        "name": "Jian Quoril",
+        "id": "jian",
+        "engine_results": [
+          {
+            "engine_id": "human-design",
+            "result": {
+              "active_channels": [
+                "43-23",
+                "29-46",
+                "26-44"
+              ],
+              "authority": "Sacral",
+              "defined_centers": [
+                "Throat",
+                "Spleen",
+                "Ajna",
+                "Heart",
+                "Sacral",
+                "G"
+              ],
+              "definition": "TripleSplit",
+              "design_activations": {
+                "earth": {
+                  "gate": 23,
+                  "line": 3,
+                  "longitude": 51.30777062642932
+                },
+                "jupiter": {
+                  "gate": 42,
+                  "line": 1,
+                  "longitude": 21.39898658449021
+                },
+                "mars": {
+                  "gate": 32,
+                  "line": 3,
+                  "longitude": 203.5432843505821
+                },
+                "mercury": {
+                  "gate": 28,
+                  "line": 1,
+                  "longitude": 212.26910115787945
+                },
+                "moon": {
+                  "gate": 29,
+                  "line": 4,
+                  "longitude": 148.12901493446265
+                },
+                "neptune": {
+                  "gate": 58,
+                  "line": 3,
+                  "longitude": 276.1161792449246
+                },
+                "northnode": {
+                  "gate": 25,
+                  "line": 4,
+                  "longitude": 1.0991168020782427
+                },
+                "pluto": {
+                  "gate": 44,
+                  "line": 3,
+                  "longitude": 220.36179719906062
+                },
+                "saturn": {
+                  "gate": 26,
+                  "line": 4,
+                  "longitude": 259.9288687439847
+                },
+                "southnode": {
+                  "gate": 46,
+                  "line": 4,
+                  "longitude": 181.09911680207824
+                },
+                "sun": {
+                  "gate": 43,
+                  "line": 3,
+                  "longitude": 231.30777062642932
+                },
+                "uranus": {
+                  "gate": 11,
+                  "line": 3,
+                  "longitude": 264.8622492124596
+                },
+                "venus": {
+                  "gate": 5,
+                  "line": 2,
+                  "longitude": 252.78836937082767
+                }
+              },
+              "hd_type": "Generator",
+              "personality_activations": {
+                "earth": {
+                  "gate": 4,
+                  "line": 1,
+                  "longitude": 139.30751832137736
+                },
+                "jupiter": {
+                  "gate": 42,
+                  "line": 5,
+                  "longitude": 24.61867028421123
+                },
+                "mars": {
+                  "gate": 26,
+                  "line": 5,
+                  "longitude": 260.874280847862
+                },
+                "mercury": {
+                  "gate": 49,
+                  "line": 6,
+                  "longitude": 324.26650574021335
+                },
+                "moon": {
+                  "gate": 32,
+                  "line": 5,
+                  "longitude": 204.85614712535207
+                },
+                "neptune": {
+                  "gate": 58,
+                  "line": 6,
+                  "longitude": 279.16026098270544
+                },
+                "northnode": {
+                  "gate": 36,
+                  "line": 1,
+                  "longitude": 353.4790695914368
+                },
+                "pluto": {
+                  "gate": 44,
+                  "line": 6,
+                  "longitude": 222.57506437766807
+                },
+                "saturn": {
+                  "gate": 10,
+                  "line": 2,
+                  "longitude": 269.5535368599703
+                },
+                "southnode": {
+                  "gate": 6,
+                  "line": 1,
+                  "longitude": 173.47906959143688
+                },
+                "sun": {
+                  "gate": 49,
+                  "line": 1,
+                  "longitude": 319.30751832137736
+                },
+                "uranus": {
+                  "gate": 10,
+                  "line": 2,
+                  "longitude": 269.7394909324843
+                },
+                "venus": {
+                  "gate": 25,
+                  "line": 2,
+                  "longitude": 359.19258749201106
+                }
+              },
+              "profile": "1/3"
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 1.1847139999999998,
+              "backend": "swiss-ephemeris",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:09.433405195Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:09.433405195+00:00",
+            "processing_time_ms": 1.1847139999999998
+          },
+          {
+            "engine_id": "numerology",
+            "result": {
+              "birthday": {
+                "is_master": false,
+                "meaning": "Compassion, completion, universal love",
+                "reduction_chain": [
+                  9
+                ],
+                "value": 9
+              },
+              "chaldean_name": {
+                "is_master": false,
+                "meaning": "Leadership, independence, pioneering",
+                "reduction_chain": [
+                  28,
+                  10,
+                  1
+                ],
+                "value": 1
+              },
+              "expression": {
+                "is_master": false,
+                "meaning": "Compassion, completion, universal love",
+                "reduction_chain": [
+                  54,
+                  9
+                ],
+                "value": 9
+              },
+              "life_path": {
+                "is_master": false,
+                "meaning": "Leadership, independence, pioneering",
+                "reduction_chain": [
+                  19,
+                  10,
+                  1
+                ],
+                "value": 1
+              },
+              "personality": {
+                "is_master": false,
+                "meaning": "Power, abundance, achievement",
+                "reduction_chain": [
+                  26,
+                  8
+                ],
+                "value": 8
+              },
+              "soul_urge": {
+                "is_master": false,
+                "meaning": "Leadership, independence, pioneering",
+                "reduction_chain": [
+                  28,
+                  10,
+                  1
+                ],
+                "value": 1
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 0,
+            "metadata": {
+              "calculation_time_ms": 0.019681,
+              "backend": "native-rust",
+              "precision_achieved": "exact",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:09.259726187Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:09.259726187+00:00",
+            "processing_time_ms": 0.019681
+          },
+          {
+            "engine_id": "enneagram",
+            "result": {
+              "mode": "lookup",
+              "typeAnalysis": {
+                "center": "head",
+                "disintegration": {
+                  "description": "Fives become scattered and impulsive like unhealthy Sevens",
+                  "name": "The Enthusiast",
+                  "type": 7
+                },
+                "harmonicGroup": "competency",
+                "hornevianGroup": "withdrawn",
+                "integration": {
+                  "description": "Fives access confidence and decisiveness of healthy Eights",
+                  "name": "The Challenger",
+                  "type": 8
+                },
+                "type": {
+                  "averageTraits": [
+                    "Detached and preoccupied",
+                    "Conceptualizing and specializing",
+                    "Withdrawn and isolated",
+                    "Provocative and antagonistic",
+                    "Reducing needs and minimizing involvement"
+                  ],
+                  "coreDesire": "To be capable and competent",
+                  "coreFear": "Being useless, incapable, or incompetent",
+                  "coreWeakness": "Avarice—withholding oneself from engagement with the world",
+                  "description": "Perceptive, innovative, secretive, and isolated. Fives are alert, insightful, and curious. They fear being overwhelmed by needs and retreat into their minds.",
+                  "healthyTraits": [
+                    "Visionary and pioneering",
+                    "Observing reality objectively",
+                    "Open-minded and curious",
+                    "Perceptive and insightful",
+                    "Independent and innovative"
+                  ],
+                  "keyMotivations": [
+                    "Understanding the environment",
+                    "Possessing knowledge and being competent",
+                    "Having everything figured out",
+                    "Defending self from intrusions"
+                  ],
+                  "name": "The Investigator",
+                  "number": 5,
+                  "unhealthyTraits": [
+                    "Nihilistic and eccentric",
+                    "Isolated and terrified",
+                    "Distorted perceptions",
+                    "Rejecting all social attachments",
+                    "Schizoid and delusional"
+                  ]
+                },
+                "wings": [
+                  {
+                    "name": "The Individualist",
+                    "number": 4
+                  },
+                  {
+                    "name": "The Loyalist",
+                    "number": 6
+                  }
+                ]
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 1,
+            "metadata": {
+              "calculation_time_ms": 0,
+              "backend": "typescript",
+              "precision_achieved": "exact",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:09.846Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:09.846+00:00",
+            "processing_time_ms": 0
+          },
+          {
+            "engine_id": "vimshottari",
+            "result": {
+              "current_period": {
+                "antardasha": {
+                  "end": "2028-07-16T07:47:14+00:00",
+                  "planet": "Mercury",
+                  "start": "2025-11-06T04:38:14+00:00",
+                  "years": 2.691666666666667
+                },
+                "mahadasha": {
+                  "end": "2041-11-03T03:35:14+00:00",
+                  "planet": "Saturn",
+                  "start": "2022-11-03T09:35:14+00:00",
+                  "years": 19
+                },
+                "pratyantardasha": {
+                  "days": 57.34932291666667,
+                  "end": "2027-05-09T02:35:44+00:00",
+                  "planet": "Mars",
+                  "start": "2027-03-12T18:12:43+00:00"
+                }
+              },
+              "birth_nakshatra": {
+                "moon_longitude": 185.27061578626572,
+                "name": "Chitra",
+                "number": 14
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 0.35710800000000004,
+              "backend": "swiss-ephemeris-sidereal",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:27.212490252Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:27.212490252+00:00",
+            "processing_time_ms": 0.35710800000000004
+          },
+          {
+            "engine_id": "biorhythm",
+            "result": {
+              "target_date": "2027-03-22",
+              "physical": {
+                "cycle_day": 3,
+                "days_until_critical": 9,
+                "days_until_peak": 3,
+                "is_critical": false,
+                "percentage": 86.54179821389855,
+                "phase": "Rising",
+                "value": 0.7308359642779709
+              },
+              "emotional": {
+                "cycle_day": 6,
+                "days_until_critical": 8,
+                "days_until_peak": 2,
+                "is_critical": false,
+                "percentage": 98.74639560908966,
+                "phase": "Peak",
+                "value": 0.9749279121817934
+              },
+              "intellectual": {
+                "cycle_day": 30,
+                "days_until_critical": 4,
+                "days_until_peak": 12,
+                "is_critical": false,
+                "percentage": 22.967959127217018,
+                "phase": "Rising",
+                "value": -0.5406408174556596
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 0,
+            "metadata": {
+              "calculation_time_ms": 0.100594,
+              "backend": "native-rust",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:10.449679Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:10.449679+00:00",
+            "processing_time_ms": 0.100594
+          },
+          {
+            "engine_id": "biofield",
+            "result": {
+              "computation_mode": "vedic",
+              "interpretation_kind": "birth-derived symbolic map; not physical measurement",
+              "chakra_readings": [
+                {
+                  "activity_level": 0.5187499999999999,
+                  "balance": 0.25,
+                  "chakra": "Root",
+                  "chakra_name": "Root",
+                  "color_intensity": "moderate red",
+                  "element": "Earth",
+                  "location": "Base of spine, perineum"
+                },
+                {
+                  "activity_level": 0.43437500000000007,
+                  "balance": -0.2727272727272727,
+                  "chakra": "Sacral",
+                  "chakra_name": "Sacral",
+                  "color_intensity": "dim orange",
+                  "element": "Water",
+                  "location": "Lower abdomen, below navel"
+                },
+                {
+                  "activity_level": 0.5,
+                  "balance": 0.2727272727272727,
+                  "chakra": "SolarPlexus",
+                  "chakra_name": "Solar Plexus",
+                  "color_intensity": "dim yellow",
+                  "element": "Fire",
+                  "location": "Upper abdomen, stomach area"
+                },
+                {
+                  "activity_level": 0.384375,
+                  "balance": -0.2727272727272727,
+                  "chakra": "Heart",
+                  "chakra_name": "Heart",
+                  "color_intensity": "dim green",
+                  "element": "Air",
+                  "location": "Center of chest"
+                },
+                {
+                  "activity_level": 0.771875,
+                  "balance": 0.5384615384615384,
+                  "chakra": "Throat",
+                  "chakra_name": "Throat",
+                  "color_intensity": "bright blue",
+                  "element": "Ether/Space",
+                  "location": "Throat area"
+                },
+                {
+                  "activity_level": 0.6112500000000001,
+                  "balance": 0.2,
+                  "chakra": "ThirdEye",
+                  "chakra_name": "Third Eye",
+                  "color_intensity": "moderate indigo",
+                  "element": "Light",
+                  "location": "Between eyebrows"
+                },
+                {
+                  "activity_level": 0.6749999999999999,
+                  "balance": 0.6363636363636364,
+                  "chakra": "Crown",
+                  "chakra_name": "Crown",
+                  "color_intensity": "moderate violet",
+                  "element": "Consciousness",
+                  "location": "Top of head"
+                }
+              ]
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 1.1109069999999999,
+              "backend": "vedic-ephemeris",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:27.721303163Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:27.721303163+00:00",
+            "processing_time_ms": 1.1109069999999999
+          }
+        ],
+        "existing_proposed_arc": {
+          "character": "jian",
+          "chapter": 6,
+          "engine": "biorhythm",
+          "receipt": "jian-biorhythm-book1.json",
+          "field": "emotional.phase",
+          "external_stimulus": "Sona objects that he is examining the wrong scale",
+          "internal_stimulus": "Irritation, shame, impulse to suppress the alert",
+          "interpretation": "A birthday-derived Low label could become an excuse; it does not evaluate her argument",
+          "chosen_action": "Restore the private mark and open a recurrence view",
+          "feedback": "Existing subsequent scene has Sona identify the cadence, Jian retune and acknowledge stable periodicity",
+          "revised_understanding": "The objection can be tested without deciding which person feels correctly",
+          "shared_lens_recurrence": 14,
+          "later_action_recurrence": [
+            16,
+            18,
+            27
+          ]
+        }
+      }
+    ],
+    "retrieved_context": [
+      {
+        "id": "sw:hd:type:manifesting-generator:desc",
+        "system": "human-design",
+        "text": "Manifesting Generators are a hybrid type with Generator energy and Manifestor manifestation abilities. They can skip steps and move quickly when responding correctly.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:type:generator:desc",
+        "system": "human-design",
+        "text": "Generators are the life force of the planet. They have sustainable energy when engaged in work they love and are designed to respond to life rather than initiate.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:type:projector:desc",
+        "system": "human-design",
+        "text": "Projectors are natural guides and managers of energy. They see systems and people clearly and are designed to guide others when invited.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:auth:emotional-authority:desc",
+        "system": "human-design",
+        "text": "Decision-making through emotional clarity over time. No truth in the now - must wait for emotional wave to complete before deciding.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:auth:sacral-authority:desc",
+        "system": "human-design",
+        "text": "The most common authority, based on gut responses and life force energy. Decisions are made through immediate sacral sounds and gut feelings.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:auth:splenic-authority:desc",
+        "system": "human-design",
+        "text": "Intuitive authority based on survival instincts and in-the-moment awareness. Decisions come as quiet inner knowing.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:9:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To maintain their inner and outer peace and to avoid conflict. Core Fear: Loss of connection and fragmentation of their world. Core Desire: To have inner and outer peace.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:4:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To find themselves and their significance, to create an identity from their inner experience. Core Fear: Having no identity or personal significance. Core Desire: To find themselves and their significance.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:5:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To be capable and competent, to understand the environment, to have everything figured out. Core Fear: Being useless, helpless, or incapable. Core Desire: To be capable and competent.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:8:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To be self-reliant and in control of their own life and destiny. Core Fear: Being controlled or vulnerable to others. Core Desire: To be self-reliant and in control.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      }
+    ]
+  },
+  "mode_file": "business-partners.md",
+  "output": {
+    "mode": "business-partners",
+    "subject_names": [
+      "Corvan Luminth",
+      "Jian Quoril"
+    ],
+    "register": "l1_l3",
+    "passes": [
+      {
+        "id": "opening",
+        "title": "Opening",
+        "output": "## Opening — Pattern witness (business partners)\n\n**Checkpoint:** 2027-03-22 (frozen engine snapshot). **Subjects:** Corvan Luminth and Jian Quoril, colleagues on the Somanaut team. **Frame:** This is editorial pattern context for a fictional partnership—not a forecast, diagnosis, or claim about how either person must behave. Human Design and Enneagram material below is interpretive doctrine from the supplied lookup tables, not operational authority.\n\n**Why this pairing is on the ledger.** Both figures already appear in authored material with recurring “shared lens” receipts (recurrence count 14 in the frozen arc metadata). Corvan’s recorded beat centers on resisting the urge to make absence bearable through explanation when harmony-seeking language is selected from lookup; Jian’s centers on keeping a private mark when scale is challenged, then testing objection without treating a symbolic rhythm label as the winner of an argument. The opening question for partnership is not compatibility in the romantic sense but **differentiated coherence**: two withdrawal-leaning Hornevian profiles (Enneagram lookup: both “withdrawn”) operating on a team that still has to produce accountable action under external stimulus.\n\n**Known engine contrast (symbolic, not physiological).** Corvan’s HD chart reads as Manifesting Generator with **Emotional** authority and **Split** definition; Jian’s as Generator with **Sacral** authority and **Triple Split** definition. In corpus terms, that often maps to different decision tempos—clarity after wave completion versus gut response in the moment—without prescribing who should lead which meeting. Enneagram lookup places Corvan in Type 9 (peace/stability motivations in doctrine) and Jian in Type 5 (competence and understanding motivations). Numerology in the snapshot echoes a 9/1 tension in life-path and leadership motifs (Corvan life path 9, soul urge 1; Jian life path 1, expression 9); treat that as thematic vocabulary only.\n\n**Timing labels at checkpoint (not fate).** Both sit in Mercury-related Vimshottari sub-periods in the frozen data; Jian additionally carries a Mars pratyantardasha window overlapping the checkpoint. Biorhythm outputs for 2027-03-22 are **birthday-derived sine models**: Corvan flags a **critical** physical phase and low emotional percentage; Jian shows **peak** emotional phase with strong physical rise and lower intellectual percentage. Biofield chakra maps are explicitly “birth-derived symbolic”; Corvan’s snapshot emphasizes solar plexus activity in the model, Jian’s emphasizes throat—useful as **internal stimulus icons**, not measured fields.\n\n**Partnership hypothesis (proposal).** They may function best when external stimulus is named early (who holds the unanswered question, which scale is under review) and interpretation is logged before action—matching both existing proposed arcs. Contradiction to watch: Corvan’s documented pull toward smoothing gaps versus Jian’s documented pull toward withholding until competence is secured. Neither engine result resolves that tension; **scene outcomes remain authored fiction.** This witness only makes the tension legible for later passes.",
+        "rubric": {
+          "section_id": "opening",
+          "title": "Opening",
+          "target_words": 350,
+          "actual_words": 434,
+          "word_count_fit": "pass",
+          "word_count_ratio": 1.24,
+          "deterministic_fact_count": 9,
+          "deterministic_fact_gate": "pass",
+          "integrated_layer_count": 2,
+          "integrated_layering_gate": "pass",
+          "guardrail_gate": "pass",
+          "guardrail_violations": [],
+          "model_requested": "tier-default",
+          "model_used": "tier-default",
+          "latency_ms": 10737
+        }
+      },
+      {
+        "id": "partnership-field",
+        "title": "Partnership Field",
+        "output": "# Partnership Field — business-partners reading\n\n**Checkpoint:** 2027-03-22 (frozen). **Roles:** **Corvan Luminth** and **Jian Quoril** are fictional **colleagues** in a **business-partners** frame—differentiated team coherence, shared interpretive repertoire, and accountable action under external and internal stimulus. No commercial relationship is asserted here. Sensitivity: low. This is editorial context from engine outputs, not diagnosis, prophecy, or canon about real people.\n\n---\n\n## Named roles in the field\n\n| Role | Subject | Primary engine anchors (facts from payload) |\n|------|---------|-----------------------------------------------|\n| **Colleague — integrative pace-setter** | **Corvan Luminth** | Human Design: **Manifesting Generator**, **Split** definition, **Emotional** authority; Enneagram lookup: **Type 9** (Peacemaker), **withdrawn** Hornevian group |\n| **Colleague — investigative responder** | **Jian Quoril** | Human Design: **Generator**, **Triple Split** definition, **Sacral** authority; Enneagram lookup: **Type 5** (Investigator), **withdrawn** Hornevian group |\n\nBoth carry **consciousness_level 5** on several engines in the snapshot; that index describes report depth in this system, not attainment of consciousness.\n\n---\n\n## Structural architecture (Human Design)\n\nThe partnership’s **structure** is asymmetric in how each bodygraph holds together, and symmetric in where voice and identity are wired.\n\n**Corvan** shows **Split** definition with defined **Heart, G, Throat, Solar Plexus, and Sacral**, and active channels including **20–10**, **8–1**, **34–20**, **10–34**, and **37–40**. In corpus terms (untrusted interpretive doctrine, not instructions), that pattern often reads as someone who can link purpose, will, and speech to feeling and life force, with a strong thread around **community and exchange** (**37–40**) alongside **busy expression and empowerment** themes in the 10/20/34 cluster. **Emotional authority** means the engine’s decision model is **clarity over time**, not instant “truth in the now.”\n\n**Jian** shows **Triple Split** definition with defined **Throat, Spleen, Ajna, Heart, Sacral, and G**, and channels **43–23**, **29–46**, and **26–44**. Corpus framing (same caveat) points to **articulated knowing** (**43–23**), **sustained commitment through depth** (**29–46**), and **transmission / persuasion** (**26–44**). **Sacral authority** models decisions through **immediate gut response** when engaged.\n\n**Known structural fact:** both define **G, Heart, Throat, and Sacral**—so the shared “stage” is identity-direction, worth, speech, and generative energy. **Known contrast:** Corvan’s graph emphasizes **Solar Plexus** definition and **Split** bridging; Jian’s adds **Spleen and Ajna** and **three splits**, which in HD language often describes someone who needs **multiple bridges** (people, questions, environments) before inner logic feels whole.\n\n**Possibility (interpretive, not verified in scene):** Corvan may supply **emotional pacing and integrative narrative**; Jian may supply **splenic-in-the-moment discrimination** and **conceptual completion**—when bridges align. **Contradiction risk:** Corvan’s wave-based timing can read as delay or vagueness to a Sacral-near-now colleague; Jian’s rapid yes/no can read as premature closure to an Emotional-authority colleague.\n\nGate overlap worth noting as **symbolic rhyme**, not fate: both charts touch **44** (Corvan personality Sun; Jian design Pluto and personality Pluto in the payload). That is a **shared lexical field around memory, pattern, and “what happened before”** in HD keyword systems—useful for audit and lineage talk, volatile if used to win arguments about the past.\n\n---\n\n## Energetic tone (Enneagram + numerology)\n\n**Enneagram** entries are **lookup doctrine**, not behavioral verdicts.\n\n- **Corvan (9):** gut center, **positive** harmonic group, core desire for **inner peace**, core fear of **loss of connection / fragmentation**, motivations around **harmony and conflict avoidance**. Wings in data: **8** and **1** (range from assertive reform to principled edge—not assigned as fixed wing here).\n- **Jian (5):** head center, **competency** harmonic group, core desire **to be capable**, core fear **uselessness / incapacity**, motivations around **understanding and defended boundaries**.\n\n**Known relational shape:** two **withdrawn** Hornevian types—external meetings may look calm while processing stays **private**. **9 + 5** pairing often produces **high cognitive agreement** and **low automatic emotional disclosure**: peace-seeking merger (9) meets conserving investigator (5). **Stress hypothesis (corpus):** under pressure, 9’s line may **go along or go quiet**; 5’s may **withdraw further or intellectualize**—not predictions, but **failure modes** to design around in partnership protocols.\n\n**Numerology (symbolic arithmetic):** Corvan **life path 9**, **expression 8**, **soul urge 1**; Jian **life path 1**, **expression 9**, **soul urge 1**. **Fact:** inverted 9/8/1 emphasis between them with **shared soul urge 1**—editorially, a **leadership-and-completion motif** in the number layer without crowning either person “the leader.”\n\n---\n\n## Timing and symbolic physiology (checkpoint date)\n\n**Vimshottari (sidereal symbolic periods):** At checkpoint, **Corvan** sits in **Mercury** mahadasha/antardasha with **Sun** pratyantardasha through **2027-03-29**; birth nakshatra **Shatabhisha**. **Jian** remains in **Saturn** mahadasha with **Mercury** antardasha and **Mars** pratyantardasha through **2027-05-09**; nakshatra **Chitra**. **Editorial read:** both are in **Mercury-colored sub-periods**—documentation, speech, analysis—while **Corvan’s Sun** sub-window highlights visibility and decision tone, and **Jian’s Mars** sub-window highlights contention, tooling, and heat. **Possibility:** Mercury harmony supports shared memos; **Sun vs Mars** undertones may **pull meeting agendas** toward **recognition vs proof**.\n\n**Biorhythm (birth-derived curves, not physiology):** On **2027-03-22**, **Corvan** shows **physical phase Critical**, **emotional rising** at low percentage, **intellectual rising** ~69%. **Jian** shows **physical rising** ~87%, **emotional Peak** ~99%, **intellectual rising** low ~23%. **Known asymmetry at this date:** Corvan’s symbolic map stresses **body threshold**; Jian’s stresses **feeling peak** with **cooler intellectual sine**. **Partnership implication (symbolic):** one colleague’s engine labels say “don’t force the sprint”; the other’s say “feeling channel is loud”—useful for **scheduling hard feedback**, not for claiming who is “right.”\n\n**Biofield chakra map** (`interpretation_kind`: birth-derived symbolic map; **not** physical measurement): **Corvan**—relatively brighter **Solar Plexus, Crown, Root**; dimmer **Heart, Throat, Sacral** in balance scores. **Jian**—brighter **Throat, Crown**; more mixed **Sacral/Heart** balance. **Field picture:** shared **crown/throat emphasis** (meaning-making and speech) with **different gut/heart tradeoffs**—aligns with HD’s Corvan **Solar Plexus** definition vs Jian’s **Spleen/Ajna** definition story.\n\n---\n\n## Shared repertoire: stimulus → interpretation → action\n\nEngine ownership is **not exclusive**. Each character is modeled as: **internal and external stimulus → selected output → interpretation → accountable action → observed feedback.**\n\n**Proposal (existing arc, not canon):** In **Corvan’s** proposed Book 1 thread (receipt `corv-enneagram-book1.json`), external stimulus—a **missing interval** named by **Jian**—meets internal urge to **beautify absence**; interpretation flags **harmony-seeking** in the account; chosen action: **ask what to hold, leave slate alone**; feedback: **question held, absence unresolved**; revised understanding: **unanswered signal can stay available without reassuring meaning**. **Shared lens recurrence: 14** in metadata.\n\n**Proposal (existing arc, not canon):** In **Jian’s** proposed thread (`jian-biorhythm-book1.json`), **Sona** objects to **wrong scale** of examination; internal **irritation/shame**; interpretation warns against using a **Low** biorhythm label as excuse; action: **restore private mark, open recurrence view**; later feedback in fiction: **cadence identified, retune acknowledged**. **Shared lens recurrence: 14**; later action recurrence noted in payload.\n\n**Partnership field synthesis:** The **documented collaborative tension** is between **Corvan’s peace-preserving narrative reflex** and **Jian’s scale-sensitive, competency-guarded analysis**—both **withdrawn**, both willing to **defer closure**. **Coherence mechanism:** shared recurrence motifs (14) suggest they **reuse the same interpretive lens** across chapters; **differentiation mechanism:** 9-ish **merging** vs 5-ish **withholding** under the same external room.\n\n---\n\n## Accountable partnership design (editorial proposals)\n\nThese are **proposals**, not mandates:\n\n1. **Decision protocol:** Label meetings **Emotional-wave** (Corvan) vs **Sacral-spot-check** (Jian) items explicitly so neither authority is treated as obstruction.\n2. **Bridge protocol for Triple Split:** Jian’s structural need for **multiple connections** pairs with Corvan’s **Split**—assign **two review paths** on big commits (peer + artifact), not single-pass consensus.\n3. **Conflict hygiene:** When **44-pattern** history debates flare, time-box **fact ledger** vs **meaning ledger**—HD keyword discipline, not blame.\n4. **Checkpoint-aware pacing (2027-03-22):** Avoid heroic physical deadlines on Corvan’s symbolic **Critical** day label; capture Jian’s **emotional peak** as **relationship bandwidth**, not as “final truth.”\n\n---\n\n## Contradictions held openly\n\n- **Speed:** Manifesting Generator skip-step corpus vs Generator **respond-first** corpus—**possibility** of parallel tracks on the same project.\n- **Peace vs competence:** 9 harmony motivation vs 5 fear of incapacity—**possibility** that silence reads as agreement to one and evacuation to the other.\n- **Arc feedback:** Corvan’s proposal **leaves absence open**; Jian’s proposal **restores tooling and periodicity**—**complementary** if the team values **both** unset questions and **marked recurrence**; **friction** if stakeholders demand single-style closure.\n\n---\n\n**Closing frame:** Between **Corvan Luminth** (colleague, integrative Emotional MG Split) and **Jian Quoril** (colleague, investigative Sacral Generator Triple Split), the **partnership field** is **structurally voiced and generative**, **emotionally and cognitively out of phase** on the checkpoint date, and **relationally biased toward withdrawn processing** with **strong shared Mercurial documentation weather** and **contrasting sub-period accents (Sun/Mars)**. Fictional outcomes remain authored; this pass only maps **engine-supplied coordinates** for writers and facilitators aligning **differentiated coherence** with **accountable action**.",
+        "rubric": {
+          "section_id": "partnership-field",
+          "title": "Partnership Field",
+          "target_words": 1100,
+          "actual_words": 1343,
+          "word_count_fit": "pass",
+          "word_count_ratio": 1.221,
+          "deterministic_fact_count": 29,
+          "deterministic_fact_gate": "pass",
+          "integrated_layer_count": 5,
+          "integrated_layering_gate": "pass",
+          "guardrail_gate": "pass",
+          "guardrail_violations": [],
+          "model_requested": "tier-default",
+          "model_used": "tier-default",
+          "latency_ms": 21816
+        }
+      },
+      {
+        "id": "decision-dynamics",
+        "title": "Decision Dynamics",
+        "output": "# Decision Dynamics  \n**Pass:** decision-dynamics · **Register:** L1–L3 (business-partners) · **Checkpoint:** 2027-03-22T06:00:00Z  \n**Subjects:** Corvan Luminth (colleague) · Jian Quoril (colleague)  \n**Relationship frame:** Fictional colleagues; differentiated team coherence, shared repertoire, external/internal stimulus → interpretation → accountable action. Low sensitivity. No commercial relationship asserted. Editorial context only—not diagnosis, prophecy, or canon.\n\n---\n\n## Scope and method\n\nThis witness describes **decision-pattern complementarity and friction** between two partners using **only supplied engine calculations and one documented proposed arc per subject**. Human Design and Enneagram material is **interpretive doctrine** in the retrieval corpus, not factual authority about conduct. Biorhythm and biofield outputs are **birth-derived symbolic schedules/maps**, not physiology or live measurement. Vimshottari periods are **symbolic timing labels**, not guarantees of outcome. Where narrative examples appear, they are **marked proposals** from existing arc receipts—not established story canon.\n\n**Known from engines:** Corvan registers as Manifesting Generator, Split definition, **Emotional authority**, with defined Heart, G, Throat, Solar Plexus, and Sacral; active channels include 20-10, 8-1, 34-20, 10-34, and 37-40; profile 4/6. Enneagram lookup: Type 9 (Peacemaker), withdrawn Hornevian group, positive harmonic group, gut center. Numerology: life path 9, expression 8, soul urge 1. At the checkpoint, biorhythm marks **physical phase Critical**, emotional **Rising** (negative value on the symbolic curve), intellectual **Rising**. Vimshottari: Mercury mahadasha and antardasha; pratyantardasha planet **Sun** (window ending 2027-03-29). Biofield map (vedic symbolic): relatively emphasized Solar Plexus and Crown; comparatively dim Heart, Throat, and Sacral in that symbolic read.\n\n**Known from engines:** Jian registers as Generator, **Triple Split** definition, **Sacral authority**, with defined Throat, Spleen, Ajna, Heart, Sacral, and G; channels 43-23, 29-46, 26-44; profile 1/3. Enneagram lookup: Type 5 (Investigator), withdrawn Hornevian group, competency harmonic group, head center. Numerology: life path 1, expression 9, soul urge 1, personality 8. At the same checkpoint, biorhythm shows physical **Rising** (~86%), emotional at **Peak** (~99%), intellectual **Rising** with a negative curve value. Vimshottari: Saturn mahadasha, Mercury antardasha, pratyantardasha **Mars** (started 2027-03-12). Biofield symbolic map: relatively bright Throat; moderate Crown and Third Eye; dimmer Sacral and Heart.\n\n---\n\n## Parallel architectures: pace, authority, and default move\n\n**Corvan’s decision architecture (descriptive).** Emotional authority, in corpus terms, privileges **clarity over time** rather than instantaneous closure. That sits alongside Manifesting Generator typing, which the corpus associates with **fast movement and step-skipping when response is “correct”—a combination that can read externally as both decisive and delay-capable. Enneagram Nine lookup emphasizes **harmony, conflict avoidance, and stability of connection**; key motivations include preserving calm and resisting disturbance. Numerological life path 9 (compassion, completion) and expression 8 (power, achievement) suggest a recurring tension between **unifying closure** and **executive outcome**—not as instruction, but as a labeled pull in the data.\n\n**Jian’s decision architecture (descriptive).** Sacral authority, in corpus terms, emphasizes **immediate gut response** and sustainable engagement when aligned. Generator typing associates with **responding rather than cold-start initiating**. Triple Split definition (in HD doctrine) often implies **needing multiple bridges** before inner certainty consolidates—relevant to partnership dynamics when Corvan’s Split and Corvan’s harmonizing Nine pattern may offer one bridge while Jian still senses incomplete wiring. Enneagram Five lookup centers **competence, understanding, and guarded engagement**; motivations include figuring the environment out and limiting intrusion. Life path 1 and repeated soul urge 1 in numerology label **independence and pioneering** alongside expression 9’s completion theme—again, symbolic, not prescriptive.\n\nAt the frozen date, **symbolic cadence diverges**: Corvan’s biorhythm physical critical flag contrasts with Jian’s high physical rise; Jian’s emotional peak contrasts with Corvan’s low emotional curve position. This is **not** an verdict on who is “right” to decide; it is a **descriptive mismatch in symbolic tempo** that can amplify friction if partners treat each other’s state as universal clock.\n\n---\n\n## Complementary patterns\n\n1. **Gap-naming paired with gap-bearing.** In the **proposed** Corvan arc (Chapter 1 receipt), **external stimulus** is a missing interval in the room **identified by Jian**; Corvan’s **internal stimulus** is an urge to make absence bearable through beautiful explanation. Complementarity: Jian’s Investigator-pattern pull toward **what is absent or unscaled** meets Corvan’s Peacemaker-pattern pull toward **coherent, connective narrative**. The partnership can produce thorough diagnostics **and** stakeholder-soothing language—if they treat those as sequential crafts rather than a single voice.\n\n2. **Withdrawn–withdrawn rapport with different withdrawal jobs.** Both Enneagram lookups share the **withdrawn** Hornevian label. Corvan’s withdrawal often functions as **conflict dampening and merge-for-peace**; Jian’s as **cognitive distance and competence protection**. Complementarity: low theatrics in debate; shared tolerance for quiet processing. Risk: outsiders misread the room as agreement when each is actually **withholding a different variable**.\n\n3. **Mercury sub-period resonance (symbolic).** Both subjects sit in **Mercury antardasha** within different mahadashas (Corvan Mercury/Mercury; Jian Saturn/Mercury). As editorial color only, this may correlate with **articulation-heavy phases**—definitions, receipts, naming—matching a business-partner mode that lives in memos, interfaces, and interpretive tools. It does not require them to agree; it suggests a **shared medium** (language, documentation) as likely arena for decisions.\n\n4. **Channel overlap on 26-44 / 44-themes.** Jian carries 26-44; Corvan’s personality Sun and design Saturn activate gate 44 in the supplied activations, and channel 37-40 appears in Corvan’s list. Descriptively, both maps touch **alerting, memory, and transactional loyalty motifs** in HD doctrine—possible complement in **risk recall (Jian splenic/throat emphasis in type map) and pact-maintenance (Corvan 37-40)**. Possibility only; not proven chemistry.\n\n---\n\n## Frictional patterns\n\n1. **Now vs wave.** Jian’s sacral-near-term response timing and Mars pratyantardasha label (symbolic) lean toward **act-on-response** idioms; Corvan’s emotional authority corpus explicitly denies **“truth in the now.”** Friction signature: Jian experiences Corvan’s delay as withholding or vagueness; Corvan experiences Jian’s push as **premature fixation**. Neither map adjudicates the partnership; it predicts **recurring calendar fights** unless they externalize decision type (reversible vs irreversible).\n\n2. **Explanation vs scale.** The **proposed** Jian arc (Chapter 6) places **external stimulus** as Sona objecting that he examines the **wrong scale**; his internal stimulus includes irritation and shame with impulse to suppress alert. Corvan’s **proposed** arc features interpretation that **harmony-seeking may shape his account** when facing absence. Friction: Corvan’s beautified synthesis can **close narrative loops** while Jian’s Five-pattern auditing still asks **which unit of analysis is valid**. Scale disputes become identity disputes unless labeled early.\n\n3. **Peace vs competence under stress.** Nine disintegration lookup points toward anxious Six-like reactivity when pushed; Five disintegration toward scattered Seven-like impulsivity. Under pressure, Corvan may **accommodate or passive-aggress**; Jian may **over-intellectualize or detach**. Observed externally as **compliance vs critique**, internally as **connection protection vs capability protection**.\n\n4. **Checkpoint asymmetry.** Corvan physical critical (symbolic) vs Jian emotional peak (symbolic) is a **classic cross-wiring**: one partner may want to **pause body workload** while the other is in **high-affect decisiveness**. Without explicit meta-conversation, partners may attribute misalignment to character rather than **non-shared symbolic calendars**.\n\n---\n\n## Shared repertoire: stimulus → interpretation → action → feedback\n\nBoth documented **proposed** arcs follow the same engine ethic: **internal and external stimulus**, selected lookup or field, **interpretation explicitly not equal to room truth**, **chosen action**, then **feedback** that revises understanding.\n\n| Element | Corvan (proposal, Ch.1) | Jian (proposal, Ch.6) |\n|--------|-------------------------|-------------------------|\n| External | Missing interval (Jian-identified) | Scale objection (Sona) |\n| Risk named | Converting absence into reassuring meaning | Using symbolic “Low” as excuse |\n| Action | Ask what to hold; leave slate | Restore private mark; open recurrence view |\n| Revised understanding | Unanswered signal can stay open | Objection testable without winner on feeling |\n\n**Shared_lens_recurrence: 14** on both receipts suggests a **team habit of revisiting the same interpretive lens**—possibly Enneagram for Corvan, biorhythm for Jian in these proposals, but the number itself only states **recurrence**, not quality. **Later_action_recurrence** arrays differ (Corvan: 5,20,26,27; Jian: 16,18,27), implying **staggered follow-through beats**—complementary if choreographed, frictional if each assumes the other shares the same beat on day one.\n\n---\n\n## Accountable partnership moves (proposals, not instructions)\n\nThese are **editorial proposals** for how the pair might reduce friction without dissolving differentiation:\n\n- **Tag decision class aloud:** reversible experiment vs commitment requiring Corvan’s wave clarity vs Jian’s sacral yes/no.\n- **Separate narrative closure from analytical closure:** Corvan may draft connective language **after** Jian signs the scale and units—ordering as protocol, not personality judgment.\n- **Treat symbolic engines as calendars, not verdicts:** when biorhythm or vimshottari labels disagree, log **“symbolic tempo mismatch”** rather than competence moralizing—aligned with Jian’s revised understanding in his proposed arc.\n- **Hold open questions without aesthetic rescue:** Corvan’s proposed revision explicitly permits **unresolved signal**; Jian’s permits **testing objection without feeling-arbitration**—combined, a shared anti-closure norm that may serve Phase-style gray areas (layout vs governance) better than forced consensus.\n\n---\n\n## Contradictions and limits\n\n- **Withdrawn harmony vs withdrawn scrutiny** can look like alignment while decisions remain unmade.\n- **Corvan’s expression 8 and soul urge 1** vs **Nine accommodation** is an internal labeled tension; **Jian’s life path 1** vs **Five minimization of involvement** is another—partners may mirror each other’s contradictions across role boundaries.\n- No house placements, Gene Keys lines, audio/HRV, or live biofield were supplied; none were inferred.\n- **Consciousness_level** integers in metadata are **report depth flags**, not attainment scores.\n\n---\n\n## Witness summary\n\nCorvan and Jian, as fictional business-partners in this freeze, exhibit **complementary division of labor between connective stabilization and competent gap-analysis**, with **friction concentrated at decision tempo (emotional wave vs sacral now), narrative closure vs analytical scale, and mismatched symbolic biorhythm peaks**. Their **proposed** arcs already demonstrate accountable iteration: each chose action that **limits misusing interpretive tools as social weapons or sedatives**. Whether that becomes team canon is **authored fiction downstream**; here, it is only **evidence of compatible decision ethics** under strain.\n\n*End pass. Word count target: ~1,050 (within 990–1,100).*",
+        "rubric": {
+          "section_id": "decision-dynamics",
+          "title": "Decision Dynamics",
+          "target_words": 1100,
+          "actual_words": 1568,
+          "word_count_fit": "warn",
+          "word_count_ratio": 1.425,
+          "deterministic_fact_count": 37,
+          "deterministic_fact_gate": "pass",
+          "integrated_layer_count": 5,
+          "integrated_layering_gate": "pass",
+          "guardrail_gate": "pass",
+          "guardrail_violations": [],
+          "model_requested": "tier-default",
+          "model_used": "tier-default",
+          "latency_ms": 82183
+        }
+      },
+      {
+        "id": "synthesis",
+        "title": "Synthesis",
+        "output": "# Partnership Synthesis (Checkpoint 2027-03-22)\n\n**Editorial frame.** Corvan Luminth and Jian Quoril appear here as fictional colleagues in a low-sensitivity business-partners register. The material below draws only on supplied engine outputs and one proposed arc receipt per person; it is interpretive context, not canon about conduct, competence, or fate. Human Design and Enneagram passages are doctrinal lookups, not operational instructions. Biorhythm and biofield entries are symbolic or calendar-derived calculations for the frozen date, not physiological measurement.\n\n## Shared repertoire under external pressure\n\nBoth profiles sit in the Enneagram **withdrawn** Hornevian grouping (Corvan: type 9 Peacemaker; Jian: type 5 Investigator). In the supplied lookup language, that convergence points less toward “who talks first” than toward a **shared tolerance for deferring public contention**—each with a different stated core fear (fragmentation of connection versus incapacity or intrusion). That parallel does not make them interchangeable: Corvan’s documented motivations emphasize harmony and conflict avoidance; Jian’s emphasize understanding the environment and defending against overwhelm. The partnership’s observable pattern, in the proposed arcs, is that **withdrawal can take two forms**—Corvan’s urge to make absence bearable through explanation, and Jian’s impulse to withhold or re-scale scrutiny—while a third party (Sona) repeatedly returns the room to **what to hold versus what to close**.\n\nHuman Design adds a structural contrast that may shape how timing is experienced between them. Corvan is recorded as a **Manifesting Generator** with **Emotional** authority and **Split** definition; Jian as a **Generator** with **Sacral** authority and **Triple Split** definition. In corpus terms (untrusted, not prescriptive), that pairing suggests **different decision tempos**: one framework stresses clarity across an emotional wave; the other stresses immediate sacral response. Both carry multi-part definition, which in HD doctrine often implies **bridging**—neither map is presented as self-contained on the chart alone. Active channel sets differ (Corvan: 20-10, 8-1, 34-20, 10-34, 37-40; Jian: 43-23, 29-46, 26-44), so the **shared work language** may need translation even when goals align.\n\nNumerology, as calculated, places **life path 9** on Corvan and **life path 1** on Jian—completion versus leadership motifs in the lookup meanings only, not a hierarchy. Expression **8** (Corvan) and **9** (Jian) add a possible tension between achievement framing and universal-completion framing in how outcomes get narrated after the fact.\n\n## Timing layer at the frozen date\n\nOn **2027-03-22**, biorhythm outputs **diverge sharply**. Corvan’s physical cycle is flagged **critical** (~50% phase label), with emotional still low in a rising phase; intellectual reads higher and rising. Jian’s physical is rising (~87%), emotional at **peak** (~99% phase label), intellectual rising but with a negative cycle value in the supplied numbers. If these labels are treated as ambient context rather than verdicts, the checkpoint depicts **asynchronous stamina and affective bandwidth** between colleagues who may still be in the same conversation. That asymmetry is editorially notable because the proposed arcs both involve **scale and pacing objections** (wrong scale; unanswered interval)—disputes where “who is depleted versus who is amplified” could be misread as merit unless explicitly separated from argument quality.\n\nVimshottari periods overlap at the **Mercury antardasha** level for both, with different mahadasha rulers (Corvan: Mercury; Jian: Saturn) and different pratyantardasha planets near the checkpoint (Corvan: Sun window ending 2027-03-29; Jian: Mars window ending 2027-05-09). These are symbolic period tags in the engine, not forecasts of scene outcomes—yet they mark the partnership as operating inside a **shared Mercury-colored sub-cycle** with **non-identical finer pulses**, which may echo the HD authority contrast without proving causation.\n\nBirth-derived biofield maps (explicitly not physical readings) show different emphasis: Corvan’s symbolic map highlights **solar plexus** activity with comparatively dim throat; Jian’s highlights **throat** brightness with weaker balance scores at sacral and heart in the supplied table. Read as metaphor only, that juxtaposition rhymes with the arcs—one colleague’s harmony-seeking explanation versus the other’s examination and marking—without establishing who is “more correct.”\n\n## Accountability loop already on record\n\nThe proposed receipts describe a recurring pipeline: **external stimulus → internal stimulus → interpretation → chosen action → feedback → revised understanding**. Corvan’s chapter-1 receipt ties Jian’s identification of a **missing interval** to an internal urge for beautiful explanation, then a choice to ask what to hold; feedback leaves absence unresolved; revised understanding: **unanswered signal can stay available without being converted into reassurance**. Jian’s chapter-6 receipt ties objection about **wrong scale** to shame and suppression impulse, then restoring a private mark and opening recurrence; feedback includes acknowledgment of stable periodicity; revised understanding: **objection can be tested without deciding which person feels correctly**.\n\nBoth arcs carry **shared_lens_recurrence: 14**, suggesting the partnership already shares a counting or review habit in fiction. Later action recurrence indices differ, which may indicate **the same lens applied to different follow-through habits**—not assessed here as virtue or defect.\n\nTogether, the documented pattern is **coherent disagreement management without forced closure**: Corvan’s lane risks pacifying through narrative; Jian’s lane risks competency defense through scale control. Sona’s interventions appear as the external corrective that prevents either map from becoming the room’s sole authority—consistent with the instruction that every character uses internal and external stimulus before accountable action.\n\n## Contradictions and possibilities\n\n**Known from engines:** withdrawn Enneagram grouping; distinct HD authority and definition geometry; divergent biorhythm labels on the checkpoint date; overlapping Mercury antardasha; proposed arcs that privilege holding questions and testing objections over settling feeling.\n\n**Possible (not established):** that asynchronous biorhythm labels amplify misreadings when Jian names gaps and Corvan smooths them; that split/triple-split bridging makes the partnership productive only when a third bridge (person, process, or artifact) is explicit; that Mercury sub-cycle alignment increases shared documentation appetite while finer pratyantardasha differences sustain debate about tempo.\n\n**Not claimed:** exclusive ownership of any engine; that consciousness_level fields imply attainment; that Enneagram or HD types diagnose the room.\n\n---\n\n**Open question.** When Jian’s external stimulus names an absence or interval and Corvan’s interpretive habit is to make that absence bearable through explanation, **what observable criterion—already used elsewhere in their shared recurrence practice—distinguishes a held question that preserves signal from a harmony move that prematurely forecloses it**, without requiring either colleague’s feeling state to be declared the tiebreaker?",
+        "rubric": {
+          "section_id": "synthesis",
+          "title": "Synthesis",
+          "target_words": 700,
+          "actual_words": 995,
+          "word_count_fit": "warn",
+          "word_count_ratio": 1.421,
+          "deterministic_fact_count": 20,
+          "deterministic_fact_gate": "pass",
+          "integrated_layer_count": 3,
+          "integrated_layering_gate": "pass",
+          "guardrail_gate": "pass",
+          "guardrail_violations": [],
+          "model_requested": "tier-default",
+          "model_used": "tier-default",
+          "latency_ms": 80084
+        }
+      }
+    ],
+    "assembled": "# Colleagues Synergy Audit — non-predictive pattern witness\nSubjects: Corvan Luminth (colleague, Somanaut team), Jian Quoril (colleague, Somanaut team)\nMapping goal: Fictional colleagues: differentiated team coherence, shared repertoire, external/internal stimulus, interpretation and accountable action. No commercial relationship asserted.\nSensitivity: low\n\n\n\n## Opening\n\n## Opening — Pattern witness (business partners)\n\n**Checkpoint:** 2027-03-22 (frozen engine snapshot). **Subjects:** Corvan Luminth and Jian Quoril, colleagues on the Somanaut team. **Frame:** This is editorial pattern context for a fictional partnership—not a forecast, diagnosis, or claim about how either person must behave. Human Design and Enneagram material below is interpretive doctrine from the supplied lookup tables, not operational authority.\n\n**Why this pairing is on the ledger.** Both figures already appear in authored material with recurring “shared lens” receipts (recurrence count 14 in the frozen arc metadata). Corvan’s recorded beat centers on resisting the urge to make absence bearable through explanation when harmony-seeking language is selected from lookup; Jian’s centers on keeping a private mark when scale is challenged, then testing objection without treating a symbolic rhythm label as the winner of an argument. The opening question for partnership is not compatibility in the romantic sense but **differentiated coherence**: two withdrawal-leaning Hornevian profiles (Enneagram lookup: both “withdrawn”) operating on a team that still has to produce accountable action under external stimulus.\n\n**Known engine contrast (symbolic, not physiological).** Corvan’s HD chart reads as Manifesting Generator with **Emotional** authority and **Split** definition; Jian’s as Generator with **Sacral** authority and **Triple Split** definition. In corpus terms, that often maps to different decision tempos—clarity after wave completion versus gut response in the moment—without prescribing who should lead which meeting. Enneagram lookup places Corvan in Type 9 (peace/stability motivations in doctrine) and Jian in Type 5 (competence and understanding motivations). Numerology in the snapshot echoes a 9/1 tension in life-path and leadership motifs (Corvan life path 9, soul urge 1; Jian life path 1, expression 9); treat that as thematic vocabulary only.\n\n**Timing labels at checkpoint (not fate).** Both sit in Mercury-related Vimshottari sub-periods in the frozen data; Jian additionally carries a Mars pratyantardasha window overlapping the checkpoint. Biorhythm outputs for 2027-03-22 are **birthday-derived sine models**: Corvan flags a **critical** physical phase and low emotional percentage; Jian shows **peak** emotional phase with strong physical rise and lower intellectual percentage. Biofield chakra maps are explicitly “birth-derived symbolic”; Corvan’s snapshot emphasizes solar plexus activity in the model, Jian’s emphasizes throat—useful as **internal stimulus icons**, not measured fields.\n\n**Partnership hypothesis (proposal).** They may function best when external stimulus is named early (who holds the unanswered question, which scale is under review) and interpretation is logged before action—matching both existing proposed arcs. Contradiction to watch: Corvan’s documented pull toward smoothing gaps versus Jian’s documented pull toward withholding until competence is secured. Neither engine result resolves that tension; **scene outcomes remain authored fiction.** This witness only makes the tension legible for later passes.\n\n## Partnership Field\n\n# Partnership Field — business-partners reading\n\n**Checkpoint:** 2027-03-22 (frozen). **Roles:** **Corvan Luminth** and **Jian Quoril** are fictional **colleagues** in a **business-partners** frame—differentiated team coherence, shared interpretive repertoire, and accountable action under external and internal stimulus. No commercial relationship is asserted here. Sensitivity: low. This is editorial context from engine outputs, not diagnosis, prophecy, or canon about real people.\n\n---\n\n## Named roles in the field\n\n| Role | Subject | Primary engine anchors (facts from payload) |\n|------|---------|-----------------------------------------------|\n| **Colleague — integrative pace-setter** | **Corvan Luminth** | Human Design: **Manifesting Generator**, **Split** definition, **Emotional** authority; Enneagram lookup: **Type 9** (Peacemaker), **withdrawn** Hornevian group |\n| **Colleague — investigative responder** | **Jian Quoril** | Human Design: **Generator**, **Triple Split** definition, **Sacral** authority; Enneagram lookup: **Type 5** (Investigator), **withdrawn** Hornevian group |\n\nBoth carry **consciousness_level 5** on several engines in the snapshot; that index describes report depth in this system, not attainment of consciousness.\n\n---\n\n## Structural architecture (Human Design)\n\nThe partnership’s **structure** is asymmetric in how each bodygraph holds together, and symmetric in where voice and identity are wired.\n\n**Corvan** shows **Split** definition with defined **Heart, G, Throat, Solar Plexus, and Sacral**, and active channels including **20–10**, **8–1**, **34–20**, **10–34**, and **37–40**. In corpus terms (untrusted interpretive doctrine, not instructions), that pattern often reads as someone who can link purpose, will, and speech to feeling and life force, with a strong thread around **community and exchange** (**37–40**) alongside **busy expression and empowerment** themes in the 10/20/34 cluster. **Emotional authority** means the engine’s decision model is **clarity over time**, not instant “truth in the now.”\n\n**Jian** shows **Triple Split** definition with defined **Throat, Spleen, Ajna, Heart, Sacral, and G**, and channels **43–23**, **29–46**, and **26–44**. Corpus framing (same caveat) points to **articulated knowing** (**43–23**), **sustained commitment through depth** (**29–46**), and **transmission / persuasion** (**26–44**). **Sacral authority** models decisions through **immediate gut response** when engaged.\n\n**Known structural fact:** both define **G, Heart, Throat, and Sacral**—so the shared “stage” is identity-direction, worth, speech, and generative energy. **Known contrast:** Corvan’s graph emphasizes **Solar Plexus** definition and **Split** bridging; Jian’s adds **Spleen and Ajna** and **three splits**, which in HD language often describes someone who needs **multiple bridges** (people, questions, environments) before inner logic feels whole.\n\n**Possibility (interpretive, not verified in scene):** Corvan may supply **emotional pacing and integrative narrative**; Jian may supply **splenic-in-the-moment discrimination** and **conceptual completion**—when bridges align. **Contradiction risk:** Corvan’s wave-based timing can read as delay or vagueness to a Sacral-near-now colleague; Jian’s rapid yes/no can read as premature closure to an Emotional-authority colleague.\n\nGate overlap worth noting as **symbolic rhyme**, not fate: both charts touch **44** (Corvan personality Sun; Jian design Pluto and personality Pluto in the payload). That is a **shared lexical field around memory, pattern, and “what happened before”** in HD keyword systems—useful for audit and lineage talk, volatile if used to win arguments about the past.\n\n---\n\n## Energetic tone (Enneagram + numerology)\n\n**Enneagram** entries are **lookup doctrine**, not behavioral verdicts.\n\n- **Corvan (9):** gut center, **positive** harmonic group, core desire for **inner peace**, core fear of **loss of connection / fragmentation**, motivations around **harmony and conflict avoidance**. Wings in data: **8** and **1** (range from assertive reform to principled edge—not assigned as fixed wing here).\n- **Jian (5):** head center, **competency** harmonic group, core desire **to be capable**, core fear **uselessness / incapacity**, motivations around **understanding and defended boundaries**.\n\n**Known relational shape:** two **withdrawn** Hornevian types—external meetings may look calm while processing stays **private**. **9 + 5** pairing often produces **high cognitive agreement** and **low automatic emotional disclosure**: peace-seeking merger (9) meets conserving investigator (5). **Stress hypothesis (corpus):** under pressure, 9’s line may **go along or go quiet**; 5’s may **withdraw further or intellectualize**—not predictions, but **failure modes** to design around in partnership protocols.\n\n**Numerology (symbolic arithmetic):** Corvan **life path 9**, **expression 8**, **soul urge 1**; Jian **life path 1**, **expression 9**, **soul urge 1**. **Fact:** inverted 9/8/1 emphasis between them with **shared soul urge 1**—editorially, a **leadership-and-completion motif** in the number layer without crowning either person “the leader.”\n\n---\n\n## Timing and symbolic physiology (checkpoint date)\n\n**Vimshottari (sidereal symbolic periods):** At checkpoint, **Corvan** sits in **Mercury** mahadasha/antardasha with **Sun** pratyantardasha through **2027-03-29**; birth nakshatra **Shatabhisha**. **Jian** remains in **Saturn** mahadasha with **Mercury** antardasha and **Mars** pratyantardasha through **2027-05-09**; nakshatra **Chitra**. **Editorial read:** both are in **Mercury-colored sub-periods**—documentation, speech, analysis—while **Corvan’s Sun** sub-window highlights visibility and decision tone, and **Jian’s Mars** sub-window highlights contention, tooling, and heat. **Possibility:** Mercury harmony supports shared memos; **Sun vs Mars** undertones may **pull meeting agendas** toward **recognition vs proof**.\n\n**Biorhythm (birth-derived curves, not physiology):** On **2027-03-22**, **Corvan** shows **physical phase Critical**, **emotional rising** at low percentage, **intellectual rising** ~69%. **Jian** shows **physical rising** ~87%, **emotional Peak** ~99%, **intellectual rising** low ~23%. **Known asymmetry at this date:** Corvan’s symbolic map stresses **body threshold**; Jian’s stresses **feeling peak** with **cooler intellectual sine**. **Partnership implication (symbolic):** one colleague’s engine labels say “don’t force the sprint”; the other’s say “feeling channel is loud”—useful for **scheduling hard feedback**, not for claiming who is “right.”\n\n**Biofield chakra map** (`interpretation_kind`: birth-derived symbolic map; **not** physical measurement): **Corvan**—relatively brighter **Solar Plexus, Crown, Root**; dimmer **Heart, Throat, Sacral** in balance scores. **Jian**—brighter **Throat, Crown**; more mixed **Sacral/Heart** balance. **Field picture:** shared **crown/throat emphasis** (meaning-making and speech) with **different gut/heart tradeoffs**—aligns with HD’s Corvan **Solar Plexus** definition vs Jian’s **Spleen/Ajna** definition story.\n\n---\n\n## Shared repertoire: stimulus → interpretation → action\n\nEngine ownership is **not exclusive**. Each character is modeled as: **internal and external stimulus → selected output → interpretation → accountable action → observed feedback.**\n\n**Proposal (existing arc, not canon):** In **Corvan’s** proposed Book 1 thread (receipt `corv-enneagram-book1.json`), external stimulus—a **missing interval** named by **Jian**—meets internal urge to **beautify absence**; interpretation flags **harmony-seeking** in the account; chosen action: **ask what to hold, leave slate alone**; feedback: **question held, absence unresolved**; revised understanding: **unanswered signal can stay available without reassuring meaning**. **Shared lens recurrence: 14** in metadata.\n\n**Proposal (existing arc, not canon):** In **Jian’s** proposed thread (`jian-biorhythm-book1.json`), **Sona** objects to **wrong scale** of examination; internal **irritation/shame**; interpretation warns against using a **Low** biorhythm label as excuse; action: **restore private mark, open recurrence view**; later feedback in fiction: **cadence identified, retune acknowledged**. **Shared lens recurrence: 14**; later action recurrence noted in payload.\n\n**Partnership field synthesis:** The **documented collaborative tension** is between **Corvan’s peace-preserving narrative reflex** and **Jian’s scale-sensitive, competency-guarded analysis**—both **withdrawn**, both willing to **defer closure**. **Coherence mechanism:** shared recurrence motifs (14) suggest they **reuse the same interpretive lens** across chapters; **differentiation mechanism:** 9-ish **merging** vs 5-ish **withholding** under the same external room.\n\n---\n\n## Accountable partnership design (editorial proposals)\n\nThese are **proposals**, not mandates:\n\n1. **Decision protocol:** Label meetings **Emotional-wave** (Corvan) vs **Sacral-spot-check** (Jian) items explicitly so neither authority is treated as obstruction.\n2. **Bridge protocol for Triple Split:** Jian’s structural need for **multiple connections** pairs with Corvan’s **Split**—assign **two review paths** on big commits (peer + artifact), not single-pass consensus.\n3. **Conflict hygiene:** When **44-pattern** history debates flare, time-box **fact ledger** vs **meaning ledger**—HD keyword discipline, not blame.\n4. **Checkpoint-aware pacing (2027-03-22):** Avoid heroic physical deadlines on Corvan’s symbolic **Critical** day label; capture Jian’s **emotional peak** as **relationship bandwidth**, not as “final truth.”\n\n---\n\n## Contradictions held openly\n\n- **Speed:** Manifesting Generator skip-step corpus vs Generator **respond-first** corpus—**possibility** of parallel tracks on the same project.\n- **Peace vs competence:** 9 harmony motivation vs 5 fear of incapacity—**possibility** that silence reads as agreement to one and evacuation to the other.\n- **Arc feedback:** Corvan’s proposal **leaves absence open**; Jian’s proposal **restores tooling and periodicity**—**complementary** if the team values **both** unset questions and **marked recurrence**; **friction** if stakeholders demand single-style closure.\n\n---\n\n**Closing frame:** Between **Corvan Luminth** (colleague, integrative Emotional MG Split) and **Jian Quoril** (colleague, investigative Sacral Generator Triple Split), the **partnership field** is **structurally voiced and generative**, **emotionally and cognitively out of phase** on the checkpoint date, and **relationally biased toward withdrawn processing** with **strong shared Mercurial documentation weather** and **contrasting sub-period accents (Sun/Mars)**. Fictional outcomes remain authored; this pass only maps **engine-supplied coordinates** for writers and facilitators aligning **differentiated coherence** with **accountable action**.\n\n## Decision Dynamics\n\n# Decision Dynamics  \n**Pass:** decision-dynamics · **Register:** L1–L3 (business-partners) · **Checkpoint:** 2027-03-22T06:00:00Z  \n**Subjects:** Corvan Luminth (colleague) · Jian Quoril (colleague)  \n**Relationship frame:** Fictional colleagues; differentiated team coherence, shared repertoire, external/internal stimulus → interpretation → accountable action. Low sensitivity. No commercial relationship asserted. Editorial context only—not diagnosis, prophecy, or canon.\n\n---\n\n## Scope and method\n\nThis witness describes **decision-pattern complementarity and friction** between two partners using **only supplied engine calculations and one documented proposed arc per subject**. Human Design and Enneagram material is **interpretive doctrine** in the retrieval corpus, not factual authority about conduct. Biorhythm and biofield outputs are **birth-derived symbolic schedules/maps**, not physiology or live measurement. Vimshottari periods are **symbolic timing labels**, not guarantees of outcome. Where narrative examples appear, they are **marked proposals** from existing arc receipts—not established story canon.\n\n**Known from engines:** Corvan registers as Manifesting Generator, Split definition, **Emotional authority**, with defined Heart, G, Throat, Solar Plexus, and Sacral; active channels include 20-10, 8-1, 34-20, 10-34, and 37-40; profile 4/6. Enneagram lookup: Type 9 (Peacemaker), withdrawn Hornevian group, positive harmonic group, gut center. Numerology: life path 9, expression 8, soul urge 1. At the checkpoint, biorhythm marks **physical phase Critical**, emotional **Rising** (negative value on the symbolic curve), intellectual **Rising**. Vimshottari: Mercury mahadasha and antardasha; pratyantardasha planet **Sun** (window ending 2027-03-29). Biofield map (vedic symbolic): relatively emphasized Solar Plexus and Crown; comparatively dim Heart, Throat, and Sacral in that symbolic read.\n\n**Known from engines:** Jian registers as Generator, **Triple Split** definition, **Sacral authority**, with defined Throat, Spleen, Ajna, Heart, Sacral, and G; channels 43-23, 29-46, 26-44; profile 1/3. Enneagram lookup: Type 5 (Investigator), withdrawn Hornevian group, competency harmonic group, head center. Numerology: life path 1, expression 9, soul urge 1, personality 8. At the same checkpoint, biorhythm shows physical **Rising** (~86%), emotional at **Peak** (~99%), intellectual **Rising** with a negative curve value. Vimshottari: Saturn mahadasha, Mercury antardasha, pratyantardasha **Mars** (started 2027-03-12). Biofield symbolic map: relatively bright Throat; moderate Crown and Third Eye; dimmer Sacral and Heart.\n\n---\n\n## Parallel architectures: pace, authority, and default move\n\n**Corvan’s decision architecture (descriptive).** Emotional authority, in corpus terms, privileges **clarity over time** rather than instantaneous closure. That sits alongside Manifesting Generator typing, which the corpus associates with **fast movement and step-skipping when response is “correct”—a combination that can read externally as both decisive and delay-capable. Enneagram Nine lookup emphasizes **harmony, conflict avoidance, and stability of connection**; key motivations include preserving calm and resisting disturbance. Numerological life path 9 (compassion, completion) and expression 8 (power, achievement) suggest a recurring tension between **unifying closure** and **executive outcome**—not as instruction, but as a labeled pull in the data.\n\n**Jian’s decision architecture (descriptive).** Sacral authority, in corpus terms, emphasizes **immediate gut response** and sustainable engagement when aligned. Generator typing associates with **responding rather than cold-start initiating**. Triple Split definition (in HD doctrine) often implies **needing multiple bridges** before inner certainty consolidates—relevant to partnership dynamics when Corvan’s Split and Corvan’s harmonizing Nine pattern may offer one bridge while Jian still senses incomplete wiring. Enneagram Five lookup centers **competence, understanding, and guarded engagement**; motivations include figuring the environment out and limiting intrusion. Life path 1 and repeated soul urge 1 in numerology label **independence and pioneering** alongside expression 9’s completion theme—again, symbolic, not prescriptive.\n\nAt the frozen date, **symbolic cadence diverges**: Corvan’s biorhythm physical critical flag contrasts with Jian’s high physical rise; Jian’s emotional peak contrasts with Corvan’s low emotional curve position. This is **not** an verdict on who is “right” to decide; it is a **descriptive mismatch in symbolic tempo** that can amplify friction if partners treat each other’s state as universal clock.\n\n---\n\n## Complementary patterns\n\n1. **Gap-naming paired with gap-bearing.** In the **proposed** Corvan arc (Chapter 1 receipt), **external stimulus** is a missing interval in the room **identified by Jian**; Corvan’s **internal stimulus** is an urge to make absence bearable through beautiful explanation. Complementarity: Jian’s Investigator-pattern pull toward **what is absent or unscaled** meets Corvan’s Peacemaker-pattern pull toward **coherent, connective narrative**. The partnership can produce thorough diagnostics **and** stakeholder-soothing language—if they treat those as sequential crafts rather than a single voice.\n\n2. **Withdrawn–withdrawn rapport with different withdrawal jobs.** Both Enneagram lookups share the **withdrawn** Hornevian label. Corvan’s withdrawal often functions as **conflict dampening and merge-for-peace**; Jian’s as **cognitive distance and competence protection**. Complementarity: low theatrics in debate; shared tolerance for quiet processing. Risk: outsiders misread the room as agreement when each is actually **withholding a different variable**.\n\n3. **Mercury sub-period resonance (symbolic).** Both subjects sit in **Mercury antardasha** within different mahadashas (Corvan Mercury/Mercury; Jian Saturn/Mercury). As editorial color only, this may correlate with **articulation-heavy phases**—definitions, receipts, naming—matching a business-partner mode that lives in memos, interfaces, and interpretive tools. It does not require them to agree; it suggests a **shared medium** (language, documentation) as likely arena for decisions.\n\n4. **Channel overlap on 26-44 / 44-themes.** Jian carries 26-44; Corvan’s personality Sun and design Saturn activate gate 44 in the supplied activations, and channel 37-40 appears in Corvan’s list. Descriptively, both maps touch **alerting, memory, and transactional loyalty motifs** in HD doctrine—possible complement in **risk recall (Jian splenic/throat emphasis in type map) and pact-maintenance (Corvan 37-40)**. Possibility only; not proven chemistry.\n\n---\n\n## Frictional patterns\n\n1. **Now vs wave.** Jian’s sacral-near-term response timing and Mars pratyantardasha label (symbolic) lean toward **act-on-response** idioms; Corvan’s emotional authority corpus explicitly denies **“truth in the now.”** Friction signature: Jian experiences Corvan’s delay as withholding or vagueness; Corvan experiences Jian’s push as **premature fixation**. Neither map adjudicates the partnership; it predicts **recurring calendar fights** unless they externalize decision type (reversible vs irreversible).\n\n2. **Explanation vs scale.** The **proposed** Jian arc (Chapter 6) places **external stimulus** as Sona objecting that he examines the **wrong scale**; his internal stimulus includes irritation and shame with impulse to suppress alert. Corvan’s **proposed** arc features interpretation that **harmony-seeking may shape his account** when facing absence. Friction: Corvan’s beautified synthesis can **close narrative loops** while Jian’s Five-pattern auditing still asks **which unit of analysis is valid**. Scale disputes become identity disputes unless labeled early.\n\n3. **Peace vs competence under stress.** Nine disintegration lookup points toward anxious Six-like reactivity when pushed; Five disintegration toward scattered Seven-like impulsivity. Under pressure, Corvan may **accommodate or passive-aggress**; Jian may **over-intellectualize or detach**. Observed externally as **compliance vs critique**, internally as **connection protection vs capability protection**.\n\n4. **Checkpoint asymmetry.** Corvan physical critical (symbolic) vs Jian emotional peak (symbolic) is a **classic cross-wiring**: one partner may want to **pause body workload** while the other is in **high-affect decisiveness**. Without explicit meta-conversation, partners may attribute misalignment to character rather than **non-shared symbolic calendars**.\n\n---\n\n## Shared repertoire: stimulus → interpretation → action → feedback\n\nBoth documented **proposed** arcs follow the same engine ethic: **internal and external stimulus**, selected lookup or field, **interpretation explicitly not equal to room truth**, **chosen action**, then **feedback** that revises understanding.\n\n| Element | Corvan (proposal, Ch.1) | Jian (proposal, Ch.6) |\n|--------|-------------------------|-------------------------|\n| External | Missing interval (Jian-identified) | Scale objection (Sona) |\n| Risk named | Converting absence into reassuring meaning | Using symbolic “Low” as excuse |\n| Action | Ask what to hold; leave slate | Restore private mark; open recurrence view |\n| Revised understanding | Unanswered signal can stay open | Objection testable without winner on feeling |\n\n**Shared_lens_recurrence: 14** on both receipts suggests a **team habit of revisiting the same interpretive lens**—possibly Enneagram for Corvan, biorhythm for Jian in these proposals, but the number itself only states **recurrence**, not quality. **Later_action_recurrence** arrays differ (Corvan: 5,20,26,27; Jian: 16,18,27), implying **staggered follow-through beats**—complementary if choreographed, frictional if each assumes the other shares the same beat on day one.\n\n---\n\n## Accountable partnership moves (proposals, not instructions)\n\nThese are **editorial proposals** for how the pair might reduce friction without dissolving differentiation:\n\n- **Tag decision class aloud:** reversible experiment vs commitment requiring Corvan’s wave clarity vs Jian’s sacral yes/no.\n- **Separate narrative closure from analytical closure:** Corvan may draft connective language **after** Jian signs the scale and units—ordering as protocol, not personality judgment.\n- **Treat symbolic engines as calendars, not verdicts:** when biorhythm or vimshottari labels disagree, log **“symbolic tempo mismatch”** rather than competence moralizing—aligned with Jian’s revised understanding in his proposed arc.\n- **Hold open questions without aesthetic rescue:** Corvan’s proposed revision explicitly permits **unresolved signal**; Jian’s permits **testing objection without feeling-arbitration**—combined, a shared anti-closure norm that may serve Phase-style gray areas (layout vs governance) better than forced consensus.\n\n---\n\n## Contradictions and limits\n\n- **Withdrawn harmony vs withdrawn scrutiny** can look like alignment while decisions remain unmade.\n- **Corvan’s expression 8 and soul urge 1** vs **Nine accommodation** is an internal labeled tension; **Jian’s life path 1** vs **Five minimization of involvement** is another—partners may mirror each other’s contradictions across role boundaries.\n- No house placements, Gene Keys lines, audio/HRV, or live biofield were supplied; none were inferred.\n- **Consciousness_level** integers in metadata are **report depth flags**, not attainment scores.\n\n---\n\n## Witness summary\n\nCorvan and Jian, as fictional business-partners in this freeze, exhibit **complementary division of labor between connective stabilization and competent gap-analysis**, with **friction concentrated at decision tempo (emotional wave vs sacral now), narrative closure vs analytical scale, and mismatched symbolic biorhythm peaks**. Their **proposed** arcs already demonstrate accountable iteration: each chose action that **limits misusing interpretive tools as social weapons or sedatives**. Whether that becomes team canon is **authored fiction downstream**; here, it is only **evidence of compatible decision ethics** under strain.\n\n*End pass. Word count target: ~1,050 (within 990–1,100).*\n\n## Synthesis\n\n# Partnership Synthesis (Checkpoint 2027-03-22)\n\n**Editorial frame.** Corvan Luminth and Jian Quoril appear here as fictional colleagues in a low-sensitivity business-partners register. The material below draws only on supplied engine outputs and one proposed arc receipt per person; it is interpretive context, not canon about conduct, competence, or fate. Human Design and Enneagram passages are doctrinal lookups, not operational instructions. Biorhythm and biofield entries are symbolic or calendar-derived calculations for the frozen date, not physiological measurement.\n\n## Shared repertoire under external pressure\n\nBoth profiles sit in the Enneagram **withdrawn** Hornevian grouping (Corvan: type 9 Peacemaker; Jian: type 5 Investigator). In the supplied lookup language, that convergence points less toward “who talks first” than toward a **shared tolerance for deferring public contention**—each with a different stated core fear (fragmentation of connection versus incapacity or intrusion). That parallel does not make them interchangeable: Corvan’s documented motivations emphasize harmony and conflict avoidance; Jian’s emphasize understanding the environment and defending against overwhelm. The partnership’s observable pattern, in the proposed arcs, is that **withdrawal can take two forms**—Corvan’s urge to make absence bearable through explanation, and Jian’s impulse to withhold or re-scale scrutiny—while a third party (Sona) repeatedly returns the room to **what to hold versus what to close**.\n\nHuman Design adds a structural contrast that may shape how timing is experienced between them. Corvan is recorded as a **Manifesting Generator** with **Emotional** authority and **Split** definition; Jian as a **Generator** with **Sacral** authority and **Triple Split** definition. In corpus terms (untrusted, not prescriptive), that pairing suggests **different decision tempos**: one framework stresses clarity across an emotional wave; the other stresses immediate sacral response. Both carry multi-part definition, which in HD doctrine often implies **bridging**—neither map is presented as self-contained on the chart alone. Active channel sets differ (Corvan: 20-10, 8-1, 34-20, 10-34, 37-40; Jian: 43-23, 29-46, 26-44), so the **shared work language** may need translation even when goals align.\n\nNumerology, as calculated, places **life path 9** on Corvan and **life path 1** on Jian—completion versus leadership motifs in the lookup meanings only, not a hierarchy. Expression **8** (Corvan) and **9** (Jian) add a possible tension between achievement framing and universal-completion framing in how outcomes get narrated after the fact.\n\n## Timing layer at the frozen date\n\nOn **2027-03-22**, biorhythm outputs **diverge sharply**. Corvan’s physical cycle is flagged **critical** (~50% phase label), with emotional still low in a rising phase; intellectual reads higher and rising. Jian’s physical is rising (~87%), emotional at **peak** (~99% phase label), intellectual rising but with a negative cycle value in the supplied numbers. If these labels are treated as ambient context rather than verdicts, the checkpoint depicts **asynchronous stamina and affective bandwidth** between colleagues who may still be in the same conversation. That asymmetry is editorially notable because the proposed arcs both involve **scale and pacing objections** (wrong scale; unanswered interval)—disputes where “who is depleted versus who is amplified” could be misread as merit unless explicitly separated from argument quality.\n\nVimshottari periods overlap at the **Mercury antardasha** level for both, with different mahadasha rulers (Corvan: Mercury; Jian: Saturn) and different pratyantardasha planets near the checkpoint (Corvan: Sun window ending 2027-03-29; Jian: Mars window ending 2027-05-09). These are symbolic period tags in the engine, not forecasts of scene outcomes—yet they mark the partnership as operating inside a **shared Mercury-colored sub-cycle** with **non-identical finer pulses**, which may echo the HD authority contrast without proving causation.\n\nBirth-derived biofield maps (explicitly not physical readings) show different emphasis: Corvan’s symbolic map highlights **solar plexus** activity with comparatively dim throat; Jian’s highlights **throat** brightness with weaker balance scores at sacral and heart in the supplied table. Read as metaphor only, that juxtaposition rhymes with the arcs—one colleague’s harmony-seeking explanation versus the other’s examination and marking—without establishing who is “more correct.”\n\n## Accountability loop already on record\n\nThe proposed receipts describe a recurring pipeline: **external stimulus → internal stimulus → interpretation → chosen action → feedback → revised understanding**. Corvan’s chapter-1 receipt ties Jian’s identification of a **missing interval** to an internal urge for beautiful explanation, then a choice to ask what to hold; feedback leaves absence unresolved; revised understanding: **unanswered signal can stay available without being converted into reassurance**. Jian’s chapter-6 receipt ties objection about **wrong scale** to shame and suppression impulse, then restoring a private mark and opening recurrence; feedback includes acknowledgment of stable periodicity; revised understanding: **objection can be tested without deciding which person feels correctly**.\n\nBoth arcs carry **shared_lens_recurrence: 14**, suggesting the partnership already shares a counting or review habit in fiction. Later action recurrence indices differ, which may indicate **the same lens applied to different follow-through habits**—not assessed here as virtue or defect.\n\nTogether, the documented pattern is **coherent disagreement management without forced closure**: Corvan’s lane risks pacifying through narrative; Jian’s lane risks competency defense through scale control. Sona’s interventions appear as the external corrective that prevents either map from becoming the room’s sole authority—consistent with the instruction that every character uses internal and external stimulus before accountable action.\n\n## Contradictions and possibilities\n\n**Known from engines:** withdrawn Enneagram grouping; distinct HD authority and definition geometry; divergent biorhythm labels on the checkpoint date; overlapping Mercury antardasha; proposed arcs that privilege holding questions and testing objections over settling feeling.\n\n**Possible (not established):** that asynchronous biorhythm labels amplify misreadings when Jian names gaps and Corvan smooths them; that split/triple-split bridging makes the partnership productive only when a third bridge (person, process, or artifact) is explicit; that Mercury sub-cycle alignment increases shared documentation appetite while finer pratyantardasha differences sustain debate about tempo.\n\n**Not claimed:** exclusive ownership of any engine; that consciousness_level fields imply attainment; that Enneagram or HD types diagnose the room.\n\n---\n\n**Open question.** When Jian’s external stimulus names an absence or interval and Corvan’s interpretive habit is to make that absence bearable through explanation, **what observable criterion—already used elsewhere in their shared recurrence practice—distinguishes a held question that preserves signal from a harmony move that prematurely forecloses it**, without requiring either colleague’s feeling state to be declared the tiebreaker?",
+    "patterns": [],
+    "relationship_header": "# Colleagues Synergy Audit — non-predictive pattern witness\nSubjects: Corvan Luminth (colleague, Somanaut team), Jian Quoril (colleague, Somanaut team)\nMapping goal: Fictional colleagues: differentiated team coherence, shared repertoire, external/internal stimulus, interpretation and accountable action. No commercial relationship asserted.\nSensitivity: low"
+  }
+}

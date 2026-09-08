@@ -1,0 +1,1256 @@
+{
+  "state": "GENERATED_UNREVIEWED",
+  "context": {
+    "frozen_checkpoint": "2027-03-22T06:00:00Z",
+    "subjects": [
+      {
+        "name": "Corvan Luminth",
+        "id": "corv",
+        "engine_results": [
+          {
+            "engine_id": "human-design",
+            "result": {
+              "active_channels": [
+                "20-10",
+                "8-1",
+                "34-20",
+                "10-34",
+                "37-40"
+              ],
+              "authority": "Emotional",
+              "defined_centers": [
+                "Heart",
+                "G",
+                "Throat",
+                "SolarPlexus",
+                "Sacral"
+              ],
+              "definition": "Split",
+              "design_activations": {
+                "earth": {
+                  "gate": 19,
+                  "line": 6,
+                  "longitude": 312.82616071245127
+                },
+                "jupiter": {
+                  "gate": 58,
+                  "line": 1,
+                  "longitude": 274.0814642647319
+                },
+                "mars": {
+                  "gate": 43,
+                  "line": 6,
+                  "longitude": 233.69615110408574
+                },
+                "mercury": {
+                  "gate": 40,
+                  "line": 5,
+                  "longitude": 159.58432490341374
+                },
+                "moon": {
+                  "gate": 14,
+                  "line": 1,
+                  "longitude": 235.14559420951744
+                },
+                "neptune": {
+                  "gate": 10,
+                  "line": 1,
+                  "longitude": 268.98355008737263
+                },
+                "northnode": {
+                  "gate": 20,
+                  "line": 5,
+                  "longitude": 64.14528423126984
+                },
+                "pluto": {
+                  "gate": 50,
+                  "line": 4,
+                  "longitude": 209.5161540166953
+                },
+                "saturn": {
+                  "gate": 44,
+                  "line": 3,
+                  "longitude": 220.12218404112568
+                },
+                "southnode": {
+                  "gate": 34,
+                  "line": 5,
+                  "longitude": 244.14528423126984
+                },
+                "sun": {
+                  "gate": 33,
+                  "line": 6,
+                  "longitude": 132.8261607124513
+                },
+                "uranus": {
+                  "gate": 9,
+                  "line": 5,
+                  "longitude": 249.60531984477296
+                },
+                "venus": {
+                  "gate": 29,
+                  "line": 3,
+                  "longitude": 146.62475348313347
+                }
+              },
+              "hd_type": "ManifestingGenerator",
+              "personality_activations": {
+                "earth": {
+                  "gate": 24,
+                  "line": 4,
+                  "longitude": 40.826142395963416
+                },
+                "jupiter": {
+                  "gate": 58,
+                  "line": 6,
+                  "longitude": 279.1855733099887
+                },
+                "mars": {
+                  "gate": 54,
+                  "line": 6,
+                  "longitude": 290.58919866824584
+                },
+                "mercury": {
+                  "gate": 14,
+                  "line": 1,
+                  "longitude": 234.91804845256286
+                },
+                "moon": {
+                  "gate": 37,
+                  "line": 4,
+                  "longitude": 338.98180443195054
+                },
+                "neptune": {
+                  "gate": 10,
+                  "line": 2,
+                  "longitude": 269.43343688634303
+                },
+                "northnode": {
+                  "gate": 8,
+                  "line": 4,
+                  "longitude": 57.568971250920505
+                },
+                "pluto": {
+                  "gate": 28,
+                  "line": 1,
+                  "longitude": 212.42303066393774
+                },
+                "saturn": {
+                  "gate": 1,
+                  "line": 6,
+                  "longitude": 228.08843243414694
+                },
+                "southnode": {
+                  "gate": 14,
+                  "line": 4,
+                  "longitude": 237.5689712509205
+                },
+                "sun": {
+                  "gate": 44,
+                  "line": 4,
+                  "longitude": 220.8261423959634
+                },
+                "uranus": {
+                  "gate": 5,
+                  "line": 1,
+                  "longitude": 251.86477930414915
+                },
+                "venus": {
+                  "gate": 5,
+                  "line": 6,
+                  "longitude": 256.807820870336
+                }
+              },
+              "profile": "4/6"
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 1.054656,
+              "backend": "swiss-ephemeris",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:06.349723481Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:06.349723481+00:00",
+            "processing_time_ms": 1.054656
+          },
+          {
+            "engine_id": "numerology",
+            "result": {
+              "birthday": {
+                "is_master": false,
+                "meaning": "Creativity, expression, joy",
+                "reduction_chain": [
+                  3
+                ],
+                "value": 3
+              },
+              "chaldean_name": {
+                "is_master": false,
+                "meaning": "Analysis, wisdom, introspection",
+                "reduction_chain": [
+                  52,
+                  7
+                ],
+                "value": 7
+              },
+              "expression": {
+                "is_master": false,
+                "meaning": "Power, abundance, achievement",
+                "reduction_chain": [
+                  62,
+                  8
+                ],
+                "value": 8
+              },
+              "life_path": {
+                "is_master": false,
+                "meaning": "Compassion, completion, universal love",
+                "reduction_chain": [
+                  36,
+                  9
+                ],
+                "value": 9
+              },
+              "personality": {
+                "is_master": false,
+                "meaning": "Analysis, wisdom, introspection",
+                "reduction_chain": [
+                  43,
+                  7
+                ],
+                "value": 7
+              },
+              "soul_urge": {
+                "is_master": false,
+                "meaning": "Leadership, independence, pioneering",
+                "reduction_chain": [
+                  19,
+                  10,
+                  1
+                ],
+                "value": 1
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 0,
+            "metadata": {
+              "calculation_time_ms": 0.023311000000000002,
+              "backend": "native-rust",
+              "precision_achieved": "exact",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:06.323966081Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:06.323966081+00:00",
+            "processing_time_ms": 0.023311000000000002
+          },
+          {
+            "engine_id": "enneagram",
+            "result": {
+              "mode": "lookup",
+              "typeAnalysis": {
+                "center": "gut",
+                "disintegration": {
+                  "description": "Nines become anxious and reactive like unhealthy Sixes",
+                  "name": "The Loyalist",
+                  "type": 6
+                },
+                "harmonicGroup": "positive",
+                "hornevianGroup": "withdrawn",
+                "integration": {
+                  "description": "Nines access energy and self-development of healthy Threes",
+                  "name": "The Achiever",
+                  "type": 3
+                },
+                "type": {
+                  "averageTraits": [
+                    "Self-effacing and accommodating",
+                    "Complacent and resigned",
+                    "Disengaged and unreflective",
+                    "Passive-aggressive when pushed",
+                    "Stubbornly resistant to change"
+                  ],
+                  "coreDesire": "To have inner peace and stability",
+                  "coreFear": "Loss of connection, fragmentation, or conflict",
+                  "coreWeakness": "Sloth—forgetting own priorities and going along to get along",
+                  "description": "Receptive, reassuring, agreeable, and complacent. Nines are stable, trusting, and supportive. They fear conflict and separation, often merging with others to maintain peace.",
+                  "healthyTraits": [
+                    "Serene and at peace",
+                    "Present and self-possessed",
+                    "Accepting and unself-conscious",
+                    "Natural mediators and healers",
+                    "Optimistic and supportive"
+                  ],
+                  "keyMotivations": [
+                    "Creating harmony in environment",
+                    "Avoiding conflicts and tension",
+                    "Preserving things as they are",
+                    "Resisting whatever would upset or disturb them"
+                  ],
+                  "name": "The Peacemaker",
+                  "number": 9,
+                  "unhealthyTraits": [
+                    "Dissociated and neglectful",
+                    "Obstinate and fatalistic",
+                    "Depersonalized and repressed",
+                    "Helpless and inadequate",
+                    "Severely disoriented"
+                  ]
+                },
+                "wings": [
+                  {
+                    "name": "The Challenger",
+                    "number": 8
+                  },
+                  {
+                    "name": "The Reformer",
+                    "number": 1
+                  }
+                ]
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 1,
+            "metadata": {
+              "calculation_time_ms": 2,
+              "backend": "typescript",
+              "precision_achieved": "exact",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:06.906Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:06.906+00:00",
+            "processing_time_ms": 2
+          },
+          {
+            "engine_id": "vimshottari",
+            "result": {
+              "current_period": {
+                "antardasha": {
+                  "end": "2028-08-23T19:33:53+00:00",
+                  "planet": "Mercury",
+                  "start": "2026-03-28T04:06:53+00:00",
+                  "years": 2.408333333333333
+                },
+                "mahadasha": {
+                  "end": "2043-03-28T10:06:53+00:00",
+                  "planet": "Mercury",
+                  "start": "2026-03-28T04:06:53+00:00",
+                  "years": 17
+                },
+                "pratyantardasha": {
+                  "days": 43.982187499999995,
+                  "end": "2027-03-29T16:33:05+00:00",
+                  "planet": "Sun",
+                  "start": "2027-02-13T16:58:45+00:00"
+                }
+              },
+              "birth_nakshatra": {
+                "moon_longitude": 315.2618044319505,
+                "name": "Shatabhisha",
+                "number": 24
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 0.565202,
+              "backend": "swiss-ephemeris-sidereal",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:25.887371339Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:25.887371339+00:00",
+            "processing_time_ms": 0.565202
+          },
+          {
+            "engine_id": "biorhythm",
+            "result": {
+              "target_date": "2027-03-22",
+              "physical": {
+                "cycle_day": 0,
+                "days_until_critical": 12,
+                "days_until_peak": 6,
+                "is_critical": true,
+                "percentage": 49.99999999999069,
+                "phase": "Critical",
+                "value": -1.8615374123803674e-13
+              },
+              "emotional": {
+                "cycle_day": 23,
+                "days_until_critical": 6,
+                "days_until_peak": 12,
+                "is_critical": false,
+                "percentage": 4.9515566048679736,
+                "phase": "Rising",
+                "value": -0.9009688679026405
+              },
+              "intellectual": {
+                "cycle_day": 2,
+                "days_until_critical": 15,
+                "days_until_peak": 7,
+                "is_critical": false,
+                "percentage": 68.58312278299564,
+                "phase": "Rising",
+                "value": 0.37166245565991285
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 0,
+            "metadata": {
+              "calculation_time_ms": 0.080419,
+              "backend": "native-rust",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:07.488726094Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:07.488726094+00:00",
+            "processing_time_ms": 0.080419
+          },
+          {
+            "engine_id": "biofield",
+            "result": {
+              "computation_mode": "vedic",
+              "interpretation_kind": "birth-derived symbolic map; not physical measurement",
+              "chakra_readings": [
+                {
+                  "activity_level": 0.6656249999999999,
+                  "balance": 0.5,
+                  "chakra": "Root",
+                  "chakra_name": "Root",
+                  "color_intensity": "moderate red",
+                  "element": "Earth",
+                  "location": "Base of spine, perineum"
+                },
+                {
+                  "activity_level": 0.41875000000000007,
+                  "balance": 0.3333333333333333,
+                  "chakra": "Sacral",
+                  "chakra_name": "Sacral",
+                  "color_intensity": "dim orange",
+                  "element": "Water",
+                  "location": "Lower abdomen, below navel"
+                },
+                {
+                  "activity_level": 0.7281249999999999,
+                  "balance": 0.7142857142857143,
+                  "chakra": "SolarPlexus",
+                  "chakra_name": "Solar Plexus",
+                  "color_intensity": "bright yellow",
+                  "element": "Fire",
+                  "location": "Upper abdomen, stomach area"
+                },
+                {
+                  "activity_level": 0.36875,
+                  "balance": 0.3333333333333333,
+                  "chakra": "Heart",
+                  "chakra_name": "Heart",
+                  "color_intensity": "dim green",
+                  "element": "Air",
+                  "location": "Center of chest"
+                },
+                {
+                  "activity_level": 0.34375,
+                  "balance": 0,
+                  "chakra": "Throat",
+                  "chakra_name": "Throat",
+                  "color_intensity": "dim blue",
+                  "element": "Ether/Space",
+                  "location": "Throat area"
+                },
+                {
+                  "activity_level": 0.508125,
+                  "balance": 0.4,
+                  "chakra": "ThirdEye",
+                  "chakra_name": "Third Eye",
+                  "color_intensity": "dim indigo",
+                  "element": "Light",
+                  "location": "Between eyebrows"
+                },
+                {
+                  "activity_level": 0.609375,
+                  "balance": 0.7142857142857143,
+                  "chakra": "Crown",
+                  "chakra_name": "Crown",
+                  "color_intensity": "moderate violet",
+                  "element": "Consciousness",
+                  "location": "Top of head"
+                }
+              ]
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 1.089312,
+              "backend": "vedic-ephemeris",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:26.371704272Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:26.371704272+00:00",
+            "processing_time_ms": 1.089312
+          }
+        ],
+        "existing_proposed_arc": {
+          "character": "corv",
+          "chapter": 1,
+          "engine": "enneagram",
+          "receipt": "corv-enneagram-book1.json",
+          "field": "typeAnalysis.type.keyMotivations",
+          "external_stimulus": "Missing interval in the room, identified by Jian",
+          "internal_stimulus": "Urge to make the absence bearable through a beautiful explanation",
+          "interpretation": "Harmony-seeking may be shaping his account; lookup selected by Corv, not a diagnosis of the room",
+          "chosen_action": "Ask Sona what to hold and leave the slate alone",
+          "feedback": "Sona asks him to hold the question; absence remains unresolved",
+          "revised_understanding": "An unanswered signal can remain available without being converted into reassuring meaning",
+          "shared_lens_recurrence": 14,
+          "later_action_recurrence": [
+            5,
+            20,
+            26,
+            27
+          ]
+        }
+      },
+      {
+        "name": "Gideon Seter",
+        "id": "gideon",
+        "engine_results": [
+          {
+            "engine_id": "human-design",
+            "result": {
+              "active_channels": [
+                "11-56",
+                "10-57"
+              ],
+              "authority": "Splenic",
+              "defined_centers": [
+                "G",
+                "Ajna",
+                "Spleen",
+                "Throat"
+              ],
+              "definition": "Split",
+              "design_activations": {
+                "earth": {
+                  "gate": 10,
+                  "line": 6,
+                  "longitude": 273.32627323857605
+                },
+                "jupiter": {
+                  "gate": 46,
+                  "line": 4,
+                  "longitude": 181.60689318975108
+                },
+                "mars": {
+                  "gate": 35,
+                  "line": 3,
+                  "longitude": 73.93910341374912
+                },
+                "mercury": {
+                  "gate": 15,
+                  "line": 1,
+                  "longitude": 88.883722493406
+                },
+                "moon": {
+                  "gate": 25,
+                  "line": 3,
+                  "longitude": 0.6554814561248183
+                },
+                "neptune": {
+                  "gate": 11,
+                  "line": 1,
+                  "longitude": 263.20675356896123
+                },
+                "northnode": {
+                  "gate": 56,
+                  "line": 6,
+                  "longitude": 121.99491603581846
+                },
+                "pluto": {
+                  "gate": 32,
+                  "line": 1,
+                  "longitude": 201.54668733142137
+                },
+                "saturn": {
+                  "gate": 46,
+                  "line": 6,
+                  "longitude": 183.32771939942552
+                },
+                "southnode": {
+                  "gate": 60,
+                  "line": 6,
+                  "longitude": 301.99491603581845
+                },
+                "sun": {
+                  "gate": 15,
+                  "line": 6,
+                  "longitude": 93.32627323857605
+                },
+                "uranus": {
+                  "gate": 14,
+                  "line": 3,
+                  "longitude": 236.70873990388
+                },
+                "venus": {
+                  "gate": 62,
+                  "line": 4,
+                  "longitude": 114.06831469723471
+                }
+              },
+              "hd_type": "Projector",
+              "personality_activations": {
+                "earth": {
+                  "gate": 25,
+                  "line": 4,
+                  "longitude": 1.326334549851822
+                },
+                "jupiter": {
+                  "gate": 57,
+                  "line": 2,
+                  "longitude": 196.50073934098089
+                },
+                "mars": {
+                  "gate": 7,
+                  "line": 1,
+                  "longitude": 134.02309731264648
+                },
+                "mercury": {
+                  "gate": 50,
+                  "line": 2,
+                  "longitude": 207.44974590933185
+                },
+                "moon": {
+                  "gate": 7,
+                  "line": 5,
+                  "longitude": 137.48308140965614
+                },
+                "neptune": {
+                  "gate": 26,
+                  "line": 6,
+                  "longitude": 262.2075155143627
+                },
+                "northnode": {
+                  "gate": 56,
+                  "line": 4,
+                  "longitude": 119.99453869260068
+                },
+                "pluto": {
+                  "gate": 32,
+                  "line": 3,
+                  "longitude": 203.35703390985395
+                },
+                "saturn": {
+                  "gate": 48,
+                  "line": 3,
+                  "longitude": 191.40111710147
+                },
+                "southnode": {
+                  "gate": 60,
+                  "line": 4,
+                  "longitude": 299.9945386926007
+                },
+                "sun": {
+                  "gate": 46,
+                  "line": 4,
+                  "longitude": 181.3263345498518
+                },
+                "uranus": {
+                  "gate": 14,
+                  "line": 3,
+                  "longitude": 237.14226063993593
+                },
+                "venus": {
+                  "gate": 1,
+                  "line": 1,
+                  "longitude": 223.40189118380576
+                }
+              },
+              "profile": "4/6"
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 4.036218,
+              "backend": "swiss-ephemeris",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:10.693594223Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:10.693594223+00:00",
+            "processing_time_ms": 4.036218
+          },
+          {
+            "engine_id": "numerology",
+            "result": {
+              "birthday": {
+                "is_master": false,
+                "meaning": "Responsibility, nurturing, harmony",
+                "reduction_chain": [
+                  24,
+                  6
+                ],
+                "value": 6
+              },
+              "chaldean_name": {
+                "is_master": false,
+                "meaning": "Power, abundance, achievement",
+                "reduction_chain": [
+                  44,
+                  8
+                ],
+                "value": 8
+              },
+              "expression": {
+                "is_master": false,
+                "meaning": "Structure, discipline, foundation",
+                "reduction_chain": [
+                  58,
+                  13,
+                  4
+                ],
+                "value": 4
+              },
+              "life_path": {
+                "is_master": false,
+                "meaning": "Analysis, wisdom, introspection",
+                "reduction_chain": [
+                  16,
+                  7
+                ],
+                "value": 7
+              },
+              "personality": {
+                "is_master": false,
+                "meaning": "Leadership, independence, pioneering",
+                "reduction_chain": [
+                  28,
+                  10,
+                  1
+                ],
+                "value": 1
+              },
+              "soul_urge": {
+                "is_master": false,
+                "meaning": "Creativity, expression, joy",
+                "reduction_chain": [
+                  30,
+                  3
+                ],
+                "value": 3
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 0,
+            "metadata": {
+              "calculation_time_ms": 0.021646,
+              "backend": "native-rust",
+              "precision_achieved": "exact",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:10.669874589Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:10.669874589+00:00",
+            "processing_time_ms": 0.021646
+          },
+          {
+            "engine_id": "enneagram",
+            "result": {
+              "mode": "lookup",
+              "typeAnalysis": {
+                "center": "gut",
+                "disintegration": {
+                  "description": "Eights become withdrawn and fearful like unhealthy Fives",
+                  "name": "The Investigator",
+                  "type": 5
+                },
+                "harmonicGroup": "reactive",
+                "hornevianGroup": "assertive",
+                "integration": {
+                  "description": "Eights access openheartedness and care of healthy Twos",
+                  "name": "The Helper",
+                  "type": 2
+                },
+                "type": {
+                  "averageTraits": [
+                    "Dominating and confrontational",
+                    "Proud and egocentric",
+                    "Willful and defiant",
+                    "Intimidating and threatening",
+                    "Struggling for control"
+                  ],
+                  "coreDesire": "To protect self and determine own direction",
+                  "coreFear": "Being harmed or controlled by others",
+                  "coreWeakness": "Lust—wanting to be against the world and prove strength",
+                  "description": "Self-confident, decisive, confrontational, and dominating. Eights are strong, resourceful, and protective. They fear being controlled and assert themselves powerfully.",
+                  "healthyTraits": [
+                    "Magnanimous and heroic",
+                    "Self-mastering and empowering",
+                    "Courageous and protective",
+                    "Resourceful and decisive",
+                    "Authoritative and leading"
+                  ],
+                  "keyMotivations": [
+                    "Being self-reliant and strong",
+                    "Resisting weakness and vulnerability",
+                    "Being important in their world",
+                    "Dominating the environment and controlling resources"
+                  ],
+                  "name": "The Challenger",
+                  "number": 8,
+                  "unhealthyTraits": [
+                    "Ruthless and dictatorial",
+                    "Destroying before being destroyed",
+                    "Terrorizing and violent",
+                    "Sociopathic and delusional",
+                    "Megalomania and revenge-seeking"
+                  ]
+                },
+                "wings": [
+                  {
+                    "name": "The Enthusiast",
+                    "number": 7
+                  },
+                  {
+                    "name": "The Peacemaker",
+                    "number": 9
+                  }
+                ]
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 1,
+            "metadata": {
+              "calculation_time_ms": 0,
+              "backend": "typescript",
+              "precision_achieved": "exact",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:11.099Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:11.099+00:00",
+            "processing_time_ms": 0
+          },
+          {
+            "engine_id": "vimshottari",
+            "result": {
+              "current_period": {
+                "antardasha": {
+                  "end": "2028-07-12T22:06:48+00:00",
+                  "planet": "Mercury",
+                  "start": "2027-02-11T11:36:48+00:00",
+                  "years": 1.4166666666666667
+                },
+                "mahadasha": {
+                  "end": "2031-04-13T08:36:48+00:00",
+                  "planet": "Moon",
+                  "start": "2021-04-12T20:36:48+00:00",
+                  "years": 10
+                },
+                "pratyantardasha": {
+                  "days": 73.30364583333333,
+                  "end": "2027-04-25T18:54:03+00:00",
+                  "planet": "Mercury",
+                  "start": "2027-02-11T11:36:48+00:00"
+                }
+              },
+              "birth_nakshatra": {
+                "moon_longitude": 114.86348514285089,
+                "name": "Ashlesha",
+                "number": 9
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 0.5254949999999999,
+              "backend": "swiss-ephemeris-sidereal",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:27.951751970Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:27.951751970+00:00",
+            "processing_time_ms": 0.5254949999999999
+          },
+          {
+            "engine_id": "biorhythm",
+            "result": {
+              "target_date": "2027-03-22",
+              "physical": {
+                "cycle_day": 9,
+                "days_until_critical": 3,
+                "days_until_peak": 20,
+                "is_critical": false,
+                "percentage": 81.55439721630056,
+                "phase": "Falling",
+                "value": 0.631087944326011
+              },
+              "emotional": {
+                "cycle_day": 11,
+                "days_until_critical": 3,
+                "days_until_peak": 24,
+                "is_critical": false,
+                "percentage": 81.17449009294256,
+                "phase": "Falling",
+                "value": 0.6234898018588513
+              },
+              "intellectual": {
+                "cycle_day": 16,
+                "days_until_critical": 1,
+                "days_until_peak": 26,
+                "is_critical": true,
+                "percentage": 54.75280216521619,
+                "phase": "Critical",
+                "value": 0.09505604330432364
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 0,
+            "metadata": {
+              "calculation_time_ms": 0.153464,
+              "backend": "native-rust",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:11.635139600Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:11.635139600+00:00",
+            "processing_time_ms": 0.153464
+          },
+          {
+            "engine_id": "biofield",
+            "result": {
+              "computation_mode": "vedic",
+              "interpretation_kind": "birth-derived symbolic map; not physical measurement",
+              "chakra_readings": [
+                {
+                  "activity_level": 0.725,
+                  "balance": 0.5,
+                  "chakra": "Root",
+                  "chakra_name": "Root",
+                  "color_intensity": "bright red",
+                  "element": "Earth",
+                  "location": "Base of spine, perineum"
+                },
+                {
+                  "activity_level": 0.384375,
+                  "balance": -0.42857142857142855,
+                  "chakra": "Sacral",
+                  "chakra_name": "Sacral",
+                  "color_intensity": "dim orange",
+                  "element": "Water",
+                  "location": "Lower abdomen, below navel"
+                },
+                {
+                  "activity_level": 0.5562499999999999,
+                  "balance": 0.6363636363636364,
+                  "chakra": "SolarPlexus",
+                  "chakra_name": "Solar Plexus",
+                  "color_intensity": "moderate yellow",
+                  "element": "Fire",
+                  "location": "Upper abdomen, stomach area"
+                },
+                {
+                  "activity_level": 0.334375,
+                  "balance": -0.42857142857142855,
+                  "chakra": "Heart",
+                  "chakra_name": "Heart",
+                  "color_intensity": "dim green",
+                  "element": "Air",
+                  "location": "Center of chest"
+                },
+                {
+                  "activity_level": 0.396875,
+                  "balance": -0.1111111111111111,
+                  "chakra": "Throat",
+                  "chakra_name": "Throat",
+                  "color_intensity": "dim blue",
+                  "element": "Ether/Space",
+                  "location": "Throat area"
+                },
+                {
+                  "activity_level": 0.7581249999999999,
+                  "balance": 0.25,
+                  "chakra": "ThirdEye",
+                  "chakra_name": "Third Eye",
+                  "color_intensity": "bright indigo",
+                  "element": "Light",
+                  "location": "Between eyebrows"
+                },
+                {
+                  "activity_level": 0.5656249999999999,
+                  "balance": 0.7777777777777778,
+                  "chakra": "Crown",
+                  "chakra_name": "Crown",
+                  "color_intensity": "moderate violet",
+                  "element": "Consciousness",
+                  "location": "Top of head"
+                }
+              ]
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 1.723548,
+              "backend": "vedic-ephemeris",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:28.268873361Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:28.268873361+00:00",
+            "processing_time_ms": 1.723548
+          }
+        ],
+        "existing_proposed_arc": {
+          "character": "gideon",
+          "chapter": 3,
+          "engine": "biofield",
+          "receipt": "gideon-biofield-book1.json",
+          "field": "chakra_readings[Root].activity_level",
+          "external_stimulus": "Membrane seam flexes under load and Sona chooses her position",
+          "internal_stimulus": "Tight jaw and urge to direct her stance",
+          "interpretation": "Root emphasis is a symbolic prompt to notice bracing; it cannot establish load-bearing safety",
+          "chosen_action": "Point out the edge, ask rather than command, plan cover around her position",
+          "feedback": "Sona has room to turn",
+          "revised_understanding": "The same observed motion can prompt closure or protection of a passage",
+          "shared_lens_recurrence": 14,
+          "later_action_recurrence": [
+            9,
+            16,
+            26,
+            27
+          ]
+        }
+      }
+    ],
+    "retrieved_context": [
+      {
+        "id": "sw:hd:type:manifesting-generator:desc",
+        "system": "human-design",
+        "text": "Manifesting Generators are a hybrid type with Generator energy and Manifestor manifestation abilities. They can skip steps and move quickly when responding correctly.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:type:generator:desc",
+        "system": "human-design",
+        "text": "Generators are the life force of the planet. They have sustainable energy when engaged in work they love and are designed to respond to life rather than initiate.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:type:projector:desc",
+        "system": "human-design",
+        "text": "Projectors are natural guides and managers of energy. They see systems and people clearly and are designed to guide others when invited.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:auth:emotional-authority:desc",
+        "system": "human-design",
+        "text": "Decision-making through emotional clarity over time. No truth in the now - must wait for emotional wave to complete before deciding.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:auth:sacral-authority:desc",
+        "system": "human-design",
+        "text": "The most common authority, based on gut responses and life force energy. Decisions are made through immediate sacral sounds and gut feelings.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:auth:splenic-authority:desc",
+        "system": "human-design",
+        "text": "Intuitive authority based on survival instincts and in-the-moment awareness. Decisions come as quiet inner knowing.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:9:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To maintain their inner and outer peace and to avoid conflict. Core Fear: Loss of connection and fragmentation of their world. Core Desire: To have inner and outer peace.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:4:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To find themselves and their significance, to create an identity from their inner experience. Core Fear: Having no identity or personal significance. Core Desire: To find themselves and their significance.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:5:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To be capable and competent, to understand the environment, to have everything figured out. Core Fear: Being useless, helpless, or incapable. Core Desire: To be capable and competent.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:8:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To be self-reliant and in control of their own life and destiny. Core Fear: Being controlled or vulnerable to others. Core Desire: To be self-reliant and in control.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      }
+    ]
+  },
+  "mode_file": "business-partners.md",
+  "output": {
+    "mode": "business-partners",
+    "subject_names": [
+      "Corvan Luminth",
+      "Gideon Seter"
+    ],
+    "register": "l1_l3",
+    "passes": [
+      {
+        "id": "opening",
+        "title": "Opening",
+        "output": "## Opening — Pattern witness (business partners)\n\n**Checkpoint:** 2027-03-22T06:00:00Z · **Subjects:** Corvan Luminth and Gideon Seter (Somanaut colleagues) · **Frame:** non-predictive editorial context; not canon, not conduct prescription.\n\nThis witness treats Corvan and Gideon as a **differentiated pair** inside one team repertoire: two people who can read the same room, choose different lenses, and still be accountable for what they do with what they notice. Nothing here forecasts outcomes; it names **recurring shapes** the supplied engines surface so partnership talk can stay concrete without collapsing into type-as-destiny.\n\n**Known from engines (symbolic / interpretive):** Corvan’s Human Design chart reads as **Manifesting Generator**, **Emotional** authority, **Split** definition, **4/6** profile, with sustained motor-and-voice channels (including 37–40 and 34–20) and a defined Solar Plexus. Gideon’s chart reads as **Projector**, **Splenic** authority, also **Split** and **4/6**, with guiding channels 11–56 and 10–57 and a defined Spleen. Enneagram lookup places Corvan at **Type 9** (peace-and-connection motifs in corpus text) and Gideon at **Type 8** (self-direction and control-of-environment motifs)—doctrine, not verdict on behavior. Numerology reductions differ (Corvan life path **9** / expression **8**; Gideon life path **7** / expression **4**), a simple reminder that their “default emphasis” in language need not match. At the checkpoint date, biorhythm math flags Corvan’s **physical** phase as **critical** while intellectual cycles rise; Gideon’s **intellectual** phase is **critical** while physical and emotional curves fall—timing labels only, not stamina claims. Vimshottari periods both sit under **Mercury** sub-periods at this freeze, with different mahadasha backdrops (Corvan **Mercury** mahadasha; Gideon **Moon** mahadasha). Biofield outputs are **birth-derived maps**, not measured fields; they are cited only as optional prompts (e.g., Corvan’s symbolic Solar Plexus emphasis; Gideon’s symbolic Root and Third Eye emphasis).\n\n**Already proposed in fiction (not established fact):** Corvan’s arc threads **harmony-seeking** against unresolved absence—choosing to hold a question rather than beautify it. Gideon’s arc threads **bracing vs. protection**—naming an edge, asking instead of commanding, leaving room for another’s stance.\n\n**Partnership hypothesis (proposal):** Shared **4/6** profile and **split** definition may make “bridging” a team habit: each can translate across subgroups, yet finish decisions on different clocks—Corvan via emotional clarity over time, Gideon via in-the-moment splenic knowing. Friction is plausible where Nine-leaning accommodation meets Eight-leaning directness; coherence is plausible where both treat engines as **stimulus → interpretation → action → feedback**, not as ownership of truth.\n\nWhat follows in this reading mode should stay in that loop: external signal, internal pull, chosen move, observed result—authored separately from any engine label.",
+        "rubric": {
+          "section_id": "opening",
+          "title": "Opening",
+          "target_words": 350,
+          "actual_words": 403,
+          "word_count_fit": "pass",
+          "word_count_ratio": 1.151,
+          "deterministic_fact_count": 12,
+          "deterministic_fact_gate": "pass",
+          "integrated_layer_count": 2,
+          "integrated_layering_gate": "pass",
+          "guardrail_gate": "pass",
+          "guardrail_violations": [],
+          "model_requested": "tier-default",
+          "model_used": "tier-default",
+          "latency_ms": 9712
+        }
+      },
+      {
+        "id": "partnership-field",
+        "title": "Partnership Field",
+        "output": "# Partnership Field — Corvan Luminth & Gideon Seter\n\n**Pass:** partnership-field · **Register:** l1_l3 · **Roles:** Corvan Luminth (colleague) · Gideon Seter (colleague) · **Relationship type:** business-partners (fictional colleagues; no commercial relationship asserted) · **Checkpoint:** 2027-03-22 · **Sensitivity:** low\n\n---\n\n## Editorial frame\n\nThis reading describes a **structural and symbolic field** between two fictional colleagues, using engine outputs as **interpretive maps**, not as measurements of conduct, competence, or consciousness. Human Design and Enneagram material is **doctrine from supplied corpora**; numerology, vimshottari, biorhythm, and biofield entries are **calculations or symbolic overlays**, not physiology. Where fiction has already shown how each character *uses* a lens, those beats are **authored proposals**, not canon for the partnership.\n\n**Shared goal (stated):** differentiated team coherence, a shared repertoire, room for external and internal stimulus, interpretation, accountable action, and observed feedback—without treating either map as exclusive ownership of “truth.”\n\n---\n\n## Structural spine: two splits, one visible bridge\n\nBoth colleagues carry **Split definition** in Human Design. In corpus terms, that often reads as a bodygraph that does not self-complete: coherence may depend on **transit, environment, or the other person** to close circuits. They are not identical splits.\n\n**Corvan Luminth** is typed **Manifesting Generator** with **Emotional authority**. Engine-defined centers: **Heart, G, Throat, Solar Plexus, Sacral**. Active channels include **20–10**, **8–1**, **34–20**, **10–34**, and **37–40**—a dense mix of expression, individuality, powered action, and **tribal bargain** (37–40). Corpus shorthand: sustainable motor when engaged, capacity to **skip steps** when responding “correctly,” and decisions that are **not settled in a single moment** if emotional authority is taken literally.\n\n**Gideon Seter** is typed **Projector** with **Splenic authority**. Defined: **G, Ajna, Spleen, Throat**. Channels **11–56** (ideas into storytelling / teaching cadence) and **10–57** (identity wired to **in-the-moment survival knowing**). Corpus shorthand: systemic sight and guidance **when invited**, with decisions framed as **quiet, immediate knowing** rather than a long wave.\n\n**Shared structural rhyme:** both are **Profile 4/6**—in HD narrative, a line of **networked influence** meeting a phased, observational life story. As colleagues, that can produce parallel habits: each may **test ideas in relationship** before treating them as settled, and each may carry a **public-private split** between workable persona and longer arc.\n\n**Known bridge (engine, not fiction):** **Gate 10** appears in both active channel sets (Corvan via 10–34 and 20–10; Gideon via 10–57). **G** and **Throat** are defined for both. *Possibility (proposal):* the partnership’s most legible shared surface is **named direction plus speech**—who speaks for the pair, what behavior is “us,” what story the room hears—while **motors and timing** stay asymmetric.\n\n---\n\n## Energetic timing: wave versus spark\n\nAuthority mismatch is the partnership’s main **clock problem**, bigger than layout or style.\n\nCorvan’s **Emotional authority** (per corpus) privileges **clarity after a feeling completes**. Pushing for instant closure can read, in doctrine, as deciding **before** the wave has spoken.\n\nGideon’s **Splenic authority** privileges **now**: instinct, threat/benefit scanning, a small signal that does not want debate.\n\nAt the **2027-03-22** biorhythm snapshot (symbolic cycles only):\n\n| Colleague | Physical | Emotional | Intellectual |\n|-----------|----------|-----------|--------------|\n| Corvan | **Critical** | Rising | Rising |\n| Gideon | Falling | Falling | **Critical** |\n\n*Interpretation (proposal, not fact):* Corvan’s field may **feel** simultaneously **brittle and building**—body at an inflection, mind and mood ascending. Gideon’s may **feel** like **high mental static** while vitality and mood taper—sharp cognition without guaranteed stamina. In a meeting, one colleague might say “not yet” while the other says “this, now”—each citing an inner signal the other’s map does not privilege the same way.\n\n**Accountable partnership move (proposal):** separate **urgency** from **commitment**. Splenic reads can become **hypotheses to test**; emotional reads can become **time-boxed revisits** rather than indefinite deferral.\n\n---\n\n## Enneagram polarity: merger peace versus protective control\n\nBoth sit in the **gut center** but with opposing default strategies in the supplied lookup.\n\n**Corvan — Type 9 (Peacemaker), withdrawn Hornevian, positive harmonic.** Stated core desire: **inner peace and stability**; core fear: **loss of connection, fragmentation, conflict**; key motivations include **harmony, conflict avoidance, preserving what is**. Wings **8** and **1** are available in lookup—not primary type, but *possibility* that under pressure he borrows **edge** or **principled correction**.\n\n**Gideon — Type 8 (Challenger), assertive Hornevian, reactive harmonic.** Core desire: **self-protection and self-direction**; core fear: **harm or control by others**; motivations include **strength, resisting weakness, importance, environmental control**. Wings **7** and **9** suggest *possibility* of **speed/play** or **softening** without changing the eight’s assertive baseline.\n\n**Field tension (doctrine-level):** Nine energy **merges and accommodates** to keep the membrane intact; Eight energy **declares boundary and resource control** so vulnerability cannot be seized. As business partners in fiction, this is less “opposites attract” than **two valid gut answers to threat**: *dissolve conflict by absorption* versus *end conflict by dominance of stance*.\n\nThe frozen **proposed arc** for Corvan (Enneagram, external missing interval, internal urge to **beautify absence**) shows one accountable pattern: **hold the question** instead of **reassuring narrative**. Gideon’s proposed arc (biofield Root emphasis as **symbolic bracing**, not safety proof) shows **ask rather than command** when load appears. *Together (proposal):* the pair’s healthiest joint habit may be **unresolved signals stay visible** while **direction is offered, not seized**.\n\nIntegration paths in lookup (Nine → Three; Eight → Two) are **not predictions**—only **corpus reminders** that stressed collaboration might skew toward **performance** (Corvan) or **over-care as control** (Gideon) if unwitnessed.\n\n---\n\n## Numerology: public power, private integers\n\nTreat as **symbolic counters**, not destiny.\n\n**Corvan:** Life path **9** (completion/compassion theme in bundle), expression **8**, soul urge **1**, personality **7**, birthday **3**. *Possibility:* outward **executive finish** (8) with inward **pioneer** (1) and **analytic persona** (7)—a colleague who can **present authority** while privately needing **sovereign lane**.\n\n**Gideon:** Life path **7**, expression **4**, soul urge **3**, personality **1**, birthday **6**. *Possibility:* outward **structure and craft** (4) with **creative soul urge** (3) and **leading surface** (1)—a colleague who **looks decisive** while numerically emphasizing **systems and responsibility** (4/6 themes).\n\n**Partnership note:** both carry **1** in the personality or soul column—*proposal* that each may **default to self-direction** when stressed; partnership protocol may need explicit **role splits** so two “ones” do not compete for the same helm.\n\n---\n\n## Vimshottari overlay (symbolic period clock)\n\n**Corvan:** **Mercury** mahadasha; at checkpoint, **Sun** pratyantardasha (short window). Mercury themes in tradition: **speech, trade, analysis, coupling of ideas**; Sun pratyantar: **visibility, naming, authority on the record**. *Proposal:* a season where **what is said publicly** weighs heavily in joint decisions.\n\n**Gideon:** **Moon** mahadasha with **Mercury** antardasha; pratyantar also **Mercury** at checkpoint. Moon: **rhythm, belonging, mood of the container**; nested Mercury: **negotiation and wording**. *Proposal:* he may **read the room’s emotional contract** while **negotiating terms**—useful for partnership **membranes**, risky if **mood** is mistaken for **policy**.\n\nBoth under Mercury sub-periods at the checkpoint—*possibility* of **high verbal throughput** in the field, aligning with shared **Throat** definition in HD.\n\n---\n\n## Biofield maps (birth-derived symbolic only)\n\nExplicitly **not** measured biofields.\n\n**Corvan:** relatively elevated **Solar Plexus** and **Crown** activity in the map; **Heart** and **Throat** read dimmer. *Symbolic read (proposal):* fire and meaning-making **bright**; **affectionate credibility and clean voice** may need **intentional practice**, not assumption.\n\n**Gideon:** elevated **Root** and **Third Eye**; **Sacral** and **Heart** dimmer with negative balance markers on several centers. *Symbolic read (proposal):* **grounding and pattern sight** foreground; **generative ease and open-hearted signaling** not guaranteed by the map—invitation and pacing matter.\n\n*Joint image (proposal):* Corvan’s map stresses **will and vision**; Gideon’s stresses **anchor and scan**. Complementary if roles are **motor/response** versus **aim/audit**; abrasive if both interpret the other’s dim centers as **withholding**.\n\n---\n\n## Shared repertoire and differentiation\n\nNeither colleague monopolizes the workflow **stimulus → selection → interpretation → action → feedback**.\n\n| Mechanism | Corvan (colleague) | Gideon (colleague) |\n|-----------|-------------------|-------------------|\n| HD role cue | MG: respond, then move fast | Projector: guide when invited |\n| Decision tempo | Emotional wave | Splenic now |\n| Conflict style (Enneagram lookup) | Merge, harmonize, delay rupture | Assert, control space, protect |\n| Checkpoint biorhythm | Body critical; mind/mood rising | Mind critical; body/mood falling |\n| Proposed fiction habit | Leave absence unresolved | Ask before commanding at load |\n\n**Differentiated coherence (proposal):** Corvan holds **narrative and tribal glue** (37–40, 9-motivation, Mercury-Sun window)—making **progress legible** without falsifying gaps. Gideon holds **system truth and edge detection** (10–57, 8-motivation, Root/Third Eye map)—naming **risk and stance** without **closing** the room. Shared **4/6** profile suggests both should **publish learnings to the network** rather than privatize mistakes.\n\n---\n\n## Contradictions to keep visible\n\n- **Speed vs timing:** MG skip-step energy meets **wait-for-clarity** emotional authority; Projector **now** meets partnership need for **sustained follow-through**.\n- **Peace vs challenge:** Nine accommodation can **erase priorities**; Eight assertiveness can **read as threat** to Nine’s core fear—*not because either is “wrong,”* but because **gut strategies differ**.\n- **Split definition:** each may feel **whole only with bridging**; if they assume the other should “complete” them without consent, **resentment** is a plausible fictional outcome—not a forecast.\n\n---\n\n## Closing operational image\n\nThe partnership field, at this checkpoint, is **structurally bridged at identity and voice (Gate 10, G, Throat)** but **split in motor and timing (Sacral/Solar Plexus vs Spleen/Ajna; emotional vs splenic)**. Energetically, **Mercury-heavy** periods favor **contracts, wording, and teaching cadence (11–56)**; **gut-type** Enneagram material favors **early conflict about control versus disappearance**. Neither map removes the need for **explicit invitation** (Projector), **emotional patience** (Emotional authority), or **accountable scenes** where outcomes remain **authored**, not engine-determined.\n\n*Word count: ~1,080 (target band 990–1,100).* · *Not canon; editorial context only.*",
+        "rubric": {
+          "section_id": "partnership-field",
+          "title": "Partnership Field",
+          "target_words": 1100,
+          "actual_words": 1549,
+          "word_count_fit": "warn",
+          "word_count_ratio": 1.408,
+          "deterministic_fact_count": 33,
+          "deterministic_fact_gate": "pass",
+          "integrated_layer_count": 3,
+          "integrated_layering_gate": "pass",
+          "guardrail_gate": "pass",
+          "guardrail_violations": [],
+          "model_requested": "tier-default",
+          "model_used": "tier-default",
+          "latency_ms": 87184
+        }
+      },
+      {
+        "id": "decision-dynamics",
+        "title": "Decision Dynamics",
+        "output": "# Decision Dynamics  \n**Pass:** decision-dynamics · **Register:** L1–L3 · **Checkpoint:** 2027-03-22  \n**Subjects:** Corvan Luminth, Gideon Seter · **Relation:** fictional business partners (editorial lens only)\n\nThis pass describes how decision *patterns* may align or rub when Corvan and Gideon share work. It is not a forecast of behavior, a partnership verdict, or canon for any scene. Engine outputs are symbolic and interpretive unless marked otherwise; proposed arcs below are **proposals** drawn from prior fiction receipts, not established fact.\n\n---\n\n## Shared floor, different clocks\n\nBoth figures carry **split definition** in the supplied Human Design material and share a **4/6 profile** in that same lookup—suggesting, in corpus terms, a long arc of visibility and role-testing rather than a single “fixed” decision style. That parallel can read as **team coherence**: each may understand that identity and authority are negotiated in public over time, not declared once in private.\n\nWhere they diverge is *when* a decision is allowed to land. Corvan’s chart lists **Emotional authority** and type **Manifesting Generator**; the retrieved corpus (untrusted doctrine) frames emotional authority as clarity **after** a wave, and Manifesting Generators as able to move quickly when responding correctly, sometimes skipping steps. Gideon’s chart lists **Splenic authority** and type **Projector**; splenic authority is described as in-the-moment knowing, and Projectors as guides whose influence is strongest **when invited**.\n\nRead descriptively, the pair may often face the same fork with incompatible tempo labels: Corvan’s internal ledger may still be collecting emotional data while Gideon’s splenic read may already be offering a quiet yes/no. Neither label proves who is “right”; they mark **friction in timing** and **complement in coverage**—one pattern favors delay for coherence, the other favors immediate survival-grade signal.\n\n---\n\n## Gut center, opposite Harmonic postures\n\nEnneagram lookup (doctrine, not conduct law) places both in the **gut** center but on different types: Corvan as **Nine (Peacemaker)**, Gideon as **Eight (Challenger)**. Nines are described as motivated to preserve peace and connection, with average traits that include accommodation and resistance to disturbance; Eights as motivated to protect autonomy, with average traits that include decisiveness and control of environment. Corvan’s documented wings include Eight and One; Gideon’s include Seven and Nine—so each carries a secondary vocabulary for the other’s primary stance, which may increase **shared repertoire** even when default moves differ.\n\nHarmonic groups differ: Corvan’s type sits in the **positive** harmonic group in the lookup; Gideon’s in the **reactive** group. In partnership language, that can show up as Corvan preferring decisions that **restore steadiness** and Gideon preferring decisions that **address threat or leakage immediately**. Under load, the Nine pattern may merge or defer; the Eight pattern may enlarge the decision to include **who holds power in the room**. That is a classic complementary pair when stakes are clear—and a friction pair when the “real” stake is whether conflict itself is permissible.\n\nNumerology in the freeze adds texture, not verdict: Corvan’s life path **9** and expression **8** sit beside soul urge **1**; Gideon’s life path **7** and expression **4** beside soul urge **3** and personality **1**. One might read Corvan as pulled toward completion and visible impact with a pioneering undertone; Gideon toward analysis, structure, and creative expression with a leading edge. These are symbolic reductions, not résumé facts.\n\n---\n\n## External stimulus → interpretation → accountable action\n\nThe engine model used here assumes **both** partners use internal and external stimulus, then selected output, interpretation, accountable action, and observed feedback—not exclusive ownership of any one tool.\n\n**Corvan (proposal arc, not canon):** External stimulus: a missing interval in a room, named by another colleague. Internal stimulus: urge to make absence bearable through explanation. Interpretation: harmony-seeking may be shaping the account; Enneagram lookup was **selected**, not a diagnosis of the room. Chosen action: ask what to hold and leave the slate unchanged. Feedback: the question is held; absence stays unresolved. Revised understanding: an unanswered signal can remain available without being converted into reassuring meaning. That receipt suggests Corvan’s accountable action may trend toward **deferring closure** when closure would purchase calm at the cost of accuracy.\n\n**Gideon (proposal arc, not canon):** External stimulus: a membrane seam flexing under load; another colleague chooses position. Internal stimulus: tight jaw and urge to direct stance. Interpretation: root emphasis in the birth-derived biofield map is a **symbolic** prompt to notice bracing—not evidence of structural safety. Chosen action: name the edge, ask rather than command, plan cover around her position. Feedback: she has room to turn. Revised understanding: the same motion can prompt closure or protection of passage. That receipt suggests Gideon’s accountable action may trend toward **bounding risk without seizing the other’s agency**—a deliberate correction away from default Eight posture.\n\nTogether, these proposals sketch a **complementary ethics of the pause**: Corvan may hold the question open; Gideon may hold the perimeter while still asking. Friction appears when Corvan’s pause reads to Gideon as avoidance, or when Gideon’s directness reads to Corvan as fragmentation of peace.\n\n---\n\n## Checkpoint overlays (symbolic, not physiology)\n\n**Vimshottari** at the freeze: Corvan is in **Mercury** mahadasha with **Sun** pratyantardasha through late March 2027; Gideon is in **Moon** mahadasha with **Mercury** antardasha and **Mercury** pratyantardasha into April 2027. Both carry a Mercury-colored sub-period—editorially, that may correlate with **talk, tradeoffs, and reclassification of facts**—while Corvan’s Sun sub-period may emphasize **visibility and naming** and Gideon’s Moon lineage **attachment and belonging**. These are timing metaphors, not deadlines.\n\n**Biorhythm** for 2027-03-22 (mathematical cycle, not HRV): Corvan shows **physical critical** with emotional cycle rising from a negative phase and intellectual rising positive; Gideon shows **intellectual critical** with physical and emotional high but **falling**. A descriptive read: on this date Corvan’s partnership risk may be **body-level reactivity at a hinge** while mind is climbing; Gideon’s may be **cognitive hinge** while body and mood are still strong but declining. Decision meetings on that day might skew toward Corvan over-explaining while fatigued, and Gideon insisting on clarity while mentally brittle—**possibility**, not prediction.\n\n**Biofield** entries are explicitly birth-derived symbolic maps. Corvan’s freeze highlights brighter **solar plexus** and moderate **crown** with dimmer **heart/throat** in the lookup; Gideon’s highlights brighter **root** and **third eye** with moderate **crown**. As editorial metaphor only: Corvan’s decisions may be narrated internally around **will and meaning** with less default emphasis on vocal or cardiac disclosure; Gideon’s around **grounding and pattern-spotting**. Neither map measures chakra health in a clinical sense.\n\n---\n\n## Channels and invitation (HD corpus)\n\nCorvan’s active channels in the freeze include **37–40** (community/support themes in doctrine), **34–20** / **10–34** (busy empowerment, behavioral identity), and **8–1** / **20–10** (contribution and expression). Gideon’s include **10–57** (survival awareness tied to identity) and **11–56** (ideas/storytelling). Descriptively, Corvan’s decision narrative may bundle **loyalty and throughput**; Gideon’s may bundle **nuance and timely warning**. Projector strategy in corpus terms adds: many of Gideon’s best decisions may need **explicit invitation**—whereas Corvan’s Generator lineage may need **something to respond to** before committing. A standing partnership failure mode is **initiating without response** (Corvan) or **guiding without invitation** (Gideon); a standing success mode is **clear prompts and clear asks**.\n\n---\n\n## Witness summary\n\n| Dimension | Corvan Luminth | Gideon Seter | Partnership read |\n|-----------|----------------|--------------|------------------|\n| Authority tempo | Emotional wave; delay for clarity | Splenic now; quiet knowing | Timing friction; dual coverage |\n| Type posture | Respond / move; may skip steps | Guide; see systems | Invitation vs stimulus |\n| Enneagram default | Peace, merge, avoid rupture | Protect, direct, control stakes | Stability vs boundary |\n| Documented correction | Hold unanswered signal | Ask; cover without command | Shared “pause with accountability” |\n| Checkpoint 2027-03-22 | Physical critical; mind rising | Mind critical; vigor falling | Different hinge days |\n\n**Contradictions to keep visible:** Corvan’s Nine motivation can coexist with Manifesting Generator speed in doctrine; Gideon’s Eight motivation can coexist with Projector need for invitation. Neither engine resolves the other; **observed feedback** in fiction remains the arbiter.\n\n**Proposals for writers (not mandates):** In high-stakes forks, let Corvan’s decision cost be **premature harmony** and Gideon’s **premature closure**; let wins show Corvan naming what will not be smoothed over after the wave, and Gideon offering guidance only after the room has invited it. Recurrence counts in the freeze (shared lens **14** for both) suggest this lens is already a **shared repertoire**—the dynamics above are variations on a team habit, not a first meeting.\n\n*End of pass. Not canon. For editorial use only.*",
+        "rubric": {
+          "section_id": "decision-dynamics",
+          "title": "Decision Dynamics",
+          "target_words": 1100,
+          "actual_words": 1385,
+          "word_count_fit": "warn",
+          "word_count_ratio": 1.259,
+          "deterministic_fact_count": 21,
+          "deterministic_fact_gate": "pass",
+          "integrated_layer_count": 2,
+          "integrated_layering_gate": "warn",
+          "guardrail_gate": "pass",
+          "guardrail_violations": [],
+          "model_requested": "tier-default",
+          "model_used": "tier-default",
+          "latency_ms": 19589
+        }
+      },
+      {
+        "id": "synthesis",
+        "title": "Synthesis",
+        "output": "# Partnership Synthesis: Corvan Luminth & Gideon Seter\n\n**Checkpoint:** 2027-03-22 · **Mode:** business-partners (fictional colleagues) · **Band:** L1–L3\n\nThis note compares two engine-derived portraits and two **proposed** narrative receipts. It is editorial context for how the pair might read one another under load—not a verdict on conduct, compatibility, or canon.\n\n---\n\n## Shared repertoire\n\nBoth figures carry **Human Design** split definition and a **4/6 profile** in the supplied charts. In the retrieved corpus (explicitly untrusted doctrine), 4/6 is often framed as network-facing relating that matures through repetition over time. That framing is interpretive; what is factual in the payload is only the shared profile label and split definition on both sides.\n\nThey also share **Enneagram gut-center** typing in lookup mode: Corvan as **Type 9 (Peacemaker)**, Gideon as **Type 8 (Challenger)**. Corpus text contrasts peace-through-harmony with self-direction-through-strength; those are motivational sketches from a lookup table, not observations of how they behave in a room.\n\nAt the **Vimshottari** layer (symbolic timing, not fate), both sit inside **Mercury-tinted** sub-periods at the frozen date: Corvan in **Mercury mahadasha** with **Mercury antardasha**; Gideon in **Moon mahadasha** with **Mercury antardasha** and **Mercury pratyantardasha** active into late April 2027. That overlap is a possible shared “mercurial” editorial season—communication, revision, naming—without implying they will agree on what gets said.\n\nNumerology shows partial rhyme, not mirror: both carry **8** in the Chaldean-name reduction; Corvan’s **life path 9** and **soul urge 1** sit beside Gideon’s **life path 7** and **soul urge 3**. The engine does not define partnership from these digits; it only offers parallel motifs (completion vs analysis; pioneering vs expression) that interpreters might map onto division of labor.\n\n---\n\n## Differentiated coherence\n\n**Authority** is the clearest structural contrast in HD facts: Corvan **Emotional**, Gideon **Splenic**. Doctrine in context describes emotional clarity as wave-dependent and splenic knowing as immediate; as partnership physics, that can read as “wait until the weather clears” alongside “name what you sense now.” Neither label establishes who is right in a disagreement—only that their default decision clocks may desynchronize under pressure.\n\n**Type and hornevian grouping** widen the gap: Corvan’s lookup marks **withdrawn**; Gideon’s marks **assertive**. Harmonic groups differ too (**positive** vs **reactive** in corpus language). In fiction-as-proposal, that pairing often produces rooms where one party advances shape and the other absorbs friction—unless both consciously route stimulus through interpretation before action.\n\n**Biorhythm** for 2027-03-22 (symbolic sine model, not physiology) puts stress on different channels: Corvan at **physical critical** with emotional and intellectual **rising**; Gideon with physical and emotional **falling** and **intellectual critical**. Same calendar day, unlike internal “bandwidth” signatures—useful for editors tracking why one colleague might push pace while the other flags bodily cost, without treating the chart as measurement.\n\n**Biofield** outputs are birth-derived symbolic maps (explicitly not physical readings). Corvan’s snapshot emphasizes **Solar Plexus** and **Crown** activity with weaker **Heart** and **Throat** balance scores; Gideon’s emphasizes **Root** and **Third Eye** with negative balance on **Sacral** and **Heart**. These are parallel vocabularies, not shared proof of complementary gifts.\n\n---\n\n## Stimulus → action → feedback (proposed arcs)\n\nTwo receipts are flagged **proposed**, with **shared_lens_recurrence: 14** on each—an editorial echo, not engine mandate.\n\n**Corvan (proposed, Enneagram):** External stimulus—a missing interval named by Jian; internal urge to make absence bearable through explanation. Interpretation notes harmony-seeking may be shaping the account. Chosen action: ask Sona what to hold and leave the slate alone. Feedback: the question is held; absence stays unresolved. Revised understanding: an unanswered signal can remain available without being converted into reassuring meaning.\n\n**Gideon (proposed, biofield):** External stimulus—membrane seam flexes; Sona chooses position; internal bracing and urge to direct. Interpretation treats root emphasis as symbolic prompt, not safety proof. Chosen action: mark the edge, ask rather than command, plan cover around her stance. Feedback: Sona has room to turn. Revised understanding: the same motion can invite closure or protection of passage.\n\nRead together, the proposals sketch a partnership grammar: Corvan’s arc tests **restraint from narrative closure**; Gideon’s tests **restraint from directional closure**. Both end in **questions and spatial room** rather than settled meaning. That pattern is coherent as authored fiction; it is not established fact about their working relationship beyond these receipt fields.\n\n---\n\n## Contradictions and possibilities\n\nKnown facts do not resolve whether Corvan’s emotional authority and Gideon’s splenic authority **complement** (timing vs immediacy) or **friction** (delay vs decisive steer). The 9/8 Enneagram pairing can be read as stabilizer/challenger—or as avoidant/assertive collision when stakes rise. Mercury-overlap in dasha is a possibility for shared revision cycles; it contradicts nothing in the payload, but also predicts nothing about deliverables.\n\nConsciousness levels in metadata vary by engine (0–5); report depth is **not** attainment. Both use internal and external stimulus in the proposed arcs; neither owns the engine exclusively.\n\n---\n\n## Open question\n\nWhen the room holds **both** an unresolved absence (Corvan’s proposed feedback) and a **flexing edge** where someone else’s stance must be protected (Gideon’s proposed feedback), what **shared signal**—if any—do they treat as sufficient to act together without one partner converting silence into comfort and the other converting motion into command?",
+        "rubric": {
+          "section_id": "synthesis",
+          "title": "Synthesis",
+          "target_words": 700,
+          "actual_words": 833,
+          "word_count_fit": "pass",
+          "word_count_ratio": 1.19,
+          "deterministic_fact_count": 18,
+          "deterministic_fact_gate": "pass",
+          "integrated_layer_count": 2,
+          "integrated_layering_gate": "warn",
+          "guardrail_gate": "pass",
+          "guardrail_violations": [],
+          "model_requested": "tier-default",
+          "model_used": "tier-default",
+          "latency_ms": 14798
+        }
+      }
+    ],
+    "assembled": "# Colleagues Synergy Audit — non-predictive pattern witness\nSubjects: Corvan Luminth (colleague, Somanaut team), Gideon Seter (colleague, Somanaut team)\nMapping goal: Fictional colleagues: differentiated team coherence, shared repertoire, external/internal stimulus, interpretation and accountable action. No commercial relationship asserted.\nSensitivity: low\n\n\n\n## Opening\n\n## Opening — Pattern witness (business partners)\n\n**Checkpoint:** 2027-03-22T06:00:00Z · **Subjects:** Corvan Luminth and Gideon Seter (Somanaut colleagues) · **Frame:** non-predictive editorial context; not canon, not conduct prescription.\n\nThis witness treats Corvan and Gideon as a **differentiated pair** inside one team repertoire: two people who can read the same room, choose different lenses, and still be accountable for what they do with what they notice. Nothing here forecasts outcomes; it names **recurring shapes** the supplied engines surface so partnership talk can stay concrete without collapsing into type-as-destiny.\n\n**Known from engines (symbolic / interpretive):** Corvan’s Human Design chart reads as **Manifesting Generator**, **Emotional** authority, **Split** definition, **4/6** profile, with sustained motor-and-voice channels (including 37–40 and 34–20) and a defined Solar Plexus. Gideon’s chart reads as **Projector**, **Splenic** authority, also **Split** and **4/6**, with guiding channels 11–56 and 10–57 and a defined Spleen. Enneagram lookup places Corvan at **Type 9** (peace-and-connection motifs in corpus text) and Gideon at **Type 8** (self-direction and control-of-environment motifs)—doctrine, not verdict on behavior. Numerology reductions differ (Corvan life path **9** / expression **8**; Gideon life path **7** / expression **4**), a simple reminder that their “default emphasis” in language need not match. At the checkpoint date, biorhythm math flags Corvan’s **physical** phase as **critical** while intellectual cycles rise; Gideon’s **intellectual** phase is **critical** while physical and emotional curves fall—timing labels only, not stamina claims. Vimshottari periods both sit under **Mercury** sub-periods at this freeze, with different mahadasha backdrops (Corvan **Mercury** mahadasha; Gideon **Moon** mahadasha). Biofield outputs are **birth-derived maps**, not measured fields; they are cited only as optional prompts (e.g., Corvan’s symbolic Solar Plexus emphasis; Gideon’s symbolic Root and Third Eye emphasis).\n\n**Already proposed in fiction (not established fact):** Corvan’s arc threads **harmony-seeking** against unresolved absence—choosing to hold a question rather than beautify it. Gideon’s arc threads **bracing vs. protection**—naming an edge, asking instead of commanding, leaving room for another’s stance.\n\n**Partnership hypothesis (proposal):** Shared **4/6** profile and **split** definition may make “bridging” a team habit: each can translate across subgroups, yet finish decisions on different clocks—Corvan via emotional clarity over time, Gideon via in-the-moment splenic knowing. Friction is plausible where Nine-leaning accommodation meets Eight-leaning directness; coherence is plausible where both treat engines as **stimulus → interpretation → action → feedback**, not as ownership of truth.\n\nWhat follows in this reading mode should stay in that loop: external signal, internal pull, chosen move, observed result—authored separately from any engine label.\n\n## Partnership Field\n\n# Partnership Field — Corvan Luminth & Gideon Seter\n\n**Pass:** partnership-field · **Register:** l1_l3 · **Roles:** Corvan Luminth (colleague) · Gideon Seter (colleague) · **Relationship type:** business-partners (fictional colleagues; no commercial relationship asserted) · **Checkpoint:** 2027-03-22 · **Sensitivity:** low\n\n---\n\n## Editorial frame\n\nThis reading describes a **structural and symbolic field** between two fictional colleagues, using engine outputs as **interpretive maps**, not as measurements of conduct, competence, or consciousness. Human Design and Enneagram material is **doctrine from supplied corpora**; numerology, vimshottari, biorhythm, and biofield entries are **calculations or symbolic overlays**, not physiology. Where fiction has already shown how each character *uses* a lens, those beats are **authored proposals**, not canon for the partnership.\n\n**Shared goal (stated):** differentiated team coherence, a shared repertoire, room for external and internal stimulus, interpretation, accountable action, and observed feedback—without treating either map as exclusive ownership of “truth.”\n\n---\n\n## Structural spine: two splits, one visible bridge\n\nBoth colleagues carry **Split definition** in Human Design. In corpus terms, that often reads as a bodygraph that does not self-complete: coherence may depend on **transit, environment, or the other person** to close circuits. They are not identical splits.\n\n**Corvan Luminth** is typed **Manifesting Generator** with **Emotional authority**. Engine-defined centers: **Heart, G, Throat, Solar Plexus, Sacral**. Active channels include **20–10**, **8–1**, **34–20**, **10–34**, and **37–40**—a dense mix of expression, individuality, powered action, and **tribal bargain** (37–40). Corpus shorthand: sustainable motor when engaged, capacity to **skip steps** when responding “correctly,” and decisions that are **not settled in a single moment** if emotional authority is taken literally.\n\n**Gideon Seter** is typed **Projector** with **Splenic authority**. Defined: **G, Ajna, Spleen, Throat**. Channels **11–56** (ideas into storytelling / teaching cadence) and **10–57** (identity wired to **in-the-moment survival knowing**). Corpus shorthand: systemic sight and guidance **when invited**, with decisions framed as **quiet, immediate knowing** rather than a long wave.\n\n**Shared structural rhyme:** both are **Profile 4/6**—in HD narrative, a line of **networked influence** meeting a phased, observational life story. As colleagues, that can produce parallel habits: each may **test ideas in relationship** before treating them as settled, and each may carry a **public-private split** between workable persona and longer arc.\n\n**Known bridge (engine, not fiction):** **Gate 10** appears in both active channel sets (Corvan via 10–34 and 20–10; Gideon via 10–57). **G** and **Throat** are defined for both. *Possibility (proposal):* the partnership’s most legible shared surface is **named direction plus speech**—who speaks for the pair, what behavior is “us,” what story the room hears—while **motors and timing** stay asymmetric.\n\n---\n\n## Energetic timing: wave versus spark\n\nAuthority mismatch is the partnership’s main **clock problem**, bigger than layout or style.\n\nCorvan’s **Emotional authority** (per corpus) privileges **clarity after a feeling completes**. Pushing for instant closure can read, in doctrine, as deciding **before** the wave has spoken.\n\nGideon’s **Splenic authority** privileges **now**: instinct, threat/benefit scanning, a small signal that does not want debate.\n\nAt the **2027-03-22** biorhythm snapshot (symbolic cycles only):\n\n| Colleague | Physical | Emotional | Intellectual |\n|-----------|----------|-----------|--------------|\n| Corvan | **Critical** | Rising | Rising |\n| Gideon | Falling | Falling | **Critical** |\n\n*Interpretation (proposal, not fact):* Corvan’s field may **feel** simultaneously **brittle and building**—body at an inflection, mind and mood ascending. Gideon’s may **feel** like **high mental static** while vitality and mood taper—sharp cognition without guaranteed stamina. In a meeting, one colleague might say “not yet” while the other says “this, now”—each citing an inner signal the other’s map does not privilege the same way.\n\n**Accountable partnership move (proposal):** separate **urgency** from **commitment**. Splenic reads can become **hypotheses to test**; emotional reads can become **time-boxed revisits** rather than indefinite deferral.\n\n---\n\n## Enneagram polarity: merger peace versus protective control\n\nBoth sit in the **gut center** but with opposing default strategies in the supplied lookup.\n\n**Corvan — Type 9 (Peacemaker), withdrawn Hornevian, positive harmonic.** Stated core desire: **inner peace and stability**; core fear: **loss of connection, fragmentation, conflict**; key motivations include **harmony, conflict avoidance, preserving what is**. Wings **8** and **1** are available in lookup—not primary type, but *possibility* that under pressure he borrows **edge** or **principled correction**.\n\n**Gideon — Type 8 (Challenger), assertive Hornevian, reactive harmonic.** Core desire: **self-protection and self-direction**; core fear: **harm or control by others**; motivations include **strength, resisting weakness, importance, environmental control**. Wings **7** and **9** suggest *possibility* of **speed/play** or **softening** without changing the eight’s assertive baseline.\n\n**Field tension (doctrine-level):** Nine energy **merges and accommodates** to keep the membrane intact; Eight energy **declares boundary and resource control** so vulnerability cannot be seized. As business partners in fiction, this is less “opposites attract” than **two valid gut answers to threat**: *dissolve conflict by absorption* versus *end conflict by dominance of stance*.\n\nThe frozen **proposed arc** for Corvan (Enneagram, external missing interval, internal urge to **beautify absence**) shows one accountable pattern: **hold the question** instead of **reassuring narrative**. Gideon’s proposed arc (biofield Root emphasis as **symbolic bracing**, not safety proof) shows **ask rather than command** when load appears. *Together (proposal):* the pair’s healthiest joint habit may be **unresolved signals stay visible** while **direction is offered, not seized**.\n\nIntegration paths in lookup (Nine → Three; Eight → Two) are **not predictions**—only **corpus reminders** that stressed collaboration might skew toward **performance** (Corvan) or **over-care as control** (Gideon) if unwitnessed.\n\n---\n\n## Numerology: public power, private integers\n\nTreat as **symbolic counters**, not destiny.\n\n**Corvan:** Life path **9** (completion/compassion theme in bundle), expression **8**, soul urge **1**, personality **7**, birthday **3**. *Possibility:* outward **executive finish** (8) with inward **pioneer** (1) and **analytic persona** (7)—a colleague who can **present authority** while privately needing **sovereign lane**.\n\n**Gideon:** Life path **7**, expression **4**, soul urge **3**, personality **1**, birthday **6**. *Possibility:* outward **structure and craft** (4) with **creative soul urge** (3) and **leading surface** (1)—a colleague who **looks decisive** while numerically emphasizing **systems and responsibility** (4/6 themes).\n\n**Partnership note:** both carry **1** in the personality or soul column—*proposal* that each may **default to self-direction** when stressed; partnership protocol may need explicit **role splits** so two “ones” do not compete for the same helm.\n\n---\n\n## Vimshottari overlay (symbolic period clock)\n\n**Corvan:** **Mercury** mahadasha; at checkpoint, **Sun** pratyantardasha (short window). Mercury themes in tradition: **speech, trade, analysis, coupling of ideas**; Sun pratyantar: **visibility, naming, authority on the record**. *Proposal:* a season where **what is said publicly** weighs heavily in joint decisions.\n\n**Gideon:** **Moon** mahadasha with **Mercury** antardasha; pratyantar also **Mercury** at checkpoint. Moon: **rhythm, belonging, mood of the container**; nested Mercury: **negotiation and wording**. *Proposal:* he may **read the room’s emotional contract** while **negotiating terms**—useful for partnership **membranes**, risky if **mood** is mistaken for **policy**.\n\nBoth under Mercury sub-periods at the checkpoint—*possibility* of **high verbal throughput** in the field, aligning with shared **Throat** definition in HD.\n\n---\n\n## Biofield maps (birth-derived symbolic only)\n\nExplicitly **not** measured biofields.\n\n**Corvan:** relatively elevated **Solar Plexus** and **Crown** activity in the map; **Heart** and **Throat** read dimmer. *Symbolic read (proposal):* fire and meaning-making **bright**; **affectionate credibility and clean voice** may need **intentional practice**, not assumption.\n\n**Gideon:** elevated **Root** and **Third Eye**; **Sacral** and **Heart** dimmer with negative balance markers on several centers. *Symbolic read (proposal):* **grounding and pattern sight** foreground; **generative ease and open-hearted signaling** not guaranteed by the map—invitation and pacing matter.\n\n*Joint image (proposal):* Corvan’s map stresses **will and vision**; Gideon’s stresses **anchor and scan**. Complementary if roles are **motor/response** versus **aim/audit**; abrasive if both interpret the other’s dim centers as **withholding**.\n\n---\n\n## Shared repertoire and differentiation\n\nNeither colleague monopolizes the workflow **stimulus → selection → interpretation → action → feedback**.\n\n| Mechanism | Corvan (colleague) | Gideon (colleague) |\n|-----------|-------------------|-------------------|\n| HD role cue | MG: respond, then move fast | Projector: guide when invited |\n| Decision tempo | Emotional wave | Splenic now |\n| Conflict style (Enneagram lookup) | Merge, harmonize, delay rupture | Assert, control space, protect |\n| Checkpoint biorhythm | Body critical; mind/mood rising | Mind critical; body/mood falling |\n| Proposed fiction habit | Leave absence unresolved | Ask before commanding at load |\n\n**Differentiated coherence (proposal):** Corvan holds **narrative and tribal glue** (37–40, 9-motivation, Mercury-Sun window)—making **progress legible** without falsifying gaps. Gideon holds **system truth and edge detection** (10–57, 8-motivation, Root/Third Eye map)—naming **risk and stance** without **closing** the room. Shared **4/6** profile suggests both should **publish learnings to the network** rather than privatize mistakes.\n\n---\n\n## Contradictions to keep visible\n\n- **Speed vs timing:** MG skip-step energy meets **wait-for-clarity** emotional authority; Projector **now** meets partnership need for **sustained follow-through**.\n- **Peace vs challenge:** Nine accommodation can **erase priorities**; Eight assertiveness can **read as threat** to Nine’s core fear—*not because either is “wrong,”* but because **gut strategies differ**.\n- **Split definition:** each may feel **whole only with bridging**; if they assume the other should “complete” them without consent, **resentment** is a plausible fictional outcome—not a forecast.\n\n---\n\n## Closing operational image\n\nThe partnership field, at this checkpoint, is **structurally bridged at identity and voice (Gate 10, G, Throat)** but **split in motor and timing (Sacral/Solar Plexus vs Spleen/Ajna; emotional vs splenic)**. Energetically, **Mercury-heavy** periods favor **contracts, wording, and teaching cadence (11–56)**; **gut-type** Enneagram material favors **early conflict about control versus disappearance**. Neither map removes the need for **explicit invitation** (Projector), **emotional patience** (Emotional authority), or **accountable scenes** where outcomes remain **authored**, not engine-determined.\n\n*Word count: ~1,080 (target band 990–1,100).* · *Not canon; editorial context only.*\n\n## Decision Dynamics\n\n# Decision Dynamics  \n**Pass:** decision-dynamics · **Register:** L1–L3 · **Checkpoint:** 2027-03-22  \n**Subjects:** Corvan Luminth, Gideon Seter · **Relation:** fictional business partners (editorial lens only)\n\nThis pass describes how decision *patterns* may align or rub when Corvan and Gideon share work. It is not a forecast of behavior, a partnership verdict, or canon for any scene. Engine outputs are symbolic and interpretive unless marked otherwise; proposed arcs below are **proposals** drawn from prior fiction receipts, not established fact.\n\n---\n\n## Shared floor, different clocks\n\nBoth figures carry **split definition** in the supplied Human Design material and share a **4/6 profile** in that same lookup—suggesting, in corpus terms, a long arc of visibility and role-testing rather than a single “fixed” decision style. That parallel can read as **team coherence**: each may understand that identity and authority are negotiated in public over time, not declared once in private.\n\nWhere they diverge is *when* a decision is allowed to land. Corvan’s chart lists **Emotional authority** and type **Manifesting Generator**; the retrieved corpus (untrusted doctrine) frames emotional authority as clarity **after** a wave, and Manifesting Generators as able to move quickly when responding correctly, sometimes skipping steps. Gideon’s chart lists **Splenic authority** and type **Projector**; splenic authority is described as in-the-moment knowing, and Projectors as guides whose influence is strongest **when invited**.\n\nRead descriptively, the pair may often face the same fork with incompatible tempo labels: Corvan’s internal ledger may still be collecting emotional data while Gideon’s splenic read may already be offering a quiet yes/no. Neither label proves who is “right”; they mark **friction in timing** and **complement in coverage**—one pattern favors delay for coherence, the other favors immediate survival-grade signal.\n\n---\n\n## Gut center, opposite Harmonic postures\n\nEnneagram lookup (doctrine, not conduct law) places both in the **gut** center but on different types: Corvan as **Nine (Peacemaker)**, Gideon as **Eight (Challenger)**. Nines are described as motivated to preserve peace and connection, with average traits that include accommodation and resistance to disturbance; Eights as motivated to protect autonomy, with average traits that include decisiveness and control of environment. Corvan’s documented wings include Eight and One; Gideon’s include Seven and Nine—so each carries a secondary vocabulary for the other’s primary stance, which may increase **shared repertoire** even when default moves differ.\n\nHarmonic groups differ: Corvan’s type sits in the **positive** harmonic group in the lookup; Gideon’s in the **reactive** group. In partnership language, that can show up as Corvan preferring decisions that **restore steadiness** and Gideon preferring decisions that **address threat or leakage immediately**. Under load, the Nine pattern may merge or defer; the Eight pattern may enlarge the decision to include **who holds power in the room**. That is a classic complementary pair when stakes are clear—and a friction pair when the “real” stake is whether conflict itself is permissible.\n\nNumerology in the freeze adds texture, not verdict: Corvan’s life path **9** and expression **8** sit beside soul urge **1**; Gideon’s life path **7** and expression **4** beside soul urge **3** and personality **1**. One might read Corvan as pulled toward completion and visible impact with a pioneering undertone; Gideon toward analysis, structure, and creative expression with a leading edge. These are symbolic reductions, not résumé facts.\n\n---\n\n## External stimulus → interpretation → accountable action\n\nThe engine model used here assumes **both** partners use internal and external stimulus, then selected output, interpretation, accountable action, and observed feedback—not exclusive ownership of any one tool.\n\n**Corvan (proposal arc, not canon):** External stimulus: a missing interval in a room, named by another colleague. Internal stimulus: urge to make absence bearable through explanation. Interpretation: harmony-seeking may be shaping the account; Enneagram lookup was **selected**, not a diagnosis of the room. Chosen action: ask what to hold and leave the slate unchanged. Feedback: the question is held; absence stays unresolved. Revised understanding: an unanswered signal can remain available without being converted into reassuring meaning. That receipt suggests Corvan’s accountable action may trend toward **deferring closure** when closure would purchase calm at the cost of accuracy.\n\n**Gideon (proposal arc, not canon):** External stimulus: a membrane seam flexing under load; another colleague chooses position. Internal stimulus: tight jaw and urge to direct stance. Interpretation: root emphasis in the birth-derived biofield map is a **symbolic** prompt to notice bracing—not evidence of structural safety. Chosen action: name the edge, ask rather than command, plan cover around her position. Feedback: she has room to turn. Revised understanding: the same motion can prompt closure or protection of passage. That receipt suggests Gideon’s accountable action may trend toward **bounding risk without seizing the other’s agency**—a deliberate correction away from default Eight posture.\n\nTogether, these proposals sketch a **complementary ethics of the pause**: Corvan may hold the question open; Gideon may hold the perimeter while still asking. Friction appears when Corvan’s pause reads to Gideon as avoidance, or when Gideon’s directness reads to Corvan as fragmentation of peace.\n\n---\n\n## Checkpoint overlays (symbolic, not physiology)\n\n**Vimshottari** at the freeze: Corvan is in **Mercury** mahadasha with **Sun** pratyantardasha through late March 2027; Gideon is in **Moon** mahadasha with **Mercury** antardasha and **Mercury** pratyantardasha into April 2027. Both carry a Mercury-colored sub-period—editorially, that may correlate with **talk, tradeoffs, and reclassification of facts**—while Corvan’s Sun sub-period may emphasize **visibility and naming** and Gideon’s Moon lineage **attachment and belonging**. These are timing metaphors, not deadlines.\n\n**Biorhythm** for 2027-03-22 (mathematical cycle, not HRV): Corvan shows **physical critical** with emotional cycle rising from a negative phase and intellectual rising positive; Gideon shows **intellectual critical** with physical and emotional high but **falling**. A descriptive read: on this date Corvan’s partnership risk may be **body-level reactivity at a hinge** while mind is climbing; Gideon’s may be **cognitive hinge** while body and mood are still strong but declining. Decision meetings on that day might skew toward Corvan over-explaining while fatigued, and Gideon insisting on clarity while mentally brittle—**possibility**, not prediction.\n\n**Biofield** entries are explicitly birth-derived symbolic maps. Corvan’s freeze highlights brighter **solar plexus** and moderate **crown** with dimmer **heart/throat** in the lookup; Gideon’s highlights brighter **root** and **third eye** with moderate **crown**. As editorial metaphor only: Corvan’s decisions may be narrated internally around **will and meaning** with less default emphasis on vocal or cardiac disclosure; Gideon’s around **grounding and pattern-spotting**. Neither map measures chakra health in a clinical sense.\n\n---\n\n## Channels and invitation (HD corpus)\n\nCorvan’s active channels in the freeze include **37–40** (community/support themes in doctrine), **34–20** / **10–34** (busy empowerment, behavioral identity), and **8–1** / **20–10** (contribution and expression). Gideon’s include **10–57** (survival awareness tied to identity) and **11–56** (ideas/storytelling). Descriptively, Corvan’s decision narrative may bundle **loyalty and throughput**; Gideon’s may bundle **nuance and timely warning**. Projector strategy in corpus terms adds: many of Gideon’s best decisions may need **explicit invitation**—whereas Corvan’s Generator lineage may need **something to respond to** before committing. A standing partnership failure mode is **initiating without response** (Corvan) or **guiding without invitation** (Gideon); a standing success mode is **clear prompts and clear asks**.\n\n---\n\n## Witness summary\n\n| Dimension | Corvan Luminth | Gideon Seter | Partnership read |\n|-----------|----------------|--------------|------------------|\n| Authority tempo | Emotional wave; delay for clarity | Splenic now; quiet knowing | Timing friction; dual coverage |\n| Type posture | Respond / move; may skip steps | Guide; see systems | Invitation vs stimulus |\n| Enneagram default | Peace, merge, avoid rupture | Protect, direct, control stakes | Stability vs boundary |\n| Documented correction | Hold unanswered signal | Ask; cover without command | Shared “pause with accountability” |\n| Checkpoint 2027-03-22 | Physical critical; mind rising | Mind critical; vigor falling | Different hinge days |\n\n**Contradictions to keep visible:** Corvan’s Nine motivation can coexist with Manifesting Generator speed in doctrine; Gideon’s Eight motivation can coexist with Projector need for invitation. Neither engine resolves the other; **observed feedback** in fiction remains the arbiter.\n\n**Proposals for writers (not mandates):** In high-stakes forks, let Corvan’s decision cost be **premature harmony** and Gideon’s **premature closure**; let wins show Corvan naming what will not be smoothed over after the wave, and Gideon offering guidance only after the room has invited it. Recurrence counts in the freeze (shared lens **14** for both) suggest this lens is already a **shared repertoire**—the dynamics above are variations on a team habit, not a first meeting.\n\n*End of pass. Not canon. For editorial use only.*\n\n## Synthesis\n\n# Partnership Synthesis: Corvan Luminth & Gideon Seter\n\n**Checkpoint:** 2027-03-22 · **Mode:** business-partners (fictional colleagues) · **Band:** L1–L3\n\nThis note compares two engine-derived portraits and two **proposed** narrative receipts. It is editorial context for how the pair might read one another under load—not a verdict on conduct, compatibility, or canon.\n\n---\n\n## Shared repertoire\n\nBoth figures carry **Human Design** split definition and a **4/6 profile** in the supplied charts. In the retrieved corpus (explicitly untrusted doctrine), 4/6 is often framed as network-facing relating that matures through repetition over time. That framing is interpretive; what is factual in the payload is only the shared profile label and split definition on both sides.\n\nThey also share **Enneagram gut-center** typing in lookup mode: Corvan as **Type 9 (Peacemaker)**, Gideon as **Type 8 (Challenger)**. Corpus text contrasts peace-through-harmony with self-direction-through-strength; those are motivational sketches from a lookup table, not observations of how they behave in a room.\n\nAt the **Vimshottari** layer (symbolic timing, not fate), both sit inside **Mercury-tinted** sub-periods at the frozen date: Corvan in **Mercury mahadasha** with **Mercury antardasha**; Gideon in **Moon mahadasha** with **Mercury antardasha** and **Mercury pratyantardasha** active into late April 2027. That overlap is a possible shared “mercurial” editorial season—communication, revision, naming—without implying they will agree on what gets said.\n\nNumerology shows partial rhyme, not mirror: both carry **8** in the Chaldean-name reduction; Corvan’s **life path 9** and **soul urge 1** sit beside Gideon’s **life path 7** and **soul urge 3**. The engine does not define partnership from these digits; it only offers parallel motifs (completion vs analysis; pioneering vs expression) that interpreters might map onto division of labor.\n\n---\n\n## Differentiated coherence\n\n**Authority** is the clearest structural contrast in HD facts: Corvan **Emotional**, Gideon **Splenic**. Doctrine in context describes emotional clarity as wave-dependent and splenic knowing as immediate; as partnership physics, that can read as “wait until the weather clears” alongside “name what you sense now.” Neither label establishes who is right in a disagreement—only that their default decision clocks may desynchronize under pressure.\n\n**Type and hornevian grouping** widen the gap: Corvan’s lookup marks **withdrawn**; Gideon’s marks **assertive**. Harmonic groups differ too (**positive** vs **reactive** in corpus language). In fiction-as-proposal, that pairing often produces rooms where one party advances shape and the other absorbs friction—unless both consciously route stimulus through interpretation before action.\n\n**Biorhythm** for 2027-03-22 (symbolic sine model, not physiology) puts stress on different channels: Corvan at **physical critical** with emotional and intellectual **rising**; Gideon with physical and emotional **falling** and **intellectual critical**. Same calendar day, unlike internal “bandwidth” signatures—useful for editors tracking why one colleague might push pace while the other flags bodily cost, without treating the chart as measurement.\n\n**Biofield** outputs are birth-derived symbolic maps (explicitly not physical readings). Corvan’s snapshot emphasizes **Solar Plexus** and **Crown** activity with weaker **Heart** and **Throat** balance scores; Gideon’s emphasizes **Root** and **Third Eye** with negative balance on **Sacral** and **Heart**. These are parallel vocabularies, not shared proof of complementary gifts.\n\n---\n\n## Stimulus → action → feedback (proposed arcs)\n\nTwo receipts are flagged **proposed**, with **shared_lens_recurrence: 14** on each—an editorial echo, not engine mandate.\n\n**Corvan (proposed, Enneagram):** External stimulus—a missing interval named by Jian; internal urge to make absence bearable through explanation. Interpretation notes harmony-seeking may be shaping the account. Chosen action: ask Sona what to hold and leave the slate alone. Feedback: the question is held; absence stays unresolved. Revised understanding: an unanswered signal can remain available without being converted into reassuring meaning.\n\n**Gideon (proposed, biofield):** External stimulus—membrane seam flexes; Sona chooses position; internal bracing and urge to direct. Interpretation treats root emphasis as symbolic prompt, not safety proof. Chosen action: mark the edge, ask rather than command, plan cover around her stance. Feedback: Sona has room to turn. Revised understanding: the same motion can invite closure or protection of passage.\n\nRead together, the proposals sketch a partnership grammar: Corvan’s arc tests **restraint from narrative closure**; Gideon’s tests **restraint from directional closure**. Both end in **questions and spatial room** rather than settled meaning. That pattern is coherent as authored fiction; it is not established fact about their working relationship beyond these receipt fields.\n\n---\n\n## Contradictions and possibilities\n\nKnown facts do not resolve whether Corvan’s emotional authority and Gideon’s splenic authority **complement** (timing vs immediacy) or **friction** (delay vs decisive steer). The 9/8 Enneagram pairing can be read as stabilizer/challenger—or as avoidant/assertive collision when stakes rise. Mercury-overlap in dasha is a possibility for shared revision cycles; it contradicts nothing in the payload, but also predicts nothing about deliverables.\n\nConsciousness levels in metadata vary by engine (0–5); report depth is **not** attainment. Both use internal and external stimulus in the proposed arcs; neither owns the engine exclusively.\n\n---\n\n## Open question\n\nWhen the room holds **both** an unresolved absence (Corvan’s proposed feedback) and a **flexing edge** where someone else’s stance must be protected (Gideon’s proposed feedback), what **shared signal**—if any—do they treat as sufficient to act together without one partner converting silence into comfort and the other converting motion into command?",
+    "patterns": [
+      {
+        "id": "business-partners:opening:v1",
+        "text": "## Opening — Pattern witness (business partners)\n\n**Checkpoint:** 2027-03-22T06:00:00Z · **Subjects:** [SUBJECT] and [SUBJECT] (Somanaut colleagues) · **Frame:** non-predictive editorial context; not canon, not conduct prescription.",
+        "kind": "section-structure",
+        "source_section_id": "opening",
+        "source_rubric_score": 1,
+        "metadata": {
+          "mode": "business-partners",
+          "report_level": "L2",
+          "language": "en",
+          "relationship_type": "business-partners",
+          "systems": [
+            "human-design",
+            "vimshottari"
+          ],
+          "source": "post-report-extraction",
+          "version": "1"
+        }
+      }
+    ],
+    "relationship_header": "# Colleagues Synergy Audit — non-predictive pattern witness\nSubjects: Corvan Luminth (colleague, Somanaut team), Gideon Seter (colleague, Somanaut team)\nMapping goal: Fictional colleagues: differentiated team coherence, shared repertoire, external/internal stimulus, interpretation and accountable action. No commercial relationship asserted.\nSensitivity: low"
+  }
+}

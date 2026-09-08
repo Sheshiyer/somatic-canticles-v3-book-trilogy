@@ -1,0 +1,1786 @@
+{
+  "remote_head": "ba74a874fdc43c00b3661d026cb865584b6daaa7",
+  "method": "Remove HTML comments and Markdown headings from chapter body; normalize whitespace; test contiguous containment in corresponding compiled book. Counts use repository rubric_scan.word_count and include source metadata.",
+  "chapters": [
+    {
+      "chapter": "CHAPTERS/book_1/Chapter-01-The-Choroid-Plexus.md",
+      "sha256": "e524a6a4522d6f921d70bad55b23bf4ce84a00ed1e95ea3a29c70996094c1fa9",
+      "scanner_words": 8277,
+      "compiled": "COMPILED/Book_1_Anamnesis_Engine.md",
+      "body_contained_in_compiled": false
+    },
+    {
+      "chapter": "CHAPTERS/book_1/Chapter-02-Signal-Transduction.md",
+      "sha256": "d54eac6bda9735560ee01b2e04be91618cc598023a8d94257eea1496f7596140",
+      "scanner_words": 4113,
+      "compiled": "COMPILED/Book_1_Anamnesis_Engine.md",
+      "body_contained_in_compiled": false
+    },
+    {
+      "chapter": "CHAPTERS/book_1/Chapter-03-The-Blood-Brain-Barrier.md",
+      "sha256": "f18bd64bc0641537e8930b32a760d79fa1cd1ccdfc672371cdebe3da48c16786",
+      "scanner_words": 7645,
+      "compiled": "COMPILED/Book_1_Anamnesis_Engine.md",
+      "body_contained_in_compiled": false
+    },
+    {
+      "chapter": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+      "sha256": "4c2b17da2042bafbcc6f1d654f2b551ccffbc6941537a5688f125a3cc36e7e12",
+      "scanner_words": 7636,
+      "compiled": "COMPILED/Book_1_Anamnesis_Engine.md",
+      "body_contained_in_compiled": false
+    },
+    {
+      "chapter": "CHAPTERS/book_1/Chapter-05-The-Endocrine-Dogma.md",
+      "sha256": "d171aa7a7485c9b676d692eda46839cea218d54261fe1a5abc1aceb41adeab6a",
+      "scanner_words": 7965,
+      "compiled": "COMPILED/Book_1_Anamnesis_Engine.md",
+      "body_contained_in_compiled": false
+    },
+    {
+      "chapter": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+      "sha256": "83b5a2c4d6ea602cece87fc29d1fe3238240b9486449c8f7bf0548308c145905",
+      "scanner_words": 2969,
+      "compiled": "COMPILED/Book_1_Anamnesis_Engine.md",
+      "body_contained_in_compiled": false
+    },
+    {
+      "chapter": "CHAPTERS/book_1/Chapter-07-The-Breathfield-Weaver.md",
+      "sha256": "85441185e33ff8dd20ba3f9848bcaf0a76bd4b518f3a2cb49dc56d6629b1b3c8",
+      "scanner_words": 10442,
+      "compiled": "COMPILED/Book_1_Anamnesis_Engine.md",
+      "body_contained_in_compiled": false
+    },
+    {
+      "chapter": "CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md",
+      "sha256": "42970b3a4f3ea5ad57741d8105f30d4c097e6a97569039dd32a52a13327dfff6",
+      "scanner_words": 4317,
+      "compiled": "COMPILED/Book_1_Anamnesis_Engine.md",
+      "body_contained_in_compiled": false
+    },
+    {
+      "chapter": "CHAPTERS/book_2/Chapter-09-The-Sigil-Smith.md",
+      "sha256": "b4f885bcd5c00aaf07e5607ac07ddf19b405addf691f9da2847f2b03f7290032",
+      "scanner_words": 14646,
+      "compiled": "COMPILED/Book_2_Myocardial_Chorus.md",
+      "body_contained_in_compiled": true
+    },
+    {
+      "chapter": "CHAPTERS/book_2/Chapter-10-The-Debug-Protocol.md",
+      "sha256": "09144286845907c6faf2d0c843a85518dc1aede84bd937487edb14067c9aa6ec",
+      "scanner_words": 18211,
+      "compiled": "COMPILED/Book_2_Myocardial_Chorus.md",
+      "body_contained_in_compiled": true
+    },
+    {
+      "chapter": "CHAPTERS/book_2/Chapter-11-The-Avatar-Mutation.md",
+      "sha256": "ad27c171dfa35b9154fc41d780612b2b319ad5e8e3f60ff99ea79b8579eb139f",
+      "scanner_words": 13214,
+      "compiled": "COMPILED/Book_2_Myocardial_Chorus.md",
+      "body_contained_in_compiled": true
+    },
+    {
+      "chapter": "CHAPTERS/book_2/Chapter-12-The-Anamnesis-Engine.md",
+      "sha256": "d08544cd347fa20576bc92f1b74ad143279ada73b8ac882f41b12440cb7732b4",
+      "scanner_words": 8174,
+      "compiled": "COMPILED/Book_2_Myocardial_Chorus.md",
+      "body_contained_in_compiled": true
+    },
+    {
+      "chapter": "CHAPTERS/book_2/Chapter-13-The-Myocardial-Chorus.md",
+      "sha256": "96032d04d14cfd12829876b54c6ab11a38526df9864134f104c7d9b460ab9c60",
+      "scanner_words": 16512,
+      "compiled": "COMPILED/Book_2_Myocardial_Chorus.md",
+      "body_contained_in_compiled": true
+    },
+    {
+      "chapter": "CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+      "sha256": "9dcdd45de0be4b138e5a9198c054f1bee8a3c59fa44bdeb38f1906333870922b",
+      "scanner_words": 1933,
+      "compiled": "COMPILED/Book_2_Myocardial_Chorus.md",
+      "body_contained_in_compiled": false
+    },
+    {
+      "chapter": "CHAPTERS/book_2/Chapter-15-The-Witness-Integration.md",
+      "sha256": "1df34bbf6e84f0c2f86b5c27d100808d08edd471d7d1ddb068d8b693c19d2683",
+      "scanner_words": 2924,
+      "compiled": "COMPILED/Book_2_Myocardial_Chorus.md",
+      "body_contained_in_compiled": false
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+      "sha256": "ca2750ba3b66dcecfa04c46aac3cbb168d42c3f200da29ff09d9ee3115960f4d",
+      "scanner_words": 6097,
+      "compiled": "COMPILED/Book_3_The_Ripening.md",
+      "body_contained_in_compiled": false
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-17-The-Gardener.md",
+      "sha256": "04ad09322b98f981f20aa461129ff53a1e491813c15eeb1c40bc2095f2be37ff",
+      "scanner_words": 11367,
+      "compiled": "COMPILED/Book_3_The_Ripening.md",
+      "body_contained_in_compiled": true
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-18-The-Synthesis-Protocol.md",
+      "sha256": "80947c92dabc2827918059803a9520cf49fbb9345e5e1ecf4a5e5fae4fab7740",
+      "scanner_words": 3356,
+      "compiled": "COMPILED/Book_3_The_Ripening.md",
+      "body_contained_in_compiled": false
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-19-The-Three-Point-Problem.md",
+      "sha256": "3d3ce00e8e720c79c7205b25e2e86c01e1b0b34b310cb6fa334ebe5d7c1f2908",
+      "scanner_words": 7766,
+      "compiled": "COMPILED/Book_3_The_Ripening.md",
+      "body_contained_in_compiled": false
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-20-The-Convergence-Point.md",
+      "sha256": "6b2d3b3f013a8115175f0b0588e956cbf4029bc98d140b30e84780239049d200",
+      "scanner_words": 8114,
+      "compiled": "COMPILED/Book_3_The_Ripening.md",
+      "body_contained_in_compiled": false
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-21-The-Test-Fire.md",
+      "sha256": "95f0c76e386a9dabae86cff5f6eab0763d9cc80f3e69e4b1c9a7ba9ca42840bc",
+      "scanner_words": 9758,
+      "compiled": "COMPILED/Book_3_The_Ripening.md",
+      "body_contained_in_compiled": true
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+      "sha256": "74a19a1e92eea499c30c810d71f888318f88c5103415d0dde8ef3c9931c21b77",
+      "scanner_words": 9467,
+      "compiled": "COMPILED/Book_3_The_Ripening.md",
+      "body_contained_in_compiled": true
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-23-The-Flaw-in-the-Code.md",
+      "sha256": "0e77bf334b5ce48322a6fca62e830d96dda10eafb1bcf1252c3abe7de320fa67",
+      "scanner_words": 6592,
+      "compiled": "COMPILED/Book_3_The_Ripening.md",
+      "body_contained_in_compiled": false
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-24-The-Final-Procedure.md",
+      "sha256": "33ee35b604b18f34338c34f6cdd1423a06523eb2cac499dd6c055b9e9d33002e",
+      "scanner_words": 8470,
+      "compiled": "COMPILED/Book_3_The_Ripening.md",
+      "body_contained_in_compiled": false
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-25-The-Void-of-Pure-Potential.md",
+      "sha256": "b9ba1d8ec1c4d1f4c9ad7b5623b016caad94e84da411eeacd54b088537d80416",
+      "scanner_words": 9089,
+      "compiled": "COMPILED/Book_3_The_Ripening.md",
+      "body_contained_in_compiled": true
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-26-The-Architecture-of-New-Reality.md",
+      "sha256": "fb0674fe10b6c16541a817bfae3707436045e1d7cba7640bb203cdf0cd91deda",
+      "scanner_words": 3639,
+      "compiled": "COMPILED/Book_3_The_Ripening.md",
+      "body_contained_in_compiled": false
+    },
+    {
+      "chapter": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+      "sha256": "115e8913215f542e32c70669151e0416d1a9fd8159f43772a70b1cabaa2931ee",
+      "scanner_words": 4996,
+      "compiled": "COMPILED/Book_3_The_Ripening.md",
+      "body_contained_in_compiled": false
+    }
+  ],
+  "scans": [
+    {
+      "file": "CHAPTERS/book_1/Chapter-01-The-Choroid-Plexus.md",
+      "book": 1,
+      "words": 8277,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 4,
+          "per_1000": 0.48
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 4,
+      "total_per_1000": 0.48,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {
+        "Khalor": 4,
+        "Tryambakam": 2
+      },
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 48,
+        "2": 58,
+        "3": 26
+      },
+      "expected_book": 1,
+      "expected_share_pct": 36.4,
+      "gate_voice_register": "WARN",
+      "deterministic_verdict": "WARN"
+    },
+    {
+      "file": "CHAPTERS/book_1/Chapter-02-Signal-Transduction.md",
+      "book": 1,
+      "words": 4113,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {
+        "Khalor": 3
+      },
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 21,
+        "2": 44,
+        "3": 10
+      },
+      "expected_book": 1,
+      "expected_share_pct": 28.0,
+      "gate_voice_register": "WARN",
+      "deterministic_verdict": "WARN"
+    },
+    {
+      "file": "CHAPTERS/book_1/Chapter-03-The-Blood-Brain-Barrier.md",
+      "book": 1,
+      "words": 7645,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {},
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 23,
+        "2": 41,
+        "3": 22
+      },
+      "expected_book": 1,
+      "expected_share_pct": 26.7,
+      "gate_voice_register": "WARN",
+      "deterministic_verdict": "WARN"
+    },
+    {
+      "file": "CHAPTERS/book_1/Chapter-04-The-Emperors-Genome.md",
+      "book": 1,
+      "words": 7636,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {},
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 12,
+        "2": 46,
+        "3": 22
+      },
+      "expected_book": 1,
+      "expected_share_pct": 15.0,
+      "gate_voice_register": "WARN",
+      "deterministic_verdict": "WARN"
+    },
+    {
+      "file": "CHAPTERS/book_1/Chapter-05-The-Endocrine-Dogma.md",
+      "book": 1,
+      "words": 7965,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 1,
+          "per_1000": 0.13
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 1,
+      "total_per_1000": 0.13,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {
+        "Khalor": 1
+      },
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 18,
+        "2": 56,
+        "3": 7
+      },
+      "expected_book": 1,
+      "expected_share_pct": 22.2,
+      "gate_voice_register": "WARN",
+      "deterministic_verdict": "WARN"
+    },
+    {
+      "file": "CHAPTERS/book_1/Chapter-06-The-Synaptic-Crossroads.md",
+      "book": 1,
+      "words": 2969,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {},
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 23,
+        "2": 31,
+        "3": 8
+      },
+      "expected_book": 1,
+      "expected_share_pct": 37.1,
+      "gate_voice_register": "WARN",
+      "deterministic_verdict": "WARN"
+    },
+    {
+      "file": "CHAPTERS/book_1/Chapter-07-The-Breathfield-Weaver.md",
+      "book": 1,
+      "words": 10442,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 1,
+          "per_1000": 0.1
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 1,
+      "total_per_1000": 0.1,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {},
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 39,
+        "2": 88,
+        "3": 38
+      },
+      "expected_book": 1,
+      "expected_share_pct": 23.6,
+      "gate_voice_register": "WARN",
+      "deterministic_verdict": "WARN"
+    },
+    {
+      "file": "CHAPTERS/book_1/Chapter-08-The-Compass-Calibration.md",
+      "book": 1,
+      "words": 4317,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {},
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 28,
+        "2": 22,
+        "3": 14
+      },
+      "expected_book": 1,
+      "expected_share_pct": 43.8,
+      "gate_voice_register": "PASS",
+      "deterministic_verdict": "PASS"
+    },
+    {
+      "file": "CHAPTERS/book_2/Chapter-09-The-Sigil-Smith.md",
+      "book": 2,
+      "words": 14646,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 2,
+          "per_1000": 0.14
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 2,
+      "total_per_1000": 0.14,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {},
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 46,
+        "2": 140,
+        "3": 43
+      },
+      "expected_book": 2,
+      "expected_share_pct": 61.1,
+      "gate_voice_register": "PASS",
+      "deterministic_verdict": "PASS"
+    },
+    {
+      "file": "CHAPTERS/book_2/Chapter-10-The-Debug-Protocol.md",
+      "book": 2,
+      "words": 18211,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {},
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 130,
+        "2": 152,
+        "3": 78
+      },
+      "expected_book": 2,
+      "expected_share_pct": 42.2,
+      "gate_voice_register": "PASS",
+      "deterministic_verdict": "PASS"
+    },
+    {
+      "file": "CHAPTERS/book_2/Chapter-11-The-Avatar-Mutation.md",
+      "book": 2,
+      "words": 13214,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {},
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 77,
+        "2": 145,
+        "3": 78
+      },
+      "expected_book": 2,
+      "expected_share_pct": 48.3,
+      "gate_voice_register": "PASS",
+      "deterministic_verdict": "PASS"
+    },
+    {
+      "file": "CHAPTERS/book_2/Chapter-12-The-Anamnesis-Engine.md",
+      "book": 2,
+      "words": 8174,
+      "terms": {
+        "energy": {
+          "hits": 3,
+          "per_1000": 0.37
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 1,
+          "per_1000": 0.12
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 2,
+          "per_1000": 0.24
+        },
+        "resonant": {
+          "hits": 3,
+          "per_1000": 0.37
+        }
+      },
+      "total_hits": 9,
+      "total_per_1000": 1.1,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {},
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 35,
+        "2": 132,
+        "3": 44
+      },
+      "expected_book": 2,
+      "expected_share_pct": 62.6,
+      "gate_voice_register": "PASS",
+      "deterministic_verdict": "PASS"
+    },
+    {
+      "file": "CHAPTERS/book_2/Chapter-13-The-Myocardial-Chorus.md",
+      "book": 2,
+      "words": 16512,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {
+        "Khalor": 1
+      },
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 74,
+        "2": 330,
+        "3": 71
+      },
+      "expected_book": 2,
+      "expected_share_pct": 69.5,
+      "gate_voice_register": "PASS",
+      "deterministic_verdict": "PASS"
+    },
+    {
+      "file": "CHAPTERS/book_2/Chapter-14-The-Three-Body-Coordination.md",
+      "book": 2,
+      "words": 1933,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {},
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 22,
+        "2": 13,
+        "3": 6
+      },
+      "expected_book": 2,
+      "expected_share_pct": 31.7,
+      "gate_voice_register": "WARN",
+      "deterministic_verdict": "WARN"
+    },
+    {
+      "file": "CHAPTERS/book_2/Chapter-15-The-Witness-Integration.md",
+      "book": 2,
+      "words": 2924,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {
+        "Khalor": 1
+      },
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 1,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "WARN",
+      "marker_hits_by_book": {
+        "1": 10,
+        "2": 8,
+        "3": 51
+      },
+      "expected_book": 2,
+      "expected_share_pct": 11.6,
+      "gate_voice_register": "WARN",
+      "deterministic_verdict": "WARN"
+    },
+    {
+      "file": "CHAPTERS/book_3/Chapter-16-The-Wilt.md",
+      "book": 3,
+      "words": 6097,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {
+        "Khalor": 4
+      },
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 28,
+        "2": 43,
+        "3": 42
+      },
+      "expected_book": 3,
+      "expected_share_pct": 37.2,
+      "gate_voice_register": "WARN",
+      "deterministic_verdict": "WARN"
+    },
+    {
+      "file": "CHAPTERS/book_3/Chapter-17-The-Gardener.md",
+      "book": 3,
+      "words": 11367,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {
+        "Khalor": 1
+      },
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 78,
+        "2": 72,
+        "3": 94
+      },
+      "expected_book": 3,
+      "expected_share_pct": 38.5,
+      "gate_voice_register": "PASS",
+      "deterministic_verdict": "PASS"
+    },
+    {
+      "file": "CHAPTERS/book_3/Chapter-18-The-Synthesis-Protocol.md",
+      "book": 3,
+      "words": 3356,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {
+        "13.7": 1,
+        "Tryambakam": 1
+      },
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 23,
+        "2": 26,
+        "3": 22
+      },
+      "expected_book": 3,
+      "expected_share_pct": 31.0,
+      "gate_voice_register": "WARN",
+      "deterministic_verdict": "WARN"
+    },
+    {
+      "file": "CHAPTERS/book_3/Chapter-19-The-Three-Point-Problem.md",
+      "book": 3,
+      "words": 7766,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {
+        "Tryambakam": 1
+      },
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 31,
+        "2": 41,
+        "3": 28
+      },
+      "expected_book": 3,
+      "expected_share_pct": 28.0,
+      "gate_voice_register": "WARN",
+      "deterministic_verdict": "WARN"
+    },
+    {
+      "file": "CHAPTERS/book_3/Chapter-20-The-Convergence-Point.md",
+      "book": 3,
+      "words": 8114,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {},
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 11,
+        "2": 34,
+        "3": 24
+      },
+      "expected_book": 3,
+      "expected_share_pct": 34.8,
+      "gate_voice_register": "WARN",
+      "deterministic_verdict": "WARN"
+    },
+    {
+      "file": "CHAPTERS/book_3/Chapter-21-The-Test-Fire.md",
+      "book": 3,
+      "words": 9758,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {},
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 27,
+        "2": 41,
+        "3": 42
+      },
+      "expected_book": 3,
+      "expected_share_pct": 38.2,
+      "gate_voice_register": "PASS",
+      "deterministic_verdict": "PASS"
+    },
+    {
+      "file": "CHAPTERS/book_3/Chapter-22-The-Perfect-World.md",
+      "book": 3,
+      "words": 9467,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {},
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 17,
+        "2": 36,
+        "3": 43
+      },
+      "expected_book": 3,
+      "expected_share_pct": 44.8,
+      "gate_voice_register": "PASS",
+      "deterministic_verdict": "PASS"
+    },
+    {
+      "file": "CHAPTERS/book_3/Chapter-23-The-Flaw-in-the-Code.md",
+      "book": 3,
+      "words": 6592,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {},
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 15,
+        "2": 8,
+        "3": 65
+      },
+      "expected_book": 3,
+      "expected_share_pct": 73.9,
+      "gate_voice_register": "PASS",
+      "deterministic_verdict": "PASS"
+    },
+    {
+      "file": "CHAPTERS/book_3/Chapter-24-The-Final-Procedure.md",
+      "book": 3,
+      "words": 8470,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {
+        "13.7": 4,
+        "Khalor": 1
+      },
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 19,
+        "2": 26,
+        "3": 60
+      },
+      "expected_book": 3,
+      "expected_share_pct": 57.1,
+      "gate_voice_register": "PASS",
+      "deterministic_verdict": "PASS"
+    },
+    {
+      "file": "CHAPTERS/book_3/Chapter-25-The-Void-of-Pure-Potential.md",
+      "book": 3,
+      "words": 9089,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {},
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 31,
+        "2": 21,
+        "3": 34
+      },
+      "expected_book": 3,
+      "expected_share_pct": 39.5,
+      "gate_voice_register": "PASS",
+      "deterministic_verdict": "PASS"
+    },
+    {
+      "file": "CHAPTERS/book_3/Chapter-26-The-Architecture-of-New-Reality.md",
+      "book": 3,
+      "words": 3639,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {},
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 10,
+        "2": 10,
+        "3": 17
+      },
+      "expected_book": 3,
+      "expected_share_pct": 45.9,
+      "gate_voice_register": "PASS",
+      "deterministic_verdict": "PASS"
+    },
+    {
+      "file": "CHAPTERS/book_3/Chapter-27-The-New-Beginning.md",
+      "book": 3,
+      "words": 4996,
+      "terms": {
+        "energy": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "vibration": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "quantum": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "universe": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "shatter": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "frequency": {
+          "hits": 0,
+          "per_1000": 0.0
+        },
+        "resonant": {
+          "hits": 0,
+          "per_1000": 0.0
+        }
+      },
+      "total_hits": 0,
+      "total_per_1000": 0.0,
+      "gate_red_flag": "PASS",
+      "dense_terms": [],
+      "verbatim_duplicate_paragraphs": 0,
+      "duplicates": [],
+      "gate_duplication": "PASS",
+      "house_terms_present": {},
+      "house_model_markers": 0,
+      "empirical_syntax_adjacent": 0,
+      "gate_epistemic": "PASS",
+      "explanatory_aside_hits": 0,
+      "explanatory_aside_flagged_for_review": 0,
+      "gate_opacity_partial": "PASS",
+      "marker_hits_by_book": {
+        "1": 11,
+        "2": 22,
+        "3": 23
+      },
+      "expected_book": 3,
+      "expected_share_pct": 41.1,
+      "gate_voice_register": "PASS",
+      "deterministic_verdict": "PASS"
+    }
+  ]
+}

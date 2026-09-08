@@ -1,0 +1,104 @@
+{
+  "request": {
+    "birth_data": {
+      "name": "Corvan Luminth",
+      "date": "1984-11-03",
+      "time": "07:20",
+      "latitude": 25.3176,
+      "longitude": 82.9739,
+      "timezone": "Asia/Kolkata"
+    },
+    "current_time": "2027-02-01T06:00:00Z",
+    "precision": "standard",
+    "options": {
+      "type": 9
+    }
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "enneagram",
+    "result": {
+      "mode": "lookup",
+      "typeAnalysis": {
+        "center": "gut",
+        "disintegration": {
+          "description": "Nines become anxious and reactive like unhealthy Sixes",
+          "name": "The Loyalist",
+          "type": 6
+        },
+        "harmonicGroup": "positive",
+        "hornevianGroup": "withdrawn",
+        "integration": {
+          "description": "Nines access energy and self-development of healthy Threes",
+          "name": "The Achiever",
+          "type": 3
+        },
+        "type": {
+          "averageTraits": [
+            "Self-effacing and accommodating",
+            "Complacent and resigned",
+            "Disengaged and unreflective",
+            "Passive-aggressive when pushed",
+            "Stubbornly resistant to change"
+          ],
+          "coreDesire": "To have inner peace and stability",
+          "coreFear": "Loss of connection, fragmentation, or conflict",
+          "coreWeakness": "Sloth\u2014forgetting own priorities and going along to get along",
+          "description": "Receptive, reassuring, agreeable, and complacent. Nines are stable, trusting, and supportive. They fear conflict and separation, often merging with others to maintain peace.",
+          "healthyTraits": [
+            "Serene and at peace",
+            "Present and self-possessed",
+            "Accepting and unself-conscious",
+            "Natural mediators and healers",
+            "Optimistic and supportive"
+          ],
+          "keyMotivations": [
+            "Creating harmony in environment",
+            "Avoiding conflicts and tension",
+            "Preserving things as they are",
+            "Resisting whatever would upset or disturb them"
+          ],
+          "name": "The Peacemaker",
+          "number": 9,
+          "unhealthyTraits": [
+            "Dissociated and neglectful",
+            "Obstinate and fatalistic",
+            "Depersonalized and repressed",
+            "Helpless and inadequate",
+            "Severely disoriented"
+          ]
+        },
+        "wings": [
+          {
+            "name": "The Challenger",
+            "number": 8
+          },
+          {
+            "name": "The Reformer",
+            "number": 1
+          }
+        ]
+      }
+    },
+    "witness_prompt": "Where do you notice the pattern of loss of connection, fragmentation, or conflict arising in your life?",
+    "consciousness_level": 1,
+    "metadata": {
+      "calculation_time_ms": 16.0,
+      "backend": "typescript",
+      "precision_achieved": "exact",
+      "cached": false,
+      "timestamp": "2026-09-08T00:20:43.263Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "Where do you notice the pattern of loss of connection, fragmentation, or conflict arising in your life?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:20:43.263+00:00",
+    "processing_time_ms": 16.0
+  }
+}

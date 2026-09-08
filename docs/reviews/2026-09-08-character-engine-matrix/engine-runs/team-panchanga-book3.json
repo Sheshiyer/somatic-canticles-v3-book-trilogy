@@ -1,0 +1,68 @@
+{
+  "id": "team-panchanga-book3",
+  "input_status": "PROPOSED FICTIONAL CALCULATION INPUTS - NOT CANON",
+  "requested_engine": "panchanga",
+  "requested_at": "2026-09-08T00:23:26.962290+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Corvan Luminth",
+      "date": "1984-11-03",
+      "time": "07:20",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "timezone": "UTC"
+    },
+    "current_time": "2027-03-22T06:00:00Z",
+    "location": {
+      "latitude": 12.9716,
+      "longitude": 77.5946
+    },
+    "precision": "standard",
+    "options": {
+      "mode": "daily"
+    }
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "panchanga",
+    "result": {
+      "julian_day": 2461486.75,
+      "karana_index": 0,
+      "karana_name": "Bava",
+      "karana_value": 30.0,
+      "lunar_longitude": 155.08881790576882,
+      "nakshatra_index": 11,
+      "nakshatra_name": "Uttara Phalguni",
+      "nakshatra_value": 11.631661342932661,
+      "solar_longitude": 337.6695694409845,
+      "tithi_index": 14,
+      "tithi_name": "Purnima",
+      "tithi_value": 14.78493737206536,
+      "vara_index": 1,
+      "vara_name": "Somavara (Monday)",
+      "yoga_index": 9,
+      "yoga_name": "Ganda",
+      "yoga_value": 9.956879051006503
+    },
+    "witness_prompt": "You were born under Tithi Purnima and Nakshatra Uttara Phalguni. The Tithi reflects the angle between Sun and Moon at your birth \u2014 a mirror of the dance between your conscious will and emotional nature. What pattern do you notice when your intentions and feelings are misaligned?",
+    "consciousness_level": 0,
+    "metadata": {
+      "calculation_time_ms": 0.161282,
+      "backend": "native-rust",
+      "precision_achieved": "Standard",
+      "cached": false,
+      "timestamp": "2026-09-08T00:23:26.887086719Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "You were born under Tithi Purnima and Nakshatra Uttara Phalguni. The Tithi reflects the angle between Sun and Moon at your birth \u2014 a mirror of the dance between your conscious will and emotional nature. What pattern do you notice when your intentions and feelings are misaligned?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:23:26.887086719+00:00",
+    "processing_time_ms": 0.161282
+  }
+}

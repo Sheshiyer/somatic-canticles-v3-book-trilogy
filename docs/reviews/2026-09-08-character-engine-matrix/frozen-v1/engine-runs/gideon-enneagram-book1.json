@@ -1,0 +1,112 @@
+{
+  "id": "gideon-enneagram-book1",
+  "input_status": "FROZEN EDITORIAL CALCULATION BASELINE v1 \u2014 fictional Earth-equivalent dates; not a manuscript rewrite",
+  "requested_engine": "enneagram",
+  "requested_at": "2026-09-08T00:43:11.131972+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Gideon Seter",
+      "date": "1981-09-24",
+      "time": "13:35",
+      "latitude": 32.794,
+      "longitude": 34.9896,
+      "timezone": "Asia/Jerusalem"
+    },
+    "current_time": "2027-02-08T00:00:00Z",
+    "location": {
+      "latitude": 32.794,
+      "longitude": 34.9896
+    },
+    "precision": "standard",
+    "options": {
+      "type": 8
+    }
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "enneagram",
+    "result": {
+      "mode": "lookup",
+      "typeAnalysis": {
+        "center": "gut",
+        "disintegration": {
+          "description": "Eights become withdrawn and fearful like unhealthy Fives",
+          "name": "The Investigator",
+          "type": 5
+        },
+        "harmonicGroup": "reactive",
+        "hornevianGroup": "assertive",
+        "integration": {
+          "description": "Eights access openheartedness and care of healthy Twos",
+          "name": "The Helper",
+          "type": 2
+        },
+        "type": {
+          "averageTraits": [
+            "Dominating and confrontational",
+            "Proud and egocentric",
+            "Willful and defiant",
+            "Intimidating and threatening",
+            "Struggling for control"
+          ],
+          "coreDesire": "To protect self and determine own direction",
+          "coreFear": "Being harmed or controlled by others",
+          "coreWeakness": "Lust\u2014wanting to be against the world and prove strength",
+          "description": "Self-confident, decisive, confrontational, and dominating. Eights are strong, resourceful, and protective. They fear being controlled and assert themselves powerfully.",
+          "healthyTraits": [
+            "Magnanimous and heroic",
+            "Self-mastering and empowering",
+            "Courageous and protective",
+            "Resourceful and decisive",
+            "Authoritative and leading"
+          ],
+          "keyMotivations": [
+            "Being self-reliant and strong",
+            "Resisting weakness and vulnerability",
+            "Being important in their world",
+            "Dominating the environment and controlling resources"
+          ],
+          "name": "The Challenger",
+          "number": 8,
+          "unhealthyTraits": [
+            "Ruthless and dictatorial",
+            "Destroying before being destroyed",
+            "Terrorizing and violent",
+            "Sociopathic and delusional",
+            "Megalomania and revenge-seeking"
+          ]
+        },
+        "wings": [
+          {
+            "name": "The Enthusiast",
+            "number": 7
+          },
+          {
+            "name": "The Peacemaker",
+            "number": 9
+          }
+        ]
+      }
+    },
+    "witness_prompt": "Can you observe the protecting pattern without trying to change it?",
+    "consciousness_level": 1,
+    "metadata": {
+      "calculation_time_ms": 0.0,
+      "backend": "typescript",
+      "precision_achieved": "exact",
+      "cached": false,
+      "timestamp": "2026-09-08T00:43:11.099Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "Can you observe the protecting pattern without trying to change it?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:43:11.099+00:00",
+    "processing_time_ms": 0.0
+  }
+}

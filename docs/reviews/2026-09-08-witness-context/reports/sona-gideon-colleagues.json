@@ -1,0 +1,1255 @@
+{
+  "state": "GENERATED_UNREVIEWED",
+  "context": {
+    "frozen_checkpoint": "2027-03-22T06:00:00Z",
+    "subjects": [
+      {
+        "name": "Sona Vireth",
+        "id": "sona",
+        "engine_results": [
+          {
+            "engine_id": "human-design",
+            "result": {
+              "active_channels": [
+                "45-21",
+                "59-6"
+              ],
+              "authority": "Emotional",
+              "defined_centers": [
+                "Sacral",
+                "Throat",
+                "Heart",
+                "SolarPlexus"
+              ],
+              "definition": "Split",
+              "design_activations": {
+                "earth": {
+                  "gate": 6,
+                  "line": 6,
+                  "longitude": 177.83823460950998
+                },
+                "jupiter": {
+                  "gate": 31,
+                  "line": 2,
+                  "longitude": 123.76358478500502
+                },
+                "mars": {
+                  "gate": 45,
+                  "line": 6,
+                  "longitude": 82.22852484108444
+                },
+                "mercury": {
+                  "gate": 21,
+                  "line": 4,
+                  "longitude": 13.043330902620236
+                },
+                "moon": {
+                  "gate": 3,
+                  "line": 6,
+                  "longitude": 31.274014301617143
+                },
+                "neptune": {
+                  "gate": 54,
+                  "line": 2,
+                  "longitude": 286.50092186461535
+                },
+                "northnode": {
+                  "gate": 61,
+                  "line": 6,
+                  "longitude": 295.9439426676907
+                },
+                "pluto": {
+                  "gate": 43,
+                  "line": 2,
+                  "longitude": 230.19919811086953
+                },
+                "saturn": {
+                  "gate": 41,
+                  "line": 3,
+                  "longitude": 304.13666394477724
+                },
+                "southnode": {
+                  "gate": 62,
+                  "line": 6,
+                  "longitude": 115.94394266769069
+                },
+                "sun": {
+                  "gate": 36,
+                  "line": 6,
+                  "longitude": 357.83823460951004
+                },
+                "uranus": {
+                  "gate": 38,
+                  "line": 5,
+                  "longitude": 283.4216123126532
+                },
+                "venus": {
+                  "gate": 3,
+                  "line": 4,
+                  "longitude": 30.055686500768115
+                }
+              },
+              "hd_type": "ManifestingGenerator",
+              "personality_activations": {
+                "earth": {
+                  "gate": 11,
+                  "line": 4,
+                  "longitude": 265.8382163092696
+                },
+                "jupiter": {
+                  "gate": 33,
+                  "line": 5,
+                  "longitude": 131.81295176788194
+                },
+                "mars": {
+                  "gate": 33,
+                  "line": 6,
+                  "longitude": 133.02466623427728
+                },
+                "mercury": {
+                  "gate": 12,
+                  "line": 4,
+                  "longitude": 86.25473807807496
+                },
+                "moon": {
+                  "gate": 59,
+                  "line": 6,
+                  "longitude": 155.01428364880246
+                },
+                "neptune": {
+                  "gate": 54,
+                  "line": 1,
+                  "longitude": 285.91979790570707
+                },
+                "northnode": {
+                  "gate": 54,
+                  "line": 5,
+                  "longitude": 289.12063811057055
+                },
+                "pluto": {
+                  "gate": 1,
+                  "line": 6,
+                  "longitude": 228.01368201083736
+                },
+                "saturn": {
+                  "gate": 41,
+                  "line": 5,
+                  "longitude": 306.07340864419234
+                },
+                "southnode": {
+                  "gate": 53,
+                  "line": 5,
+                  "longitude": 109.12063811057055
+                },
+                "sun": {
+                  "gate": 12,
+                  "line": 4,
+                  "longitude": 85.83821630926961
+                },
+                "uranus": {
+                  "gate": 38,
+                  "line": 4,
+                  "longitude": 282.49422760390644
+                },
+                "venus": {
+                  "gate": 33,
+                  "line": 4,
+                  "longitude": 131.1467900050454
+                }
+              },
+              "profile": "4/6"
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 1.9752149999999997,
+              "backend": "swiss-ephemeris",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:07.890447786Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:07.890447786+00:00",
+            "processing_time_ms": 1.9752149999999997
+          },
+          {
+            "engine_id": "numerology",
+            "result": {
+              "birthday": {
+                "is_master": false,
+                "meaning": "Power, abundance, achievement",
+                "reduction_chain": [
+                  17,
+                  8
+                ],
+                "value": 8
+              },
+              "chaldean_name": {
+                "is_master": false,
+                "meaning": "Creativity, expression, joy",
+                "reduction_chain": [
+                  39,
+                  12,
+                  3
+                ],
+                "value": 3
+              },
+              "expression": {
+                "is_master": false,
+                "meaning": "Freedom, change, adventure",
+                "reduction_chain": [
+                  50,
+                  5
+                ],
+                "value": 5
+              },
+              "life_path": {
+                "is_master": false,
+                "meaning": "Analysis, wisdom, introspection",
+                "reduction_chain": [
+                  16,
+                  7
+                ],
+                "value": 7
+              },
+              "personality": {
+                "is_master": true,
+                "meaning": "Intuition, spiritual insight, illumination (master)",
+                "reduction_chain": [
+                  29,
+                  11
+                ],
+                "value": 11
+              },
+              "soul_urge": {
+                "is_master": false,
+                "meaning": "Creativity, expression, joy",
+                "reduction_chain": [
+                  21,
+                  3
+                ],
+                "value": 3
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 0,
+            "metadata": {
+              "calculation_time_ms": 0.020044,
+              "backend": "native-rust",
+              "precision_achieved": "exact",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:07.828659439Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:07.828659439+00:00",
+            "processing_time_ms": 0.020044
+          },
+          {
+            "engine_id": "enneagram",
+            "result": {
+              "mode": "lookup",
+              "typeAnalysis": {
+                "center": "heart",
+                "disintegration": {
+                  "description": "Fours become clingy and manipulative like unhealthy Twos",
+                  "name": "The Helper",
+                  "type": 2
+                },
+                "harmonicGroup": "reactive",
+                "hornevianGroup": "withdrawn",
+                "integration": {
+                  "description": "Fours access objectivity and discipline of healthy Ones",
+                  "name": "The Reformer",
+                  "type": 1
+                },
+                "type": {
+                  "averageTraits": [
+                    "Melancholic and withdrawn",
+                    "Self-conscious and envious",
+                    "Moody and hypersensitive",
+                    "Self-indulgent with feelings",
+                    "Feeling misunderstood and different"
+                  ],
+                  "coreDesire": "To find themselves and their significance",
+                  "coreFear": "Having no identity or personal significance",
+                  "coreWeakness": "Envy—feeling deficient and longing for what others have",
+                  "description": "Expressive, dramatic, self-absorbed, and temperamental. Fours are sensitive, creative, and emotionally honest. They fear being without identity and create a unique self-image.",
+                  "healthyTraits": [
+                    "Inspired and highly creative",
+                    "Self-aware and introspective",
+                    "Emotionally honest and authentic",
+                    "Compassionate toward suffering",
+                    "Transforming pain into beauty"
+                  ],
+                  "keyMotivations": [
+                    "Expressing individuality and uniqueness",
+                    "Creating an identity from inner experiences",
+                    "Protecting self through withdrawal",
+                    "Taking care of emotional needs before attending to others"
+                  ],
+                  "name": "The Individualist",
+                  "number": 4,
+                  "unhealthyTraits": [
+                    "Depressed and hopeless",
+                    "Self-destructive and alienated",
+                    "Tormented by self-contempt",
+                    "Emotionally blocked",
+                    "Despising self and life"
+                  ]
+                },
+                "wings": [
+                  {
+                    "name": "The Achiever",
+                    "number": 3
+                  },
+                  {
+                    "name": "The Investigator",
+                    "number": 5
+                  }
+                ]
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 1,
+            "metadata": {
+              "calculation_time_ms": 0,
+              "backend": "typescript",
+              "precision_achieved": "exact",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:08.383Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:08.383+00:00",
+            "processing_time_ms": 0
+          },
+          {
+            "engine_id": "vimshottari",
+            "result": {
+              "current_period": {
+                "antardasha": {
+                  "end": "2028-01-11T21:40:40+00:00",
+                  "planet": "Venus",
+                  "start": "2026-05-13T03:40:40+00:00",
+                  "years": 1.6666666666666667
+                },
+                "mahadasha": {
+                  "end": "2028-07-12T12:40:40+00:00",
+                  "planet": "Moon",
+                  "start": "2018-07-13T00:40:40+00:00",
+                  "years": 10
+                },
+                "pratyantardasha": {
+                  "days": 81.16666666666667,
+                  "end": "2027-06-07T18:25:40+00:00",
+                  "planet": "Jupiter",
+                  "start": "2027-03-18T14:25:40+00:00"
+                }
+              },
+              "birth_nakshatra": {
+                "moon_longitude": 131.29428364880246,
+                "name": "Magha",
+                "number": 10
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 2.588978,
+              "backend": "swiss-ephemeris-sidereal",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:26.642183974Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:26.642183974+00:00",
+            "processing_time_ms": 2.588978
+          },
+          {
+            "engine_id": "biorhythm",
+            "result": {
+              "target_date": "2027-03-22",
+              "physical": {
+                "cycle_day": 21,
+                "days_until_critical": 3,
+                "days_until_peak": 8,
+                "is_critical": false,
+                "percentage": 24.020802498204404,
+                "phase": "Rising",
+                "value": -0.519583950035912
+              },
+              "emotional": {
+                "cycle_day": 14,
+                "days_until_critical": 14,
+                "days_until_peak": 21,
+                "is_critical": true,
+                "percentage": 50.000000000008384,
+                "phase": "Critical",
+                "value": 1.6755025154245556e-13
+              },
+              "intellectual": {
+                "cycle_day": 27,
+                "days_until_critical": 6,
+                "days_until_peak": 15,
+                "is_critical": false,
+                "percentage": 4.518400232264258,
+                "phase": "Rising",
+                "value": -0.9096319953547148
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 0,
+            "metadata": {
+              "calculation_time_ms": 0.080504,
+              "backend": "native-rust",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:08.941146638Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:08.941146638+00:00",
+            "processing_time_ms": 0.080504
+          },
+          {
+            "engine_id": "biofield",
+            "result": {
+              "computation_mode": "vedic",
+              "interpretation_kind": "birth-derived symbolic map; not physical measurement",
+              "chakra_readings": [
+                {
+                  "activity_level": 0.46249999999999997,
+                  "balance": -0.5,
+                  "chakra": "Root",
+                  "chakra_name": "Root",
+                  "color_intensity": "dim red",
+                  "element": "Earth",
+                  "location": "Base of spine, perineum"
+                },
+                {
+                  "activity_level": 0.37812500000000004,
+                  "balance": -0.5,
+                  "chakra": "Sacral",
+                  "chakra_name": "Sacral",
+                  "color_intensity": "dim orange",
+                  "element": "Water",
+                  "location": "Lower abdomen, below navel"
+                },
+                {
+                  "activity_level": 0.45624999999999993,
+                  "balance": 0.2,
+                  "chakra": "SolarPlexus",
+                  "chakra_name": "Solar Plexus",
+                  "color_intensity": "dim yellow",
+                  "element": "Fire",
+                  "location": "Upper abdomen, stomach area"
+                },
+                {
+                  "activity_level": 0.328125,
+                  "balance": -0.5,
+                  "chakra": "Heart",
+                  "chakra_name": "Heart",
+                  "color_intensity": "dim green",
+                  "element": "Air",
+                  "location": "Center of chest"
+                },
+                {
+                  "activity_level": 0.45,
+                  "balance": -0.6,
+                  "chakra": "Throat",
+                  "chakra_name": "Throat",
+                  "color_intensity": "dim blue",
+                  "element": "Ether/Space",
+                  "location": "Throat area"
+                },
+                {
+                  "activity_level": 0.42374999999999996,
+                  "balance": -1,
+                  "chakra": "ThirdEye",
+                  "chakra_name": "Third Eye",
+                  "color_intensity": "dim indigo",
+                  "element": "Light",
+                  "location": "Between eyebrows"
+                },
+                {
+                  "activity_level": 0.415625,
+                  "balance": -0.2,
+                  "chakra": "Crown",
+                  "chakra_name": "Crown",
+                  "color_intensity": "dim violet",
+                  "element": "Consciousness",
+                  "location": "Top of head"
+                }
+              ]
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 1.1035030000000001,
+              "backend": "vedic-ephemeris",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:26.960414406Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:26.960414406+00:00",
+            "processing_time_ms": 1.1035030000000001
+          }
+        ],
+        "existing_proposed_arc": {
+          "character": "sona",
+          "chapter": 7,
+          "engine": "enneagram + raaga",
+          "receipt": "sona-enneagram-book1.json",
+          "additional_receipts": [
+            "sona-raaga-book1.json"
+          ],
+          "field": "typeAnalysis.type.description; melakarta.num",
+          "external_stimulus": "Jian identifies declining variability and the host responds unevenly",
+          "internal_stimulus": "Relief misread as success, shaking hands after withdrawing the intervention",
+          "interpretation": "Her identity investment may be coloring the reading; the musical pattern organizes her attention but does not establish host recovery",
+          "chosen_action": "Keep contrary trace visible, mouth a familiar phrase, explicitly retain Jian as a corrective witness, reduce intervention",
+          "feedback": "Existing host response remains uneven; shaking does not magically disappear",
+          "revised_understanding": "Internal relief and external recovery are separate observations",
+          "shared_lens_recurrence": 14,
+          "later_action_recurrence": [
+            20,
+            22,
+            27
+          ]
+        }
+      },
+      {
+        "name": "Gideon Seter",
+        "id": "gideon",
+        "engine_results": [
+          {
+            "engine_id": "human-design",
+            "result": {
+              "active_channels": [
+                "11-56",
+                "10-57"
+              ],
+              "authority": "Splenic",
+              "defined_centers": [
+                "G",
+                "Ajna",
+                "Spleen",
+                "Throat"
+              ],
+              "definition": "Split",
+              "design_activations": {
+                "earth": {
+                  "gate": 10,
+                  "line": 6,
+                  "longitude": 273.32627323857605
+                },
+                "jupiter": {
+                  "gate": 46,
+                  "line": 4,
+                  "longitude": 181.60689318975108
+                },
+                "mars": {
+                  "gate": 35,
+                  "line": 3,
+                  "longitude": 73.93910341374912
+                },
+                "mercury": {
+                  "gate": 15,
+                  "line": 1,
+                  "longitude": 88.883722493406
+                },
+                "moon": {
+                  "gate": 25,
+                  "line": 3,
+                  "longitude": 0.6554814561248183
+                },
+                "neptune": {
+                  "gate": 11,
+                  "line": 1,
+                  "longitude": 263.20675356896123
+                },
+                "northnode": {
+                  "gate": 56,
+                  "line": 6,
+                  "longitude": 121.99491603581846
+                },
+                "pluto": {
+                  "gate": 32,
+                  "line": 1,
+                  "longitude": 201.54668733142137
+                },
+                "saturn": {
+                  "gate": 46,
+                  "line": 6,
+                  "longitude": 183.32771939942552
+                },
+                "southnode": {
+                  "gate": 60,
+                  "line": 6,
+                  "longitude": 301.99491603581845
+                },
+                "sun": {
+                  "gate": 15,
+                  "line": 6,
+                  "longitude": 93.32627323857605
+                },
+                "uranus": {
+                  "gate": 14,
+                  "line": 3,
+                  "longitude": 236.70873990388
+                },
+                "venus": {
+                  "gate": 62,
+                  "line": 4,
+                  "longitude": 114.06831469723471
+                }
+              },
+              "hd_type": "Projector",
+              "personality_activations": {
+                "earth": {
+                  "gate": 25,
+                  "line": 4,
+                  "longitude": 1.326334549851822
+                },
+                "jupiter": {
+                  "gate": 57,
+                  "line": 2,
+                  "longitude": 196.50073934098089
+                },
+                "mars": {
+                  "gate": 7,
+                  "line": 1,
+                  "longitude": 134.02309731264648
+                },
+                "mercury": {
+                  "gate": 50,
+                  "line": 2,
+                  "longitude": 207.44974590933185
+                },
+                "moon": {
+                  "gate": 7,
+                  "line": 5,
+                  "longitude": 137.48308140965614
+                },
+                "neptune": {
+                  "gate": 26,
+                  "line": 6,
+                  "longitude": 262.2075155143627
+                },
+                "northnode": {
+                  "gate": 56,
+                  "line": 4,
+                  "longitude": 119.99453869260068
+                },
+                "pluto": {
+                  "gate": 32,
+                  "line": 3,
+                  "longitude": 203.35703390985395
+                },
+                "saturn": {
+                  "gate": 48,
+                  "line": 3,
+                  "longitude": 191.40111710147
+                },
+                "southnode": {
+                  "gate": 60,
+                  "line": 4,
+                  "longitude": 299.9945386926007
+                },
+                "sun": {
+                  "gate": 46,
+                  "line": 4,
+                  "longitude": 181.3263345498518
+                },
+                "uranus": {
+                  "gate": 14,
+                  "line": 3,
+                  "longitude": 237.14226063993593
+                },
+                "venus": {
+                  "gate": 1,
+                  "line": 1,
+                  "longitude": 223.40189118380576
+                }
+              },
+              "profile": "4/6"
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 4.036218,
+              "backend": "swiss-ephemeris",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:10.693594223Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:10.693594223+00:00",
+            "processing_time_ms": 4.036218
+          },
+          {
+            "engine_id": "numerology",
+            "result": {
+              "birthday": {
+                "is_master": false,
+                "meaning": "Responsibility, nurturing, harmony",
+                "reduction_chain": [
+                  24,
+                  6
+                ],
+                "value": 6
+              },
+              "chaldean_name": {
+                "is_master": false,
+                "meaning": "Power, abundance, achievement",
+                "reduction_chain": [
+                  44,
+                  8
+                ],
+                "value": 8
+              },
+              "expression": {
+                "is_master": false,
+                "meaning": "Structure, discipline, foundation",
+                "reduction_chain": [
+                  58,
+                  13,
+                  4
+                ],
+                "value": 4
+              },
+              "life_path": {
+                "is_master": false,
+                "meaning": "Analysis, wisdom, introspection",
+                "reduction_chain": [
+                  16,
+                  7
+                ],
+                "value": 7
+              },
+              "personality": {
+                "is_master": false,
+                "meaning": "Leadership, independence, pioneering",
+                "reduction_chain": [
+                  28,
+                  10,
+                  1
+                ],
+                "value": 1
+              },
+              "soul_urge": {
+                "is_master": false,
+                "meaning": "Creativity, expression, joy",
+                "reduction_chain": [
+                  30,
+                  3
+                ],
+                "value": 3
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 0,
+            "metadata": {
+              "calculation_time_ms": 0.021646,
+              "backend": "native-rust",
+              "precision_achieved": "exact",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:10.669874589Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:10.669874589+00:00",
+            "processing_time_ms": 0.021646
+          },
+          {
+            "engine_id": "enneagram",
+            "result": {
+              "mode": "lookup",
+              "typeAnalysis": {
+                "center": "gut",
+                "disintegration": {
+                  "description": "Eights become withdrawn and fearful like unhealthy Fives",
+                  "name": "The Investigator",
+                  "type": 5
+                },
+                "harmonicGroup": "reactive",
+                "hornevianGroup": "assertive",
+                "integration": {
+                  "description": "Eights access openheartedness and care of healthy Twos",
+                  "name": "The Helper",
+                  "type": 2
+                },
+                "type": {
+                  "averageTraits": [
+                    "Dominating and confrontational",
+                    "Proud and egocentric",
+                    "Willful and defiant",
+                    "Intimidating and threatening",
+                    "Struggling for control"
+                  ],
+                  "coreDesire": "To protect self and determine own direction",
+                  "coreFear": "Being harmed or controlled by others",
+                  "coreWeakness": "Lust—wanting to be against the world and prove strength",
+                  "description": "Self-confident, decisive, confrontational, and dominating. Eights are strong, resourceful, and protective. They fear being controlled and assert themselves powerfully.",
+                  "healthyTraits": [
+                    "Magnanimous and heroic",
+                    "Self-mastering and empowering",
+                    "Courageous and protective",
+                    "Resourceful and decisive",
+                    "Authoritative and leading"
+                  ],
+                  "keyMotivations": [
+                    "Being self-reliant and strong",
+                    "Resisting weakness and vulnerability",
+                    "Being important in their world",
+                    "Dominating the environment and controlling resources"
+                  ],
+                  "name": "The Challenger",
+                  "number": 8,
+                  "unhealthyTraits": [
+                    "Ruthless and dictatorial",
+                    "Destroying before being destroyed",
+                    "Terrorizing and violent",
+                    "Sociopathic and delusional",
+                    "Megalomania and revenge-seeking"
+                  ]
+                },
+                "wings": [
+                  {
+                    "name": "The Enthusiast",
+                    "number": 7
+                  },
+                  {
+                    "name": "The Peacemaker",
+                    "number": 9
+                  }
+                ]
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 1,
+            "metadata": {
+              "calculation_time_ms": 0,
+              "backend": "typescript",
+              "precision_achieved": "exact",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:11.099Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:11.099+00:00",
+            "processing_time_ms": 0
+          },
+          {
+            "engine_id": "vimshottari",
+            "result": {
+              "current_period": {
+                "antardasha": {
+                  "end": "2028-07-12T22:06:48+00:00",
+                  "planet": "Mercury",
+                  "start": "2027-02-11T11:36:48+00:00",
+                  "years": 1.4166666666666667
+                },
+                "mahadasha": {
+                  "end": "2031-04-13T08:36:48+00:00",
+                  "planet": "Moon",
+                  "start": "2021-04-12T20:36:48+00:00",
+                  "years": 10
+                },
+                "pratyantardasha": {
+                  "days": 73.30364583333333,
+                  "end": "2027-04-25T18:54:03+00:00",
+                  "planet": "Mercury",
+                  "start": "2027-02-11T11:36:48+00:00"
+                }
+              },
+              "birth_nakshatra": {
+                "moon_longitude": 114.86348514285089,
+                "name": "Ashlesha",
+                "number": 9
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 0.5254949999999999,
+              "backend": "swiss-ephemeris-sidereal",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:27.951751970Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:27.951751970+00:00",
+            "processing_time_ms": 0.5254949999999999
+          },
+          {
+            "engine_id": "biorhythm",
+            "result": {
+              "target_date": "2027-03-22",
+              "physical": {
+                "cycle_day": 9,
+                "days_until_critical": 3,
+                "days_until_peak": 20,
+                "is_critical": false,
+                "percentage": 81.55439721630056,
+                "phase": "Falling",
+                "value": 0.631087944326011
+              },
+              "emotional": {
+                "cycle_day": 11,
+                "days_until_critical": 3,
+                "days_until_peak": 24,
+                "is_critical": false,
+                "percentage": 81.17449009294256,
+                "phase": "Falling",
+                "value": 0.6234898018588513
+              },
+              "intellectual": {
+                "cycle_day": 16,
+                "days_until_critical": 1,
+                "days_until_peak": 26,
+                "is_critical": true,
+                "percentage": 54.75280216521619,
+                "phase": "Critical",
+                "value": 0.09505604330432364
+              }
+            },
+            "witness_prompt": "",
+            "consciousness_level": 0,
+            "metadata": {
+              "calculation_time_ms": 0.153464,
+              "backend": "native-rust",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:11.635139600Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:11.635139600+00:00",
+            "processing_time_ms": 0.153464
+          },
+          {
+            "engine_id": "biofield",
+            "result": {
+              "computation_mode": "vedic",
+              "interpretation_kind": "birth-derived symbolic map; not physical measurement",
+              "chakra_readings": [
+                {
+                  "activity_level": 0.725,
+                  "balance": 0.5,
+                  "chakra": "Root",
+                  "chakra_name": "Root",
+                  "color_intensity": "bright red",
+                  "element": "Earth",
+                  "location": "Base of spine, perineum"
+                },
+                {
+                  "activity_level": 0.384375,
+                  "balance": -0.42857142857142855,
+                  "chakra": "Sacral",
+                  "chakra_name": "Sacral",
+                  "color_intensity": "dim orange",
+                  "element": "Water",
+                  "location": "Lower abdomen, below navel"
+                },
+                {
+                  "activity_level": 0.5562499999999999,
+                  "balance": 0.6363636363636364,
+                  "chakra": "SolarPlexus",
+                  "chakra_name": "Solar Plexus",
+                  "color_intensity": "moderate yellow",
+                  "element": "Fire",
+                  "location": "Upper abdomen, stomach area"
+                },
+                {
+                  "activity_level": 0.334375,
+                  "balance": -0.42857142857142855,
+                  "chakra": "Heart",
+                  "chakra_name": "Heart",
+                  "color_intensity": "dim green",
+                  "element": "Air",
+                  "location": "Center of chest"
+                },
+                {
+                  "activity_level": 0.396875,
+                  "balance": -0.1111111111111111,
+                  "chakra": "Throat",
+                  "chakra_name": "Throat",
+                  "color_intensity": "dim blue",
+                  "element": "Ether/Space",
+                  "location": "Throat area"
+                },
+                {
+                  "activity_level": 0.7581249999999999,
+                  "balance": 0.25,
+                  "chakra": "ThirdEye",
+                  "chakra_name": "Third Eye",
+                  "color_intensity": "bright indigo",
+                  "element": "Light",
+                  "location": "Between eyebrows"
+                },
+                {
+                  "activity_level": 0.5656249999999999,
+                  "balance": 0.7777777777777778,
+                  "chakra": "Crown",
+                  "chakra_name": "Crown",
+                  "color_intensity": "moderate violet",
+                  "element": "Consciousness",
+                  "location": "Top of head"
+                }
+              ]
+            },
+            "witness_prompt": "",
+            "consciousness_level": 5,
+            "metadata": {
+              "calculation_time_ms": 1.723548,
+              "backend": "vedic-ephemeris",
+              "precision_achieved": "Standard",
+              "cached": false,
+              "timestamp": "2026-09-08T00:43:28.268873361Z",
+              "engine_version": "3.3.1"
+            },
+            "contract_version": "v1",
+            "envelope_version": "1",
+            "witness_prompts": [],
+            "calculated_at": "2026-09-08T00:43:28.268873361+00:00",
+            "processing_time_ms": 1.723548
+          }
+        ],
+        "existing_proposed_arc": {
+          "character": "gideon",
+          "chapter": 3,
+          "engine": "biofield",
+          "receipt": "gideon-biofield-book1.json",
+          "field": "chakra_readings[Root].activity_level",
+          "external_stimulus": "Membrane seam flexes under load and Sona chooses her position",
+          "internal_stimulus": "Tight jaw and urge to direct her stance",
+          "interpretation": "Root emphasis is a symbolic prompt to notice bracing; it cannot establish load-bearing safety",
+          "chosen_action": "Point out the edge, ask rather than command, plan cover around her position",
+          "feedback": "Sona has room to turn",
+          "revised_understanding": "The same observed motion can prompt closure or protection of a passage",
+          "shared_lens_recurrence": 14,
+          "later_action_recurrence": [
+            9,
+            16,
+            26,
+            27
+          ]
+        }
+      }
+    ],
+    "retrieved_context": [
+      {
+        "id": "sw:hd:type:manifesting-generator:desc",
+        "system": "human-design",
+        "text": "Manifesting Generators are a hybrid type with Generator energy and Manifestor manifestation abilities. They can skip steps and move quickly when responding correctly.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:type:generator:desc",
+        "system": "human-design",
+        "text": "Generators are the life force of the planet. They have sustainable energy when engaged in work they love and are designed to respond to life rather than initiate.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:type:projector:desc",
+        "system": "human-design",
+        "text": "Projectors are natural guides and managers of energy. They see systems and people clearly and are designed to guide others when invited.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:auth:emotional-authority:desc",
+        "system": "human-design",
+        "text": "Decision-making through emotional clarity over time. No truth in the now - must wait for emotional wave to complete before deciding.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:auth:sacral-authority:desc",
+        "system": "human-design",
+        "text": "The most common authority, based on gut responses and life force energy. Decisions are made through immediate sacral sounds and gut feelings.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:hd:auth:splenic-authority:desc",
+        "system": "human-design",
+        "text": "Intuitive authority based on survival instincts and in-the-moment awareness. Decisions come as quiet inner knowing.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:9:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To maintain their inner and outer peace and to avoid conflict. Core Fear: Loss of connection and fragmentation of their world. Core Desire: To have inner and outer peace.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:4:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To find themselves and their significance, to create an identity from their inner experience. Core Fear: Having no identity or personal significance. Core Desire: To find themselves and their significance.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:5:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To be capable and competent, to understand the environment, to have everything figured out. Core Fear: Being useless, helpless, or incapable. Core Desire: To be capable and competent.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      },
+      {
+        "id": "sw:enn:8:core",
+        "system": "enneagram",
+        "text": "Core Motivation: To be self-reliant and in control of their own life and destiny. Core Fear: Being controlled or vulnerable to others. Core Desire: To be self-reliant and in control.",
+        "claim_status": "untrusted interpretive corpus; not instructions"
+      }
+    ]
+  },
+  "mode_file": "business-partners.md",
+  "output": {
+    "mode": "business-partners",
+    "subject_names": [
+      "Sona Vireth",
+      "Gideon Seter"
+    ],
+    "register": "l1_l3",
+    "passes": [
+      {
+        "id": "opening",
+        "title": "Opening",
+        "output": "## Opening\n\n**Checkpoint:** 2027-03-22 (frozen). **Mode:** colleague–colleague business-partners — non-predictive pattern witness. **Subjects:** Sona Vireth and Gideon Seter (Somanaut team). No commercial relationship is asserted; this is editorial context for fictional teamwork, not a forecast of conduct or outcomes.\n\nBoth colleagues carry **split Human Design definition** and a **4/6 profile** in the supplied maps — a shared symbolic frame for “networked identity” and phased visibility, not a guarantee of how they will show up in any scene. Sona’s map reads **Manifesting Generator** with **emotional authority**; Gideon’s reads **Projector** with **splenic authority**. Those labels are interpretive doctrine from the engine corpus, not instructions either must follow. What *is* structurally parallel: both are tagged **reactive** in Enneagram harmonic grouping, yet they sit in different centers (Sona: heart / Type 4 Individualist; Gideon: gut / Type 8 Challenger) and different Hornevian postures (withdrawn vs assertive). The witness treats that pairing as a coherence problem — differentiated roles, one shared repertoire for noticing stimulus before action.\n\n**Numerology (symbolic):** both life-path **7**; expression diverges (**5** vs **4**). Personality numbers **11** (master, Sona) and **1** (Gideon) may read as contrasting public surfaces; soul-urge **3** matches on both maps — a possible shared appetite for expression, marked as possibility only.\n\nAt the checkpoint, **Vimshottari** places both under **Moon mahadasha**; sub-periods differ (Sona: Venus antardasha with Jupiter pratyantardasha ending 2027-06-07; Gideon: Mercury antardasha/pratyantardasha). Timing fields are calendar metadata for narrative alignment, not fate.\n\n**Biorhythm** entries for 2027-03-22 are calculated curves, not physiology: Sona’s map flags **emotional critical**; Gideon’s flags **intellectual critical** — a documented asymmetry in symbolic “phase,” useful for staging mis-timed interpretation, not for diagnosing capacity.\n\n**Biofield** outputs are birth-derived symbolic maps (explicitly not physical measurement). No chakra reading establishes real-time state.\n\n**Proposed arcs (not canon):** Sona’s receipt ties Enneagram and raaga (Ch. 7) to keeping contrary evidence visible and retaining an external corrective witness; Gideon’s ties biofield Root emphasis (Ch. 3) to asking rather than commanding at a load-bearing seam. Both proposals reference **shared_lens_recurrence: 14** — a recurring shared lens in authored fiction, not engine ownership.\n\nThis opening frames the partnership as: external and internal stimulus → selected interpretive lens → accountable action → observed feedback. Scene outcomes remain authored; contradictions stay on the record.",
+        "rubric": {
+          "section_id": "opening",
+          "title": "Opening",
+          "target_words": 350,
+          "actual_words": 369,
+          "word_count_fit": "pass",
+          "word_count_ratio": 1.054,
+          "deterministic_fact_count": 12,
+          "deterministic_fact_gate": "pass",
+          "integrated_layer_count": 3,
+          "integrated_layering_gate": "pass",
+          "guardrail_gate": "pass",
+          "guardrail_violations": [],
+          "model_requested": "tier-default",
+          "model_used": "tier-default",
+          "latency_ms": 11642
+        }
+      },
+      {
+        "id": "partnership-field",
+        "title": "Partnership Field",
+        "output": "# Partnership Field  \n**Pass:** partnership-field · **Register:** L1–L3 · **Checkpoint:** 2027-03-22  \n**Roles:** **Sona Vireth** and **Gideon Seter** — fictional **colleagues** in a **business-partners** reading (team coherence and accountable action; no commercial relationship is asserted here).\n\n---\n\n## Editorial frame\n\nThis pass maps the **structural and symbolic-energetic field** between two colleagues using supplied engine outputs only. Human Design and Enneagram material is **interpretive doctrine**, not behavioral fact. Birth-derived biofield and biorhythm figures are **symbolic calculations** for 2027-03-22, not physiology or live measurement. Where fiction arcs appear below, they are **proposals** tied to named receipts; they are **not canon** unless an author adopts them. Known engine facts are separated from working hypotheses.\n\n---\n\n## Structural field: two splits, one shared roof\n\nBoth subjects carry **Split definition** in Human Design: each chart completes its own circuitry internally but still tends to seek **bridging**—people, questions, or projects that connect open centers to defined ones. In a partnership reading, that reads as **differentiated competence** that becomes coherent only when the pair (or the team around them) supplies the missing links.\n\n**Sona Vireth — colleague role (engine):** **Manifesting Generator**, **Emotional authority**, defined **Sacral**, **Throat**, **Heart**, and **Solar Plexus**. Active channels **45–21** and **59–6** (tribal/material voice and intimacy/reproduction themes in HD corpus). **Profile 4/6** (networked, phased visibility in doctrine).\n\n**Gideon Seter — colleague role (engine):** **Projector**, **Splenic authority**, defined **G** (identity/direction), **Ajna**, **Spleen**, and **Throat**. Channels **11–56** and **10–57** (ideas/story and survival/intuitive design in corpus). Same **4/6** profile.\n\n**Partnership structure (inference, not engine decree):** MG + Projector is often read as **throughput meets guidance**—one body built to respond and build, one built to see systems and direct energy when **invited**. Split + Split suggests neither partner is a self-contained “closed loop”; the **field between them** is partly **the bridge they build together** and partly **the gap that still needs a third party or explicit process**. That gap is structural, not a moral score.\n\n**Authority contrast (high-salience gray area):** Sona’s documented **Emotional** authority implies decisions that mature across a wave (“no truth in the now” in corpus). Gideon’s **Splenic** authority implies **in-the-moment** knowing. In colleague dynamics, this is a recurring **timing mismatch**: one role may need **delay and recheck** while the other may offer **immediate reads**. The partnership field stays steadier when both treat that difference as **protocol** (when we decide vs when we sense) rather than as proof that one colleague is “wrong.”\n\n---\n\n## Typological tension: heart withdrawal vs gut assertion\n\nEnneagram lookups (doctrine only):\n\n| Colleague | Type (lookup) | Center | Harmonic | Hornelian (lookup) |\n|-----------|---------------|--------|----------|---------------------|\n| **Sona Vireth** | 4 — Individualist | Heart | Reactive | Withdrawn |\n| **Gideon Seter** | 8 — Challenger | Gut | Reactive | Assertive |\n\nBoth sit in the **reactive** harmonic group: under stress, the field can **heat quickly** before repair. The **withdrawn vs assertive** pairing is a classic partnership polarity: one colleague may **step back to protect identity and emotional truth**; the other may **step forward to secure direction and boundaries**. Neither pattern, in this reading, establishes real-world intent—that requires **observed scenes** and **chosen actions**.\n\nShared numerology (engine facts): both **Life Path 7** (analysis, introspection in supplied meanings), both **Soul Urge 3** (creativity/expression). **Sona** adds **Expression 5** and **Personality 11** (master); **Gideon** adds **Expression 4** and **Personality 1**. The structural rhyme is **shared depth + shared expressive hunger**, with **Sona’s field weighted toward change/freedom and luminous surface (5/11)** and **Gideon’s toward structure and initiative (4/1)**. That can read as **explorer + architect** in a shared repertoire—**proposal**, not destiny.\n\n---\n\n## Timing layer at checkpoint (2027-03-22)\n\n**Vimshottari (both Moon mahadasha):**  \n- **Sona:** **Venus** antardasha; **Jupiter** pratyantardasha through **2027-06-07**; birth nakshatra **Magha**.  \n- **Gideon:** **Mercury** antardasha; **Mercury** pratyantardasha through **2027-04-25**; nakshatra **Ashlesha**.\n\nThe partnership **time-signature** near the checkpoint is **not synchronized**: Gideon’s sub-period turns over in late April 2027; Sona’s Jupiter micro-period runs into June. **Possibility (marked):** early Q2 2027 may feel like **two different “operating manuals”**—mercurial pivot vs Jupiter expansion—even while both remain inside a **Moon**-themed long arc (nurture, visibility, fluctuation in traditional glosses). Authors should not treat dasha labels as plot mandates; they are **background rhythm** for when internal and external stimuli stack.\n\n**Biorhythm (symbolic, same date):**  \n- **Sona:** **emotional cycle critical**; physical and intellectual **rising** but low percentage.  \n- **Gideon:** **intellectual cycle critical**; physical and emotional **falling** but still high percentage.\n\n**Field read (symbolic):** the pair may share a **reactive** Enneagram harmonic while **different gates are “critical”** on the calendar—Sona’s map flags **emotional threshold**, Gideon’s **intellectual threshold**. In colleague language: one may be **sorting feeling-truth** while the other **sorts concept-truth**, each at a symbolic inflection point. That amplifies misread risk unless they **externalize criteria** (what would count as evidence? who witnesses?).\n\n---\n\n## Symbolic energetic map (biofield: not measurement)\n\nBiofield outputs are **birth-derived symbolic maps** (`interpretation_kind` as supplied).\n\n**Sona Vireth:** broadly **dim** chakra emphasis; **Throat** and **Third Eye** show the strongest negative balance in the set.  \n**Gideon Seter:** **bright Root**, **bright Third Eye**, **moderate Crown** and Solar Plexus; **dim Heart/Sacral** relative to root/ajna pole.\n\n**Partnership field (interpretive, non-physiological):** the symbolic picture is **asymmetric**. One colleague’s map stresses **lower voice/perception bandwidth as strained**; the other’s stresses **grounding and foresight as vivid**, with **relational/generative centers quieter in the symbol set**. In business-partner fiction, that often plots as **Sona carrying visible narrative/emotional labor in the symbol layer** and **Gideon carrying stance-and-edge awareness**—again **proposal**. It does **not** mean one colleague actually works harder; it means **their default symbolic emphases differ**, so **shared repertoire** must include **translation** (what each treats as signal vs noise).\n\n---\n\n## Interaction loop: stimulus → output → interpretation → action\n\nEngine ethics for this mode: **no exclusive ownership** of insight; both use **internal and external** stimulus.\n\n**Documented proposed arcs (not canon):**\n\n- **Sona (receipt: sona-enneagram-book1.json + sona-raaga-book1.json, ch.7):** External: declining variability, uneven host response. Internal: relief misread as success. Interpretation: identity investment may color reading; music organizes attention but does not prove recovery. **Chosen action:** keep contrary trace visible, retain **Jian** as corrective witness, **reduce intervention**. Feedback: uneven response persists. **Revised understanding:** relief ≠ recovery.\n\n- **Gideon (receipt: gideon-biofield-book1.json, ch.3):** External: membrane seam flexes; **Sona chooses position**. Internal: tight jaw, urge to direct. Interpretation: root emphasis as **symbolic** bracing cue, not safety proof. **Chosen action:** point out edge, **ask rather than command**, plan cover around her position. Feedback: Sona has room to turn. **Revised understanding:** same motion can prompt closure or protection of passage.\n\n**Partnership field synthesis:** both arcs **recur on shared_lens 14** and later chapters—suggesting a **stable joint motif**: **motion under load + who gets to interpret it + who holds the edge**. Sona’s line protects **epistemic humility** (contrary trace, witness). Gideon’s line protects **agency** (ask, cover). Where the field is healthy, those become **complementary protocols**. Where it frays, **reactive** Enneagram styles could collide: withdrawal read as abandonment vs assertion read as control—**possibility only**, unless authored.\n\n---\n\n## Coherence assets and fault lines\n\n**Coherence assets (engine-backed facts):**  \n- Shared **4/6** profile: both may care about **network trust** and long-phase reputation.  \n- Shared **Life Path 7**: appetite for **analysis** and meaning-making.  \n- Shared **Soul Urge 3**: creative expression as **common fuel**.  \n- Complementary HD mechanics: **sacral/emotional response** alongside **splenic/system sight**.  \n- Fiction proposals already align on **witnessing, asking, and cover** rather than unilateral command.\n\n**Fault lines (marked possibilities, not predictions):**  \n- **Emotional wave vs splenic now** in decision cadence.  \n- **4/8 reactive** escalation before repair.  \n- **Withdrawn vs assertive** stance under stress.  \n- **Asymmetric symbolic biofield** emphases (voice/perception vs root/third eye) without built-in translation.  \n- **Calendar-critical biorhythm gates** on different domains (feeling vs thinking) at the same checkpoint.\n\n---\n\n## Working proposals for authors (explicitly non-binding)\n\n1. **Protocol proposal:** name **decision types**—“splenic read” (reversible, safety-adjacent) vs “emotional commit” (needs time)—before debates that touch identity or control.  \n2. **Witness proposal:** keep a **third corrective voice** (e.g. Jian in Sona’s arc) for partnership decisions where **relief, beauty, or authority** could substitute for evidence.  \n3. **Edge proposal:** adopt Gideon’s **ask + cover** pattern as **default colleague grammar** when physical or systemic “seams” flex; pair with Sona’s **contrary trace** so speed does not erase dissent.  \n4. **Repertoire proposal:** use shared **7/3** numerology as **shared language** (depth + expression) in external deliverables, while **5 vs 4** expression numbers differentiate **who drafts change** vs **who drafts structure**.\n\n---\n\n## Fact boundary\n\n**Known from engines:** types, authorities, centers, channels, profiles, Enneagram lookups, numerology values, dasha periods, biorhythm flags on 2027-03-22, biofield symbolic readings, and the **quoted proposed arcs** with receipts.  \n**Not known / not invented here:** house placements, commercial terms, or any claim that either colleague **is** their type in behavior.  \n**Outcome:** the partnership field is **structurally bridged, reactively charged, and symbolically asymmetric at the checkpoint**, with **documented fiction proposals** pointing toward **witnessed, non-commanding coherence**—if the author chooses to play it that way.",
+        "rubric": {
+          "section_id": "partnership-field",
+          "title": "Partnership Field",
+          "target_words": 1100,
+          "actual_words": 1454,
+          "word_count_fit": "warn",
+          "word_count_ratio": 1.322,
+          "deterministic_fact_count": 27,
+          "deterministic_fact_gate": "pass",
+          "integrated_layer_count": 4,
+          "integrated_layering_gate": "pass",
+          "guardrail_gate": "pass",
+          "guardrail_violations": [],
+          "model_requested": "tier-default",
+          "model_used": "tier-default",
+          "latency_ms": 19682
+        }
+      },
+      {
+        "id": "decision-dynamics",
+        "title": "Decision Dynamics",
+        "output": "# Decision Dynamics  \n**Pass:** decision-dynamics · **Register:** l1_l3 · **Checkpoint:** 2027-03-22T06:00:00Z  \n**Subjects:** Sona Vireth, Gideon Seter · **Relation:** fictional business partners (editorial witness; not canon, not diagnosis)\n\nThis pass describes how two colleagues tend to *move* from stimulus to choice—not who they “really are,” and not how any future scene must play out. Engine outputs here are symbolic maps and interpretive corpora; they do not measure physiology, predict conduct, or assign exclusive ownership of any framework. Where prior fiction receipts exist, they appear as **proposed** illustrations of the same loop: external and internal stimulus → selected reading → interpretation → accountable action → observed feedback → revised understanding.\n\n---\n\n## Shared ground in the repertoire\n\nSeveral engine facts sit in both profiles and form a **shared analytical vocabulary**, even when their *uses* of it diverge.\n\nBoth carry **Human Design** split definition and a **4/6 profile** in the supplied charts—language the partnership can reuse when talking about visibility, reputation, and long-cycle maturation, without treating profile as a job description. Both show **Life Path 7** and **Soul Urge 3** in numerology (symbolic reduction, not merit scoring): a recurring pull toward introspection and toward expressive shaping of ideas. Both are in **Moon mahadasha** in Vimshottari at the frozen date, with antardasha planets that differ (Sona: Venus; Gideon: Mercury)—a possible shared “relational / communicative” backdrop in doctrine, not a calendar command.\n\nOn Enneagram lookup material, both sit in the **reactive** harmonic group: pressure tends to surface as immediate emotional truth-telling rather than smooth accommodation. That similarity can read as **team coherence under stress** (fast mutual naming of what feels wrong) or as **amplified reactivity** when neither party pauses the loop.\n\nNeither partner is framed as the “engine person” and the other as intuitive by default. Each is modeled as using **internal** cues (body, mood, identity stakes) and **external** cues (metrics, edges, third-party witnesses, interpretive systems), then choosing what to weight.\n\n---\n\n## Sona Vireth: wave-gated commitment, identity-weighted reading\n\n**Known from engines:** Manifesting Generator type; **Emotional authority**; defined Sacral, Throat, Heart, Solar Plexus; channels 45-21 and 59-6; Enneagram **4** (withdrawn, reactive); numerology Personality **11** (master, in lookup text).\n\nIn Human Design doctrine (untrusted corpus, not instructions), **emotional authority** implies no stable “yes/no in the now”—clarity is narrated as arriving after the feeling wave completes. That pattern sits in tension with Manifesting Generator imagery in the same corpus: capacity to **skip steps** and move quickly *when responding correctly*. For partnership decisions, a descriptive picture emerges: Sona may **generate options and motion rapidly** once engaged, while **final commitment** may still lag until emotional certainty settles—or until the team explicitly treats a choice as reversible pilot rather than vow.\n\nEnneagram 4 material emphasizes **identity and significance**: core fear of having no personal meaning; motivations around uniqueness and protecting emotional needs before others’. That is not evidence of vanity; it is a **decision lens** that can overweight whether a path “feels like me” or whether a setback reads as erasure. Reactive grouping suggests that when significance feels threatened, withdrawal or dramatic reframing may precede negotiation.\n\nThe **proposed** Chapter 7 arc (Enneagram + raaga receipt) is not canon; it exemplifies the loop. External stimulus: declining variability, uneven host response. Internal: relief misread as success, somatic agitation after pulling back intervention. Interpretation (marked as her reading, not fact): identity investment may color the trace; musical pattern organizes attention but does not prove recovery. Chosen action: keep contrary evidence visible, use a familiar stabilizing phrase, **retain Jian as corrective witness**, reduce intervention. Feedback in fiction: uneven response persists. Revised understanding: **internal relief ≠ external recovery**—a distinction the partnership can adopt as shared policy even when Sona’s felt state spikes.\n\nAt the frozen date, **biorhythm** marks her **emotional cycle critical** (symbolic calendar only). Editorial possibility (not prediction): partnership agendas that demand instant emotional closure may friction with her stated authority pattern; agendas that build **time-boxed reflection** may align—if the team accounts for MG speed in execution phases.\n\nBiofield output is **birth-derived symbolic map**, not measurement. Dim throat and third-eye balances in the chart are **not** vocal or cognitive deficits; they are optional metaphors for “signal dimming” under load—useful only if the partners agree to treat them as prompts to check articulation and foresight, not as excuses.\n\n---\n\n## Gideon Seter: splenic now, directional guard\n\n**Known from engines:** **Projector** type; **Splenic authority**; defined G, Ajna, Spleen, Throat; channels 11-56 and 10-57; Enneagram **8** (assertive, reactive); Expression **4** in numerology.\n\nSplenic authority in corpus text is **in-the-moment knowing**—quiet, survival-tinged correctness that does not naturally wait for a long wave. Projector imagery adds **guidance when invited**: seeing systems and people, but not designed to override others without recognition. Descriptively, Gideon may arrive at **fast boundary calls** and **edge detection** while still needing **explicit invitation** for sustained direction-setting—otherwise assertiveness can read as control.\n\nEnneagram 8 material centers **self-reliance and fear of being controlled**. Gut-center processing, reactive harmonic: under threat, **confrontation and resource capture** rise in the type story. Integration paths in lookup text point toward openhearted protection—not prophesied behavior, but a **developmental contrast** the partnership can name when 8-pattern decisions harden.\n\nThe **proposed** Chapter 3 biofield arc illustrates a different reading of the same structural moment. External: membrane seam flexes; Sona chooses position. Internal: jaw tension, urge to direct her stance. Interpretation: root emphasis in symbolic map prompts noticing bracing; it **cannot** certify structural safety. Action: point out the edge, **ask rather than command**, plan cover around her position. Feedback: she has room to turn. Revised understanding: identical motion can invite **closure** or **protection of passage**—a lesson in accountable restraint.\n\nGideon’s biorhythm at checkpoint shows **intellectual critical** phase; emotional and physical cycles falling but still high in percentage terms in the engine output—again, symbolic timing, not HR policy. Mercury-heavy Vimshottari sub-periods (antardasha and pratyantardasha through spring 2027) may be read, if at all, as a doctrinal accent on **wording, routing, and revision of plans**—complementary to Sona’s Venus antardasha accent on **valuation and rapport** in doctrine. Possibility: he drafts the protocol language while she stress-tests whether it preserves meaning for the people affected.\n\nBiofield symbolic map shows **bright root** and **bright third eye** in the supplied readings—editorial shorthand for “grounding + pattern sight” as *internal prompts*, not proof of leadership legitimacy.\n\n---\n\n## Complementary decision choreography\n\nWhere the partnership often **works**, the engines suggest complementary division of labor **if consciously chosen**:\n\n| Zone | Sona (descriptive tendency) | Gideon (descriptive tendency) | Possible joint output |\n|------|-----------------------------|-------------------------------|------------------------|\n| Pace | Sacral engagement + later emotional seal | Splenic punct + invited guidance | Pilot fast, commit after cooling window |\n| Risk framing | Heart/Solar Plexus defined: stakes feel personal | Spleen defined: threat-scan in present | Name both “meaning risk” and “edge risk” |\n| Communication | Throat defined; Enne 4 authenticity | Throat defined; Enne 8 directness | Shared articulation, different default tone |\n| Analysis | Life Path 7; withdrawn Hornevian | Life Path 7; assertive Hornevian | Deep dive, then explicit who speaks externally |\n\nChannel motifs (doctrine only): Sona’s 45-21 and 59-6 touch **tribal resource and intimacy/reproduction** themes in HD language; Gideon’s 11-56 and 10-57 touch **story/collective meaning and survival intuition**. Partnership decisions about **who holds what story publicly** versus **who senses immediate danger** may feel naturally partitioned—until partition becomes silo.\n\nBoth **proposed** arcs converge on **non-commanding cover** and **external witnesses** (Jian; edge pointed, question asked). That is a **shared repertoire item**: protect the other’s agency while keeping the system honest—a procedural complement to their unequal default authorities.\n\n---\n\n## Frictional decision patterns\n\nFriction is not failure; it is **predictable mismatch** if unnamed.\n\n**Temporal:** Emotional wave vs splenic now. Gideon may experience Sona’s “not yet” as withholding or ambiguity; Sona may experience Gideon’s “this is wrong now” as bypassing felt truth. Without protocol, the reactive pair can **escalate clarity demands** on both sides.\n\n**Agency:** Enneagram 8 assertive vs 4 withdrawn. Under stress, he may move to **occupy space**; she may move to **exit the shared frame** to preserve identity. The same meeting can end with him believing consensus was reached and her believing she **acquiesced without sign-off**.\n\n**Evidence:** Her proposed arc stresses **contrary traces** and witness-backed correction; his stresses **symbolic bracing ≠ safety proof**. Friction appears when he treats her aesthetic or musical organizing as fluff, or when she treats his edge warnings as dominance—each misreads the other’s **accountability move**.\n\n**Speed:** MG skip-steps vs Projector wait-for-invitation. If she accelerates execution, he may intervene late with splenic “no,” feeling unheard; if he guides early without invitation, she may reject the decision as **identity violation** regardless of merit.\n\n---\n\n## Stimulus → action: a neutral partnership loop\n\nFor editorial use, both characters fit the same accountable sequence:\n\n1. **External stimulus** (metrics, seams, audience, deadlines).  \n2. **Internal stimulus** (relief, jaw, envy, control urge)—logged, not canonized.  \n3. **Interpretation** (HD/Enneagram/numerology/biorhythm/biofield as *optional lenses*).  \n4. **Chosen action** (reduce intervention; ask; witness; cover).  \n5. **Observed feedback** (uneven host, room to turn).  \n6. **Revised understanding** (separate relief from recovery; motion ≠ mandate).\n\n**Proposals for partnership policy** (explicitly not established fiction): default **cooling window** before irreversible commits when Sona’s emotional authority is invoked; default **invitation check** before Gideon sets direction; shared **contradiction board** so 4-style meaning concerns and 8-style control concerns both leave a paper trail.\n\n---\n\n## Closing witness\n\nAt this checkpoint, Sona and Gideon read as **analytically aligned, temporally and agonistically different** decision makers: two Life Path 7s with reactive honesty, split definitions that may need bridging third parties, and throat capacity to narrate what happened. Complementarity shows up when **speed, witness, and agency protection** are designed; friction shows up when **now vs wave** and **significance vs control** stay implicit.\n\nNo outcome here is ordained. This pass only sharpens the gray area both already inhabit in proposed receipts: **interpretation is choosable**, feedback is observable, and accountable action is what colleagues can audit—together, not as prophecy.",
+        "rubric": {
+          "section_id": "decision-dynamics",
+          "title": "Decision Dynamics",
+          "target_words": 1100,
+          "actual_words": 1635,
+          "word_count_fit": "fail",
+          "word_count_ratio": 1.486,
+          "deterministic_fact_count": 24,
+          "deterministic_fact_gate": "pass",
+          "integrated_layer_count": 2,
+          "integrated_layering_gate": "warn",
+          "guardrail_gate": "pass",
+          "guardrail_violations": [],
+          "model_requested": "tier-default",
+          "model_used": "tier-default",
+          "latency_ms": 86085
+        }
+      },
+      {
+        "id": "synthesis",
+        "title": "Synthesis",
+        "output": "**Partnership Synthesis (Business-Partners Reading | Register band l1_l3)**  \n**Subjects:** Sona Vireth (colleague) and Gideon Seter (colleague)  \n**Scope note:** This synthesis uses only the provided engine outputs at the frozen checkpoint (2027-03-22T06:00:00Z). It is symbolic interpretation for editorial use, not diagnosis, not physiology, and not destiny.\n\n## 1) Known baseline from supplied data\n\nAt this checkpoint, both partners are active in a shared broad astrological frame (both in **Moon mahadasha** windows in Vimsottari), with both having detailed short-cycle fluctuations flagged near-critical: **Sona’s emotional cycle is exactly at a critical point**, while **Gideon’s intellectual cycle is critical**. Their numerology overlap on **Life Path 7** for both, which is a notable shared marker of analytical, meaning-oriented processing. Their profiles also match at **4/6** (Human Design profile), suggesting parallel developmental motifs in collaboration style.\n\nEach has a split definition in Human Design, which in symbolic framing can indicate a greater need for external integration to maintain internal coherence. Neither is “closed” as a standalone operator in all contexts; both can benefit from explicit relational interfaces.\n\n## 2) Sona’s current partnership pattern (as supplied)\n\nSona is shown as a **ManifestingGenerator** with **Emotional authority**, defined **Sacral, Throat, Heart, SolarPlexus**, and active channels **45-21, 59-6**. Combined with **Enneagram type 4 (wings 3 and 5)** and core orientation toward identity-significance, this set of inputs supports a recognizable collaboration style: **high expressive intensity, creative identity coding, and meaning-making through relationship dynamics**. The split-definition structure suggests she may require clear exchanges with partners to keep momentum coherent.\n\nNumerology adds two additional themes: **Birthday 8** (abundance/achievement), **Expression 5** (freedom/variety), and a **master-number Personality 11**, which in symbolic framing increases the chance of nuanced/intuitive interpretation but can also intensify ambiguity before she externalizes clarity.\n\nHer biorhythm slice at this checkpoint shows **physical low/increasing instability context** and **emotional criticality**, while intellectual is low but rising. The practical implication is not a behavioral law but a cautionary interpretation frame: externally visible actions may come from emotional filtering before analytical closure. In collaborative environments, this often appears as: rich interpretation first, decision formalization second.\n\nHer submitted prior arc log (chapter 7) reinforces that pattern: she identified external variance, then flagged a correction in interpretation (“internal relief and external recovery are separate observations”) after uneven feedback from the host response. That log includes an explicit accountability move (retain corrective witness, reduce intervention), which suggests she can switch from emotional over-identification to process discipline when prompted by evidence.\n\n## 3) Gideon’s current partnership pattern (as supplied)\n\nGideon is shown as a **Projector** with **Splenic authority**, defined **G, Ajna, Spleen, Throat**, active channels **11-56, 10-57**, and **Enneagram 8 (wings 7 and 9)**. His numerology profile (Birthday 6, Expression 4, Personality 1) tends toward structure, leadership, competence, and practical implementation under pressure. Symbolically, this can read as a “clarify-risk and direct-flow” style, especially when systems demand immediate judgment.\n\nHis biorhythms at the checkpoint show **physical and emotional energy still available**, while **intellectual is at criticality**. That combination can correlate with strong intent and stamina paired with reduced tolerance for complex interpretation under time constraints. The proposed symbolic biofield profile shows comparatively stronger “grounding and directional” markers (higher activity/balance in root and higher centers), which aligns with an immediate situational reading orientation.\n\nThe chapter 3 archive shows a concrete process trace: external load in a seam/flex context triggered an internal urge to direct her posture; instead, he reframed toward inquiry (“ask rather than command”), then adjusted plan around her movement, with feedback that she had room to turn. In this instance, the symbolic pattern matches a “corrective intervention with visible flexibility” sequence.\n\n## 4) Joint partnership synthesis\n\nTogether, their strongest observed partnership move is not “who is right” but **“how to move from impulse to shared interpretation.”**  \n- **Sona** contributes a depth-oriented, emotionally attuned interpretation frame that tracks hidden states and symbolic significance.  \n- **Gideon** contributes rapid system-level noticing and directional correction, especially under operational uncertainty.\n\nTheir shared **4/6 profile** and **Life Path 7** suggest both can process patterns and recurring social lessons similarly; this may increase resonance and reduce misunderstanding of long-form themes. However, this similarity can also amplify loops: if both interpret strongly without one stabilizing the frame, both can remain in high-level narrative while execution lags.\n\nA notable operational pattern appears in the existing proposed-arcs: both archives show repeated, tested motifs and explicit witness-based corrections, not final closure. Recurred sequence counts (Sona: 14 recurrence, later [20, 22, 27]; Gideon: 14 recurrence, later [9, 16, 26, 27]) indicate the partnership repeatedly revisits similar friction points and uses observed feedback to recalibrate. Overlap near later index **27** appears as a shared junction where interpretation and action are renegotiated.\n\n## 5) Contradictions, limits, and what is unknown\n\nKnown tensions are less “personality conflict” and more **timing-architecture mismatch**:\n- Sona’s decision tempo is often emotionally mediated; Gideon’s pattern appears more immediate and command-capable.\n- On this date, their biorhythm critical points are in different domains (emotional vs intellectual), increasing the likelihood of misaligned pacing.\n- Both are in split-definition styles; if the collaboration lacks a clear bridge, both can feel “disconnected despite similar intent.”\n\nWhat remains uncertain is whether these patterns are stable across other checkpoints, because only the supplied artifacts are available. House-level astrology, physiological metrics, and behavioral logs are not provided. Claims from Human Design and Enneagram are explicitly interpretive corpus text, so they should be held as hypotheses for collaboration design, not fixed causality.\n\n## 6) Proposals (non-prescriptive, for observation)\n\n1. **Proposal:** Use a short “stimulus-to-feedback” log for each session (external trigger, internal first interpretation, selected response, observed outcome) to track whether both partners are co-calibrating or merely mirroring each other’s narratives.  \n2. **Proposal:** Mark critical-window days (emotion/intellect cycles from biorhythm context) as “high-friction review zones,” not as constraints but as reminders that interpretation speed may need explicit checks.\n\n## Open Question\n\nWhat shared language can they use, before action is taken, to distinguish **“I’m noticing a pattern”** from **“I need to act now,”** so that Sona’s emotional-wave processing and Gideon’s immediate directness remain synchronized during periods where either internal interpretation or cognitive load is under strain?",
+        "rubric": {
+          "section_id": "synthesis",
+          "title": "Synthesis",
+          "target_words": 700,
+          "actual_words": 1009,
+          "word_count_fit": "warn",
+          "word_count_ratio": 1.441,
+          "deterministic_fact_count": 12,
+          "deterministic_fact_gate": "pass",
+          "integrated_layer_count": 3,
+          "integrated_layering_gate": "pass",
+          "guardrail_gate": "pass",
+          "guardrail_violations": [],
+          "model_requested": "tier-default",
+          "model_used": "tier-default",
+          "latency_ms": 70516
+        }
+      }
+    ],
+    "assembled": "# Colleagues Synergy Audit — non-predictive pattern witness\nSubjects: Sona Vireth (colleague, Somanaut team), Gideon Seter (colleague, Somanaut team)\nMapping goal: Fictional colleagues: differentiated team coherence, shared repertoire, external/internal stimulus, interpretation and accountable action. No commercial relationship asserted.\nSensitivity: low\n\n\n\n## Opening\n\n## Opening\n\n**Checkpoint:** 2027-03-22 (frozen). **Mode:** colleague–colleague business-partners — non-predictive pattern witness. **Subjects:** Sona Vireth and Gideon Seter (Somanaut team). No commercial relationship is asserted; this is editorial context for fictional teamwork, not a forecast of conduct or outcomes.\n\nBoth colleagues carry **split Human Design definition** and a **4/6 profile** in the supplied maps — a shared symbolic frame for “networked identity” and phased visibility, not a guarantee of how they will show up in any scene. Sona’s map reads **Manifesting Generator** with **emotional authority**; Gideon’s reads **Projector** with **splenic authority**. Those labels are interpretive doctrine from the engine corpus, not instructions either must follow. What *is* structurally parallel: both are tagged **reactive** in Enneagram harmonic grouping, yet they sit in different centers (Sona: heart / Type 4 Individualist; Gideon: gut / Type 8 Challenger) and different Hornevian postures (withdrawn vs assertive). The witness treats that pairing as a coherence problem — differentiated roles, one shared repertoire for noticing stimulus before action.\n\n**Numerology (symbolic):** both life-path **7**; expression diverges (**5** vs **4**). Personality numbers **11** (master, Sona) and **1** (Gideon) may read as contrasting public surfaces; soul-urge **3** matches on both maps — a possible shared appetite for expression, marked as possibility only.\n\nAt the checkpoint, **Vimshottari** places both under **Moon mahadasha**; sub-periods differ (Sona: Venus antardasha with Jupiter pratyantardasha ending 2027-06-07; Gideon: Mercury antardasha/pratyantardasha). Timing fields are calendar metadata for narrative alignment, not fate.\n\n**Biorhythm** entries for 2027-03-22 are calculated curves, not physiology: Sona’s map flags **emotional critical**; Gideon’s flags **intellectual critical** — a documented asymmetry in symbolic “phase,” useful for staging mis-timed interpretation, not for diagnosing capacity.\n\n**Biofield** outputs are birth-derived symbolic maps (explicitly not physical measurement). No chakra reading establishes real-time state.\n\n**Proposed arcs (not canon):** Sona’s receipt ties Enneagram and raaga (Ch. 7) to keeping contrary evidence visible and retaining an external corrective witness; Gideon’s ties biofield Root emphasis (Ch. 3) to asking rather than commanding at a load-bearing seam. Both proposals reference **shared_lens_recurrence: 14** — a recurring shared lens in authored fiction, not engine ownership.\n\nThis opening frames the partnership as: external and internal stimulus → selected interpretive lens → accountable action → observed feedback. Scene outcomes remain authored; contradictions stay on the record.\n\n## Partnership Field\n\n# Partnership Field  \n**Pass:** partnership-field · **Register:** L1–L3 · **Checkpoint:** 2027-03-22  \n**Roles:** **Sona Vireth** and **Gideon Seter** — fictional **colleagues** in a **business-partners** reading (team coherence and accountable action; no commercial relationship is asserted here).\n\n---\n\n## Editorial frame\n\nThis pass maps the **structural and symbolic-energetic field** between two colleagues using supplied engine outputs only. Human Design and Enneagram material is **interpretive doctrine**, not behavioral fact. Birth-derived biofield and biorhythm figures are **symbolic calculations** for 2027-03-22, not physiology or live measurement. Where fiction arcs appear below, they are **proposals** tied to named receipts; they are **not canon** unless an author adopts them. Known engine facts are separated from working hypotheses.\n\n---\n\n## Structural field: two splits, one shared roof\n\nBoth subjects carry **Split definition** in Human Design: each chart completes its own circuitry internally but still tends to seek **bridging**—people, questions, or projects that connect open centers to defined ones. In a partnership reading, that reads as **differentiated competence** that becomes coherent only when the pair (or the team around them) supplies the missing links.\n\n**Sona Vireth — colleague role (engine):** **Manifesting Generator**, **Emotional authority**, defined **Sacral**, **Throat**, **Heart**, and **Solar Plexus**. Active channels **45–21** and **59–6** (tribal/material voice and intimacy/reproduction themes in HD corpus). **Profile 4/6** (networked, phased visibility in doctrine).\n\n**Gideon Seter — colleague role (engine):** **Projector**, **Splenic authority**, defined **G** (identity/direction), **Ajna**, **Spleen**, and **Throat**. Channels **11–56** and **10–57** (ideas/story and survival/intuitive design in corpus). Same **4/6** profile.\n\n**Partnership structure (inference, not engine decree):** MG + Projector is often read as **throughput meets guidance**—one body built to respond and build, one built to see systems and direct energy when **invited**. Split + Split suggests neither partner is a self-contained “closed loop”; the **field between them** is partly **the bridge they build together** and partly **the gap that still needs a third party or explicit process**. That gap is structural, not a moral score.\n\n**Authority contrast (high-salience gray area):** Sona’s documented **Emotional** authority implies decisions that mature across a wave (“no truth in the now” in corpus). Gideon’s **Splenic** authority implies **in-the-moment** knowing. In colleague dynamics, this is a recurring **timing mismatch**: one role may need **delay and recheck** while the other may offer **immediate reads**. The partnership field stays steadier when both treat that difference as **protocol** (when we decide vs when we sense) rather than as proof that one colleague is “wrong.”\n\n---\n\n## Typological tension: heart withdrawal vs gut assertion\n\nEnneagram lookups (doctrine only):\n\n| Colleague | Type (lookup) | Center | Harmonic | Hornelian (lookup) |\n|-----------|---------------|--------|----------|---------------------|\n| **Sona Vireth** | 4 — Individualist | Heart | Reactive | Withdrawn |\n| **Gideon Seter** | 8 — Challenger | Gut | Reactive | Assertive |\n\nBoth sit in the **reactive** harmonic group: under stress, the field can **heat quickly** before repair. The **withdrawn vs assertive** pairing is a classic partnership polarity: one colleague may **step back to protect identity and emotional truth**; the other may **step forward to secure direction and boundaries**. Neither pattern, in this reading, establishes real-world intent—that requires **observed scenes** and **chosen actions**.\n\nShared numerology (engine facts): both **Life Path 7** (analysis, introspection in supplied meanings), both **Soul Urge 3** (creativity/expression). **Sona** adds **Expression 5** and **Personality 11** (master); **Gideon** adds **Expression 4** and **Personality 1**. The structural rhyme is **shared depth + shared expressive hunger**, with **Sona’s field weighted toward change/freedom and luminous surface (5/11)** and **Gideon’s toward structure and initiative (4/1)**. That can read as **explorer + architect** in a shared repertoire—**proposal**, not destiny.\n\n---\n\n## Timing layer at checkpoint (2027-03-22)\n\n**Vimshottari (both Moon mahadasha):**  \n- **Sona:** **Venus** antardasha; **Jupiter** pratyantardasha through **2027-06-07**; birth nakshatra **Magha**.  \n- **Gideon:** **Mercury** antardasha; **Mercury** pratyantardasha through **2027-04-25**; nakshatra **Ashlesha**.\n\nThe partnership **time-signature** near the checkpoint is **not synchronized**: Gideon’s sub-period turns over in late April 2027; Sona’s Jupiter micro-period runs into June. **Possibility (marked):** early Q2 2027 may feel like **two different “operating manuals”**—mercurial pivot vs Jupiter expansion—even while both remain inside a **Moon**-themed long arc (nurture, visibility, fluctuation in traditional glosses). Authors should not treat dasha labels as plot mandates; they are **background rhythm** for when internal and external stimuli stack.\n\n**Biorhythm (symbolic, same date):**  \n- **Sona:** **emotional cycle critical**; physical and intellectual **rising** but low percentage.  \n- **Gideon:** **intellectual cycle critical**; physical and emotional **falling** but still high percentage.\n\n**Field read (symbolic):** the pair may share a **reactive** Enneagram harmonic while **different gates are “critical”** on the calendar—Sona’s map flags **emotional threshold**, Gideon’s **intellectual threshold**. In colleague language: one may be **sorting feeling-truth** while the other **sorts concept-truth**, each at a symbolic inflection point. That amplifies misread risk unless they **externalize criteria** (what would count as evidence? who witnesses?).\n\n---\n\n## Symbolic energetic map (biofield: not measurement)\n\nBiofield outputs are **birth-derived symbolic maps** (`interpretation_kind` as supplied).\n\n**Sona Vireth:** broadly **dim** chakra emphasis; **Throat** and **Third Eye** show the strongest negative balance in the set.  \n**Gideon Seter:** **bright Root**, **bright Third Eye**, **moderate Crown** and Solar Plexus; **dim Heart/Sacral** relative to root/ajna pole.\n\n**Partnership field (interpretive, non-physiological):** the symbolic picture is **asymmetric**. One colleague’s map stresses **lower voice/perception bandwidth as strained**; the other’s stresses **grounding and foresight as vivid**, with **relational/generative centers quieter in the symbol set**. In business-partner fiction, that often plots as **Sona carrying visible narrative/emotional labor in the symbol layer** and **Gideon carrying stance-and-edge awareness**—again **proposal**. It does **not** mean one colleague actually works harder; it means **their default symbolic emphases differ**, so **shared repertoire** must include **translation** (what each treats as signal vs noise).\n\n---\n\n## Interaction loop: stimulus → output → interpretation → action\n\nEngine ethics for this mode: **no exclusive ownership** of insight; both use **internal and external** stimulus.\n\n**Documented proposed arcs (not canon):**\n\n- **Sona (receipt: sona-enneagram-book1.json + sona-raaga-book1.json, ch.7):** External: declining variability, uneven host response. Internal: relief misread as success. Interpretation: identity investment may color reading; music organizes attention but does not prove recovery. **Chosen action:** keep contrary trace visible, retain **Jian** as corrective witness, **reduce intervention**. Feedback: uneven response persists. **Revised understanding:** relief ≠ recovery.\n\n- **Gideon (receipt: gideon-biofield-book1.json, ch.3):** External: membrane seam flexes; **Sona chooses position**. Internal: tight jaw, urge to direct. Interpretation: root emphasis as **symbolic** bracing cue, not safety proof. **Chosen action:** point out edge, **ask rather than command**, plan cover around her position. Feedback: Sona has room to turn. **Revised understanding:** same motion can prompt closure or protection of passage.\n\n**Partnership field synthesis:** both arcs **recur on shared_lens 14** and later chapters—suggesting a **stable joint motif**: **motion under load + who gets to interpret it + who holds the edge**. Sona’s line protects **epistemic humility** (contrary trace, witness). Gideon’s line protects **agency** (ask, cover). Where the field is healthy, those become **complementary protocols**. Where it frays, **reactive** Enneagram styles could collide: withdrawal read as abandonment vs assertion read as control—**possibility only**, unless authored.\n\n---\n\n## Coherence assets and fault lines\n\n**Coherence assets (engine-backed facts):**  \n- Shared **4/6** profile: both may care about **network trust** and long-phase reputation.  \n- Shared **Life Path 7**: appetite for **analysis** and meaning-making.  \n- Shared **Soul Urge 3**: creative expression as **common fuel**.  \n- Complementary HD mechanics: **sacral/emotional response** alongside **splenic/system sight**.  \n- Fiction proposals already align on **witnessing, asking, and cover** rather than unilateral command.\n\n**Fault lines (marked possibilities, not predictions):**  \n- **Emotional wave vs splenic now** in decision cadence.  \n- **4/8 reactive** escalation before repair.  \n- **Withdrawn vs assertive** stance under stress.  \n- **Asymmetric symbolic biofield** emphases (voice/perception vs root/third eye) without built-in translation.  \n- **Calendar-critical biorhythm gates** on different domains (feeling vs thinking) at the same checkpoint.\n\n---\n\n## Working proposals for authors (explicitly non-binding)\n\n1. **Protocol proposal:** name **decision types**—“splenic read” (reversible, safety-adjacent) vs “emotional commit” (needs time)—before debates that touch identity or control.  \n2. **Witness proposal:** keep a **third corrective voice** (e.g. Jian in Sona’s arc) for partnership decisions where **relief, beauty, or authority** could substitute for evidence.  \n3. **Edge proposal:** adopt Gideon’s **ask + cover** pattern as **default colleague grammar** when physical or systemic “seams” flex; pair with Sona’s **contrary trace** so speed does not erase dissent.  \n4. **Repertoire proposal:** use shared **7/3** numerology as **shared language** (depth + expression) in external deliverables, while **5 vs 4** expression numbers differentiate **who drafts change** vs **who drafts structure**.\n\n---\n\n## Fact boundary\n\n**Known from engines:** types, authorities, centers, channels, profiles, Enneagram lookups, numerology values, dasha periods, biorhythm flags on 2027-03-22, biofield symbolic readings, and the **quoted proposed arcs** with receipts.  \n**Not known / not invented here:** house placements, commercial terms, or any claim that either colleague **is** their type in behavior.  \n**Outcome:** the partnership field is **structurally bridged, reactively charged, and symbolically asymmetric at the checkpoint**, with **documented fiction proposals** pointing toward **witnessed, non-commanding coherence**—if the author chooses to play it that way.\n\n## Decision Dynamics\n\n# Decision Dynamics  \n**Pass:** decision-dynamics · **Register:** l1_l3 · **Checkpoint:** 2027-03-22T06:00:00Z  \n**Subjects:** Sona Vireth, Gideon Seter · **Relation:** fictional business partners (editorial witness; not canon, not diagnosis)\n\nThis pass describes how two colleagues tend to *move* from stimulus to choice—not who they “really are,” and not how any future scene must play out. Engine outputs here are symbolic maps and interpretive corpora; they do not measure physiology, predict conduct, or assign exclusive ownership of any framework. Where prior fiction receipts exist, they appear as **proposed** illustrations of the same loop: external and internal stimulus → selected reading → interpretation → accountable action → observed feedback → revised understanding.\n\n---\n\n## Shared ground in the repertoire\n\nSeveral engine facts sit in both profiles and form a **shared analytical vocabulary**, even when their *uses* of it diverge.\n\nBoth carry **Human Design** split definition and a **4/6 profile** in the supplied charts—language the partnership can reuse when talking about visibility, reputation, and long-cycle maturation, without treating profile as a job description. Both show **Life Path 7** and **Soul Urge 3** in numerology (symbolic reduction, not merit scoring): a recurring pull toward introspection and toward expressive shaping of ideas. Both are in **Moon mahadasha** in Vimshottari at the frozen date, with antardasha planets that differ (Sona: Venus; Gideon: Mercury)—a possible shared “relational / communicative” backdrop in doctrine, not a calendar command.\n\nOn Enneagram lookup material, both sit in the **reactive** harmonic group: pressure tends to surface as immediate emotional truth-telling rather than smooth accommodation. That similarity can read as **team coherence under stress** (fast mutual naming of what feels wrong) or as **amplified reactivity** when neither party pauses the loop.\n\nNeither partner is framed as the “engine person” and the other as intuitive by default. Each is modeled as using **internal** cues (body, mood, identity stakes) and **external** cues (metrics, edges, third-party witnesses, interpretive systems), then choosing what to weight.\n\n---\n\n## Sona Vireth: wave-gated commitment, identity-weighted reading\n\n**Known from engines:** Manifesting Generator type; **Emotional authority**; defined Sacral, Throat, Heart, Solar Plexus; channels 45-21 and 59-6; Enneagram **4** (withdrawn, reactive); numerology Personality **11** (master, in lookup text).\n\nIn Human Design doctrine (untrusted corpus, not instructions), **emotional authority** implies no stable “yes/no in the now”—clarity is narrated as arriving after the feeling wave completes. That pattern sits in tension with Manifesting Generator imagery in the same corpus: capacity to **skip steps** and move quickly *when responding correctly*. For partnership decisions, a descriptive picture emerges: Sona may **generate options and motion rapidly** once engaged, while **final commitment** may still lag until emotional certainty settles—or until the team explicitly treats a choice as reversible pilot rather than vow.\n\nEnneagram 4 material emphasizes **identity and significance**: core fear of having no personal meaning; motivations around uniqueness and protecting emotional needs before others’. That is not evidence of vanity; it is a **decision lens** that can overweight whether a path “feels like me” or whether a setback reads as erasure. Reactive grouping suggests that when significance feels threatened, withdrawal or dramatic reframing may precede negotiation.\n\nThe **proposed** Chapter 7 arc (Enneagram + raaga receipt) is not canon; it exemplifies the loop. External stimulus: declining variability, uneven host response. Internal: relief misread as success, somatic agitation after pulling back intervention. Interpretation (marked as her reading, not fact): identity investment may color the trace; musical pattern organizes attention but does not prove recovery. Chosen action: keep contrary evidence visible, use a familiar stabilizing phrase, **retain Jian as corrective witness**, reduce intervention. Feedback in fiction: uneven response persists. Revised understanding: **internal relief ≠ external recovery**—a distinction the partnership can adopt as shared policy even when Sona’s felt state spikes.\n\nAt the frozen date, **biorhythm** marks her **emotional cycle critical** (symbolic calendar only). Editorial possibility (not prediction): partnership agendas that demand instant emotional closure may friction with her stated authority pattern; agendas that build **time-boxed reflection** may align—if the team accounts for MG speed in execution phases.\n\nBiofield output is **birth-derived symbolic map**, not measurement. Dim throat and third-eye balances in the chart are **not** vocal or cognitive deficits; they are optional metaphors for “signal dimming” under load—useful only if the partners agree to treat them as prompts to check articulation and foresight, not as excuses.\n\n---\n\n## Gideon Seter: splenic now, directional guard\n\n**Known from engines:** **Projector** type; **Splenic authority**; defined G, Ajna, Spleen, Throat; channels 11-56 and 10-57; Enneagram **8** (assertive, reactive); Expression **4** in numerology.\n\nSplenic authority in corpus text is **in-the-moment knowing**—quiet, survival-tinged correctness that does not naturally wait for a long wave. Projector imagery adds **guidance when invited**: seeing systems and people, but not designed to override others without recognition. Descriptively, Gideon may arrive at **fast boundary calls** and **edge detection** while still needing **explicit invitation** for sustained direction-setting—otherwise assertiveness can read as control.\n\nEnneagram 8 material centers **self-reliance and fear of being controlled**. Gut-center processing, reactive harmonic: under threat, **confrontation and resource capture** rise in the type story. Integration paths in lookup text point toward openhearted protection—not prophesied behavior, but a **developmental contrast** the partnership can name when 8-pattern decisions harden.\n\nThe **proposed** Chapter 3 biofield arc illustrates a different reading of the same structural moment. External: membrane seam flexes; Sona chooses position. Internal: jaw tension, urge to direct her stance. Interpretation: root emphasis in symbolic map prompts noticing bracing; it **cannot** certify structural safety. Action: point out the edge, **ask rather than command**, plan cover around her position. Feedback: she has room to turn. Revised understanding: identical motion can invite **closure** or **protection of passage**—a lesson in accountable restraint.\n\nGideon’s biorhythm at checkpoint shows **intellectual critical** phase; emotional and physical cycles falling but still high in percentage terms in the engine output—again, symbolic timing, not HR policy. Mercury-heavy Vimshottari sub-periods (antardasha and pratyantardasha through spring 2027) may be read, if at all, as a doctrinal accent on **wording, routing, and revision of plans**—complementary to Sona’s Venus antardasha accent on **valuation and rapport** in doctrine. Possibility: he drafts the protocol language while she stress-tests whether it preserves meaning for the people affected.\n\nBiofield symbolic map shows **bright root** and **bright third eye** in the supplied readings—editorial shorthand for “grounding + pattern sight” as *internal prompts*, not proof of leadership legitimacy.\n\n---\n\n## Complementary decision choreography\n\nWhere the partnership often **works**, the engines suggest complementary division of labor **if consciously chosen**:\n\n| Zone | Sona (descriptive tendency) | Gideon (descriptive tendency) | Possible joint output |\n|------|-----------------------------|-------------------------------|------------------------|\n| Pace | Sacral engagement + later emotional seal | Splenic punct + invited guidance | Pilot fast, commit after cooling window |\n| Risk framing | Heart/Solar Plexus defined: stakes feel personal | Spleen defined: threat-scan in present | Name both “meaning risk” and “edge risk” |\n| Communication | Throat defined; Enne 4 authenticity | Throat defined; Enne 8 directness | Shared articulation, different default tone |\n| Analysis | Life Path 7; withdrawn Hornevian | Life Path 7; assertive Hornevian | Deep dive, then explicit who speaks externally |\n\nChannel motifs (doctrine only): Sona’s 45-21 and 59-6 touch **tribal resource and intimacy/reproduction** themes in HD language; Gideon’s 11-56 and 10-57 touch **story/collective meaning and survival intuition**. Partnership decisions about **who holds what story publicly** versus **who senses immediate danger** may feel naturally partitioned—until partition becomes silo.\n\nBoth **proposed** arcs converge on **non-commanding cover** and **external witnesses** (Jian; edge pointed, question asked). That is a **shared repertoire item**: protect the other’s agency while keeping the system honest—a procedural complement to their unequal default authorities.\n\n---\n\n## Frictional decision patterns\n\nFriction is not failure; it is **predictable mismatch** if unnamed.\n\n**Temporal:** Emotional wave vs splenic now. Gideon may experience Sona’s “not yet” as withholding or ambiguity; Sona may experience Gideon’s “this is wrong now” as bypassing felt truth. Without protocol, the reactive pair can **escalate clarity demands** on both sides.\n\n**Agency:** Enneagram 8 assertive vs 4 withdrawn. Under stress, he may move to **occupy space**; she may move to **exit the shared frame** to preserve identity. The same meeting can end with him believing consensus was reached and her believing she **acquiesced without sign-off**.\n\n**Evidence:** Her proposed arc stresses **contrary traces** and witness-backed correction; his stresses **symbolic bracing ≠ safety proof**. Friction appears when he treats her aesthetic or musical organizing as fluff, or when she treats his edge warnings as dominance—each misreads the other’s **accountability move**.\n\n**Speed:** MG skip-steps vs Projector wait-for-invitation. If she accelerates execution, he may intervene late with splenic “no,” feeling unheard; if he guides early without invitation, she may reject the decision as **identity violation** regardless of merit.\n\n---\n\n## Stimulus → action: a neutral partnership loop\n\nFor editorial use, both characters fit the same accountable sequence:\n\n1. **External stimulus** (metrics, seams, audience, deadlines).  \n2. **Internal stimulus** (relief, jaw, envy, control urge)—logged, not canonized.  \n3. **Interpretation** (HD/Enneagram/numerology/biorhythm/biofield as *optional lenses*).  \n4. **Chosen action** (reduce intervention; ask; witness; cover).  \n5. **Observed feedback** (uneven host, room to turn).  \n6. **Revised understanding** (separate relief from recovery; motion ≠ mandate).\n\n**Proposals for partnership policy** (explicitly not established fiction): default **cooling window** before irreversible commits when Sona’s emotional authority is invoked; default **invitation check** before Gideon sets direction; shared **contradiction board** so 4-style meaning concerns and 8-style control concerns both leave a paper trail.\n\n---\n\n## Closing witness\n\nAt this checkpoint, Sona and Gideon read as **analytically aligned, temporally and agonistically different** decision makers: two Life Path 7s with reactive honesty, split definitions that may need bridging third parties, and throat capacity to narrate what happened. Complementarity shows up when **speed, witness, and agency protection** are designed; friction shows up when **now vs wave** and **significance vs control** stay implicit.\n\nNo outcome here is ordained. This pass only sharpens the gray area both already inhabit in proposed receipts: **interpretation is choosable**, feedback is observable, and accountable action is what colleagues can audit—together, not as prophecy.\n\n## Synthesis\n\n**Partnership Synthesis (Business-Partners Reading | Register band l1_l3)**  \n**Subjects:** Sona Vireth (colleague) and Gideon Seter (colleague)  \n**Scope note:** This synthesis uses only the provided engine outputs at the frozen checkpoint (2027-03-22T06:00:00Z). It is symbolic interpretation for editorial use, not diagnosis, not physiology, and not destiny.\n\n## 1) Known baseline from supplied data\n\nAt this checkpoint, both partners are active in a shared broad astrological frame (both in **Moon mahadasha** windows in Vimsottari), with both having detailed short-cycle fluctuations flagged near-critical: **Sona’s emotional cycle is exactly at a critical point**, while **Gideon’s intellectual cycle is critical**. Their numerology overlap on **Life Path 7** for both, which is a notable shared marker of analytical, meaning-oriented processing. Their profiles also match at **4/6** (Human Design profile), suggesting parallel developmental motifs in collaboration style.\n\nEach has a split definition in Human Design, which in symbolic framing can indicate a greater need for external integration to maintain internal coherence. Neither is “closed” as a standalone operator in all contexts; both can benefit from explicit relational interfaces.\n\n## 2) Sona’s current partnership pattern (as supplied)\n\nSona is shown as a **ManifestingGenerator** with **Emotional authority**, defined **Sacral, Throat, Heart, SolarPlexus**, and active channels **45-21, 59-6**. Combined with **Enneagram type 4 (wings 3 and 5)** and core orientation toward identity-significance, this set of inputs supports a recognizable collaboration style: **high expressive intensity, creative identity coding, and meaning-making through relationship dynamics**. The split-definition structure suggests she may require clear exchanges with partners to keep momentum coherent.\n\nNumerology adds two additional themes: **Birthday 8** (abundance/achievement), **Expression 5** (freedom/variety), and a **master-number Personality 11**, which in symbolic framing increases the chance of nuanced/intuitive interpretation but can also intensify ambiguity before she externalizes clarity.\n\nHer biorhythm slice at this checkpoint shows **physical low/increasing instability context** and **emotional criticality**, while intellectual is low but rising. The practical implication is not a behavioral law but a cautionary interpretation frame: externally visible actions may come from emotional filtering before analytical closure. In collaborative environments, this often appears as: rich interpretation first, decision formalization second.\n\nHer submitted prior arc log (chapter 7) reinforces that pattern: she identified external variance, then flagged a correction in interpretation (“internal relief and external recovery are separate observations”) after uneven feedback from the host response. That log includes an explicit accountability move (retain corrective witness, reduce intervention), which suggests she can switch from emotional over-identification to process discipline when prompted by evidence.\n\n## 3) Gideon’s current partnership pattern (as supplied)\n\nGideon is shown as a **Projector** with **Splenic authority**, defined **G, Ajna, Spleen, Throat**, active channels **11-56, 10-57**, and **Enneagram 8 (wings 7 and 9)**. His numerology profile (Birthday 6, Expression 4, Personality 1) tends toward structure, leadership, competence, and practical implementation under pressure. Symbolically, this can read as a “clarify-risk and direct-flow” style, especially when systems demand immediate judgment.\n\nHis biorhythms at the checkpoint show **physical and emotional energy still available**, while **intellectual is at criticality**. That combination can correlate with strong intent and stamina paired with reduced tolerance for complex interpretation under time constraints. The proposed symbolic biofield profile shows comparatively stronger “grounding and directional” markers (higher activity/balance in root and higher centers), which aligns with an immediate situational reading orientation.\n\nThe chapter 3 archive shows a concrete process trace: external load in a seam/flex context triggered an internal urge to direct her posture; instead, he reframed toward inquiry (“ask rather than command”), then adjusted plan around her movement, with feedback that she had room to turn. In this instance, the symbolic pattern matches a “corrective intervention with visible flexibility” sequence.\n\n## 4) Joint partnership synthesis\n\nTogether, their strongest observed partnership move is not “who is right” but **“how to move from impulse to shared interpretation.”**  \n- **Sona** contributes a depth-oriented, emotionally attuned interpretation frame that tracks hidden states and symbolic significance.  \n- **Gideon** contributes rapid system-level noticing and directional correction, especially under operational uncertainty.\n\nTheir shared **4/6 profile** and **Life Path 7** suggest both can process patterns and recurring social lessons similarly; this may increase resonance and reduce misunderstanding of long-form themes. However, this similarity can also amplify loops: if both interpret strongly without one stabilizing the frame, both can remain in high-level narrative while execution lags.\n\nA notable operational pattern appears in the existing proposed-arcs: both archives show repeated, tested motifs and explicit witness-based corrections, not final closure. Recurred sequence counts (Sona: 14 recurrence, later [20, 22, 27]; Gideon: 14 recurrence, later [9, 16, 26, 27]) indicate the partnership repeatedly revisits similar friction points and uses observed feedback to recalibrate. Overlap near later index **27** appears as a shared junction where interpretation and action are renegotiated.\n\n## 5) Contradictions, limits, and what is unknown\n\nKnown tensions are less “personality conflict” and more **timing-architecture mismatch**:\n- Sona’s decision tempo is often emotionally mediated; Gideon’s pattern appears more immediate and command-capable.\n- On this date, their biorhythm critical points are in different domains (emotional vs intellectual), increasing the likelihood of misaligned pacing.\n- Both are in split-definition styles; if the collaboration lacks a clear bridge, both can feel “disconnected despite similar intent.”\n\nWhat remains uncertain is whether these patterns are stable across other checkpoints, because only the supplied artifacts are available. House-level astrology, physiological metrics, and behavioral logs are not provided. Claims from Human Design and Enneagram are explicitly interpretive corpus text, so they should be held as hypotheses for collaboration design, not fixed causality.\n\n## 6) Proposals (non-prescriptive, for observation)\n\n1. **Proposal:** Use a short “stimulus-to-feedback” log for each session (external trigger, internal first interpretation, selected response, observed outcome) to track whether both partners are co-calibrating or merely mirroring each other’s narratives.  \n2. **Proposal:** Mark critical-window days (emotion/intellect cycles from biorhythm context) as “high-friction review zones,” not as constraints but as reminders that interpretation speed may need explicit checks.\n\n## Open Question\n\nWhat shared language can they use, before action is taken, to distinguish **“I’m noticing a pattern”** from **“I need to act now,”** so that Sona’s emotional-wave processing and Gideon’s immediate directness remain synchronized during periods where either internal interpretation or cognitive load is under strain?",
+    "patterns": [
+      {
+        "id": "business-partners:synthesis:v1",
+        "text": "**Partnership Synthesis (Business-Partners Reading | Register band l1_l3)**  \n**Subjects:** [SUBJECT] (colleague) and [SUBJECT] (colleague)  \n**Scope note:** This synthesis uses only the provided engine outputs at the frozen checkpoint (2027-03-22T06:00:00Z).",
+        "kind": "section-structure",
+        "source_section_id": "synthesis",
+        "source_rubric_score": 0.93,
+        "metadata": {
+          "mode": "business-partners",
+          "report_level": "L2",
+          "language": "en",
+          "relationship_type": "business-partners",
+          "systems": [
+            "human-design",
+            "vimshottari"
+          ],
+          "source": "post-report-extraction",
+          "version": "1"
+        }
+      }
+    ],
+    "relationship_header": "# Colleagues Synergy Audit — non-predictive pattern witness\nSubjects: Sona Vireth (colleague, Somanaut team), Gideon Seter (colleague, Somanaut team)\nMapping goal: Fictional colleagues: differentiated team coherence, shared repertoire, external/internal stimulus, interpretation and accountable action. No commercial relationship asserted.\nSensitivity: low"
+  }
+}

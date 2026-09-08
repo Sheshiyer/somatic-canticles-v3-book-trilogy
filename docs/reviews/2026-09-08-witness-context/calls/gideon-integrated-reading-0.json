@@ -1,0 +1,22 @@
+{
+  "job": "gideon-integrated-reading",
+  "pass_index": 0,
+  "provider_gateway": "omniroute",
+  "requested_model": "noesis-observe",
+  "returned_model": "composer-2.5",
+  "resolved_provider": null,
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 9052,
+    "completion_tokens": 4235,
+    "total_tokens": 13287,
+    "completion_tokens_details": {
+      "reasoning_tokens": 484
+    },
+    "estimated": true
+  },
+  "latency_ms": 85329,
+  "input_sha256": "e5ecd36c9526bedc93c5dceceaebeba2610182291ad9ff8ce165e48da215b9ff",
+  "output_sha256": "bd239a7c40a315a2aef2a0b42a471cfb2af088f2a5840e0af4834205c8deb79d",
+  "failures": []
+}

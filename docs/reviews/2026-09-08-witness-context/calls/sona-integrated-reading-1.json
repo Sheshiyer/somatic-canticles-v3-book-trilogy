@@ -1,0 +1,33 @@
+{
+  "job": "sona-integrated-reading",
+  "pass_index": 1,
+  "provider_gateway": "command-code",
+  "requested_model": "MiniMaxAI/MiniMax-M3",
+  "returned_model": "MiniMaxAI/MiniMax-M3",
+  "resolved_provider": null,
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 5248,
+    "completion_tokens": 2072,
+    "total_tokens": 7320,
+    "prompt_tokens_details": {
+      "cached_tokens": 128,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0
+    },
+    "cache_creation_input_tokens": 0
+  },
+  "latency_ms": 18889,
+  "input_sha256": "03fd859e6db447d3b8931702f5ccb877d3fc9556abb222443dcc9e43b0851d9a",
+  "output_sha256": "247d4e297b3b05f63a96faae4d47dc780cfc913ba8f7ed95116abccc890f5f21",
+  "failures": [
+    {
+      "provider": "omniroute",
+      "error": "TimeoutError"
+    }
+  ]
+}

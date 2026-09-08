@@ -1,0 +1,22 @@
+{
+  "job": "sona-gideon-colleagues",
+  "pass_index": 1,
+  "provider_gateway": "omniroute",
+  "requested_model": "noesis-observe",
+  "returned_model": "composer-2.5",
+  "resolved_provider": null,
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 14462,
+    "completion_tokens": 3355,
+    "total_tokens": 17817,
+    "completion_tokens_details": {
+      "reasoning_tokens": 628
+    },
+    "estimated": true
+  },
+  "latency_ms": 19680,
+  "input_sha256": "6b1ef7d7a6f368c09e64769525e5cd7f524d366f10640a50fd3319c29beefea8",
+  "output_sha256": "b7d6938946b586984548fbcf213087dc85fd5041603becc12102ac28b91d61be",
+  "failures": []
+}

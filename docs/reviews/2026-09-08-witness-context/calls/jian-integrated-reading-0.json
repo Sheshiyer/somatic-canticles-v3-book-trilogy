@@ -1,0 +1,22 @@
+{
+  "job": "jian-integrated-reading",
+  "pass_index": 0,
+  "provider_gateway": "omniroute",
+  "requested_model": "noesis-observe",
+  "returned_model": "composer-2.5",
+  "resolved_provider": null,
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 9064,
+    "completion_tokens": 3197,
+    "total_tokens": 12261,
+    "completion_tokens_details": {
+      "reasoning_tokens": 638
+    },
+    "estimated": true
+  },
+  "latency_ms": 55426,
+  "input_sha256": "036b4080b8c2d5e102a33bb9f5c82402ed62b22a2b509d2170bb8f3990993c2a",
+  "output_sha256": "62b9077215d5778d3bdf67633d253c40f24c4ba2a800f5c2a6771ac154c1c21b",
+  "failures": []
+}

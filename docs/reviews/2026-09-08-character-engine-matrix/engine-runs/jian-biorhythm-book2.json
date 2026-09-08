@@ -1,0 +1,192 @@
+{
+  "id": "jian-biorhythm-book2",
+  "input_status": "PROPOSED FICTIONAL CALCULATION INPUTS - NOT CANON",
+  "requested_engine": "biorhythm",
+  "requested_at": "2026-09-08T00:21:26.452951+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Jian Quoril",
+      "date": "1988-02-09",
+      "time": "04:45",
+      "latitude": 25.033,
+      "longitude": 121.5654,
+      "timezone": "Asia/Taipei"
+    },
+    "current_time": "2027-02-08T06:00:00Z",
+    "location": {
+      "latitude": 25.033,
+      "longitude": 121.5654
+    },
+    "precision": "standard",
+    "options": {}
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "biorhythm",
+    "result": {
+      "aesthetic": {
+        "cycle_day": 11,
+        "days_until_critical": 11,
+        "days_until_peak": 43,
+        "is_critical": false,
+        "percentage": 99.9666424185119,
+        "phase": "Peak",
+        "value": 0.999332848370238
+      },
+      "critical_days": [
+        "2027-02-12",
+        "2027-02-13"
+      ],
+      "days_alive": 14244,
+      "emotional": {
+        "cycle_day": 20,
+        "days_until_critical": 8,
+        "days_until_peak": 15,
+        "is_critical": false,
+        "percentage": 1.2536043909112338,
+        "phase": "Low",
+        "value": -0.9749279121817753
+      },
+      "forecast": [
+        {
+          "aesthetic": 99.16828384147436,
+          "date": "2027-02-09",
+          "days_alive": 14245,
+          "emotional": 0.0,
+          "intellectual": 6.6987298107739015,
+          "intuitive": 13.213804466347511,
+          "overall_energy": 35.0795505671696,
+          "physical": 90.8484946505306,
+          "spiritual": 0.5479906338912044
+        },
+        {
+          "aesthetic": 97.32198865787747,
+          "date": "2027-02-10",
+          "days_alive": 14246,
+          "emotional": 1.253604390911267,
+          "intellectual": 2.7499590642684812,
+          "intuitive": 19.289364365523003,
+          "overall_energy": 33.989589099909615,
+          "physical": 81.55439721629378,
+          "spiritual": 1.7682209045837116
+        },
+        {
+          "aesthetic": 94.46710744412522,
+          "date": "2027-02-11",
+          "days_alive": 14247,
+          "emotional": 4.9515566048688235,
+          "intellectual": 0.508927905956208,
+          "intuitive": 26.20263034813527,
+          "overall_energy": 33.28596607063514,
+          "physical": 69.92005449231932,
+          "spiritual": 3.6655196284059888
+        },
+        {
+          "aesthetic": 90.66448703678182,
+          "date": "2027-02-12",
+          "days_alive": 14248,
+          "emotional": 10.908425876590638,
+          "intellectual": 0.05663304084905785,
+          "intuitive": 33.765026539755894,
+          "overall_energy": 33.0693596398348,
+          "physical": 56.80833245481678,
+          "spiritual": 6.213252890214626
+        },
+        {
+          "aesthetic": 85.99517368789358,
+          "date": "2027-02-13",
+          "days_alive": 14249,
+          "emotional": 18.825509907061992,
+          "intellectual": 1.4094215838222512,
+          "intuitive": 41.77027048595499,
+          "overall_energy": 33.42794988493987,
+          "physical": 43.19166754518874,
+          "spiritual": 9.375656099717661
+        },
+        {
+          "aesthetic": 80.55868570490946,
+          "date": "2027-02-14",
+          "days_alive": 14250,
+          "emotional": 28.305813044109918,
+          "intellectual": 4.5184002322670285,
+          "intuitive": 49.99999999999363,
+          "overall_energy": 34.428530089482315,
+          "physical": 30.079945507706647,
+          "spiritual": 13.10833604790722
+        },
+        {
+          "aesthetic": 74.4708923905599,
+          "date": "2027-02-15",
+          "days_alive": 14251,
+          "emotional": 38.873953302181754,
+          "intellectual": 9.27120239747834,
+          "intuitive": 58.22972951403245,
+          "overall_energy": 36.108379079739585,
+          "physical": 18.445602783710548,
+          "spiritual": 17.358894090474507
+        }
+      ],
+      "intellectual": {
+        "cycle_day": 21,
+        "days_until_critical": 12,
+        "days_until_peak": 21,
+        "is_critical": false,
+        "percentage": 12.212521282287248,
+        "phase": "Falling",
+        "value": -0.755749574354255
+      },
+      "intuitive": {
+        "cycle_day": 32,
+        "days_until_critical": 7,
+        "days_until_peak": 16,
+        "is_critical": false,
+        "percentage": 8.141676086863308,
+        "phase": "Rising",
+        "value": -0.8371664782627338
+      },
+      "mastery": 54.66278369411718,
+      "overall_energy": 36.45157474318016,
+      "passion": 49.18332524842917,
+      "physical": {
+        "cycle_day": 7,
+        "days_until_critical": 5,
+        "days_until_peak": 22,
+        "is_critical": false,
+        "percentage": 97.1130461059471,
+        "phase": "Falling",
+        "value": 0.9422609221189421
+      },
+      "spiritual": {
+        "cycle_day": 40,
+        "days_until_critical": 13,
+        "days_until_peak": 27,
+        "is_critical": false,
+        "percentage": 0.021958174560193777,
+        "phase": "Low",
+        "value": -0.9995608365087961
+      },
+      "target_date": "2027-02-08",
+      "wisdom": 6.733062836599241
+    },
+    "witness_prompt": "Your aesthetic cycle is at 100% while spiritual is at 0%. Notice: how does this contrast show up in your day? Are you the energy, or the one who observes it?",
+    "consciousness_level": 0,
+    "metadata": {
+      "calculation_time_ms": 0.10016,
+      "backend": "native-rust",
+      "precision_achieved": "Standard",
+      "cached": false,
+      "timestamp": "2026-09-08T00:21:26.429626059Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "Your aesthetic cycle is at 100% while spiritual is at 0%. Notice: how does this contrast show up in your day? Are you the energy, or the one who observes it?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:21:26.429626059+00:00",
+    "processing_time_ms": 0.10016
+  }
+}

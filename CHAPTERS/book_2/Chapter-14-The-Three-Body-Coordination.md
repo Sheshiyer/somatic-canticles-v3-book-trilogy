@@ -78,6 +78,16 @@ He considered the question before answering. That was new for him too.
 
 They changed posture together.
 
+“Separate checks,” Jian said.
+
+The old bodygraph shorthand waited at the edge of his display: two Manifesting Generators with emotional authority, his own Generator’s sacral response, Gideon’s Projector and splenic authority. Useful until he tried to turn four people into four settings.
+
+“Ready,” Sona said.
+
+“Another moment,” Corv said.
+
+Same type, different answer. Jian left both in the record. His own readiness did not settle the timing for them. Gideon indicated the opening he was watching and kept his hands away from the others’ controls.
+
 Corv stopped reading the chamber as a parable and held the sequence of its adaptations without decorating them. Jian shifted from diagnosis toward timing, watching not just what failed but when. Sona anchored herself to the pulse beneath the surges, offering interval instead of consolation. Gideon widened his stance and let his own system settle low enough that nothing in the room would mistake him for another claimant to emergency powers.
 
 The field noticed.

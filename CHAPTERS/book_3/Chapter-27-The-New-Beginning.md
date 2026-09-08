@@ -175,6 +175,14 @@ Corv where he could see every face without making a performance of witness.
 No one spoke for a long interval.
 The rest itself was doing too much work to interrupt.
 
+Sona lifted a finger, the beginning of an offer.
+
+“Could we keep the quiet a little longer?” Jian asked.
+
+“I’d like that,” she said, and let her hand fall. Gideon eased back from the best lookout until his shoulders touched the trunk. Corv almost remarked on the progress. Instead he shifted to make room.
+
+For once, none of them had to turn the moment into evidence.
+
 Eventually Jian broke the quiet.
 "What do we call this?"
 

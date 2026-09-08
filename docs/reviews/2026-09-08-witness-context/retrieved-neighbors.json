@@ -1,0 +1,70 @@
+[
+  {
+    "seed_id": "sw:enn:9:core",
+    "method": "nearest neighbors of existing corpus embedding, not a fresh textual query",
+    "response": {
+      "status": 200,
+      "body": {
+        "result": {
+          "count": 0,
+          "matches": []
+        },
+        "result_info": null,
+        "success": true,
+        "errors": [],
+        "messages": []
+      }
+    }
+  },
+  {
+    "seed_id": "sw:enn:4:core",
+    "method": "nearest neighbors of existing corpus embedding, not a fresh textual query",
+    "response": {
+      "status": 200,
+      "body": {
+        "result": {
+          "count": 0,
+          "matches": []
+        },
+        "result_info": null,
+        "success": true,
+        "errors": [],
+        "messages": []
+      }
+    }
+  },
+  {
+    "seed_id": "sw:enn:5:core",
+    "method": "nearest neighbors of existing corpus embedding, not a fresh textual query",
+    "response": {
+      "status": 200,
+      "body": {
+        "result": {
+          "count": 0,
+          "matches": []
+        },
+        "result_info": null,
+        "success": true,
+        "errors": [],
+        "messages": []
+      }
+    }
+  },
+  {
+    "seed_id": "sw:enn:8:core",
+    "method": "nearest neighbors of existing corpus embedding, not a fresh textual query",
+    "response": {
+      "status": 200,
+      "body": {
+        "result": {
+          "count": 0,
+          "matches": []
+        },
+        "result_info": null,
+        "success": true,
+        "errors": [],
+        "messages": []
+      }
+    }
+  }
+]

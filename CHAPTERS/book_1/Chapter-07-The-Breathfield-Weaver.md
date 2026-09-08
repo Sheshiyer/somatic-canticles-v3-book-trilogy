@@ -59,6 +59,20 @@ Corv nodded once. “If the field cannot keep its own raggedness,” he said, �
 
 Sona let the rebuke settle all the way through her instead of defending herself against it. They were right. The task was not to become a lighthouse blazing so hard the storm disappeared. The task was to mark navigable water without pretending the sea was calm.
 
+Sona glanced at the selected Type Four reflection: making identity out of inner experience. She had been treating the relief in herself as evidence that the host was recovering. Jian’s falling-amplitude trace said otherwise. She left the trace visible.
+
+Before looking again, she mouthed a phrase from Mayamalavagowla, the fifteenth Melakarta. She kept it below a hum, feeling where her own tongue hurried the return to Sa. The familiar pattern gave her something small enough to notice. Her hands were still shaking when she finished.
+
+“Watch the variability,” she told Jian. “If I start chasing smoothness again, stop me.”
+
+“I did.”
+
+“Yes. Keep doing it.”
+
+She moved her hand away from the trace so he could mark the point she had passed over.
+
+She kept the note pattern on her own side of the work. The next thing she followed was the host’s uneven response, not the shape the scale made easy for her to expect.
+
 She looked again. This time she did not focus on the whole breath. She focused on the thresholds. The startled hitch at the top of inhale. The defensive clamp halfway through exhale. The flinch before the body agreed to begin again. That was where the field was losing itself, not in the existence of turbulence but in the transitions where turbulence became law.
 
 Her next intervention was smaller by an order of magnitude. She did not lay a full rhythm over the host. She touched only the broken hinges. A little more room at the back of the ribs so the inhale could descend instead of climbing into the throat. A brief, supported suspension at the turn, just long enough for the system to register that holding did not always mean bracing. Then a longer release, but not smooth. Never falsely smooth. Textured enough to let the body keep its history while still completing the breath.

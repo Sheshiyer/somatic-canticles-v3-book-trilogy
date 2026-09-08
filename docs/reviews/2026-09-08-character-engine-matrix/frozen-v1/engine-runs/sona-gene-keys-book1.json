@@ -1,0 +1,243 @@
+{
+  "id": "sona-gene-keys-book1",
+  "input_status": "FROZEN EDITORIAL CALCULATION BASELINE v1 \u2014 fictional Earth-equivalent dates; not a manuscript rewrite",
+  "requested_engine": "gene-keys",
+  "requested_at": "2026-09-08T00:43:08.146786+00:00",
+  "request": {
+    "birth_data": {
+      "name": "Sona Vireth",
+      "date": "1991-06-17",
+      "time": "18:10",
+      "latitude": 22.5726,
+      "longitude": 88.3639,
+      "timezone": "Asia/Kolkata"
+    },
+    "current_time": "2027-02-08T00:00:00Z",
+    "location": {
+      "latitude": 22.5726,
+      "longitude": 88.3639
+    },
+    "precision": "standard",
+    "options": {}
+  },
+  "http_status": 200,
+  "response": {
+    "engine_id": "gene-keys",
+    "result": {
+      "activation_sequence": {
+        "evolution": [
+          36,
+          6
+        ],
+        "lifes_work": [
+          12,
+          11
+        ],
+        "purpose": [
+          11,
+          6
+        ],
+        "radiance": [
+          12,
+          36
+        ]
+      },
+      "active_keys": [
+        {
+          "gift": "Discrimination",
+          "key_number": 12,
+          "line": 3,
+          "name": "Gene Key 12",
+          "shadow": "Vanity",
+          "siddhi": "Purity",
+          "source": "PersonalitySun"
+        },
+        {
+          "gift": "Idealism",
+          "key_number": 11,
+          "line": 3,
+          "name": "Gene Key 11",
+          "shadow": "Obscurity",
+          "siddhi": "Light",
+          "source": "PersonalityEarth"
+        },
+        {
+          "gift": "Humanity",
+          "key_number": 36,
+          "line": 3,
+          "name": "Gene Key 36",
+          "shadow": "Turbulence",
+          "siddhi": "Compassion",
+          "source": "DesignSun"
+        },
+        {
+          "gift": "Diplomacy",
+          "key_number": 6,
+          "line": 3,
+          "name": "The Peacemaker",
+          "shadow": "Conflict",
+          "siddhi": "Peace",
+          "source": "DesignEarth"
+        }
+      ],
+      "frequency_assessments": [
+        {
+          "gene_key": 12,
+          "gift": "Discrimination",
+          "gift_description": "The gift frequency expresses the balanced state of consciousness that serves the collective good.",
+          "name": "Gene Key 12",
+          "recognition_prompts": {
+            "gift": [
+              "When do you experience Discrimination arising naturally, without effort?",
+              "Can you notice the space between the Vanity pattern and the emergence of Discrimination?",
+              "What happens when Discrimination flows through you? How does it feel different from the shadow?",
+              "When this gift is active, who are you serving? What opens?",
+              "Does this quality arise more often now than in the past?"
+            ],
+            "shadow": [
+              "Do you notice yourself reacting unconsciously through the pattern of Vanity?",
+              "When Vanity arises, can you feel the contraction or resistance in your body?",
+              "Do you find yourself caught in Vanity without realizing it until later?",
+              "What triggers this pattern? When does it feel most intense?",
+              "Can you witness the pattern without trying to change or fix it?"
+            ],
+            "siddhi": [
+              "Have you had moments where Discrimination dissolved into Purity?",
+              "When Purity is present, is there still a 'you' experiencing it?",
+              "What remains when the personal expression of Discrimination falls away?",
+              "Have you touched a state beyond your individual consciousness?",
+              "Can you rest in the paradox of this frequency without needing to understand it?"
+            ]
+          },
+          "shadow": "Vanity",
+          "shadow_description": "The shadow frequency represents the unconscious pattern that creates limitation and suffering in this area of life.",
+          "siddhi": "Purity",
+          "siddhi_description": "The siddhi frequency embodies the highest potential of human consciousness in this archetypal pattern.",
+          "suggested_frequency": "Siddhi"
+        },
+        {
+          "gene_key": 11,
+          "gift": "Idealism",
+          "gift_description": "The gift frequency expresses the balanced state of consciousness that serves the collective good.",
+          "name": "Gene Key 11",
+          "recognition_prompts": {
+            "gift": [
+              "When do you experience Idealism arising naturally, without effort?",
+              "Can you notice the space between the Obscurity pattern and the emergence of Idealism?",
+              "What happens when Idealism flows through you? How does it feel different from the shadow?",
+              "When this gift is active, who are you serving? What opens?",
+              "Does this quality arise more often now than in the past?"
+            ],
+            "shadow": [
+              "Do you notice yourself reacting unconsciously through the pattern of Obscurity?",
+              "When Obscurity arises, can you feel the contraction or resistance in your body?",
+              "Do you find yourself caught in Obscurity without realizing it until later?",
+              "What triggers this pattern? When does it feel most intense?",
+              "Can you witness the pattern without trying to change or fix it?"
+            ],
+            "siddhi": [
+              "Have you had moments where Idealism dissolved into Light?",
+              "When Light is present, is there still a 'you' experiencing it?",
+              "What remains when the personal expression of Idealism falls away?",
+              "Have you touched a state beyond your individual consciousness?",
+              "Can you rest in the paradox of this frequency without needing to understand it?"
+            ]
+          },
+          "shadow": "Obscurity",
+          "shadow_description": "The shadow frequency represents the unconscious pattern that creates limitation and suffering in this area of life.",
+          "siddhi": "Light",
+          "siddhi_description": "The siddhi frequency embodies the highest potential of human consciousness in this archetypal pattern.",
+          "suggested_frequency": "Siddhi"
+        },
+        {
+          "gene_key": 36,
+          "gift": "Humanity",
+          "gift_description": "The gift frequency expresses the balanced state of consciousness that serves the collective good.",
+          "name": "Gene Key 36",
+          "recognition_prompts": {
+            "gift": [
+              "When do you experience Humanity arising naturally, without effort?",
+              "Can you notice the space between the Turbulence pattern and the emergence of Humanity?",
+              "What happens when Humanity flows through you? How does it feel different from the shadow?",
+              "When this gift is active, who are you serving? What opens?",
+              "Does this quality arise more often now than in the past?"
+            ],
+            "shadow": [
+              "Do you notice yourself reacting unconsciously through the pattern of Turbulence?",
+              "When Turbulence arises, can you feel the contraction or resistance in your body?",
+              "Do you find yourself caught in Turbulence without realizing it until later?",
+              "What triggers this pattern? When does it feel most intense?",
+              "Can you witness the pattern without trying to change or fix it?"
+            ],
+            "siddhi": [
+              "Have you had moments where Humanity dissolved into Compassion?",
+              "When Compassion is present, is there still a 'you' experiencing it?",
+              "What remains when the personal expression of Humanity falls away?",
+              "Have you touched a state beyond your individual consciousness?",
+              "Can you rest in the paradox of this frequency without needing to understand it?"
+            ]
+          },
+          "shadow": "Turbulence",
+          "shadow_description": "The shadow frequency represents the unconscious pattern that creates limitation and suffering in this area of life.",
+          "siddhi": "Compassion",
+          "siddhi_description": "The siddhi frequency embodies the highest potential of human consciousness in this archetypal pattern.",
+          "suggested_frequency": "Siddhi"
+        },
+        {
+          "gene_key": 6,
+          "gift": "Diplomacy",
+          "gift_description": "Diplomacy brings natural peacemaking abilities and emotional intelligence in relationships.",
+          "name": "The Peacemaker",
+          "recognition_prompts": {
+            "gift": [
+              "When do you experience Diplomacy arising naturally, without effort?",
+              "Can you notice the space between the Conflict pattern and the emergence of Diplomacy?",
+              "What happens when Diplomacy flows through you? How does it feel different from the shadow?",
+              "When this gift is active, who are you serving? What opens?",
+              "Does this quality arise more often now than in the past?"
+            ],
+            "shadow": [
+              "Do you notice yourself reacting unconsciously through the pattern of Conflict?",
+              "When Conflict arises, can you feel the contraction or resistance in your body?",
+              "Do you find yourself caught in Conflict without realizing it until later?",
+              "What triggers this pattern? When does it feel most intense?",
+              "Can you witness the pattern without trying to change or fix it?"
+            ],
+            "siddhi": [
+              "Have you had moments where Diplomacy dissolved into Peace?",
+              "When Peace is present, is there still a 'you' experiencing it?",
+              "What remains when the personal expression of Diplomacy falls away?",
+              "Have you touched a state beyond your individual consciousness?",
+              "Can you rest in the paradox of this frequency without needing to understand it?"
+            ]
+          },
+          "shadow": "Conflict",
+          "shadow_description": "Conflict arises from emotional reactivity and the inability to find common ground with others.",
+          "siddhi": "Peace",
+          "siddhi_description": "Peace radiates unconditional love and harmony, dissolving all conflict through presence.",
+          "suggested_frequency": "Siddhi"
+        }
+      ]
+    },
+    "witness_prompt": "Beyond the personal purpose of Idealism and Diplomacy, what transcendent awareness is seeking recognition? When the siddhis of Light (Gene Key 11) and Peace (Gene Key 6) dissolve into unity, what remains? How does Purity (Gene Key 12) become a doorway to the infinite expressing as the finite?",
+    "consciousness_level": 5,
+    "metadata": {
+      "calculation_time_ms": 2.069563,
+      "backend": "hd-derived",
+      "precision_achieved": "Standard",
+      "cached": false,
+      "timestamp": "2026-09-08T00:43:08.071867056Z",
+      "engine_version": "3.3.1"
+    },
+    "contract_version": "v1",
+    "envelope_version": "1",
+    "witness_prompts": [
+      {
+        "prompt": "Beyond the personal purpose of Idealism and Diplomacy, what transcendent awareness is seeking recognition? When the siddhis of Light (Gene Key 11) and Peace (Gene Key 6) dissolve into unity, what remains? How does Purity (Gene Key 12) become a doorway to the infinite expressing as the finite?",
+        "themes": []
+      }
+    ],
+    "calculated_at": "2026-09-08T00:43:08.071867056+00:00",
+    "processing_time_ms": 2.069563
+  }
+}
